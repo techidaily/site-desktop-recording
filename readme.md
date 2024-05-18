@@ -1,6 +1,6 @@
-# TechiDaily
+# Desktop Recording Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://desktop-recording.techidaily.com](https://desktop-recording.techidaily.com)
 
 ## Publish
 
