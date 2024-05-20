@@ -1,4 +1,4 @@
-Sitemap: https://desktop-recording.techidaily.com/sitemap.xml
+Sitemap: https://desktop-recording.techidaily.com/sitemap_index.xml
 User-agent: Googlebot
 Disallow:
 
