@@ -808,3 +808,4 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-hot-30i-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Hot 30i | Dr.fone</u></a></li>
 </ul></div>
 
+

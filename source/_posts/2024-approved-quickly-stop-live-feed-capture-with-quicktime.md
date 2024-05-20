@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quickly Stop Live Feed Capture with QuickTime\""
-date: 2024-05-18T05:15:44.374Z
-updated: 2024-05-19T05:15:44.374Z
+date: 2024-05-19T20:38:22.383Z
+updated: 2024-05-20T20:38:22.383Z
 tags: 
   - screen-recording
   - ai video
@@ -428,4 +428,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-best-free-vob-video-editing-software-for-beginners/"><u>New 2024 Approved Best Free VOB Video Editing Software for Beginners</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-the-seamless-journey-of-audio-recording-in-windows-10-tips-and-tricks-for-clear-soundscape-creation/"><u>New The Seamless Journey of Audio Recording in Windows 10 Tips and Tricks for Clear Soundscape Creation</u></a></li>
 </ul></div>
+
 

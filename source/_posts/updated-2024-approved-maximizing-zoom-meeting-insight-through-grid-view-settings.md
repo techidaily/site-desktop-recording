@@ -634,3 +634,4 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/huawei-nova-y71-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Huawei Nova Y71 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 
+

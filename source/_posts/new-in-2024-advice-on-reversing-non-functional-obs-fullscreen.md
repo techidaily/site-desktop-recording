@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Advice on Reversing Non-Functional OBS Fullscreen\""
-date: 2024-05-18T04:57:06.054Z
-updated: 2024-05-19T04:57:06.054Z
+date: 2024-05-19T20:37:43.085Z
+updated: 2024-05-20T20:37:43.085Z
 tags: 
   - screen-recording
   - ai video
@@ -296,4 +296,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-top-8-auditory-frequency-patterns-for-media-crafting/"><u>2024 Approved Top 8 Auditory Frequency Patterns for Media Crafting</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-defy-2-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Defy 2 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

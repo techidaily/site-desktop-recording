@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete Beginner's Roadmap for Audacity Audio Capture"
-date: 2024-05-18T05:00:45.569Z
-updated: 2024-05-19T05:00:45.569Z
+date: 2024-05-19T20:37:50.776Z
+updated: 2024-05-20T20:37:50.776Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-guide-to-the-top-5-most-advanced-live-audio-modifiers-for-2024/"><u>Updated The Ultimate Guide to the Top 5 Most Advanced Live Audio Modifiers for 2024</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-next-generation-of-communication-explore-5-cutting-edge-voice-transformers-for-google-meet/"><u>New In 2024, The Next Generation of Communication Explore 5 Cutting-Edge Voice Transformers for Google Meet</u></a></li>
 </ul></div>
+
 

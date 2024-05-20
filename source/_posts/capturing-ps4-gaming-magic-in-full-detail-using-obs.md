@@ -1,7 +1,7 @@
 ---
 title: "Capturing PS4 Gaming Magic in Full Detail Using OBS"
-date: 2024-05-18T05:16:16.752Z
-updated: 2024-05-19T05:16:16.752Z
+date: 2024-05-19T20:38:23.394Z
+updated: 2024-05-20T20:38:23.394Z
 tags: 
   - screen-recording
   - ai video
@@ -359,4 +359,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-video-editing.techidaily.com/updated-4-solutions-to-add-white-borders-on-mobile-and-desktop-for-2024/"><u>Updated 4 Solutions to Add White Borders on Mobile and Desktop for 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-8-5-ways-to-get-into-a-locked-iphone-8-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 8? 5 Ways to get into a Locked iPhone 8</u></a></li>
 </ul></div>
+
 

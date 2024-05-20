@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Masterclass  Setting Up Countdowns in OBS Studio\""
-date: 2024-05-18T05:01:39.079Z
-updated: 2024-05-19T05:01:39.079Z
+date: 2024-05-19T20:37:52.463Z
+updated: 2024-05-20T20:37:52.463Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy A05s FRP</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-c53-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme C53? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
+
 

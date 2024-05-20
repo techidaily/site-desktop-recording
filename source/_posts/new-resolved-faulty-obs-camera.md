@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Resolved  Faulty OBS Camera\""
-date: 2024-05-18T05:17:06.813Z
-updated: 2024-05-19T05:17:06.813Z
+date: 2024-05-19T20:38:25.031Z
+updated: 2024-05-20T20:38:25.031Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-list-10-best-premiere-pro-transition-plugins-for-creators/"><u>New 2024 Approved The Ultimate List 10 Best Premiere Pro Transition Plugins for Creators</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-fcp-essentials-flipping-clips-made-easy-with-this-4-step-process/"><u>In 2024, FCP Essentials Flipping Clips Made Easy with This 4-Step Process</u></a></li>
 </ul></div>
+
 

@@ -608,3 +608,4 @@ A catch card is a gadget that can be associated with a PC to record on-screen co
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-lenovo-thinkphone-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Lenovo ThinkPhone to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

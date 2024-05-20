@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Fix OBS Not Recording Audio\""
-date: 2024-05-18T05:10:30.979Z
-updated: 2024-05-19T05:10:30.979Z
+date: 2024-05-19T20:38:10.374Z
+updated: 2024-05-20T20:38:10.374Z
 tags: 
   - screen-recording
   - ai video
@@ -569,4 +569,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor X9b | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
+
 

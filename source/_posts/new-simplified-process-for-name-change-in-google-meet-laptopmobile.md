@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplified Process for Name Change in Google Meet (Laptop/Mobile)"
-date: 2024-05-18T05:20:24.968Z
-updated: 2024-05-19T05:20:24.968Z
+date: 2024-05-19T20:38:31.604Z
+updated: 2024-05-20T20:38:31.604Z
 tags: 
   - screen-recording
   - ai video
@@ -539,4 +539,5 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Note 30 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-narzo-60x-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Realme Narzo 60x 5G using Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

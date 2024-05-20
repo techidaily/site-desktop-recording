@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Record Gameplay with OBS Studio\""
-date: 2024-05-18T05:00:52.155Z
-updated: 2024-05-19T05:00:52.155Z
+date: 2024-05-19T20:37:50.974Z
+updated: 2024-05-20T20:37:50.974Z
 tags: 
   - screen-recording
   - ai video
@@ -395,4 +395,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 8</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/essential-insights-into-youtubes-audio-collection/"><u>Essential Insights Into YouTubes Audio Collection</u></a></li>
 </ul></div>
+
 

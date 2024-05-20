@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Camtasia  Ken Burns Technique Unveiled\""
-date: 2024-05-18T05:11:38.462Z
-updated: 2024-05-19T05:11:38.462Z
+date: 2024-05-19T20:38:12.733Z
+updated: 2024-05-20T20:38:12.733Z
 tags: 
   - screen-recording
   - ai video
@@ -348,4 +348,5 @@ Follow @Max Wales
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Tecno Phantom V Fold | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-sonic-silence-sprint-time-efficient-techniques-for-sound-polishing-without-delay/"><u>Updated In 2024, Sonic Silence Sprint Time-Efficient Techniques for Sound Polishing Without Delay</u></a></li>
 </ul></div>
+
 

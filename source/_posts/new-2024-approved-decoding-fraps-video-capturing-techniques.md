@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Decoding Fraps Video Capturing Techniques\""
-date: 2024-05-18T05:01:19.642Z
-updated: 2024-05-19T05:01:19.642Z
+date: 2024-05-19T20:37:51.849Z
+updated: 2024-05-20T20:37:51.849Z
 tags: 
   - screen-recording
   - ai video
@@ -377,4 +377,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-16-motion-blur-apps-for-videos-and-photos/"><u>Updated In 2024, Best 16 Motion Blur Apps for Videos & Photos</u></a></li>
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-infinix-note-30-vip-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Infinix Note 30 VIP on Mac</u></a></li>
 </ul></div>
+
 

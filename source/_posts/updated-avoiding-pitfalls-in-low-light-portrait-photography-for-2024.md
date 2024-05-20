@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Avoiding Pitfalls in Low-Light Portrait Photography for 2024\""
-date: 2024-05-18T05:17:55.003Z
-updated: 2024-05-19T05:17:55.003Z
+date: 2024-05-19T20:38:26.790Z
+updated: 2024-05-20T20:38:26.790Z
 tags: 
   - screen-recording
   - ai video
@@ -192,4 +192,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://ai-topics.techidaily.com/new-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>New How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-6s-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 6s Plus?</u></a></li>
 </ul></div>
+
 

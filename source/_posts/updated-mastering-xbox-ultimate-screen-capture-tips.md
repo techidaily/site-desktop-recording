@@ -630,3 +630,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://ai-video-editing.techidaily.com/split-audio-from-video-in-adobe-premiere-pro-step-by-step-for-2024/"><u>Split Audio From Video in Adobe Premiere Pro Step by Step for 2024</u></a></li>
 </ul></div>
 
+

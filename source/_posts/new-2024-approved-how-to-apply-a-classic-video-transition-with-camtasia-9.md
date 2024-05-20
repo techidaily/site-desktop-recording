@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Apply a Classic Video Transition with Camtasia 9\""
-date: 2024-05-18T04:59:48.428Z
-updated: 2024-05-19T04:59:48.428Z
+date: 2024-05-19T20:37:48.577Z
+updated: 2024-05-20T20:37:48.577Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Max Wales
 <li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-effortless-mp4-video-editing-tips-tricks-and-techniques-for-mac-and-windows-users/"><u>Updated 2024 Approved Effortless MP4 Video Editing Tips, Tricks, and Techniques for Mac and Windows Users</u></a></li>
 </ul></div>
+
 

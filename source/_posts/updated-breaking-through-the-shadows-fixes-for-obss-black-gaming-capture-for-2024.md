@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Breaking Through the Shadows  Fixes for OBS's Black Gaming Capture for 2024\""
-date: 2024-05-18T05:12:05.140Z
-updated: 2024-05-19T05:12:05.140Z
+date: 2024-05-19T20:38:13.568Z
+updated: 2024-05-20T20:38:13.568Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-video-tools.techidaily.com/new-where-to-find-free-images-for-commercial-projects/"><u>New Where to Find Free Images for Commercial Projects</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-vivo-v30-lite-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Vivo V30 Lite 5G using Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

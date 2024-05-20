@@ -1,7 +1,7 @@
 ---
 title: "[New] Gaming Memories Made Easy with Fraps for 2024"
-date: 2024-05-18T04:57:07.146Z
-updated: 2024-05-19T04:57:07.146Z
+date: 2024-05-19T20:37:43.123Z
+updated: 2024-05-20T20:37:43.123Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-use-luts-in-adobe-premiere-pro/"><u>Updated In 2024, How to Use LUTs in Adobe Premiere Pro</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-s23-tactical-edition-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy S23 Tactical Edition Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

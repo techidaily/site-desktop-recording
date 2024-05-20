@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Live on Air  How to Broadcast on YouTube & Twitch Using OBS\""
-date: 2024-05-18T05:18:29.528Z
-updated: 2024-05-19T05:18:29.528Z
+date: 2024-05-19T20:38:27.835Z
+updated: 2024-05-20T20:38:27.835Z
 tags: 
   - screen-recording
   - ai video
@@ -189,4 +189,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-lava-blaze-2-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Lava Blaze 2 5G?</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-motorola-g24-power-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola G24 Power Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

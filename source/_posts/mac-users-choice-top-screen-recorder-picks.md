@@ -1130,3 +1130,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-make-your-own-video-dvds-3-simple-methods-for-windows-and-mac/"><u>In 2024, Make Your Own Video DVDs 3 Simple Methods for Windows and Mac</u></a></li>
 </ul></div>
 
+

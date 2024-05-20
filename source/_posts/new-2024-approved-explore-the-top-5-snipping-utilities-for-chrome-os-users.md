@@ -293,3 +293,4 @@ For macOS 10.12 or later
 <li><a href="https://animation-videos.techidaily.com/in-2024-10-caricature-makers-to-turn-photo-to-caricature-effects/"><u>In 2024, 10 Caricature Makers to Turn Photo to Caricature Effects</u></a></li>
 </ul></div>
 
+

@@ -752,3 +752,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-lava-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Lava without backup.</u></a></li>
 </ul></div>
 
+

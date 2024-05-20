@@ -1,7 +1,7 @@
 ---
 title: "Clinical Manifestations of Fetal Alcohol Syndrome"
-date: 2024-05-18T04:56:26.651Z
-updated: 2024-05-19T04:56:26.651Z
+date: 2024-05-19T20:37:41.931Z
+updated: 2024-05-20T20:37:41.931Z
 tags: 
   - screen-recording
   - ai video
@@ -948,4 +948,5 @@ Follow @Richard Bennett
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-s24-ultra-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy S24 Ultra to Protect Your Individual Information</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-android-video-editor-showdown-top-10-free-and-paid-options-for-2024/"><u>Updated Android Video Editor Showdown Top 10 Free and Paid Options for 2024</u></a></li>
 </ul></div>
+
 

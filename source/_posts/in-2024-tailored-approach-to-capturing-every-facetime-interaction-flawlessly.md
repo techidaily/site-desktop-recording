@@ -626,3 +626,4 @@ Hopefully, you have the answer to your question “Can you record FaceTime on Ma
 <li><a href="https://ai-video-editing.techidaily.com/how-to-edit-a-time-lapse-video-on-iphone/"><u>How to Edit A Time Lapse Video on iPhone?</u></a></li>
 </ul></div>
 
+

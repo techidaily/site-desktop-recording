@@ -1965,3 +1965,4 @@ This is definitely easy. Almost all the screen recorders on the market are able 
 <li><a href="https://ai-vdieo-software.techidaily.com/video-aspect-ratio-how-to-adjust-and-customize/"><u>Video Aspect Ratio How to Adjust and Customize</u></a></li>
 </ul></div>
 
+

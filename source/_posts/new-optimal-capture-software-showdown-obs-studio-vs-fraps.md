@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Optimal Capture Software Showdown  OBS Studio V/S Fraps\""
-date: 2024-05-18T05:00:59.287Z
-updated: 2024-05-19T05:00:59.287Z
+date: 2024-05-19T20:37:51.202Z
+updated: 2024-05-20T20:37:51.202Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-10-essential-free-web-platforms-for-streamlined-audio-editing/"><u>2024 Approved 10 Essential Free Web Platforms for Streamlined Audio Editing</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/steady-shots-best-free-video-stabilizers-for-better-videos-for-2024/"><u>Steady Shots Best Free Video Stabilizers for Better Videos for 2024</u></a></li>
 </ul></div>
+
 

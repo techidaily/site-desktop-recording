@@ -518,3 +518,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-tecno-spark-20-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Tecno Spark 20 Pro to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

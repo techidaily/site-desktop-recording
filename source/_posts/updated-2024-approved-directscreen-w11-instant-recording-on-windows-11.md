@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  DirectScreen W11  Instant Recording on Windows 11\""
-date: 2024-05-18T05:13:20.589Z
-updated: 2024-05-19T05:13:20.589Z
+date: 2024-05-19T20:38:17.310Z
+updated: 2024-05-20T20:38:17.310Z
 tags: 
   - screen-recording
   - ai video
@@ -467,4 +467,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://audio-shaping.techidaily.com/new-expert-tips-on-muting-audios-from-visual-sources-for-enhanced-focus-for-2024/"><u>New Expert Tips on Muting Audios From Visual Sources for Enhanced Focus for 2024</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-from-clip-to-cohesive-mastering-color-in-fcp/"><u>Updated 2024 Approved From Clip to Cohesive Mastering Color in FCP</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 5 Essential Strategies to Avoid a Dark Screen During OBS Recordings"
-date: 2024-05-18T05:04:43.286Z
-updated: 2024-05-19T05:04:43.286Z
+date: 2024-05-19T20:37:58.689Z
+updated: 2024-05-20T20:37:58.689Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-editing-video.techidaily.com/best-audio-plug-ins-for-video-editors-for-2024/"><u>Best Audio Plug-Ins For Video Editors for 2024</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/online-image-editor-change-ratio-and-dimensions-for-2024/"><u>Online Image Editor Change Ratio and Dimensions for 2024</u></a></li>
 </ul></div>
+
 

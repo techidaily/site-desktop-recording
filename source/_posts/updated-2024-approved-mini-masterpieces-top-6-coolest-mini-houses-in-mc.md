@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mini Masterpieces  Top 6 Coolest Mini-Houses in MC\""
-date: 2024-05-18T05:13:21.667Z
-updated: 2024-05-19T05:13:21.667Z
+date: 2024-05-19T20:38:17.339Z
+updated: 2024-05-20T20:38:17.339Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Follow @Shanoon Cox
 <li><a href="https://audio-editing.techidaily.com/top-10-premium-audio-editors-for-pcs-and-macs-beyond-audacity-for-2024/"><u>Top 10 Premium Audio Editors for PCs and Macs Beyond Audacity for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-m6-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco M6 5G Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

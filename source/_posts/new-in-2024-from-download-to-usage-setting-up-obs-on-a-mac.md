@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Download to Usage  Setting Up OBS on a Mac\""
-date: 2024-05-18T05:19:46.926Z
-updated: 2024-05-19T05:19:46.926Z
+date: 2024-05-19T20:38:30.217Z
+updated: 2024-05-20T20:38:30.217Z
 tags: 
   - screen-recording
   - ai video
@@ -353,4 +353,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-on-windows-11107-by-drivereasy-guide/"><u>How to install and update device drivers manually on Windows 11/10/7</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-format-for-success-the-role-of-aspect-ratio-in-video-strategy/"><u>New Format for Success The Role of Aspect Ratio in Video Strategy</u></a></li>
 </ul></div>
+
 

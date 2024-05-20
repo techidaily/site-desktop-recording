@@ -550,3 +550,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-a15-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy A15 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

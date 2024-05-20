@@ -1,7 +1,7 @@
 ---
 title: "\"Cutting-Edge Tips for Game Capture in OBS\""
-date: 2024-05-18T05:11:00.708Z
-updated: 2024-05-19T05:11:00.708Z
+date: 2024-05-19T20:38:11.557Z
+updated: 2024-05-20T20:38:11.557Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-aspect-ratio-for-linkedin-videos-and-other-points-is-important-to-consider-while-creating-these-videos-here-is-all-that-you-must-know-/"><u>New 2024 Approved The Aspect Ratio for LinkedIn Videos and Other Points Is Important to Consider While Creating These Videos. Here Is All that You Must Know About LinkedIn Videos</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-brand-building-through-social-lenses-top-podcast-episodes-for-strategic-planning/"><u>New Brand Building Through Social Lenses Top Podcast Episodes for Strategic Planning</u></a></li>
 </ul></div>
+
 

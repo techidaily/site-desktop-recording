@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Exploring the Merits of OBS Studio & Fraps for Recording Screens\""
-date: 2024-05-18T05:20:15.487Z
-updated: 2024-05-19T05:20:15.487Z
+date: 2024-05-19T20:38:31.309Z
+updated: 2024-05-20T20:38:31.309Z
 tags: 
   - screen-recording
   - ai video
@@ -296,4 +296,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-best-free-video-cutters-for-divx-format-2023-review/"><u>Updated 2024 Approved The Best Free Video Cutters for Divx Format (2023 Review)</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/forgot-your-nokia-c12-plus-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Nokia C12 Plus lock screen pattern, PIN or password? Here’s what to do</u></a></li>
 </ul></div>
+
 

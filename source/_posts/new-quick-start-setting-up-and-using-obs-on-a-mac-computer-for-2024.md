@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Start  Setting Up and Using OBS on a Mac Computer for 2024\""
-date: 2024-05-18T04:57:38.774Z
-updated: 2024-05-19T04:57:38.774Z
+date: 2024-05-19T20:37:44.212Z
+updated: 2024-05-20T20:37:44.212Z
 tags: 
   - screen-recording
   - ai video
@@ -341,4 +341,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://sound-optimizing.techidaily.com/new-discover-the-best-digital-stores-for-authentic-wildlife-audio/"><u>New Discover the Best Digital Stores for Authentic Wildlife Audio</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme 11 Pro+? | Dr.fone</u></a></li>
 </ul></div>
+
 

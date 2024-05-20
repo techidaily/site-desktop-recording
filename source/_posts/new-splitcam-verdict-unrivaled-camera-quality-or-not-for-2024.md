@@ -215,3 +215,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-nokia-c12-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Nokia C12.</u></a></li>
 </ul></div>
 
+

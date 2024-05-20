@@ -355,3 +355,4 @@ So, in this article, we have discussed various apps, which can be used for recor
 <li><a href="https://techidaily.com/best-fixes-for-lava-blaze-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Blaze 2 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
+

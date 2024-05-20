@@ -408,3 +408,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-easily-match-color-in-video-clips-with-final-cut-pro/"><u>Updated How to Easily Match Color in Video Clips with Final Cut Pro</u></a></li>
 </ul></div>
 
+

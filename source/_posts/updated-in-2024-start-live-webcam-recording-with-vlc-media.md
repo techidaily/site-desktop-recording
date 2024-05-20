@@ -540,3 +540,4 @@ In this article, we have provided some software to record the video from the web
 <li><a href="https://audio-shaping.techidaily.com/basic-vocal-transformation-techniques-summary-of-features-and-alternative-solutions/"><u>Basic Vocal Transformation Techniques Summary of Features and Alternative Solutions</u></a></li>
 </ul></div>
 
+

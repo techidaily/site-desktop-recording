@@ -474,3 +474,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -393,3 +393,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-redmi-k70-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Redmi K70</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stop Frames Dropping  OBS Troubleshooting Guide\""
-date: 2024-05-18T04:56:01.170Z
-updated: 2024-05-19T04:56:01.170Z
+date: 2024-05-19T20:37:41.160Z
+updated: 2024-05-20T20:37:41.160Z
 tags: 
   - screen-recording
   - ai video
@@ -569,4 +569,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-k70-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi K70 Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-itel-p40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Itel P40 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

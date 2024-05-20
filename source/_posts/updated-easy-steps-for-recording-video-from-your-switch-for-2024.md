@@ -312,3 +312,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-soft-reset-google-pixel-fold-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Google Pixel Fold phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

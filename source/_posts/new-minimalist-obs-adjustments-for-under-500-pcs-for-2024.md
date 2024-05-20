@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Minimalist OBS Adjustments for Under-$500 PCs for 2024\""
-date: 2024-05-18T05:08:38.254Z
-updated: 2024-05-19T05:08:38.254Z
+date: 2024-05-19T20:38:06.844Z
+updated: 2024-05-20T20:38:06.844Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-note-30-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Note 30 Pro to Roku | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo G2 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Creating Smooth Motion Flows  The Ken Burns Effect Walkthrough for 2024\""
-date: 2024-05-18T05:20:52.234Z
-updated: 2024-05-19T05:20:52.234Z
+date: 2024-05-19T20:38:32.442Z
+updated: 2024-05-20T20:38:32.442Z
 tags: 
   - screen-recording
   - ai video
@@ -367,4 +367,5 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-m34-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy M34 Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-11x-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme 11X 5G Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

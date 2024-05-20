@@ -331,3 +331,4 @@ ManyCam screen recorder is great as a live streaming platform but it does not li
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-smart-7-hd-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Smart 7 HD Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

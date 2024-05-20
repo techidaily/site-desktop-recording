@@ -533,3 +533,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://voice-adjusting.techidaily.com/new-first-edition-of-lexiedit-training-building-your-base-in-audio-editing/"><u>New First Edition of LexiEdit Training Building Your Base in Audio Editing</u></a></li>
 </ul></div>
 
+

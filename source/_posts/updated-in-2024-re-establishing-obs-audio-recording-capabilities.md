@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Re-Establishing OBS Audio Recording Capabilities\""
-date: 2024-05-18T05:03:37.187Z
-updated: 2024-05-19T05:03:37.187Z
+date: 2024-05-19T20:37:56.643Z
+updated: 2024-05-20T20:37:56.643Z
 tags: 
   - screen-recording
   - ai video
@@ -541,4 +541,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-narzo-n53-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme Narzo N53? Here is How | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-unleash-your-creativity-10plus-video-editing-tools-you-need-to-know-for-2024/"><u>New Unleash Your Creativity 10+ Video Editing Tools You Need to Know for 2024</u></a></li>
 </ul></div>
+
 

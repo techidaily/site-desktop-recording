@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips for Recording PS4 Games with OBS"
-date: 2024-05-18T05:22:16.717Z
-updated: 2024-05-19T05:22:16.717Z
+date: 2024-05-19T20:38:35.146Z
+updated: 2024-05-20T20:38:35.146Z
 tags: 
   - screen-recording
   - ai video
@@ -411,4 +411,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-se-2022-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone SE (2022) with 3 Methods</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-in-2024-basic-knowledge-about-jazz-music-that-you-need-know/"><u>New In 2024, Basic Knowledge About Jazz Music That You Need Know</u></a></li>
 </ul></div>
+
 

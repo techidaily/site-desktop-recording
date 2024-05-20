@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Pro's Playbook  Blurring the Boundary Between Work and Home Spaces\""
-date: 2024-05-18T05:16:39.878Z
-updated: 2024-05-19T05:16:39.878Z
+date: 2024-05-19T20:38:24.168Z
+updated: 2024-05-20T20:38:24.168Z
 tags: 
   - screen-recording
   - ai video
@@ -527,4 +527,5 @@ Follow @Richard Bennett
 <li><a href="https://sound-optimizing.techidaily.com/updated-must-listen-youtube-podcasts-and-songs-for-2024/"><u>Updated Must-Listen YouTube Podcasts and Songs for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-add-a-motion-blur-effect-in-valorant-read-this-guide-to-find-out-how-to-create-a-motion-blur-effect-in-valorant-without-any-hassle/"><u>Do You Want to Add a Motion Blur Effect in Valorant? Read This Guide to Find Out How to Create a Motion Blur Effect in Valorant without Any Hassle</u></a></li>
 </ul></div>
+
 

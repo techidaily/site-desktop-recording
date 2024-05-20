@@ -528,3 +528,4 @@ Follow @Liza Brown
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-create-cinematic-videos-the-ultimate-ken-burns-effect-guide/"><u>2024 Approved Create Cinematic Videos The Ultimate Ken Burns Effect Guide</u></a></li>
 </ul></div>
 
+

@@ -215,3 +215,4 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-13c-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi 13C Phones? | Dr.fone</u></a></li>
 </ul></div>
 
+

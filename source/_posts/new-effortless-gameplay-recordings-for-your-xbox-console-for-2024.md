@@ -619,3 +619,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-y100t-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y100t Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 
+

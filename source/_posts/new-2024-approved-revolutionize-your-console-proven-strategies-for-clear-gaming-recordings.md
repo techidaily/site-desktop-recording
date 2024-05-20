@@ -635,3 +635,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-magic-v2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Magic V2? | Dr.fone</u></a></li>
 </ul></div>
 
+

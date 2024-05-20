@@ -500,3 +500,4 @@ In this article, we have provided some software to record the video from the web
 <li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Moto G84 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

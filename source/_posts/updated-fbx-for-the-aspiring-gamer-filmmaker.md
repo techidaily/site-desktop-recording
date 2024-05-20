@@ -1,7 +1,7 @@
 ---
 title: "[Updated] FBX for the Aspiring Gamer Filmmaker"
-date: 2024-05-18T05:08:42.625Z
-updated: 2024-05-19T05:08:42.625Z
+date: 2024-05-19T20:38:06.950Z
+updated: 2024-05-20T20:38:06.950Z
 tags: 
   - screen-recording
   - ai video
@@ -553,4 +553,5 @@ If you are looking for a screen recorder that is specifically designed to captur
 <li><a href="https://audio-editing.techidaily.com/2024-approved-liberating-content-free-techniques-for-transforming-videos-into-auditory-experiences/"><u>2024 Approved Liberating Content Free Techniques for Transforming Videos Into Auditory Experiences</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-xs-5-ways-to-get-into-a-locked-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XS? 5 Ways to get into a Locked iPhone XS | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Innovating Filming Techniques  Smartphones as Webcams\""
-date: 2024-05-18T05:06:28.610Z
-updated: 2024-05-19T05:06:28.610Z
+date: 2024-05-19T20:38:02.394Z
+updated: 2024-05-20T20:38:02.394Z
 tags: 
   - screen-recording
   - ai video
@@ -620,4 +620,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/updated-virtualdub-for-mac/"><u>Updated VirtualDub for Mac</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-s23-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy S23 Unlock Without Password</u></a></li>
 </ul></div>
+
 

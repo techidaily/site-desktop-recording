@@ -378,3 +378,4 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "How to Present PPT on Google Meet? [Laptop and Mobile Devices]"
-date: 2024-05-18T05:13:42.824Z
-updated: 2024-05-19T05:13:42.824Z
+date: 2024-05-19T20:38:18.035Z
+updated: 2024-05-20T20:38:18.035Z
 tags: 
   - screen-recording
   - ai video
@@ -672,4 +672,5 @@ Follow @Richard Bennett
 <li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-15-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 15 Lock Screen with Notifications? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-little-tricks-to-create-canva-slideshow-no-one-is-telling-you/"><u>2024 Approved Little Tricks to Create Canva Slideshow No One Is Telling You</u></a></li>
 </ul></div>
+
 

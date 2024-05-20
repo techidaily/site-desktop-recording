@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate PS4 Recording in OBS - A Detailed Walkthrough\""
-date: 2024-05-18T04:59:47.056Z
-updated: 2024-05-19T04:59:47.056Z
+date: 2024-05-19T20:37:48.536Z
+updated: 2024-05-20T20:37:48.536Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-sony-xperia-5-v-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Sony Xperia 5 V Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-11-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 11 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
+
 

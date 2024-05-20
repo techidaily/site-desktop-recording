@@ -488,3 +488,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-fcpx-subtitle-tutorial-how-to-create-and-edit-captions/"><u>Updated 2024 Approved FCPX Subtitle Tutorial How to Create and Edit Captions</u></a></li>
 </ul></div>
 
+

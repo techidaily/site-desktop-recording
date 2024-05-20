@@ -1,7 +1,7 @@
 ---
 title: "[New] Techniques to Prevent Dropouts in OBS Studio"
-date: 2024-05-18T05:00:45.295Z
-updated: 2024-05-19T05:00:45.295Z
+date: 2024-05-19T20:37:50.771Z
+updated: 2024-05-20T20:37:50.771Z
 tags: 
   - screen-recording
   - ai video
@@ -608,4 +608,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-se-2020-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone SE (2020) Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/imovie-not-available-try-these-10-android-video-editors-instead/"><u>IMovie Not Available? Try These 10 Android Video Editors Instead</u></a></li>
 </ul></div>
+
 

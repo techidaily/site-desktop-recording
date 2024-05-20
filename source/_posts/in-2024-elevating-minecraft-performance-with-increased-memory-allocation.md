@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Elevating Minecraft Performance with Increased Memory Allocation"
-date: 2024-05-18T05:05:29.523Z
-updated: 2024-05-19T05:05:29.523Z
+date: 2024-05-19T20:38:00.238Z
+updated: 2024-05-20T20:38:00.238Z
 tags: 
   - screen-recording
   - ai video
@@ -613,4 +613,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/1713956237333-updated-2024-approved-list-of-supported-whatsapp-video-format-you-may-want-to-know/"><u>Updated 2024 Approved List of Supported Whatsapp Video Format You May Want to Know</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/what-is-ts-format-and-how-to-play-ts-files-for-2024/"><u>What Is TS Format and How To Play TS Files for 2024</u></a></li>
 </ul></div>
+
 

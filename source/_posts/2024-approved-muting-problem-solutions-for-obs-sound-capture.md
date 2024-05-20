@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Muting Problem Solutions for OBS Sound Capture\""
-date: 2024-05-18T05:20:37.518Z
-updated: 2024-05-19T05:20:37.518Z
+date: 2024-05-19T20:38:31.996Z
+updated: 2024-05-20T20:38:31.996Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy S24+ | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-6-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 6</u></a></li>
 </ul></div>
+
 

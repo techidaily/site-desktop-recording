@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfecting Audio Capture on Skype With OBS Tools"
-date: 2024-05-18T04:59:29.771Z
-updated: 2024-05-19T04:59:29.771Z
+date: 2024-05-19T20:37:48.028Z
+updated: 2024-05-20T20:37:48.028Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Itel P55 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/How-to-Git-Push-With-SSH-Key/"><u>How to Git Push With SSH Key</u></a></li>
 </ul></div>
+
 

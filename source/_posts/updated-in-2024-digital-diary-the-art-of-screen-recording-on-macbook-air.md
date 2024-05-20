@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Digital Diary  The Art of Screen Recording on MacBook Air\""
-date: 2024-05-18T04:56:18.784Z
-updated: 2024-05-19T04:56:18.784Z
+date: 2024-05-19T20:37:41.704Z
+updated: 2024-05-20T20:37:41.704Z
 tags: 
   - screen-recording
   - ai video
@@ -359,4 +359,5 @@ There may be other tools and screen recorders in the market available for your M
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-fcpx-plugin-repair-guide-diagnose-and-fix-issues-fast/"><u>Updated In 2024, The Ultimate FCPX Plugin Repair Guide Diagnose and Fix Issues Fast</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-of-the-best-10-top-notch-online-waveform-generators/"><u>Updated In 2024, The Best of the Best 10 Top-Notch Online Waveform Generators</u></a></li>
 </ul></div>
+
 

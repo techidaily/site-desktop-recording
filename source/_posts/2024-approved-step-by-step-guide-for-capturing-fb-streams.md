@@ -468,3 +468,4 @@ You may record anything using the same method. As a result, we've also addressed
 <li><a href="https://ai-vdieo-software.techidaily.com/determining-screen-resolution-a-step-by-step-guide/"><u>Determining Screen Resolution A Step-by-Step Guide</u></a></li>
 </ul></div>
 
+

@@ -423,3 +423,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-useful-tips-for-canva-animated-elements-for-2024/"><u>New Useful Tips for Canva Animated Elements for 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Technique  Programming a Time Counter in OBS\""
-date: 2024-05-18T04:56:15.529Z
-updated: 2024-05-19T04:56:15.530Z
+date: 2024-05-19T20:37:41.613Z
+updated: 2024-05-20T20:37:41.613Z
 tags: 
   - screen-recording
   - ai video
@@ -247,4 +247,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor X9a | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy F04</u></a></li>
 </ul></div>
+
 

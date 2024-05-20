@@ -228,3 +228,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-samsung-galaxy-xcover-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Samsung Galaxy XCover 7 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
+

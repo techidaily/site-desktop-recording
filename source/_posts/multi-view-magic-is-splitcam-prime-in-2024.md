@@ -252,3 +252,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
 
+

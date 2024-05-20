@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Silencing Sound  OBS Audio Solution\""
-date: 2024-05-18T05:05:27.329Z
-updated: 2024-05-19T05:05:27.329Z
+date: 2024-05-19T20:38:00.165Z
+updated: 2024-05-20T20:38:00.165Z
 tags: 
   - screen-recording
   - ai video
@@ -560,4 +560,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-vllo-mac-download-plus-top-alternative-choices/"><u>Updated In 2024, VLLO Mac Download Plus, Top Alternative Choices</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-11-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme 11 Pro+ Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

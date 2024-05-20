@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Mi 11 Screenshot & Record Playbook"
-date: 2024-05-18T05:13:01.949Z
-updated: 2024-05-19T05:13:01.949Z
+date: 2024-05-19T20:38:15.680Z
+updated: 2024-05-20T20:38:15.680Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco Device</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nubia-red-magic-8s-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nubia Red Magic 8S Pro Lock Screen Password</u></a></li>
 </ul></div>
+
 

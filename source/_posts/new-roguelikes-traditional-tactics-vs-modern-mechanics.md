@@ -1,7 +1,7 @@
 ---
 title: "[New] Roguelike's Traditional Tactics Vs. Modern Mechanics"
-date: 2024-05-18T05:01:46.492Z
-updated: 2024-05-19T05:01:46.492Z
+date: 2024-05-19T20:37:52.711Z
+updated: 2024-05-20T20:37:52.711Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 5G Phone without PIN</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-12-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 12 Pro Max iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
+
 

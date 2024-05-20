@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Journey Through History  Similar Themed Video Games to Ghost of Tsushima\""
-date: 2024-05-18T05:11:16.567Z
-updated: 2024-05-19T05:11:16.567Z
+date: 2024-05-19T20:38:12.022Z
+updated: 2024-05-20T20:38:12.022Z
 tags: 
   - screen-recording
   - ai video
@@ -619,4 +619,5 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-a-comprehensive-analysis-for-2024/"><u>AVS Video Editor A Comprehensive Analysis for 2024</u></a></li>
 </ul></div>
+
 

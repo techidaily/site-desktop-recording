@@ -618,3 +618,4 @@ A catch card is a gadget that can be associated with a PC to record on-screen co
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y28-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y28 5G</u></a></li>
 </ul></div>
 
+

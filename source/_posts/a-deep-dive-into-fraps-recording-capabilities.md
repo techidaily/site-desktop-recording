@@ -1,7 +1,7 @@
 ---
 title: "A Deep Dive Into Fraps Recording Capabilities"
-date: 2024-05-18T05:14:10.258Z
-updated: 2024-05-19T05:14:10.258Z
+date: 2024-05-19T20:38:18.898Z
+updated: 2024-05-20T20:38:18.898Z
 tags: 
   - screen-recording
   - ai video
@@ -361,4 +361,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-online-subtitle-software-top-10-recommendations/"><u>Updated 2024 Approved Free Online Subtitle Software Top 10 Recommendations</u></a></li>
 </ul></div>
+
 

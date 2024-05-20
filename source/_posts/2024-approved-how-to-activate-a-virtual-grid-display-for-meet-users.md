@@ -645,3 +645,4 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s23-tactical-edition-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy S23 Tactical Edition support MOV videos ?</u></a></li>
 </ul></div>
 
+

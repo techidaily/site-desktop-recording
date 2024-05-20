@@ -1,7 +1,7 @@
 ---
 title: "\"From Play to Pause  Save Games via OBS\""
-date: 2024-05-18T05:20:35.073Z
-updated: 2024-05-19T05:20:35.073Z
+date: 2024-05-19T20:38:31.930Z
+updated: 2024-05-20T20:38:31.930Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-choosing-the-best-pro-audio-editing-software-for-2024/"><u>Updated The Ultimate Guide to Choosing the Best Pro Audio Editing Software for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/what-you-need-to-know-before-converting-your-mp3s-to-mp4s-for-2024/"><u>What You Need to Know Before Converting Your MP3s to MP4s for 2024</u></a></li>
 </ul></div>
+
 

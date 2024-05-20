@@ -636,3 +636,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://techidaily.com/how-to-soft-reset-tecno-camon-20-premier-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Camon 20 Premier 5G phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

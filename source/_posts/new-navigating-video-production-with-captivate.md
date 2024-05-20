@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Video Production with Captivate"
-date: 2024-05-18T04:57:31.054Z
-updated: 2024-05-19T04:57:31.054Z
+date: 2024-05-19T20:37:43.942Z
+updated: 2024-05-20T20:37:43.942Z
 tags: 
   - screen-recording
   - ai video
@@ -420,4 +420,5 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/updated-master-list-of-male-to-female-voice-change-programs-for-windows-and-macos-enthusiasts/"><u>Updated Master List of Male to Female Voice Change Programs for Windows and macOS Enthusiasts</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-in-2024-motion-mastery-essential-apps-for-tracking-your-movements/"><u>New In 2024, Motion Mastery Essential Apps for Tracking Your Movements</u></a></li>
 </ul></div>
+
 

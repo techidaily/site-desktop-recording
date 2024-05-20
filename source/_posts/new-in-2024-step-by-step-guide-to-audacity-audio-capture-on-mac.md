@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Step-by-Step Guide to Audacity Audio Capture on Mac\""
-date: 2024-05-18T05:22:14.015Z
-updated: 2024-05-19T05:22:14.015Z
+date: 2024-05-19T20:38:35.077Z
+updated: 2024-05-20T20:38:35.077Z
 tags: 
   - screen-recording
   - ai video
@@ -307,4 +307,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-x100-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo X100 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/top-rated-online-tools-for-converting-images-to-videos-for-2024/"><u>Top-Rated Online Tools for Converting Images to Videos for 2024</u></a></li>
 </ul></div>
+
 

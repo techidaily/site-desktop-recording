@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips on Troubleshooting Frozen OBS Fullscreen Problem\""
-date: 2024-05-18T05:01:16.623Z
-updated: 2024-05-19T05:01:16.623Z
+date: 2024-05-19T20:37:51.735Z
+updated: 2024-05-20T20:37:51.735Z
 tags: 
   - screen-recording
   - ai video
@@ -307,4 +307,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nubia Red Magic 8S Pro</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-cut-costs-not-quality-final-cut-pro-education-bundle-offers-for-2024/"><u>Updated Cut Costs, Not Quality Final Cut Pro Education Bundle Offers for 2024</u></a></li>
 </ul></div>
+
 

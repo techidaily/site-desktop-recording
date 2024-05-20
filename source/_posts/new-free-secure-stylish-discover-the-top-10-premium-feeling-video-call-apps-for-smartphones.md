@@ -916,3 +916,4 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-asus-rog-phone-8-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Asus ROG Phone 8 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

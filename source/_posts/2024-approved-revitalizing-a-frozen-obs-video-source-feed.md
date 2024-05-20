@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revitalizing a Frozen OBS Video Source Feed\""
-date: 2024-05-18T05:15:30.786Z
-updated: 2024-05-19T05:15:30.786Z
+date: 2024-05-19T20:38:21.938Z
+updated: 2024-05-20T20:38:21.938Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-x50-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor X50 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

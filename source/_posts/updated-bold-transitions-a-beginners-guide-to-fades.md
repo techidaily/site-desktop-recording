@@ -444,3 +444,4 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/fcpx-audio-editing-essentials-l-cuts-j-cuts-and-more/"><u>FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Timekeeping Tutorial  Setting Up a Timer in OBS Studio for 2024\""
-date: 2024-05-18T05:12:03.481Z
-updated: 2024-05-19T05:12:03.481Z
+date: 2024-05-19T20:38:13.515Z
+updated: 2024-05-20T20:38:13.515Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://blog-min.techidaily.com/how-to-remove-12-pro-5g-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove 12 Pro 5G PIN</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-translate-video-from-english-to-arabic-with-ease/"><u>Updated In 2024, Translate Video From English to Arabic with Ease</u></a></li>
 </ul></div>
+
 

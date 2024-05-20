@@ -1,7 +1,7 @@
 ---
 title: "\"Setting Up Audacity for Effective Mac-Based Sound Capture for 2024\""
-date: 2024-05-18T05:10:52.527Z
-updated: 2024-05-19T05:10:52.527Z
+date: 2024-05-19T20:38:11.299Z
+updated: 2024-05-20T20:38:11.299Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-from-sketch-to-screen-mastering-animation-drawing-with-the-top-7-software/"><u>Updated From Sketch to Screen Mastering Animation Drawing with the Top 7 Software</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-proplus-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 Pro+ 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

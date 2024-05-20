@@ -486,3 +486,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-smart-8-plus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Smart 8 Plus</u></a></li>
 </ul></div>
 
+

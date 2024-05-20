@@ -467,3 +467,4 @@ This is an amazing app as it does everything that you want it to and more. Altho
 <li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
 </ul></div>
 
+

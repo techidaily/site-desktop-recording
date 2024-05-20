@@ -1,7 +1,7 @@
 ---
 title: "\"Game Genre Matchups  Titles Alike to GTA V for 2024\""
-date: 2024-05-18T05:02:27.251Z
-updated: 2024-05-19T05:02:27.251Z
+date: 2024-05-19T20:37:54.025Z
+updated: 2024-05-20T20:37:54.025Z
 tags: 
   - screen-recording
   - ai video
@@ -852,4 +852,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://video-ai-editor.techidaily.com/updated-free-mov-video-merger-top-5-recommendations-for-2024/"><u>Updated Free MOV Video Merger Top 5 Recommendations for 2024</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-blaze-2-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Blaze 2 in Minutes | Dr.fone</u></a></li>
 </ul></div>
+
 

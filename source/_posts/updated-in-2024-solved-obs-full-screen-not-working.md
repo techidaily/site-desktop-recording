@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, [Solved] OBS Full Screen Not Working"
-date: 2024-05-18T05:22:44.793Z
-updated: 2024-05-19T05:22:44.793Z
+date: 2024-05-19T20:38:36.294Z
+updated: 2024-05-20T20:38:36.294Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Poco F5 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-zoom-video-in-vlc-media-player-for-2024/"><u>How to Zoom Video in VLC Media Player for 2024</u></a></li>
 </ul></div>
+
 

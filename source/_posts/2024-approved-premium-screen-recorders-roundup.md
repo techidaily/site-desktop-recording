@@ -677,3 +677,4 @@ You may choose any of these recorders from the list above to help you capture HD
 <li><a href="https://smart-video-creator.techidaily.com/updated-fcpx-title-design-tips-and-tricks-for-stunning-visuals/"><u>Updated FCPX Title Design Tips and Tricks for Stunning Visuals</u></a></li>
 </ul></div>
 
+

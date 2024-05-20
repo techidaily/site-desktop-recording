@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Audacity on Mac  A Beginner's Guide to Recording Audio\""
-date: 2024-05-18T05:03:32.304Z
-updated: 2024-05-19T05:03:32.304Z
+date: 2024-05-19T20:37:56.484Z
+updated: 2024-05-20T20:37:56.484Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-slow-motion-and-fast-motion-effects-in-camtasia/"><u>New In 2024, Slow Motion and Fast Motion Effects in Camtasia</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Capturing Skype Audio/Video  Windows & Mac Tips\""
-date: 2024-05-18T05:05:33.320Z
-updated: 2024-05-19T05:05:33.320Z
+date: 2024-05-19T20:38:00.383Z
+updated: 2024-05-20T20:38:00.383Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Follow @Max Wales
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Magic Vs 2? | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-5-best-photo-slideshow-software-for-beginners-for-2024/"><u>New The Ultimate List 5 Best Photo Slideshow Software for Beginners for 2024</u></a></li>
 </ul></div>
+
 

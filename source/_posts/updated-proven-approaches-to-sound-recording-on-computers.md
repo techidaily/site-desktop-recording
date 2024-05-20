@@ -789,3 +789,4 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://sound-optimizing.techidaily.com/updated-techniques-for-altering-decibel-settings-on-media-playback/"><u>Updated Techniques for Altering Decibel Settings on Media Playback</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential Steps for Skype Capture via OBS"
-date: 2024-05-18T05:09:27.479Z
-updated: 2024-05-19T05:09:27.479Z
+date: 2024-05-19T20:38:08.322Z
+updated: 2024-05-20T20:38:08.322Z
 tags: 
   - screen-recording
   - ai video
@@ -351,4 +351,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://howto.techidaily.com/why-your-vivo-x100-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo X100 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-2020-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone SE (2020) Data From iOS iTunes? | Dr.fone</u></a></li>
 </ul></div>
+
 

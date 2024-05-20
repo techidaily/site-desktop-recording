@@ -909,3 +909,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://animation-videos.techidaily.com/2024-approved-animate-pictures-in-canva/"><u>2024 Approved Animate Pictures in Canva</u></a></li>
 </ul></div>
 
+

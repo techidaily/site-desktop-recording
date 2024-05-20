@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ticking Time Away with OBS  Creating a Countdown Timer for 2024\""
-date: 2024-05-18T05:19:05.568Z
-updated: 2024-05-19T05:19:05.568Z
+date: 2024-05-19T20:38:28.930Z
+updated: 2024-05-20T20:38:28.930Z
 tags: 
   - screen-recording
   - ai video
@@ -303,4 +303,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 15 devices? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-v29-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo V29 Pro</u></a></li>
 </ul></div>
+
 

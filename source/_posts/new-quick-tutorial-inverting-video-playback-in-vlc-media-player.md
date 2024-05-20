@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Tutorial  Inverting Video Playback in VLC Media Player\""
-date: 2024-05-18T05:19:42.275Z
-updated: 2024-05-19T05:19:42.275Z
+date: 2024-05-19T20:38:30.074Z
+updated: 2024-05-20T20:38:30.074Z
 tags: 
   - screen-recording
   - ai video
@@ -632,4 +632,5 @@ VLC Media Player is a great tool to rotate any video at any desired angle. You c
 <li><a href="https://ai-vdieo-software.techidaily.com/is-avs-video-editor-worth-it-an-honest-review/"><u>Is AVS Video Editor Worth It? An Honest Review</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/achieving-sonic-excellence-incorporating-auto-tune-into-your-audacity-workflow/"><u>Achieving Sonic Excellence Incorporating Auto-Tune Into Your Audacity Workflow</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Xiaomi Mi 11  Crafting Memories in Unprecedented Detail\""
-date: 2024-05-18T05:12:34.462Z
-updated: 2024-05-19T05:12:34.462Z
+date: 2024-05-19T20:38:14.466Z
+updated: 2024-05-20T20:38:14.466Z
 tags: 
   - screen-recording
   - ai video
@@ -575,4 +575,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-voice-clone.techidaily.com/updated-top-9-choices-for-video-auto-translate-for-2024/"><u>Updated Top 9 Choices for Video Auto Translate for 2024</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-premier-web-based-sound-balancing-tools-for-2024/"><u>Updated Premier Web-Based Sound Balancing Tools for 2024</u></a></li>
 </ul></div>
+
 

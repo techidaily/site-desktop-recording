@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Use OBS with Zoom"
-date: 2024-05-18T05:11:41.473Z
-updated: 2024-05-19T05:11:41.473Z
+date: 2024-05-19T20:38:12.824Z
+updated: 2024-05-20T20:38:12.824Z
 tags: 
   - screen-recording
   - ai video
@@ -423,4 +423,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://ai-editing-video.techidaily.com/new-best-tips-for-better-event-videography-for-2024/"><u>New Best Tips for Better Event Videography for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme GT Neo 5? | Dr.fone</u></a></li>
 </ul></div>
+
 

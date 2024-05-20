@@ -508,3 +508,4 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-f04-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy F04 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete OBS Android Manual for Professionals"
-date: 2024-05-18T05:02:42.275Z
-updated: 2024-05-19T05:02:42.275Z
+date: 2024-05-19T20:37:54.542Z
+updated: 2024-05-20T20:37:54.542Z
 tags: 
   - screen-recording
   - ai video
@@ -511,4 +511,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-video-tagging-software-for-mp4-files/"><u>Updated In 2024, Best Video Tagging Software for MP4 Files</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-optimizing-audio-levels-a-guide-to-dynamic-ducking-in-windows-edition-of-adobe-premiere-pro/"><u>In 2024, Optimizing Audio Levels A Guide to Dynamic Ducking in Windows Edition of Adobe Premiere Pro</u></a></li>
 </ul></div>
+
 

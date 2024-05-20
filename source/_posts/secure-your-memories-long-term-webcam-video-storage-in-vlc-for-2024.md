@@ -536,3 +536,4 @@ In this article, we have provided some software to record the video from the web
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-itel-p40-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Itel P40 to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
 
+

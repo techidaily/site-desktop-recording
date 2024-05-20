@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Successful Patch  OBS Full Screen Functionality\""
-date: 2024-05-18T05:02:16.643Z
-updated: 2024-05-19T05:02:16.643Z
+date: 2024-05-19T20:37:53.672Z
+updated: 2024-05-20T20:37:53.672Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 Pro Max</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-video-editing-software-showdown-virtualdub-vs-the-best-free-alternatives/"><u>2024 Approved Video Editing Software Showdown Virtualdub Vs. The Best Free Alternatives</u></a></li>
 </ul></div>
+
 

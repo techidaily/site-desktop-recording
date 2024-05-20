@@ -1,7 +1,7 @@
 ---
 title: "[New] Export PPT as Animated Film"
-date: 2024-05-18T04:59:52.538Z
-updated: 2024-05-19T04:59:52.538Z
+date: 2024-05-19T20:37:48.702Z
+updated: 2024-05-20T20:37:48.702Z
 tags: 
   - screen-recording
   - ai video
@@ -596,4 +596,5 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-can-i-control-speed-of-a-video/"><u>2024 Approved How Can I Control Speed of a Video</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-12-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 12 Pro</u></a></li>
 </ul></div>
+
 

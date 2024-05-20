@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplified Guide to Incorporating Ken Burns Effect in Camtasa for 2024"
-date: 2024-05-18T05:16:11.043Z
-updated: 2024-05-19T05:16:11.043Z
+date: 2024-05-19T20:38:23.227Z
+updated: 2024-05-20T20:38:23.227Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ Follow @Max Wales
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nokia-105-classic-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nokia 105 Classic? Fixed | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

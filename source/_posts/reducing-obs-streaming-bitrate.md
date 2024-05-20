@@ -1,7 +1,7 @@
 ---
 title: "Reducing OBS Streaming Bitrate"
-date: 2024-05-18T05:06:41.153Z
-updated: 2024-05-19T05:06:41.153Z
+date: 2024-05-19T20:38:02.771Z
+updated: 2024-05-20T20:38:02.772Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ai-video-tools.techidaily.com/updated-get-the-best-picture-amazon-prime-video-aspect-ratio-settings-for-2024/"><u>Updated Get the Best Picture Amazon Prime Video Aspect Ratio Settings for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-s23plus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel S23+ Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exploring the Depths of Fraps Recorders"
-date: 2024-05-18T04:56:10.112Z
-updated: 2024-05-19T04:56:10.112Z
+date: 2024-05-19T20:37:41.450Z
+updated: 2024-05-20T20:37:41.450Z
 tags: 
   - screen-recording
   - ai video
@@ -363,4 +363,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-a-guide-to-motion-tracking-using-the-best-video-editors/"><u>Updated In 2024, A Guide To Motion Tracking Using The Best Video Editors</u></a></li>
 </ul></div>
+
 

@@ -310,3 +310,4 @@ Where you were facing problems recording videos on your screen and could not cho
 <li><a href="https://voice-adjusting.techidaily.com/a-comprehensive-tutorial-on-audio-standardization-in-davinci-resolve-for-2024/"><u>A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve for 2024</u></a></li>
 </ul></div>
 
+

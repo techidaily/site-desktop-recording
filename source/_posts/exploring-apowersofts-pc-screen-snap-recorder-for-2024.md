@@ -559,3 +559,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://location-social.techidaily.com/does-infinix-smart-7-hd-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Smart 7 HD Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
 
+

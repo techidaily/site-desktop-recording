@@ -192,3 +192,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://ai-editing-video.techidaily.com/new-gimp-green-screen/"><u>New Gimp Green Screen</u></a></li>
 </ul></div>
 
+

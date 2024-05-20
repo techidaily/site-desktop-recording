@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Easy-to-Follow OBS Setup on Thriftier Tech\""
-date: 2024-05-18T04:55:58.692Z
-updated: 2024-05-19T04:55:58.692Z
+date: 2024-05-19T20:37:41.095Z
+updated: 2024-05-20T20:37:41.095Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-effects-on-tiktok-for-2024/"><u>Updated How to Add Effects on TikTok for 2024</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>Updated Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
 </ul></div>
+
 

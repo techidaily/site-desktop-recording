@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Complete Guide to Downloading, Setting up and Using OBS on macOS"
-date: 2024-05-18T05:22:58.081Z
-updated: 2024-05-19T05:22:58.081Z
+date: 2024-05-19T20:38:36.749Z
+updated: 2024-05-20T20:38:36.749Z
 tags: 
   - screen-recording
   - ai video
@@ -349,4 +349,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-s24-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy S24 – What Can I Do? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-discover-the-perfect-twitter-video-size-for-your-content/"><u>Updated 2024 Approved Discover the Perfect Twitter Video Size for Your Content</u></a></li>
 </ul></div>
+
 

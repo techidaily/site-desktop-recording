@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Saving Face-to-Face with Hangouts\""
-date: 2024-05-18T05:15:00.815Z
-updated: 2024-05-19T05:15:00.815Z
+date: 2024-05-19T20:38:21.051Z
+updated: 2024-05-20T20:38:21.051Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ The answer to the question "Can you record a Google hangout?" is yes. You can us
 <li><a href="https://ai-driven-video-production.techidaily.com/best-video-editing-apps-with-built-in-music-libraries-for-2024/"><u>Best Video Editing Apps with Built-In Music Libraries for 2024</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-navigating-the-modern-landscape-of-live-audio-capturing-for-streaming-for-2024/"><u>Updated Navigating the Modern Landscape of Live Audio Capturing for Streaming for 2024</u></a></li>
 </ul></div>
+
 

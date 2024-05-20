@@ -1,7 +1,7 @@
 ---
 title: "Master Sound Capture on Your MacOS Device via Audacity"
-date: 2024-05-18T05:19:54.553Z
-updated: 2024-05-19T05:19:54.553Z
+date: 2024-05-19T20:38:30.414Z
+updated: 2024-05-20T20:38:30.414Z
 tags: 
   - screen-recording
   - ai video
@@ -271,4 +271,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-x-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone X iCloud Activation Lock Bypass</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-achieving-perfect-ambience-expert-techniques-for-gradual-volume-changes-with-adobe-after-effects-for-2024/"><u>Updated Achieving Perfect Ambience Expert Techniques for Gradual Volume Changes with Adobe After Effects for 2024</u></a></li>
 </ul></div>
+
 

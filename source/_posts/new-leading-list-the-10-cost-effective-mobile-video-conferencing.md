@@ -783,3 +783,4 @@ Follow @Richard Bennett
 <li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-smart-7-hd-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Smart 7 HD Phone Screen?</u></a></li>
 </ul></div>
 
+

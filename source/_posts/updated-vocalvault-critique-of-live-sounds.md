@@ -433,3 +433,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-basic-introduction-of-lumafusion-color-grading/"><u>New In 2024, Basic Introduction of LumaFusion Color Grading</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tackling Inaudible Speech in OBS Captures for 2024"
-date: 2024-05-18T05:00:20.597Z
-updated: 2024-05-19T05:00:20.597Z
+date: 2024-05-19T20:37:49.566Z
+updated: 2024-05-20T20:37:49.566Z
 tags: 
   - screen-recording
   - ai video
@@ -595,4 +595,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-nokia-c210-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Nokia C210 Screen | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-gt-5-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme GT 5 Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

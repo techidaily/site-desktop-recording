@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Obs Issue  Full-Screen Bug Fixed\""
-date: 2024-05-18T05:16:21.371Z
-updated: 2024-05-19T05:16:21.371Z
+date: 2024-05-19T20:38:23.519Z
+updated: 2024-05-20T20:38:23.519Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s without Passcode or Face ID</u></a></li>
 <li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 

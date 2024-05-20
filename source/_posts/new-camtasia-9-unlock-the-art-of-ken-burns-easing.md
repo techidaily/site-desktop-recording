@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Camtasia 9  Unlock the Art of Ken Burns Easing\""
-date: 2024-05-18T05:08:44.542Z
-updated: 2024-05-19T05:08:44.542Z
+date: 2024-05-19T20:38:07.016Z
+updated: 2024-05-20T20:38:07.016Z
 tags: 
   - screen-recording
   - ai video
@@ -340,4 +340,5 @@ Follow @Max Wales
 <li><a href="https://voice-adjusting.techidaily.com/new-identifying-authentic-textural-brush-impacts-for-cinematic-scores-for-2024/"><u>New Identifying Authentic Textural Brush Impacts for Cinematic Scores for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-40-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 40 to Other Android Devices Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -403,3 +403,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://sound-tweaking.techidaily.com/in-2024-sony-vegas-audio-editor-a-step-by-step-tutorial-for-professionals/"><u>In 2024, Sony Vegas Audio Editor A Step-by-Step Tutorial for Professionals</u></a></li>
 </ul></div>
 
+

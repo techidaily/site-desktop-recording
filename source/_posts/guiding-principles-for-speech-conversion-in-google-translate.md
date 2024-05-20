@@ -1,7 +1,7 @@
 ---
 title: "Guiding Principles for Speech Conversion in Google Translate"
-date: 2024-05-18T05:06:07.676Z
-updated: 2024-05-19T05:06:07.676Z
+date: 2024-05-19T20:38:01.717Z
+updated: 2024-05-20T20:38:01.717Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ Yes. Google Translate is a free speech to text service available for Windows, iO
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-nokia-c02-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Nokia C02 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo Find X6 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

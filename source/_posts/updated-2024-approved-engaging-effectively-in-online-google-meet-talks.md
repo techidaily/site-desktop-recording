@@ -670,3 +670,4 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-redmi-a2-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Redmi A2</u></a></li>
 </ul></div>
 
+

@@ -960,3 +960,4 @@ Follow @Ollie Mattison
 <li><a href="https://voice-adjusting.techidaily.com/the-pros-method-for-smooth-on-off-sound-dynamics-using-adobe-after-effects/"><u>The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects</u></a></li>
 </ul></div>
 
+

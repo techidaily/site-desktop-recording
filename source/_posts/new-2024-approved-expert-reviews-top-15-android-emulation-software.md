@@ -1370,3 +1370,4 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-reset-a-infinix-smart-8-hd-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Smart 8 HD Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

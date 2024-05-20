@@ -222,3 +222,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://smart-video-creator.techidaily.com/new-say-cheese-top-apps-to-convert-your-photos-into-cartoons/"><u>New Say Cheese! Top Apps to Convert Your Photos Into Cartoons</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Walking Dead  Top Picks for Horror Gamers\""
-date: 2024-05-18T05:18:32.793Z
-updated: 2024-05-19T05:18:32.793Z
+date: 2024-05-19T20:38:27.932Z
+updated: 2024-05-20T20:38:27.932Z
 tags: 
   - screen-recording
   - ai video
@@ -345,4 +345,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-best-mov-to-gif-converters/"><u>In 2024, Best MOV to GIF Converters</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-how-does-gain-staging-impact-the-overall-fidelity-of-recorded-tracks/"><u>Updated How Does Gain Staging Impact the Overall Fidelity of Recorded Tracks?</u></a></li>
 </ul></div>
+
 

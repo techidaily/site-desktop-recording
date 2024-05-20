@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Skype Call Capture Guide  PC/Mac Edition\""
-date: 2024-05-18T05:22:22.381Z
-updated: 2024-05-19T05:22:22.381Z
+date: 2024-05-19T20:38:35.324Z
+updated: 2024-05-20T20:38:35.324Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ Follow @Max Wales
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-x6-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco X6 Pro Devices | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30i-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Note 30i Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

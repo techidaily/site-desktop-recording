@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mini Masterpieces  Top 6 Coolest Mini-Houses in MC\""
-date: 2024-05-18T05:08:32.006Z
-updated: 2024-05-19T05:08:32.006Z
+date: 2024-05-19T20:38:06.684Z
+updated: 2024-05-20T20:38:06.684Z
 tags: 
   - screen-recording
   - ai video
@@ -317,4 +317,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30 | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-splice-app-review-a-close-examination-of-its-video-editing-features-for-2024/"><u>New Splice App Review A Close Examination of Its Video Editing Features for 2024</u></a></li>
 </ul></div>
+
 

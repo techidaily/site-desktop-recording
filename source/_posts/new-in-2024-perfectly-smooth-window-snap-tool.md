@@ -578,3 +578,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://video-ai-editor.techidaily.com/from-sketch-to-screen-mastering-animation-drawing-with-the-top-7-software/"><u>From Sketch to Screen Mastering Animation Drawing with the Top 7 Software</u></a></li>
 </ul></div>
 
+

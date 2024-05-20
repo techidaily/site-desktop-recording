@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Ultimate Guide to Recording Gaming with Fraps\""
-date: 2024-05-18T05:10:17.388Z
-updated: 2024-05-19T05:10:17.388Z
+date: 2024-05-19T20:38:09.923Z
+updated: 2024-05-20T20:38:09.923Z
 tags: 
   - screen-recording
   - ai video
@@ -367,4 +367,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://smart-video-editing.techidaily.com/2024-approved-slicing-through-long-videos-the-quickest-methods-for-mac-editing/"><u>2024 Approved Slicing Through Long Videos The Quickest Methods for Mac Editing</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor 90 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

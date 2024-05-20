@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Resolve HDR Video Issue  Clearing Blank Display\""
-date: 2024-05-18T05:11:54.943Z
-updated: 2024-05-19T05:11:54.943Z
+date: 2024-05-19T20:38:13.248Z
+updated: 2024-05-20T20:38:13.248Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://audio-shaping.techidaily.com/new-discover-the-premier-5-audio-cutting-software-on-android-devices/"><u>New Discover the Premier 5 Audio Cutting Software on Android Devices</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-x9b-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor X9b | Dr.fone</u></a></li>
 </ul></div>
+
 

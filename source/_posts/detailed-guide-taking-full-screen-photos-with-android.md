@@ -196,3 +196,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oneplus-nord-n30-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From OnePlus Nord N30 5G to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
 
+

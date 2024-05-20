@@ -791,3 +791,4 @@ Follow @Richard Bennett
 <li><a href="https://video-creation-software.techidaily.com/new-mac-video-editing-essentials-a-yosemite-users-handbook/"><u>New Mac Video Editing Essentials A Yosemite Users Handbook</u></a></li>
 </ul></div>
 
+

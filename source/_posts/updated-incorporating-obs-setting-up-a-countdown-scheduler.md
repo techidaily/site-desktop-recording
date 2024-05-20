@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Incorporating OBS  Setting Up A Countdown Scheduler\""
-date: 2024-05-18T05:22:20.232Z
-updated: 2024-05-19T05:22:20.232Z
+date: 2024-05-19T20:38:35.258Z
+updated: 2024-05-20T20:38:35.258Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-best-free-online-video-flip-tools-and-services/"><u>Updated 2024 Approved The Best Free Online Video Flip Tools and Services</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-sony-xperia-1-v-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Sony Xperia 1 V</u></a></li>
 </ul></div>
+
 

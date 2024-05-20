@@ -619,3 +619,4 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/new-analyze-and-adapt-image-size-ratio/"><u>New Analyze and Adapt Image Size Ratio</u></a></li>
 </ul></div>
 
+

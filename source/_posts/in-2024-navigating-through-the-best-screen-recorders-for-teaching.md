@@ -963,3 +963,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6-plus-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6 Plus to Windows 10? | Dr.fone</u></a></li>
 </ul></div>
 
+

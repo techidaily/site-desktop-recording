@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Perfect Your Playback  Implementing a Countdown in OBS\""
-date: 2024-05-18T05:17:13.339Z
-updated: 2024-05-19T05:17:13.339Z
+date: 2024-05-19T20:38:25.231Z
+updated: 2024-05-20T20:38:25.231Z
 tags: 
   - screen-recording
   - ai video
@@ -293,4 +293,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-podcast-to-text-discovering-the-top-10-free-and-paid-conversion-tools-for-2024/"><u>New Podcast to Text Discovering the Top 10 Free & Paid Conversion Tools for 2024</u></a></li>
 </ul></div>
+
 

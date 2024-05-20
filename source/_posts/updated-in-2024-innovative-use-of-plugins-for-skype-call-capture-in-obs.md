@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Innovative Use of Plugins for Skype Call Capture in OBS"
-date: 2024-05-18T05:12:51.501Z
-updated: 2024-05-19T05:12:51.501Z
+date: 2024-05-19T20:38:15.036Z
+updated: 2024-05-20T20:38:15.036Z
 tags: 
   - screen-recording
   - ai video
@@ -343,4 +343,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Poco M6 5G? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-google-pixel-8-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Google Pixel 8 FRP</u></a></li>
 </ul></div>
+
 

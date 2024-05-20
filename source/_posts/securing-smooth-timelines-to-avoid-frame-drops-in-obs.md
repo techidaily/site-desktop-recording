@@ -1,7 +1,7 @@
 ---
 title: "Securing Smooth Timelines to Avoid Frame Drops in OBS"
-date: 2024-05-18T05:16:36.347Z
-updated: 2024-05-19T05:16:36.347Z
+date: 2024-05-19T20:38:24.041Z
+updated: 2024-05-20T20:38:24.041Z
 tags: 
   - screen-recording
   - ai video
@@ -603,4 +603,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-best-websites-for-turning-a-photo-into-a-cartoon/"><u>In 2024, Best Websites for Turning a Photo Into a Cartoon</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-video-hosting-for-all-10-platforms-for-personal-business-and-everything-in-between/"><u>New 2024 Approved Free Video Hosting for All 10 Platforms for Personal, Business, and Everything in Between</u></a></li>
 </ul></div>
+
 

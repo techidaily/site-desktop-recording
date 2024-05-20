@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essentials of Screen Capture with Fraps for 2024"
-date: 2024-05-18T05:17:00.009Z
-updated: 2024-05-19T05:17:00.009Z
+date: 2024-05-19T20:38:24.802Z
+updated: 2024-05-20T20:38:24.802Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-from-raw-audio-to-polished-masterpiece-editing-with-avidemux-2023-edition/"><u>Updated In 2024, From Raw Audio to Polished Masterpiece Editing with Avidemux - 2023 Edition</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-some-of-the-top-sites-to-replace-a-sky-background-in-videos/"><u>New Some of the Top Sites to Replace a Sky Background in Videos</u></a></li>
 </ul></div>
+
 

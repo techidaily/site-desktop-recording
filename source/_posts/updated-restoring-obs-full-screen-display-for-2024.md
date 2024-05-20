@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Restoring OBS Full Screen Display for 2024"
-date: 2024-05-18T05:06:02.217Z
-updated: 2024-05-19T05:06:02.217Z
+date: 2024-05-19T20:38:01.554Z
+updated: 2024-05-20T20:38:01.554Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-c67-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme C67 5G to Mac? | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-premiere-pro-2023-importing-editing-and-exporting-videos-for-beginners/"><u>New 2024 Approved Premiere Pro 2023 Importing, Editing, and Exporting Videos for Beginners</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Unfreezing Frozen OBS Stream Input for 2024"
-date: 2024-05-18T05:04:37.334Z
-updated: 2024-05-19T05:04:37.334Z
+date: 2024-05-19T20:37:58.512Z
+updated: 2024-05-20T20:37:58.512Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-discover-the-power-of-slow-mo-free-video-editing-software-by-filmora/"><u>New In 2024, Discover the Power of Slow Mo Free Video Editing Software by Filmora</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-guide-to-converting-webm-to-mp4-10-best-options/"><u>New In 2024, The Ultimate Guide to Converting WebM to MP4 10 Best Options</u></a></li>
 </ul></div>
+
 

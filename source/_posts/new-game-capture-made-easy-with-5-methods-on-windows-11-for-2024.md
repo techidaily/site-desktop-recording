@@ -396,3 +396,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
 
+

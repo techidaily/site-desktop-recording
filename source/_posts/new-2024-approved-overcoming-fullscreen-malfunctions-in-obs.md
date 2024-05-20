@@ -275,3 +275,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://phone-solutions.techidaily.com/does-xiaomi-14-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi 14 has native HEVC support?</u></a></li>
 </ul></div>
 
+

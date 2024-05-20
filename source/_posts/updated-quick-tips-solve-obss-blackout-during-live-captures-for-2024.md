@@ -283,3 +283,4 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://sound-optimizing.techidaily.com/the-ultimate-guide-to-music-driven-editing-perfect-pacing-with-beat-alignment-in-final-cut-pro-x/"><u>The Ultimate Guide to Music-Driven Editing Perfect Pacing with Beat Alignment in Final Cut Pro X</u></a></li>
 </ul></div>
 
+

@@ -491,3 +491,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-complete-guide-to-tiktok-screen-size-and-aspect-ratio/"><u>Updated In 2024, The Complete Guide to TikTok Screen Size and Aspect Ratio</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Recording Skype Meetings on Modern Operating Systems"
-date: 2024-05-18T05:10:13.851Z
-updated: 2024-05-19T05:10:13.851Z
+date: 2024-05-19T20:38:09.824Z
+updated: 2024-05-20T20:38:09.824Z
 tags: 
   - screen-recording
   - ai video
@@ -595,4 +595,5 @@ Follow @Max Wales
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Infinix Note 30 VIP | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-v-purse-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Honor V Purse to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

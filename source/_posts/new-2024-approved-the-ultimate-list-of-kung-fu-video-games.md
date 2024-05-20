@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Ultimate List of Kung Fu Video Games\""
-date: 2024-05-18T05:12:26.234Z
-updated: 2024-05-19T05:12:26.234Z
+date: 2024-05-19T20:38:14.218Z
+updated: 2024-05-20T20:38:14.218Z
 tags: 
   - screen-recording
   - ai video
@@ -277,4 +277,5 @@ Follow @Richard Bennett
 <li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-z50-ultra-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Z50 Ultra?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-15-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 15 Pro Max? Learn All 4 Methods</u></a></li>
 </ul></div>
+
 

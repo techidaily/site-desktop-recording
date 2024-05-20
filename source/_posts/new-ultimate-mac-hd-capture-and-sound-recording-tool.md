@@ -464,3 +464,4 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oneplus-12r-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to OnePlus 12R Phones? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Full Screen Fiasco Resolved in Obs"
-date: 2024-05-18T05:21:14.559Z
-updated: 2024-05-19T05:21:14.559Z
+date: 2024-05-19T20:38:33.121Z
+updated: 2024-05-20T20:38:33.121Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-poco-c65-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Poco C65 Screen Black But Still Works? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-cutting-edge-video-editing-for-free-top-mod-editors-for-2024/"><u>New Cutting-Edge Video Editing for Free Top MOD Editors for 2024</u></a></li>
 </ul></div>
+
 

@@ -372,3 +372,4 @@ Follow @Ollie Mattison
 <li><a href="https://video-content-creator.techidaily.com/new-times-ticking-learn-how-to-add-a-countdown-timer-in-fcpx-in-3-steps-for-2024/"><u>New Times Ticking! Learn How to Add a Countdown Timer in FCPX in 3 Steps for 2024</u></a></li>
 </ul></div>
 
+

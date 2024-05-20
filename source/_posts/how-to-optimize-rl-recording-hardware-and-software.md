@@ -481,3 +481,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-spark-10-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Spark 10 5G Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
 
+

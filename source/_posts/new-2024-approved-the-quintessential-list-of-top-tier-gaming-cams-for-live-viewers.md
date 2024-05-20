@@ -775,3 +775,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/updated-final-cut-pro-x-a-step-by-step-guide-to-adding-subtitles-and-captions-for-2024/"><u>Updated Final Cut Pro X A Step-by-Step Guide to Adding Subtitles and Captions for 2024</u></a></li>
 </ul></div>
 
+

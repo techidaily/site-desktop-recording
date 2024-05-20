@@ -1,7 +1,7 @@
 ---
 title: "\"Frequency Capture  Digital Sound Files\""
-date: 2024-05-18T05:18:27.608Z
-updated: 2024-05-19T05:18:27.608Z
+date: 2024-05-19T20:38:27.786Z
+updated: 2024-05-20T20:38:27.786Z
 tags: 
   - screen-recording
   - ai video
@@ -789,4 +789,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-c53-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme C53 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/a-guide-poco-x6-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Poco X6 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

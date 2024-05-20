@@ -762,3 +762,4 @@ Follow @Richard Bennett
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-y78plus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo Y78+</u></a></li>
 </ul></div>
 
+

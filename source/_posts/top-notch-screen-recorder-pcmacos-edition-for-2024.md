@@ -453,3 +453,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://video-content-creator.techidaily.com/updated-ratio-rebellion-learn-to-resize-images-with-ease/"><u>Updated Ratio Rebellion Learn to Resize Images with Ease</u></a></li>
 </ul></div>
 
+

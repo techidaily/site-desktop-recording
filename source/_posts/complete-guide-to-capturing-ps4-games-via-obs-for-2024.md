@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide to Capturing PS4 Games via OBS for 2024"
-date: 2024-05-18T04:58:45.422Z
-updated: 2024-05-19T04:58:45.422Z
+date: 2024-05-19T20:37:46.628Z
+updated: 2024-05-20T20:37:46.628Z
 tags: 
   - screen-recording
   - ai video
@@ -360,4 +360,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-7a-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel 7a has been deleted.</u></a></li>
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme 11 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

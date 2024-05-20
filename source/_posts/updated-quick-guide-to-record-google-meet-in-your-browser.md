@@ -1079,3 +1079,4 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-lava-yuva-2-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Yuva 2 Pro in Minutes | Dr.fone</u></a></li>
 </ul></div>
 
+

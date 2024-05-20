@@ -597,3 +597,4 @@ Hopefully, you have the answer to your question “Can you record FaceTime on Ma
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

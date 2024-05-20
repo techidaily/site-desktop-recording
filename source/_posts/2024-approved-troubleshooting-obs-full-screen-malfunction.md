@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Troubleshooting OBS Full Screen Malfunction\""
-date: 2024-05-18T05:14:14.624Z
-updated: 2024-05-19T05:14:14.624Z
+date: 2024-05-19T20:38:19.024Z
+updated: 2024-05-20T20:38:19.024Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://video-ai-editor.techidaily.com/the-10-most-talented-music-video-directors-you-need-to-know/"><u>The 10 Most Talented Music Video Directors You Need to Know</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-pro-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 Pro Max with a Broken Screen?</u></a></li>
 </ul></div>
+
 

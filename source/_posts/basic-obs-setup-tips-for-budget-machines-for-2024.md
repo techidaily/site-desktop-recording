@@ -1,7 +1,7 @@
 ---
 title: "Basic OBS Setup Tips for Budget Machines for 2024"
-date: 2024-05-18T05:08:13.008Z
-updated: 2024-05-19T05:08:13.008Z
+date: 2024-05-19T20:38:06.114Z
+updated: 2024-05-20T20:38:06.114Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Edge 2023 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-12-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 12 Pro? How to Fix it?</u></a></li>
 </ul></div>
+
 

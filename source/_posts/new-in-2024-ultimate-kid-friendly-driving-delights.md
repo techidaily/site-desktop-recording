@@ -648,3 +648,4 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-reset-a-itel-a05s-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Itel A05s Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

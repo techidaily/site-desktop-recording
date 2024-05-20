@@ -1,7 +1,7 @@
 ---
 title: "Compact OBS Setup for Underpriced PCs for 2024"
-date: 2024-05-18T05:19:26.996Z
-updated: 2024-05-19T05:19:26.996Z
+date: 2024-05-19T20:38:29.584Z
+updated: 2024-05-20T20:38:29.584Z
 tags: 
   - screen-recording
   - ai video
@@ -236,4 +236,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-the-pathway-to-selecting-an-elite-sonic-architect-for-film-and-media-projects/"><u>2024 Approved The Pathway to Selecting an Elite Sonic Architect for Film and Media Projects</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-edge-40-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Edge 40 Pro by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

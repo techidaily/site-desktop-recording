@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Shine Through the Game  Fixes for Dark Capture by OBS\""
-date: 2024-05-18T05:09:40.291Z
-updated: 2024-05-19T05:09:40.291Z
+date: 2024-05-19T20:38:08.717Z
+updated: 2024-05-20T20:38:08.717Z
 tags: 
   - screen-recording
   - ai video
@@ -313,4 +313,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-video-slow-motion-in-2024/"><u>New How to Make Video Slow Motion, In 2024</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-wav-converter-essentials-a-complete-beginners-guide/"><u>Updated 2024 Approved Wav Converter Essentials A Complete Beginners Guide</u></a></li>
 </ul></div>
+
 

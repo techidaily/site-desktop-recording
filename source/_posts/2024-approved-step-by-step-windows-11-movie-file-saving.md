@@ -664,3 +664,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-find-x6-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo Find X6 Pro Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

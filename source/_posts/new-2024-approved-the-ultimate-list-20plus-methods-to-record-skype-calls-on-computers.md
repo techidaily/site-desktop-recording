@@ -1131,3 +1131,4 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/identify-and-improve-image-scale/"><u>Identify and Improve Image Scale</u></a></li>
 </ul></div>
 
+

@@ -831,3 +831,4 @@ Follow @Ollie Mattison
 <li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-blur-speed-and-action-how-to-create-cinematic-motion-in-fcp/"><u>New 2024 Approved Blur, Speed, and Action How to Create Cinematic Motion in FCP</u></a></li>
 </ul></div>
 
+

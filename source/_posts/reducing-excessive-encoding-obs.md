@@ -1,7 +1,7 @@
 ---
 title: "Reducing Excessive Encoding (OBS)"
-date: 2024-05-18T04:57:15.638Z
-updated: 2024-05-19T04:57:15.638Z
+date: 2024-05-19T20:37:43.401Z
+updated: 2024-05-20T20:37:43.401Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-gt-neo-5-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme GT Neo 5 to Outlook | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

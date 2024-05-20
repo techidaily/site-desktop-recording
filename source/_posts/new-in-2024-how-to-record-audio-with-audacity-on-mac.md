@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Record Audio with Audacity on Mac?"
-date: 2024-05-18T04:58:51.455Z
-updated: 2024-05-19T04:58:51.455Z
+date: 2024-05-19T20:37:46.807Z
+updated: 2024-05-20T20:37:46.807Z
 tags: 
   - screen-recording
   - ai video
@@ -273,4 +273,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-11-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 11 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/find-a-video-background-change-online-that-works-for-you-this-article-contains-tools-that-can-edit-video-backgrounds-online-with-little-effort-for-2024/"><u>Find a Video Background Change Online that Works for You. This Article Contains Tools that Can Edit Video Backgrounds Online with Little Effort for 2024</u></a></li>
 </ul></div>
+
 

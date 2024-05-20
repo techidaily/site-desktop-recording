@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Illuminate Your Gaming Recordings  Avoid Black Screens with OBS for 2024\""
-date: 2024-05-18T04:57:36.568Z
-updated: 2024-05-19T04:57:36.568Z
+date: 2024-05-19T20:37:44.113Z
+updated: 2024-05-20T20:37:44.113Z
 tags: 
   - screen-recording
   - ai video
@@ -240,4 +240,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-infinix-hot-30-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Infinix Hot 30 5G to Mac? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-the-top-english-voice-generator-to-convert-text-into-desired-accent/"><u>New In 2024, The Top English Voice Generator To Convert Text Into Desired Accent</u></a></li>
 </ul></div>
+
 

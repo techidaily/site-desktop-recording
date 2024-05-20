@@ -349,3 +349,4 @@ So, in this article, we have discussed various apps, which can be used for recor
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Smart 7 HD? | Dr.fone</u></a></li>
 </ul></div>
 
+

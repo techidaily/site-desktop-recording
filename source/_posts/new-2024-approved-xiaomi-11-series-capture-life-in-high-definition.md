@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Xiaomi 11 Series  Capture Life in High Definition\""
-date: 2024-05-18T05:20:48.676Z
-updated: 2024-05-19T05:20:48.676Z
+date: 2024-05-19T20:38:32.335Z
+updated: 2024-05-20T20:38:32.335Z
 tags: 
   - screen-recording
   - ai video
@@ -568,4 +568,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-create-slide-masking-effect-intro/"><u>In 2024, Create Slide Masking Effect Intro</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-nokia-c12-plus-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Nokia C12 Plus</u></a></li>
 </ul></div>
+
 

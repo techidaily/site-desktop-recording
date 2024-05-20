@@ -1,7 +1,7 @@
 ---
 title: "[New] Set Up Your First Google Meet & Plan It for 2024"
-date: 2024-05-18T05:14:20.884Z
-updated: 2024-05-19T05:14:20.884Z
+date: 2024-05-19T20:38:19.275Z
+updated: 2024-05-20T20:38:19.275Z
 tags: 
   - screen-recording
   - ai video
@@ -672,4 +672,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-10-outstanding-intro-creator-tools-to-elevate-your-brand/"><u>Updated In 2024, 10 Outstanding Intro Creator Tools to Elevate Your Brand</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-cutting-edge-video-editing-for-free-top-mod-editors/"><u>New Cutting-Edge Video Editing for Free Top MOD Editors</u></a></li>
 </ul></div>
+
 

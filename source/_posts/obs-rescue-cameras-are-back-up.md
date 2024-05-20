@@ -1,7 +1,7 @@
 ---
 title: "\"OBS Rescue  Cameras Are Back Up\""
-date: 2024-05-18T05:21:04.641Z
-updated: 2024-05-19T05:21:04.641Z
+date: 2024-05-19T20:38:32.802Z
+updated: 2024-05-20T20:38:32.802Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-mac-video-metadata-mastery-8-essential-editor-tools/"><u>2024 Approved Mac Video Metadata Mastery 8 Essential Editor Tools</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-video-cropping-made-easy-a-comprehensive-guide-to-using-avidemux/"><u>New 2024 Approved Video Cropping Made Easy A Comprehensive Guide to Using Avidemux</u></a></li>
 </ul></div>
+
 

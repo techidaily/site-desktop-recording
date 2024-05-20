@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Patching the Full-Screen Problem in OBS\""
-date: 2024-05-18T04:55:52.205Z
-updated: 2024-05-19T04:55:52.205Z
+date: 2024-05-19T20:37:40.911Z
+updated: 2024-05-20T20:37:40.911Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://smart-video-editing.techidaily.com/updated-bring-your-ideas-to-life-best-3d-animation-apps-for-mobile-free-for-2024/"><u>Updated Bring Your Ideas to Life Best 3D Animation Apps for Mobile (Free) for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

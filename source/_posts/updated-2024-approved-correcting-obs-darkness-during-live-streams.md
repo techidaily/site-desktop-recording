@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Correcting OBS Darkness During Live Streams\""
-date: 2024-05-18T05:21:40.852Z
-updated: 2024-05-19T05:21:40.852Z
+date: 2024-05-19T20:38:33.946Z
+updated: 2024-05-20T20:38:33.946Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://sound-optimizing.techidaily.com/updated-syncing-audiovisual-elements-adding-soundtracks-to-video-in-adobe-premiere/"><u>Updated Syncing Audiovisual Elements Adding Soundtracks to Video in Adobe Premiere</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-s17t-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo S17t Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 

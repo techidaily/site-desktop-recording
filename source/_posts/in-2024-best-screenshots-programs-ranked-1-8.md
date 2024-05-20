@@ -866,3 +866,4 @@ Often such a situation arises in front of us where we want to screen record apar
 <li><a href="https://ai-video-editing.techidaily.com/are-you-finding-it-difficult-to-freeze-frame-in-after-effects-note-that-freeze-frame-takes-only-a-few-seconds-and-in-this-tutorial-we-will-guide-you-on-how-/"><u>Are You Finding It Difficult to Freeze-Frame in After Effects? Note that Freeze-Frame Takes only a Few Seconds, and, in This Tutorial, We Will Guide You on How to Create and Add Frame Hold in After Effects</u></a></li>
 </ul></div>
 
+

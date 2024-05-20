@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimizing Color Depth and Gradients for OBS"
-date: 2024-05-18T05:01:32.786Z
-updated: 2024-05-19T05:01:32.786Z
+date: 2024-05-19T20:37:52.253Z
+updated: 2024-05-20T20:37:52.253Z
 tags: 
   - screen-recording
   - ai video
@@ -271,4 +271,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone SE</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy F04? | Dr.fone</u></a></li>
 </ul></div>
+
 

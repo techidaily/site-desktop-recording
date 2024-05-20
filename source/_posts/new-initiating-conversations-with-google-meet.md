@@ -1,7 +1,7 @@
 ---
 title: "[New] Initiating Conversations with Google Meet"
-date: 2024-05-18T05:12:29.814Z
-updated: 2024-05-19T05:12:29.814Z
+date: 2024-05-19T20:38:14.338Z
+updated: 2024-05-20T20:38:14.338Z
 tags: 
   - screen-recording
   - ai video
@@ -665,4 +665,5 @@ They can join the meetings on their phone or laptop through the Google Meet webs
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-efficient-sound-management-cutting-down-video-audio-in-imovie-across-mac-and-iphone/"><u>Updated In 2024, Efficient Sound Management Cutting Down Video Audio in iMovie Across Mac and iPhone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-best-5-ai-movie-script-generators/"><u>2024 Approved Best 5 AI Movie Script Generators</u></a></li>
 </ul></div>
+
 

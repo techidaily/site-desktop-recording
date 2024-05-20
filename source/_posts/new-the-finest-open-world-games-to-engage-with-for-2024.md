@@ -873,3 +873,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/new-the-easiest-way-to-share-ps4-screenshots-on-social-media-2023-update/"><u>New The Easiest Way to Share PS4 Screenshots on Social Media (2023 Update)</u></a></li>
 </ul></div>
 
+

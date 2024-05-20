@@ -1140,3 +1140,4 @@ Follow @Richard Bennett
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-t2x-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo T2x 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

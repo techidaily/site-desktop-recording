@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Prevention of Fetal Alcohol Syndrome"
-date: 2024-05-18T05:18:06.682Z
-updated: 2024-05-19T05:18:06.682Z
+date: 2024-05-19T20:38:27.138Z
+updated: 2024-05-20T20:38:27.138Z
 tags: 
   - screen-recording
   - ai video
@@ -932,4 +932,5 @@ Follow @Richard Bennett
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-video-editing-apps-for-mac-users/"><u>Updated In 2024, Top Video Editing Apps for Mac Users</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-the-best-10-sketch-animation-video-makers/"><u>Updated 2024 Approved The Best 10 Sketch Animation Video Makers</u></a></li>
 </ul></div>
+
 

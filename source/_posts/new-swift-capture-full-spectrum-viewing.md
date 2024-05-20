@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Swift Capture  Full Spectrum Viewing\""
-date: 2024-05-18T05:02:42.000Z
-updated: 2024-05-19T05:02:42.000Z
+date: 2024-05-19T20:37:54.532Z
+updated: 2024-05-20T20:37:54.532Z
 tags: 
   - screen-recording
   - ai video
@@ -512,4 +512,5 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-create-picsart-cartoon-for-2024/"><u>Updated How to Create Picsart Cartoon for 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-best-audio-editors-for-android/"><u>New In 2024, Best Audio Editors for Android</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fixing OBS's Full-Screen Freeze Up\""
-date: 2024-05-18T05:08:04.565Z
-updated: 2024-05-19T05:08:04.565Z
+date: 2024-05-19T20:38:05.857Z
+updated: 2024-05-20T20:38:05.857Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://audio-shaping.techidaily.com/the-ultimate-tutorial-on-muting-off-screen-speeches-and-enhancing-film-quality-for-2024/"><u>The Ultimate Tutorial on Muting Off-Screen Speeches and Enhancing Film Quality for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy F04 | Dr.fone</u></a></li>
 </ul></div>
+
 

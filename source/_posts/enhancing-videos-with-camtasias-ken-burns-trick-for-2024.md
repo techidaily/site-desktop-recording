@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Videos with Camtasia's Ken Burns Trick for 2024"
-date: 2024-05-18T05:18:27.067Z
-updated: 2024-05-19T05:18:27.067Z
+date: 2024-05-19T20:38:27.770Z
+updated: 2024-05-20T20:38:27.770Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ Follow @Max Wales
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Poco C50 | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-excellent-real-time-vocal-disguise-apps-the-best-edition/"><u>Updated In 2024, Excellent Real-Time Vocal Disguise Apps The Best Edition</u></a></li>
 </ul></div>
+
 

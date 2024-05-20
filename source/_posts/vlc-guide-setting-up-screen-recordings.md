@@ -1,7 +1,7 @@
 ---
 title: "\"VLC Guide  Setting Up Screen Recordings\""
-date: 2024-05-18T05:09:30.758Z
-updated: 2024-05-19T05:09:30.758Z
+date: 2024-05-19T20:38:08.433Z
+updated: 2024-05-20T20:38:08.433Z
 tags: 
   - screen-recording
   - ai video
@@ -441,4 +441,5 @@ Getting a screen recorder for PC is not terribly difficult, but finding great fr
 <li><a href="https://ai-video-apps.techidaily.com/updated-mastering-video-pace-in-camtasia-tips-and-tricks-for-2024/"><u>Updated Mastering Video Pace in Camtasia Tips and Tricks for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-130-music-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia 130 Music by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

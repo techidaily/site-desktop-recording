@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Addressing Inaudible Audio  Steps for OBS Broadcasting\""
-date: 2024-05-18T05:16:17.836Z
-updated: 2024-05-19T05:16:17.836Z
+date: 2024-05-19T20:38:23.420Z
+updated: 2024-05-20T20:38:23.420Z
 tags: 
   - screen-recording
   - ai video
@@ -536,4 +536,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-xr-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone XR</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-voice-generator-in-2024/"><u>Updated What Is an AI Voice Generator, In 2024</u></a></li>
 </ul></div>
+
 

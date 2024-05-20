@@ -1,7 +1,7 @@
 ---
 title: "Camera Mended, Problems Resolved with OBS for 2024"
-date: 2024-05-18T05:04:10.926Z
-updated: 2024-05-19T05:04:10.926Z
+date: 2024-05-19T20:37:57.689Z
+updated: 2024-05-20T20:37:57.689Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-like-clouds-or-sky-and-want-to-use-them-as-a-video-background-explore-this-article-to-learn-about-the-sky-change-video-in-filmora/"><u>2024 Approved Do You Like Clouds or Sky and Want to Use Them as a Video Background? Explore This Article to Learn About the Sky Change Video in Filmora</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-as-an-online-marketer-it-is-important-to-know-the-algorithm-of-youtube-platform-ill-share-you-the-history-of-algorithm-of-youtube-and-/"><u>Updated 2024 Approved As an Online Marketer, It Is Important to Know the Algorithm of YouTube Platform. Ill Share You the History of Algorithm of YouTube and the New Changes in This Year</u></a></li>
 </ul></div>
+
 

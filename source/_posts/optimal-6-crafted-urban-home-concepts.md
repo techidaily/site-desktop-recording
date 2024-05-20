@@ -437,3 +437,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/updated-take-your-videos-to-the-next-level-mastering-the-ken-burns-effect-in-final-cut-pro/"><u>Updated Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro</u></a></li>
 </ul></div>
 
+

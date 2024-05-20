@@ -709,3 +709,4 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-itel-a60-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Itel A60 Phone</u></a></li>
 </ul></div>
 
+

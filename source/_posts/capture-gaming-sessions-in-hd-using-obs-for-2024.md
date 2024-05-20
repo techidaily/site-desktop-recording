@@ -1,7 +1,7 @@
 ---
 title: "\"Capture Gaming Sessions in HD - Using OBS for 2024\""
-date: 2024-05-18T05:01:45.118Z
-updated: 2024-05-19T05:01:45.118Z
+date: 2024-05-19T20:37:52.666Z
+updated: 2024-05-20T20:37:52.666Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Asus ROG Phone 8 | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-sound-effects-on-a-budget-finding-and-adding-free-resources-in-final-cut-pro/"><u>New Sound Effects on a Budget Finding and Adding Free Resources in Final Cut Pro</u></a></li>
 </ul></div>
+
 

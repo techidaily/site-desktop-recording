@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Reset and Fix OBS Fullscreen Issue\""
-date: 2024-05-18T05:12:56.178Z
-updated: 2024-05-19T05:12:56.178Z
+date: 2024-05-19T20:38:15.211Z
+updated: 2024-05-20T20:38:15.211Z
 tags: 
   - screen-recording
   - ai video
@@ -253,4 +253,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-complete-process-for-exporting-audio-from-audacity-to-mp3-format/"><u>Updated In 2024, The Complete Process for Exporting Audio From Audacity to MP3 Format</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme 12 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -545,3 +545,4 @@ For macOS 10.12 or later
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-capturing-the-essence-of-your-pcs-sound-in-audacity/"><u>Updated In 2024, Capturing the Essence of Your PCs Sound in Audacity</u></a></li>
 </ul></div>
 
+

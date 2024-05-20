@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Avoiding Obscured Games  Fixes for OBS Black Screen Issues\""
-date: 2024-05-18T05:20:21.986Z
-updated: 2024-05-19T05:20:21.986Z
+date: 2024-05-19T20:38:31.515Z
+updated: 2024-05-20T20:38:31.515Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Itel P40+ | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-lava-yuva-2-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

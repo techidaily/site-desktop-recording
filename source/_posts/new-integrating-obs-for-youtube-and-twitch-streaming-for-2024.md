@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating OBS for YouTube & Twitch Streaming for 2024"
-date: 2024-05-18T05:06:49.322Z
-updated: 2024-05-19T05:06:49.322Z
+date: 2024-05-19T20:38:03.016Z
+updated: 2024-05-20T20:38:03.016Z
 tags: 
   - screen-recording
   - ai video
@@ -159,4 +159,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-easy-peasy-video-editing-top-free-software-for-newcomers/"><u>New In 2024, Easy Peasy Video Editing Top Free Software for Newcomers</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-top-10-old-cartoons-from-cartoon-network-that-you-miss/"><u>In 2024, Top 10 Old Cartoons From Cartoon Network That You Miss</u></a></li>
 </ul></div>
+
 

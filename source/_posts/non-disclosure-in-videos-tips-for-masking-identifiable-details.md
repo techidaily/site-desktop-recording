@@ -1,7 +1,7 @@
 ---
 title: "\"Non-Disclosure in Videos  Tips for Masking Identifiable Details\""
-date: 2024-05-18T04:56:27.469Z
-updated: 2024-05-19T04:56:27.469Z
+date: 2024-05-19T20:37:41.948Z
+updated: 2024-05-20T20:37:41.948Z
 tags: 
   - screen-recording
   - ai video
@@ -512,4 +512,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-finding-bell-sound-effects-with-natural-echoes/"><u>2024 Approved Finding Bell Sound Effects with Natural Echoes</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 13 mini</u></a></li>
 </ul></div>
+
 

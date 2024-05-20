@@ -242,3 +242,4 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-c65-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco C65 | Dr.fone</u></a></li>
 </ul></div>
 
+

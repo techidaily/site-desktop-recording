@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Modify Mac Screen Shot Storage Path\""
-date: 2024-05-18T05:02:48.795Z
-updated: 2024-05-19T05:02:48.795Z
+date: 2024-05-19T20:37:54.810Z
+updated: 2024-05-20T20:37:54.810Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/new-react-record-edit-top-apps-for-creating-viral-content/"><u>New React, Record, Edit Top Apps for Creating Viral Content</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-mobile-time-lapse-magic-top-apps-for-creatives-2023-edition/"><u>In 2024, Mobile Time-Lapse Magic Top Apps for Creatives (2023 Edition)</u></a></li>
 </ul></div>
+
 

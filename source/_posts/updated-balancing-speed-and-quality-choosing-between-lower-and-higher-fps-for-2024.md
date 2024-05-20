@@ -231,3 +231,4 @@ As a content creator, you now understand how important frame rates are and how c
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-instagram-video-aspect-ratios-and-sizes/"><u>Updated In 2024, The Ultimate Guide to Instagram Video Aspect Ratios and Sizes</u></a></li>
 </ul></div>
 
+

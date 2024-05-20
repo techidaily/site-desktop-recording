@@ -402,3 +402,4 @@ Follow @Max Wales
 <li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-14-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 14 Pro to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

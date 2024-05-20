@@ -421,3 +421,4 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://sound-optimizing.techidaily.com/new-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>New The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
 </ul></div>
 
+

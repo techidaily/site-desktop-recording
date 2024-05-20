@@ -1,7 +1,7 @@
 ---
 title: "How to Avoid Common Mistakes in Nighttime Photography"
-date: 2024-05-18T05:14:10.815Z
-updated: 2024-05-19T05:14:10.815Z
+date: 2024-05-19T20:38:18.914Z
+updated: 2024-05-20T20:38:18.914Z
 tags: 
   - screen-recording
   - ai video
@@ -187,4 +187,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://video-content-creator.techidaily.com/2024-approved-switch-it-up-top-rated-face-swap-apps-for-iphone-and-android-users/"><u>2024 Approved Switch It Up Top-Rated Face Swap Apps for iPhone and Android Users</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-slideshow-with-icecream-slideshow-maker/"><u>In 2024, How to Create a Slideshow with Icecream Slideshow Maker</u></a></li>
 </ul></div>
+
 

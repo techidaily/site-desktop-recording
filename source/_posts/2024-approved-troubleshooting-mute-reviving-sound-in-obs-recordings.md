@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Troubleshooting Mute  Reviving Sound in OBS Recordings\""
-date: 2024-05-18T04:59:46.510Z
-updated: 2024-05-19T04:59:46.510Z
+date: 2024-05-19T20:37:48.526Z
+updated: 2024-05-20T20:37:48.526Z
 tags: 
   - screen-recording
   - ai video
@@ -545,4 +545,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-how-to-connect-airpods-to-pc-for-2024/"><u>Updated How to Connect AirPods to PC for 2024</u></a></li>
 </ul></div>
+
 

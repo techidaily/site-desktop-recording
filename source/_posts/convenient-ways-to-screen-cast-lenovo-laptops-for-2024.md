@@ -496,3 +496,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
 </ul></div>
 
+

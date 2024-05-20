@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Obs Full-Screen No More Problem for 2024\""
-date: 2024-05-18T05:04:06.312Z
-updated: 2024-05-19T05:04:06.312Z
+date: 2024-05-19T20:37:57.539Z
+updated: 2024-05-20T20:37:57.539Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-spark-20-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Spark 20.</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-sony-xperia-1-v-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Sony Xperia 1 V to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

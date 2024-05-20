@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Full Screen OBS Complication Overcome\""
-date: 2024-05-18T05:19:46.377Z
-updated: 2024-05-19T05:19:46.377Z
+date: 2024-05-19T20:38:30.209Z
+updated: 2024-05-20T20:38:30.209Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://sound-optimizing.techidaily.com/step-by-step-getting-audacity-running-on-your-ubuntu-system-for-2024/"><u>Step-by-Step Getting Audacity Running on Your Ubuntu System for 2024</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-lava-yuva-2-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

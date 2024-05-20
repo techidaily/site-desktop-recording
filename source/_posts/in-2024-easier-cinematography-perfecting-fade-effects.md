@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Easier Cinematography  Perfecting Fade Effects\""
-date: 2024-05-18T05:16:00.959Z
-updated: 2024-05-19T05:16:00.959Z
+date: 2024-05-19T20:38:22.877Z
+updated: 2024-05-20T20:38:22.877Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Note 30 | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-from-soundcloud-to-mp3-a-beginners-guide-to-music-conversion/"><u>New In 2024, From Soundcloud to MP3 A Beginners Guide to Music Conversion</u></a></li>
 </ul></div>
+
 

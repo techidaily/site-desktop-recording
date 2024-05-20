@@ -1,7 +1,7 @@
 ---
 title: "\"Utilizing Open-Source for Broadcasting Workshops\""
-date: 2024-05-18T05:10:49.239Z
-updated: 2024-05-19T05:10:49.239Z
+date: 2024-05-19T20:38:11.196Z
+updated: 2024-05-20T20:38:11.196Z
 tags: 
   - screen-recording
   - ai video
@@ -445,4 +445,5 @@ It is always better to record webinar whether you are a presenter or a viewer. Y
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-the-great-video-editing-debate-sony-vegas-vs-adobe-premiere-pro/"><u>In 2024, The Great Video Editing Debate Sony Vegas vs Adobe Premiere Pro</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-13-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 13 Pro to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

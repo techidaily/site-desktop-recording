@@ -822,3 +822,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-editing.techidaily.com/updated-fcp-x-visual-effects-how-to-create-seamless-green-screen-composites-for-2024/"><u>Updated FCP X Visual Effects How to Create Seamless Green Screen Composites for 2024</u></a></li>
 </ul></div>
 
+

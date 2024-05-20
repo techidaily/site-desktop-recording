@@ -365,3 +365,4 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-ultimate-guide-to-aspect-ratio-adjustment-in-final-cut-pro/"><u>2024 Approved The Ultimate Guide to Aspect Ratio Adjustment in Final Cut Pro</u></a></li>
 </ul></div>
 
+

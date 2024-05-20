@@ -606,3 +606,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-mastering-image-dimensions-how-to-calculate-the-perfect-ratio/"><u>In 2024, Mastering Image Dimensions How to Calculate the Perfect Ratio</u></a></li>
 </ul></div>
 
+

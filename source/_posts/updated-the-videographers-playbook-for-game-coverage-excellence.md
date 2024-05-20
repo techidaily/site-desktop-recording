@@ -629,3 +629,4 @@ A catch card is a gadget that can be associated with a PC to record on-screen co
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-spark-20-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Spark 20 to New Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

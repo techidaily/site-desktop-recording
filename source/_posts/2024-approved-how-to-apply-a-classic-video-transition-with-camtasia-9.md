@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Apply a Classic Video Transition with Camtasia 9\""
-date: 2024-05-18T05:06:24.535Z
-updated: 2024-05-19T05:06:24.535Z
+date: 2024-05-19T20:38:02.279Z
+updated: 2024-05-20T20:38:02.279Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
 <li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo A78 5G? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-find-x6-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Find X6 Device</u></a></li>
 </ul></div>
+
 

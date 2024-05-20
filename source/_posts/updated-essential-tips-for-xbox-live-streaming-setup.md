@@ -622,3 +622,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://fix-guide.techidaily.com/oppo-find-x7-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

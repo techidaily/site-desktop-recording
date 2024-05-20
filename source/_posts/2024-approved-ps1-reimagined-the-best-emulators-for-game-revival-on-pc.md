@@ -419,3 +419,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-premiere-pro-tutorial-taming-the-shake-video-stabilization-tips/"><u>Updated Premiere Pro Tutorial Taming the Shake - Video Stabilization Tips</u></a></li>
 </ul></div>
 
+

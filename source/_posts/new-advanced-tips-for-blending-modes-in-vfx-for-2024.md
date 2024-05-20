@@ -1,7 +1,7 @@
 ---
 title: "[New] Advanced Tips for Blending Modes in VFX for 2024"
-date: 2024-05-18T05:17:24.559Z
-updated: 2024-05-19T05:17:24.559Z
+date: 2024-05-19T20:38:25.922Z
+updated: 2024-05-20T20:38:25.922Z
 tags: 
   - screen-recording
   - ai video
@@ -514,4 +514,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/updated-here-are-8-best-video-animation-app-on-different-devices-android-iphone-and-ipad/"><u>Updated Here Are 8 Best Video Animation App on Different Devices, Android, iPhone and iPad</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-htc-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of HTC? Try These Fixes</u></a></li>
 </ul></div>
+
 

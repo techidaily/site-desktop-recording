@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Restoring Your OBS Camera’s Integrated Functionality"
-date: 2024-05-18T05:19:34.387Z
-updated: 2024-05-19T05:19:34.387Z
+date: 2024-05-19T20:38:29.803Z
+updated: 2024-05-20T20:38:29.803Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://ai-video-apps.techidaily.com/new-video-brightness-boosters-top-apps-for-android-and-ios/"><u>New Video Brightness Boosters Top Apps for Android and iOS</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "EyeFirefox Capture Extensions"
-date: 2024-05-18T04:57:58.832Z
-updated: 2024-05-19T04:57:58.832Z
+date: 2024-05-19T20:37:44.807Z
+updated: 2024-05-20T20:37:44.807Z
 tags: 
   - screen-recording
   - ai video
@@ -687,4 +687,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo Reno 10 Pro 5G</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-asus-rog-phone-8-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Asus ROG Phone 8 Pro without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Full Screen in Obs, No More Worry"
-date: 2024-05-18T05:09:28.571Z
-updated: 2024-05-19T05:09:28.571Z
+date: 2024-05-19T20:38:08.364Z
+updated: 2024-05-20T20:38:08.364Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-a2plus-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi A2+ Device</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo V27 Pro</u></a></li>
 </ul></div>
+
 

@@ -266,3 +266,4 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-video-editing.techidaily.com/new-step-by-step-guide-to-creating-halftone-effects-in-photoshop/"><u>New Step-By-Step Guide To Creating Halftone Effects In Photoshop</u></a></li>
 </ul></div>
 
+

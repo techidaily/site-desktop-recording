@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Mac  Basic Sound Recording in Audacity\""
-date: 2024-05-18T05:09:16.274Z
-updated: 2024-05-19T05:09:16.274Z
+date: 2024-05-19T20:38:07.949Z
+updated: 2024-05-20T20:38:07.949Z
 tags: 
   - screen-recording
   - ai video
@@ -273,4 +273,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-how-to-calculate-display-resolution-ratios-with-ease/"><u>Updated 2024 Approved How to Calculate Display Resolution Ratios with Ease</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-a15-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy A15 5G FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

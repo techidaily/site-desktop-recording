@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Easy iPhonesideways  Capturing the Moment\""
-date: 2024-05-18T05:05:52.933Z
-updated: 2024-05-19T05:05:52.933Z
+date: 2024-05-19T20:38:01.266Z
+updated: 2024-05-20T20:38:01.266Z
 tags: 
   - screen-recording
   - ai video
@@ -519,4 +519,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-mastering-autotune-effects-a-guide-for-audacity-users/"><u>2024 Approved Mastering AutoTune Effects A Guide for Audacity Users</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-essential-tips-for-youtube-audio-library-you-wont-miss/"><u>2024 Approved Essential Tips for YouTube Audio Library You Wont Miss</u></a></li>
 </ul></div>
+
 

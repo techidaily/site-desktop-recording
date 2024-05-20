@@ -793,3 +793,4 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/updated-mastering-tempo-adjustments-aligning-audio-and-visuals-in-fcpx/"><u>Updated Mastering Tempo Adjustments Aligning Audio and Visuals in FCPX</u></a></li>
 </ul></div>
 
+

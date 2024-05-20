@@ -1,7 +1,7 @@
 ---
 title: "Perfecting the Art of Documentation in Virtual Gatherings (Google Meet)"
-date: 2024-05-18T05:02:54.219Z
-updated: 2024-05-19T05:02:54.219Z
+date: 2024-05-19T20:37:54.974Z
+updated: 2024-05-20T20:37:54.974Z
 tags: 
   - screen-recording
   - ai video
@@ -520,4 +520,5 @@ Filmora provides you with an easy and intuitive interface allowing you to record
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Moto G23 | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-mastering-video-editing-replacing-audio-tracks-a-comprehensive-guide-part-1/"><u>New In 2024, Mastering Video Editing Replacing Audio Tracks - A Comprehensive Guide (Part 1)</u></a></li>
 </ul></div>
+
 

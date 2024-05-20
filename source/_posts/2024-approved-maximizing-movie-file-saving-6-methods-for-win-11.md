@@ -686,3 +686,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://smart-video-editing.techidaily.com/new-tiktok-visuals-unlocked-a-complete-aspect-ratio-guide/"><u>New TikTok Visuals Unlocked A Complete Aspect Ratio Guide</u></a></li>
 </ul></div>
 
+

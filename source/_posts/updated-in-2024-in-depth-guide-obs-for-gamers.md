@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, In-Depth Guide  OBS for Gamers\""
-date: 2024-05-18T05:02:07.081Z
-updated: 2024-05-19T05:02:07.081Z
+date: 2024-05-19T20:37:53.368Z
+updated: 2024-05-20T20:37:53.368Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://smart-video-editing.techidaily.com/new-make-a-lasting-impression-9-top-intro-creators-for-videos/"><u>New Make a Lasting Impression 9 Top Intro Creators for Videos</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-scouring-the-web-a-guide-to-finding-gory-audio-cues/"><u>New 2024 Approved Scouring the Web A Guide to Finding Gory Audio Cues</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Reducing OBS Streaming Bitrate"
-date: 2024-05-18T05:03:14.658Z
-updated: 2024-05-19T05:03:14.658Z
+date: 2024-05-19T20:37:55.964Z
+updated: 2024-05-20T20:37:55.964Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-narzo-n55-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme Narzo N55 for Streaming | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-100-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor 100 Pro For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
+
 

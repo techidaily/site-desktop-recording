@@ -1,7 +1,7 @@
 ---
 title: "IShowU Audio Capture Review"
-date: 2024-05-18T05:04:41.663Z
-updated: 2024-05-19T05:04:41.663Z
+date: 2024-05-19T20:37:58.642Z
+updated: 2024-05-20T20:37:58.642Z
 tags: 
   - screen-recording
   - ai video
@@ -457,4 +457,5 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-13-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 13 Pro Max? Heres the Best Fixes</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-zte-blade-a73-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset ZTE Blade A73 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

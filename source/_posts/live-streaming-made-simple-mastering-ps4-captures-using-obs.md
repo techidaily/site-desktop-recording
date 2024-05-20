@@ -1,7 +1,7 @@
 ---
 title: "\"Live Streaming Made Simple  Mastering PS4 Captures Using OBS\""
-date: 2024-05-18T05:00:41.169Z
-updated: 2024-05-19T05:00:41.169Z
+date: 2024-05-19T20:37:50.358Z
+updated: 2024-05-20T20:37:50.358Z
 tags: 
   - screen-recording
   - ai video
@@ -399,4 +399,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-se-2022-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone SE (2022) Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/in-2024-effective-strategies-for-high-quality-broadcast-audio-capture/"><u>In 2024, Effective Strategies for High-Quality Broadcast Audio Capture</u></a></li>
 </ul></div>
+
 

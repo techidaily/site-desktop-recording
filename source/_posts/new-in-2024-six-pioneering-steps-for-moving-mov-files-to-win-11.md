@@ -647,3 +647,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://howto.techidaily.com/bricked-your-oppo-a2-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo A2? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Quieting Mute Voices on OBS Platforms"
-date: 2024-05-18T05:04:26.183Z
-updated: 2024-05-19T05:04:26.183Z
+date: 2024-05-19T20:37:58.164Z
+updated: 2024-05-20T20:37:58.164Z
 tags: 
   - screen-recording
   - ai video
@@ -564,4 +564,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-blurred-out-the-top-10-free-face-blurring-apps-for-photo-and-video-editing-beginners/"><u>2024 Approved Blurred Out The Top 10 Free Face Blurring Apps for Photo and Video Editing Beginners</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-make-an-animated-travel-map-video/"><u>Updated How to Make an Animated Travel Map Video?</u></a></li>
 </ul></div>
+
 

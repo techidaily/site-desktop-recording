@@ -1,7 +1,7 @@
 ---
 title: "\"From Novice to Pro  PS4 Recordings Using OBS Studio\""
-date: 2024-05-18T05:05:15.336Z
-updated: 2024-05-19T05:05:15.336Z
+date: 2024-05-19T20:37:59.748Z
+updated: 2024-05-20T20:37:59.748Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-11-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 11 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/new-2024-approved-generating-the-roll-safe-think-about-it-meme/"><u>New 2024 Approved Generating the Roll Safe-Think About It Meme</u></a></li>
 </ul></div>
+
 

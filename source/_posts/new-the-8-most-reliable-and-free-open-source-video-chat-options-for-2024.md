@@ -1,7 +1,7 @@
 ---
 title: "[New] The 8 Most Reliable and Free Open Source Video Chat Options for 2024"
-date: 2024-05-18T05:07:06.476Z
-updated: 2024-05-19T05:07:06.476Z
+date: 2024-05-19T20:38:03.558Z
+updated: 2024-05-20T20:38:03.558Z
 tags: 
   - screen-recording
   - ai video
@@ -705,4 +705,5 @@ Follow @Richard Bennett
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mp4-video-editing-for-beginners-a-friendly-tutorial-for-mac-and-windows-users/"><u>Updated 2024 Approved MP4 Video Editing for Beginners A Friendly Tutorial for Mac and Windows Users</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-10-crazy-cool-examples-of-ar-video/"><u>Updated 10 Crazy-Cool Examples of AR Video</u></a></li>
 </ul></div>
+
 

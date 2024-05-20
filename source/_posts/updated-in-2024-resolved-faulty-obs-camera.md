@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Resolved  Faulty OBS Camera\""
-date: 2024-05-18T05:09:10.242Z
-updated: 2024-05-19T05:09:10.242Z
+date: 2024-05-19T20:38:07.773Z
+updated: 2024-05-20T20:38:07.773Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-xcover-7-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy XCover 7 IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-the-quintessential-guide-to-optimal-free-audio-loudness-tuners/"><u>Updated The Quintessential Guide to Optimal Free Audio Loudness Tuners</u></a></li>
 </ul></div>
+
 

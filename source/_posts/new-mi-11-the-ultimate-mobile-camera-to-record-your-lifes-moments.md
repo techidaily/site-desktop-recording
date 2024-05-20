@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mi 11  The Ultimate Mobile Camera to Record Your Life's Moments\""
-date: 2024-05-18T05:09:02.291Z
-updated: 2024-05-19T05:09:02.291Z
+date: 2024-05-19T20:38:07.513Z
+updated: 2024-05-20T20:38:07.513Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-apps.techidaily.com/updated-social-media-design-essentials-aspect-ratios-and-image-dimensions-for-2024/"><u>Updated Social Media Design Essentials Aspect Ratios and Image Dimensions for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

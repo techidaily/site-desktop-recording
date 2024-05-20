@@ -800,3 +800,4 @@ Follow @Shanoon Cox
 <li><a href="https://audio-shaping.techidaily.com/new-in-2024-download-8-best-audio-spectrum-templates-for-video/"><u>New In 2024, Download 8 Best Audio Spectrum Templates for Video</u></a></li>
 </ul></div>
 
+

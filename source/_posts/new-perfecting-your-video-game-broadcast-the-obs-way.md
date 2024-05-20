@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting Your Video Game Broadcast  The OBS Way\""
-date: 2024-05-18T05:03:46.144Z
-updated: 2024-05-19T05:03:46.144Z
+date: 2024-05-19T20:37:56.925Z
+updated: 2024-05-20T20:37:56.925Z
 tags: 
   - screen-recording
   - ai video
@@ -379,4 +379,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://sound-tweaking.techidaily.com/new-synching-visuals-and-audio-step-by-step-process/"><u>New Synching Visuals and Audio Step-by-Step Process</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-top-rated-free-video-editors-for-newbies-for-2024/"><u>Updated Top-Rated Free Video Editors for Newbies for 2024</u></a></li>
 </ul></div>
+
 

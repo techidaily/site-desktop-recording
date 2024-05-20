@@ -629,3 +629,4 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/does-edge-40-pro-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Edge 40 Pro support AVCHD video?</u></a></li>
 </ul></div>
 
+

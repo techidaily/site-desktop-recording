@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting a Cinematic Look  Ken Burns in Camtasa for 2024\""
-date: 2024-05-18T05:14:57.832Z
-updated: 2024-05-19T05:14:57.832Z
+date: 2024-05-19T20:38:20.959Z
+updated: 2024-05-20T20:38:20.959Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-v27e-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo V27e?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-vivo-t2-pro-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Vivo T2 Pro 5G</u></a></li>
 </ul></div>
+
 

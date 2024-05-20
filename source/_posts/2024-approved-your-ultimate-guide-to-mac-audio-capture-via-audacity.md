@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Your Ultimate Guide to Mac Audio Capture via Audacity\""
-date: 2024-05-18T05:09:19.543Z
-updated: 2024-05-19T05:09:19.543Z
+date: 2024-05-19T20:38:08.059Z
+updated: 2024-05-20T20:38:08.059Z
 tags: 
   - screen-recording
   - ai video
@@ -285,4 +285,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-video-editing.techidaily.com/1713962714931-updated-do-you-want-to-use-a-professional-tool-to-add-subtitles-read-this-article-to-discover-the-best-reliable-tool-to-create-subtitles-in-your-desired-man/"><u>Updated Do You Want to Use a Professional Tool to Add Subtitles? Read This Article to Discover the Best Reliable Tool to Create Subtitles in Your Desired Manner for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-play-40c-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor Play 40C is off? | Dr.fone</u></a></li>
 </ul></div>
+
 

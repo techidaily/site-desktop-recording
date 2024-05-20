@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Remedies for Disabling OBS Fullscreen"
-date: 2024-05-18T04:56:53.868Z
-updated: 2024-05-19T04:56:53.868Z
+date: 2024-05-19T20:37:42.710Z
+updated: 2024-05-20T20:37:42.710Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y78plusmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y78+Mirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-subtitles-to-mkv-videos-on-all-platforms/"><u>Updated 2024 Approved How to Add Subtitles to MKV Videos on All Platforms</u></a></li>
 </ul></div>
+
 

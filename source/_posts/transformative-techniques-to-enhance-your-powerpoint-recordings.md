@@ -580,3 +580,4 @@ Hopefully, you have understood how do you record a PowerPoint with a webcam. You
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-smart-8-hd-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Smart 8 HD’s lock screen pattern, PIN or password</u></a></li>
 </ul></div>
 
+

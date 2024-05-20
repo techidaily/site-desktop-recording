@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mini Masterpieces  Top 6 Coolest Mini-Houses in MC\""
-date: 2024-05-18T05:05:34.959Z
-updated: 2024-05-19T05:05:34.959Z
+date: 2024-05-19T20:38:00.729Z
+updated: 2024-05-20T20:38:00.729Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Follow @Shanoon Cox
 <li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-13-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Pro Max Passcode without a Computer</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-edge-40-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Edge 40?</u></a></li>
 </ul></div>
+
 

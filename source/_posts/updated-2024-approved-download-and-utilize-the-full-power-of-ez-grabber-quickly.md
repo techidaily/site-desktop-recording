@@ -320,3 +320,4 @@ Where you were facing problems recording videos on your screen and could not cho
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a05s-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy A05s Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
 
+

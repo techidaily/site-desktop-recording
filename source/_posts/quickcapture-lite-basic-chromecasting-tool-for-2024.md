@@ -1,7 +1,7 @@
 ---
 title: "\"QuickCapture Lite  Basic Chromecasting Tool for 2024\""
-date: 2024-05-18T05:05:01.169Z
-updated: 2024-05-19T05:05:01.169Z
+date: 2024-05-19T20:37:59.254Z
+updated: 2024-05-20T20:37:59.254Z
 tags: 
   - screen-recording
   - ai video
@@ -207,4 +207,5 @@ To wind up, it's true there are a lot of screen recording add-ons and applicatio
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro without Passcode or Face ID</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-bring-your-vision-to-life-best-animation-software-for-mac-and-windows/"><u>Updated 2024 Approved Bring Your Vision to Life Best Animation Software for Mac and Windows</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Eclipse Etiquette  Secrets to Stunning Night Photos for 2024\""
-date: 2024-05-18T05:22:36.134Z
-updated: 2024-05-19T05:22:36.134Z
+date: 2024-05-19T20:38:36.060Z
+updated: 2024-05-20T20:38:36.060Z
 tags: 
   - screen-recording
   - ai video
@@ -228,4 +228,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://ai-editing-video.techidaily.com/new-best-7-color-match-paint-apps-for-2024/"><u>New Best 7 Color Match Paint Apps for 2024</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/harmonizing-your-games-seamlessly-inserting-music-into-kinemaster/"><u>Harmonizing Your Games Seamlessly Inserting Music Into KineMaster</u></a></li>
 </ul></div>
+
 

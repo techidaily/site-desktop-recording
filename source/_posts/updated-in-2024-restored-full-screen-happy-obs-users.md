@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Restored Full Screen, Happy OBS Users"
-date: 2024-05-18T05:18:36.653Z
-updated: 2024-05-19T05:18:36.653Z
+date: 2024-05-19T20:38:28.053Z
+updated: 2024-05-20T20:38:28.053Z
 tags: 
   - screen-recording
   - ai video
@@ -309,4 +309,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Motorola Edge 40 Pro? | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/in-2024-essential-android-apps-unveiling-the-top-7-voice-restoration-and-amplification-options/"><u>In 2024, Essential Android Apps Unveiling the Top 7 Voice Restoration and Amplification Options</u></a></li>
 </ul></div>
+
 

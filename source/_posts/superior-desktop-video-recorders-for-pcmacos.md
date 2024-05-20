@@ -436,3 +436,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Sony Xperia 1 V? | Dr.fone</u></a></li>
 </ul></div>
 
+

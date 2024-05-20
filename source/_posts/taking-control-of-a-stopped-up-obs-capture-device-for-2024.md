@@ -1,7 +1,7 @@
 ---
 title: "\"Taking Control of a Stopped-Up OBS Capture Device for 2024\""
-date: 2024-05-18T05:07:46.035Z
-updated: 2024-05-19T05:07:46.035Z
+date: 2024-05-19T20:38:04.897Z
+updated: 2024-05-20T20:38:04.897Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://audio-shaping.techidaily.com/new-chrome-compatible-microphone-revolution-discover-the-leading-models/"><u>New Chrome-Compatible Microphone Revolution Discover the Leading Models</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Reno 11F 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

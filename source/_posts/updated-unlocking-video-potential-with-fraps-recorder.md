@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking Video Potential with Fraps Recorder"
-date: 2024-05-18T05:14:15.433Z
-updated: 2024-05-19T05:14:15.433Z
+date: 2024-05-19T20:38:19.078Z
+updated: 2024-05-20T20:38:19.078Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-sony-xperia-1-v-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Sony Xperia 1 V? Fixed | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y200-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y200</u></a></li>
 </ul></div>
+
 

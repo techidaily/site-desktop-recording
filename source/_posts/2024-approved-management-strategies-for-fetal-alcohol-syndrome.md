@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Management Strategies for Fetal Alcohol Syndrome\""
-date: 2024-05-18T05:01:14.437Z
-updated: 2024-05-19T05:01:14.437Z
+date: 2024-05-19T20:37:51.672Z
+updated: 2024-05-20T20:37:51.672Z
 tags: 
   - screen-recording
   - ai video
@@ -914,4 +914,5 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-edge-40-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola Edge 40 | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-7-plus-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 7 Plus without App | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -831,3 +831,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/new-resize-images-with-precision/"><u>New Resize Images with Precision</u></a></li>
 </ul></div>
 
+

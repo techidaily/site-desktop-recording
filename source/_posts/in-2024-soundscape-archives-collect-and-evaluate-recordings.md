@@ -403,3 +403,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://audio-shaping.techidaily.com/in-2024-expert-guide-to-displaying-audio-waves-and-adding-motion-graphics-in-premiere-pro/"><u>In 2024, Expert Guide to Displaying Audio Waves and Adding Motion Graphics in Premiere Pro</u></a></li>
 </ul></div>
 
+

@@ -1026,3 +1026,4 @@ If you are not satisfied with OBS Studio due to its complicated user interface, 
 <li><a href="https://video-ai-editor.techidaily.com/pixel-perfect-calculating-aspect-ratios-with-ease/"><u>Pixel Perfect Calculating Aspect Ratios with Ease</u></a></li>
 </ul></div>
 
+

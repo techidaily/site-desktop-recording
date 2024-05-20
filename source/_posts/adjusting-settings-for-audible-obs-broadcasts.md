@@ -1,7 +1,7 @@
 ---
 title: "Adjusting Settings for Audible OBS Broadcasts"
-date: 2024-05-18T05:08:10.831Z
-updated: 2024-05-19T05:08:10.831Z
+date: 2024-05-19T20:38:06.059Z
+updated: 2024-05-20T20:38:06.059Z
 tags: 
   - screen-recording
   - ai video
@@ -556,4 +556,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-the-premier-pop-chorus-and-rhythm-compilation-for-cinematic-vignettes/"><u>2024 Approved The Premier Pop Chorus and Rhythm Compilation for Cinematic Vignettes</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-transform-your-videos-the-ultimate-guide-to-cinematic-style-in-fcpx-for-2024/"><u>Updated Transform Your Videos The Ultimate Guide to Cinematic Style in FCPX for 2024</u></a></li>
 </ul></div>
+
 

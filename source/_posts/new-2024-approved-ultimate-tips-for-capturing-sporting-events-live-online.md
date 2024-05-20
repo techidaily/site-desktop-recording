@@ -408,3 +408,4 @@ Video catch can help you create a little sense of the chaos you might feel, espe
 <li><a href="https://ai-editing-video.techidaily.com/applying-the-effect-of-camera-shake-in-video-creation/"><u>Applying the Effect of Camera Shake in Video Creation</u></a></li>
 </ul></div>
 
+

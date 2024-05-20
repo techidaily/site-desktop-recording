@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to Capturing Skype Conversations on Windows/Mac"
-date: 2024-05-18T05:02:28.885Z
-updated: 2024-05-19T05:02:28.885Z
+date: 2024-05-19T20:37:54.079Z
+updated: 2024-05-20T20:37:54.079Z
 tags: 
   - screen-recording
   - ai video
@@ -595,4 +595,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-timecode-converter-apps-and-websites-for-video-editors/"><u>Updated In 2024, Best Timecode Converter Apps and Websites for Video Editors</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola Moto G84 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

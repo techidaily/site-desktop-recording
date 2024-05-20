@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Android & iOS Leaderboard of PS2 Emulation Software"
-date: 2024-05-18T05:00:48.309Z
-updated: 2024-05-19T05:00:48.309Z
+date: 2024-05-19T20:37:50.864Z
+updated: 2024-05-20T20:37:50.864Z
 tags: 
   - screen-recording
   - ai video
@@ -488,4 +488,5 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-s23-tactical-edition-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy S23 Tactical Edition to Roku | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

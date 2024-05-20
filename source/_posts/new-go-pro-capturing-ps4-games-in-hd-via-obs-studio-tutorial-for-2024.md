@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Go Pro  Capturing PS4 Games in HD via OBS Studio Tutorial for 2024\""
-date: 2024-05-18T05:14:49.416Z
-updated: 2024-05-19T05:14:49.416Z
+date: 2024-05-19T20:38:20.708Z
+updated: 2024-05-20T20:38:20.708Z
 tags: 
   - screen-recording
   - ai video
@@ -412,4 +412,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Redmi 13C | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-call-logs-from-htc-u23-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from HTC U23 Pro</u></a></li>
 </ul></div>
+
 

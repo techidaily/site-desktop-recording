@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Verdict on Screen Recording  Does OBS Surpass Fraps?\""
-date: 2024-05-18T05:17:35.782Z
-updated: 2024-05-19T05:17:35.782Z
+date: 2024-05-19T20:38:26.256Z
+updated: 2024-05-20T20:38:26.256Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-vip-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 VIP to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-unveiling-8-crucial-video-game-auditory-elements-all-free/"><u>Updated In 2024, Unveiling 8 Crucial Video Game Auditory Elements - All Free</u></a></li>
 </ul></div>
+
 

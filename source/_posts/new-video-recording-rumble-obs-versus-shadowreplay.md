@@ -231,3 +231,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-pova-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Pova 5 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

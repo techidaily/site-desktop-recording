@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Creating a Skype Group on Both Systems\""
-date: 2024-05-18T05:18:21.089Z
-updated: 2024-05-19T05:18:21.089Z
+date: 2024-05-19T20:38:27.590Z
+updated: 2024-05-20T20:38:27.590Z
 tags: 
   - screen-recording
   - ai video
@@ -675,4 +675,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-vdieo-software.techidaily.com/finding-the-ideal-image-size-a-ratio-calculator-tutorial-for-2024/"><u>Finding the Ideal Image Size A Ratio Calculator Tutorial for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia C12 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

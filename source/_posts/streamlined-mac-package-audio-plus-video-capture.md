@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlined Mac Package  Audio + Video Capture\""
-date: 2024-05-18T05:06:08.494Z
-updated: 2024-05-19T05:06:08.494Z
+date: 2024-05-19T20:38:01.746Z
+updated: 2024-05-20T20:38:01.746Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://audio-editing.techidaily.com/updated-10-premier-windows-based-textual-output-programs-for-audio-input/"><u>Updated 10 Premier Windows-Based Textual Output Programs for Audio Input</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-2024-approved-enhance-sound-clarity-with-dynamic-range-compression-techniques/"><u>New 2024 Approved Enhance Sound Clarity with Dynamic Range Compression Techniques</u></a></li>
 </ul></div>
+
 

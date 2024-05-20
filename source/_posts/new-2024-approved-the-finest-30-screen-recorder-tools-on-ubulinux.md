@@ -709,3 +709,4 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Itel P40? | Dr.fone</u></a></li>
 </ul></div>
 
+

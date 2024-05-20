@@ -1,7 +1,7 @@
 ---
 title: "Efficient OBS Settings for Thrifty Users"
-date: 2024-05-18T05:11:15.201Z
-updated: 2024-05-19T05:11:15.201Z
+date: 2024-05-19T20:38:11.983Z
+updated: 2024-05-20T20:38:11.983Z
 tags: 
   - screen-recording
   - ai video
@@ -252,4 +252,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-11-pro-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 11 Pro</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
 </ul></div>
+
 

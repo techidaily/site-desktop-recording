@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In-Depth Look at Fraps Screen Capture\""
-date: 2024-05-18T05:19:40.647Z
-updated: 2024-05-19T05:19:40.647Z
+date: 2024-05-19T20:38:30.013Z
+updated: 2024-05-20T20:38:30.013Z
 tags: 
   - screen-recording
   - ai video
@@ -376,4 +376,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://animation-videos.techidaily.com/top-10-best-photo-to-animation-converters-that-give-you-an-advantage/"><u>Top 10 Best Photo to Animation Converters That Give You an Advantage</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-13t-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 13T Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

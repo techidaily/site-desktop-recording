@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Optimizing Latency for Real-Time OBS Viewing\""
-date: 2024-05-18T05:03:30.412Z
-updated: 2024-05-19T05:03:30.412Z
+date: 2024-05-19T20:37:56.433Z
+updated: 2024-05-20T20:37:56.433Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo S17 Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-a60-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel A60? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

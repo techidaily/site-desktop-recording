@@ -1,7 +1,7 @@
 ---
 title: "How to Apply a Classic Video Transition with Camtasia 9 for 2024"
-date: 2024-05-18T05:00:55.731Z
-updated: 2024-05-19T05:00:55.731Z
+date: 2024-05-19T20:37:51.092Z
+updated: 2024-05-20T20:37:51.092Z
 tags: 
   - screen-recording
   - ai video
@@ -356,4 +356,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y100i Power 5G?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-spark-20c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Spark 20C</u></a></li>
 </ul></div>
+
 

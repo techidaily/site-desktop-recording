@@ -410,3 +410,4 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-infinix-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Infinix</u></a></li>
 </ul></div>
 
+

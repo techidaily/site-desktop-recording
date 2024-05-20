@@ -1,7 +1,7 @@
 ---
 title: "[Updated] MiniCam Project Scrutiny Overview"
-date: 2024-05-18T05:16:20.830Z
-updated: 2024-05-19T05:16:20.830Z
+date: 2024-05-19T20:38:23.504Z
+updated: 2024-05-20T20:38:23.504Z
 tags: 
   - screen-recording
   - ai video
@@ -499,4 +499,5 @@ TinyTake is not difficult to utilize screen catch and recorder, which you can us
 <li><a href="https://audio-shaping.techidaily.com/new-2024-approved-expert-techniques-for-audio-track-replacement-in-multimedia-files/"><u>New 2024 Approved Expert Techniques for Audio Track Replacement in Multimedia Files</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-split-videos-in-final-cut-pro/"><u>Updated How to Split Videos in Final Cut Pro</u></a></li>
 </ul></div>
+
 

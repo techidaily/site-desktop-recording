@@ -771,3 +771,4 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://ai-editing-video.techidaily.com/new-best-frame-rate-for-4k-video/"><u>New Best Frame Rate for 4K Video</u></a></li>
 </ul></div>
 
+

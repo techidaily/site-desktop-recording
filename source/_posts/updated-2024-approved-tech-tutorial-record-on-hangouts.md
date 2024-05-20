@@ -450,3 +450,4 @@ The answer to the question "Can you record a Google hangout?" is yes. You can us
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-hd-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 HD to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 </ul></div>
 
+

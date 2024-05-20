@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Expert's Guide to Minecraft 3D Shapes Crafting\""
-date: 2024-05-18T05:09:06.128Z
-updated: 2024-05-19T05:09:06.128Z
+date: 2024-05-19T20:38:07.636Z
+updated: 2024-05-20T20:38:07.636Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-3-different-methods-to-correct-color-distortion-in-videos/"><u>New 2024 Approved 3 Different Methods to Correct Color Distortion in Videos</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-music-recording-software-top-picks-and-reviews/"><u>Updated In 2024, Free Music Recording Software Top Picks and Reviews</u></a></li>
 </ul></div>
+
 

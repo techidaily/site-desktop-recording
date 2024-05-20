@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Halt Real-Time Audio/Video Capturing on Apple's Platform\""
-date: 2024-05-18T05:18:54.570Z
-updated: 2024-05-19T05:18:54.570Z
+date: 2024-05-19T20:38:28.578Z
+updated: 2024-05-20T20:38:28.578Z
 tags: 
   - screen-recording
   - ai video
@@ -436,4 +436,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-microsoft-video-editor-tutorial-simplify-your-video-editing-experience/"><u>New In 2024, Microsoft Video Editor Tutorial Simplify Your Video Editing Experience</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia 150 (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 
