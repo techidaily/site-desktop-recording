@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Non-Disclosure in Videos  Tips for Masking Identifiable Details\""
-date: 2024-05-18T05:43:32.924Z
-updated: 2024-05-19T05:43:32.924Z
+date: 2024-06-09T05:38:09.029Z
+updated: 2024-06-10T05:38:09.029Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Non-Disclosure in Videos: Tips for Masking Identifiable Details\""
 excerpt: "\"This Article Describes [Updated] Non-Disclosure in Videos: Tips for Masking Identifiable Details\""
 keywords: "\"Video Privacy Secrets,ID Blur Techniques,Hidden Identity Safety,Anonymity in Media,Protecting Video Info,Covered Identities Tips,Non-Disclosure Strategies\""
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## Non-Disclosure in Videos: Tips for Masking Identifiable Details

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capture Every Skype Interaction  Windows & OS X Style\""
-date: 2024-05-19T20:38:13.858Z
-updated: 2024-05-20T20:38:13.858Z
+date: 2024-06-09T05:38:17.510Z
+updated: 2024-06-10T05:38:17.510Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Capture Every Skype Interaction: Windows & OS X Style\""
 excerpt: "\"This Article Describes [Updated] Capture Every Skype Interaction: Windows & OS X Style\""
 keywords: "\"Skype Call Recording,Screen Capturing Skype,Skype Video Transcription,Windows Skype Sync,OSX Skype Integration,Secure Skype Notes,Real-Time Skype Record\""
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Capture Every Skype Interaction: Windows & OS X Style

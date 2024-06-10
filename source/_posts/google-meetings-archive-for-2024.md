@@ -1,7 +1,7 @@
 ---
 title: "Google Meetings Archive for 2024"
-date: 2024-05-18T05:28:54.636Z
-updated: 2024-05-19T05:28:54.636Z
+date: 2024-06-09T05:38:07.556Z
+updated: 2024-06-10T05:38:07.556Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Google Meetings Archive for 2024"
 excerpt: "This Article Describes Google Meetings Archive for 2024"
 keywords: "Google Meetings Records,Google Live Chat History,Online Meeting Logs,Web Conference Archives,Digital Meeting Transcripts,Video Conferencing Archive,Past Virtual Gatherings"
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## Google Meetings Archive

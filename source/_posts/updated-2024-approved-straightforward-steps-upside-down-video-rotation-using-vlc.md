@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Straightforward Steps  Upside-Down Video Rotation Using VLC\""
-date: 2024-05-19T20:38:08.249Z
-updated: 2024-05-20T20:38:08.249Z
+date: 2024-06-09T05:38:20.187Z
+updated: 2024-06-10T05:38:20.187Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Straightforward Steps: Upside-Down Video Rotation Using VLC\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Straightforward Steps: Upside-Down Video Rotation Using VLC\""
 keywords: "\"Upside-Down Video,Simple Video Rotate,VLC Reverse Play,Flip Screen VLC,Turn Video Upside Down,VLC Video Inversion,Reverse Video VLC\""
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## Straightforward Steps: Upside-Down Video Rotation Using VLC

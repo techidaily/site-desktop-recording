@@ -1,7 +1,7 @@
 ---
 title: "\"Instant Live  From OBS to Instagram App\""
-date: 2024-05-18T05:42:45.232Z
-updated: 2024-05-19T05:42:45.232Z
+date: 2024-06-09T05:38:09.730Z
+updated: 2024-06-10T05:38:09.730Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Instant Live: From OBS to Instagram App\""
 excerpt: "\"This Article Describes Instant Live: From OBS to Instagram App\""
 keywords: "\"Live Streaming Basics,OBS Broadcasting,Social Media Live,Instagram Live Features,Real-Time Video Sharing,OBS to Instagram Tutorial,Immediate Streaming Techniques\""
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## Instant Live: From OBS to Instagram App

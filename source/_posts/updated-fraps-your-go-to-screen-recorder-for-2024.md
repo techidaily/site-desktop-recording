@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fraps  Your Go-To Screen Recorder for 2024\""
-date: 2024-05-18T05:33:15.778Z
-updated: 2024-05-19T05:33:15.778Z
+date: 2024-06-09T05:38:15.708Z
+updated: 2024-06-10T05:38:15.708Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Fraps: Your Go-To Screen Recorder for 2024\""
 excerpt: "\"This Article Describes [Updated] Fraps: Your Go-To Screen Recorder for 2024\""
 keywords: "\"Fraps Screen Recording,Fraps Capture Tool,Fraps Video Streaming,Fraps Gameplay Recorder,Best Screen Recorder: Fraps,Fraps Performance Test,Optimal Screen Recorder: Fraps\""
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## Fraps: Your Go-To Screen Recorder?

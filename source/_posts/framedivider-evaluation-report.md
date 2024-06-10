@@ -1,7 +1,7 @@
 ---
 title: "FrameDivider Evaluation Report"
-date: 2024-05-19T20:37:51.094Z
-updated: 2024-05-20T20:37:51.094Z
+date: 2024-06-09T05:38:23.100Z
+updated: 2024-06-10T05:38:23.100Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes FrameDivider Evaluation Report"
 excerpt: "This Article Describes FrameDivider Evaluation Report"
 keywords: "Divide Frame Analysis,Evaluate Screen Split,Frame Slicing Review,Visual Segment Assessment,Content Separation Study,Display Partition Report,Interface Division Examination"
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## FrameDivider Evaluation Report

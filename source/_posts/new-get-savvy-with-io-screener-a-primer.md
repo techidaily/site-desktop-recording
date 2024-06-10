@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Get Savvy with IO Screener  A Primer\""
-date: 2024-05-19T20:37:43.824Z
-updated: 2024-05-20T20:37:43.824Z
+date: 2024-06-09T05:38:08.777Z
+updated: 2024-06-10T05:38:08.777Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Get Savvy with IO Screener: A Primer\""
 excerpt: "\"This Article Describes [New] Get Savvy with IO Screener: A Primer\""
 keywords: "IO Screening Basics,IO Check Tips,IO Screener Guide,IO Analysis Starter,IO Skills Introduction,IO Preliminary Test,IO Awareness Primer"
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## Get Savvy with IO Screener: A Primer

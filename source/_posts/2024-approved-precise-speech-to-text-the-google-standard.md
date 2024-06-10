@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Precise Speech to Text  The Google Standard\""
-date: 2024-05-18T05:59:59.111Z
-updated: 2024-05-19T05:59:59.111Z
+date: 2024-06-09T05:38:14.043Z
+updated: 2024-06-10T05:38:14.043Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Precise Speech to Text: The Google Standard\""
 excerpt: "\"This Article Describes 2024 Approved: Precise Speech to Text: The Google Standard\""
 keywords: "Scheduling Google Meets,Setup Google Meeting,Create Google Live Events,Plan Google Video Call,Organize Google Chat Sessions,Establish Online Meetings (Google),Launch Google Conference"
-thumbnail: https://www.lifewire.com/thmb/Ov60TE6o0ZdI6Oaw589hEL_tVLg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229088-5bd1f61e46e0fb0026fdf2f0.jpg
+thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a50d24fd1a27318344d95b256.jpg
 ---
 
 ## Precise Speech to Text: The Google Standard

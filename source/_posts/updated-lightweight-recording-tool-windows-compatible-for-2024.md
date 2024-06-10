@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Lightweight Recording Tool, Windows Compatible for 2024"
-date: 2024-05-18T05:23:57.985Z
-updated: 2024-05-19T05:23:57.985Z
+date: 2024-06-09T05:38:22.448Z
+updated: 2024-06-10T05:38:22.448Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Lightweight Recording Tool, Windows Compatible for 2024"
 excerpt: "This Article Describes [Updated] Lightweight Recording Tool, Windows Compatible for 2024"
 keywords: "Lightweight Windows AudioRecorder,Portable Windows SoundCapture,Easy Windows MP3 Recorder,Simple Windows VoiceNoteApp,QuickWindows LiteSoundGrabber,Flexible Windows AudioSnapper,Compact Windows SoundSaver"
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## Lightweight Recording Tool, Windows Compatible

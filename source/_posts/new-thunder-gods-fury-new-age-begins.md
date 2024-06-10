@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Thunder God's Fury  New Age Begins\""
-date: 2024-05-18T05:52:50.216Z
-updated: 2024-05-19T05:52:50.216Z
+date: 2024-06-09T05:38:08.218Z
+updated: 2024-06-10T05:38:08.218Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Thunder God's Fury: New Age Begins\""
 excerpt: "\"This Article Describes [New] Thunder God's Fury: New Age Begins\""
 keywords: "Thunder's Might,New Age Startup,Furious Godlight,Divine Power Surge,Fury Unleashed,Ancient Thunderage,Dawn of Fierce Deity"
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## Thunder God's Fury: New Age Begins

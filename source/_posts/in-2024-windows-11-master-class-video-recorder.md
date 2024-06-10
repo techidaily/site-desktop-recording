@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Windows 11 Master Class Video Recorder"
-date: 2024-05-19T20:37:51.270Z
-updated: 2024-05-20T20:37:51.270Z
+date: 2024-06-09T05:38:07.834Z
+updated: 2024-06-10T05:38:07.834Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Windows 11 Master Class Video Recorder"
 excerpt: "This Article Describes In 2024, Windows 11 Master Class Video Recorder"
 keywords: "Win11 Video Tricks,Tenfold Record W11,Pro W11 Recording Tips,Windows 11 Video Hacks,W11 Recording Techniques,W11 Advanced Vid Tricks,Enhance Win11 Recordings"
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## Windows 11 Master Class Video Recorder

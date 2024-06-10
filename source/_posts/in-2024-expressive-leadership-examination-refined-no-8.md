@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Expressive Leadership Examination - Refined No. 8\""
-date: 2024-05-18T05:56:23.535Z
-updated: 2024-05-19T05:56:23.535Z
+date: 2024-06-09T05:38:09.876Z
+updated: 2024-06-10T05:38:09.876Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Expressive Leadership Examination - Refined No. 8\""
 excerpt: "\"This Article Describes In 2024, Expressive Leadership Examination - Refined No. 8\""
 keywords: "Expressive Leadership Test,Leadership Expression Assessment,Enhanced Leadership Evaluation,Refined Leadership Insight,No.8 Leadership Exam,Advanced Leadership Quiz,Expressive Leadership Review"
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## Expressive Leadership Examination - Refined No. 8

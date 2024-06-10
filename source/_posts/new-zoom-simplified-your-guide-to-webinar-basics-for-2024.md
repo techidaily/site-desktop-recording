@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Zoom Simplified  Your Guide to Webinar Basics for 2024\""
-date: 2024-05-19T20:38:13.359Z
-updated: 2024-05-20T20:38:13.359Z
+date: 2024-06-09T05:38:24.206Z
+updated: 2024-06-10T05:38:24.206Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Zoom Simplified: Your Guide to Webinar Basics for 2024\""
 excerpt: "\"This Article Describes [New] Zoom Simplified: Your Guide to Webinar Basics for 2024\""
 keywords: "Webinar Fundamentals,Zoom Essentials,Webinar Mastery,Basic Zoom Use,Easy Webinars,Zoom Webinar Guide,Simplified Webinar Tips"
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## Zoom Simplified: Your Guide to Webinar Basics

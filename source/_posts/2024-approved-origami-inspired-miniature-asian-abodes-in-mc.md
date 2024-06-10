@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Origami-Inspired, Miniature Asian Abodes in MC\""
-date: 2024-05-18T05:30:29.561Z
-updated: 2024-05-19T05:30:29.561Z
+date: 2024-06-09T05:38:13.191Z
+updated: 2024-06-10T05:38:13.191Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Origami-Inspired, Miniature Asian Abodes in MC\""
 excerpt: "\"This Article Describes 2024 Approved: Origami-Inspired, Miniature Asian Abodes in MC\""
 keywords: "Origami Houses MC,MC Origami Dwellings,Mini MC Asan Abode,Asian MC Origami Homes,MC Abodes Inspired Origami,Tiny Asian MC Cottages,Micro MC Japanese Residences"
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## Origami-Inspired, Miniature Asian Abodes in MC

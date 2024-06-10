@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Supreme 10 Royale Face-Offs\""
-date: 2024-05-18T05:39:13.862Z
-updated: 2024-05-19T05:39:13.862Z
+date: 2024-06-09T05:38:23.934Z
+updated: 2024-06-10T05:38:23.934Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Supreme 10 Royale Face-Offs\""
 excerpt: "\"This Article Describes 2024 Approved: Supreme 10 Royale Face-Offs\""
 keywords: "Supreme Royale Battle,Royal Supremacy Showdown,Royale Faction Clash,Supremacy Royale Faceoff,Ultimate Royale Duel,Royale Superior Fight,Top Royale Combatants"
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## Supreme 10 Royale Face-Offs

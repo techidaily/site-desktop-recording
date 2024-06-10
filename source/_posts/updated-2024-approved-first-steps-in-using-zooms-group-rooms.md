@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  First Steps in Using Zoom's Group Rooms\""
-date: 2024-05-18T05:43:38.019Z
-updated: 2024-05-19T05:43:38.019Z
+date: 2024-06-09T05:38:06.855Z
+updated: 2024-06-10T05:38:06.855Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: First Steps in Using Zoom's Group Rooms\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: First Steps in Using Zoom's Group Rooms\""
 keywords: "Zoom Group Room Basics,Joining Zoom Room,Setting Up Zoom Grouping,Intro to Zoom Rooms,Use Zoom Meeting Space,Initial Zoom Room Tips,Getting Started with Zoom Groups"
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## First Steps in Using Zoom's Group Rooms

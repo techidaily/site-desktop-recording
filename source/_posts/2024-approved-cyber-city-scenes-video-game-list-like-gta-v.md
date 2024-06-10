@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Cyber City Scenes  Video Game List Like GTA V\""
-date: 2024-05-18T05:58:54.885Z
-updated: 2024-05-19T05:58:54.885Z
+date: 2024-06-09T05:38:19.010Z
+updated: 2024-06-10T05:38:19.010Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Cyber City Scenes: Video Game List Like GTA V\""
 excerpt: "\"This Article Describes 2024 Approved: Cyber City Scenes: Video Game List Like GTA V\""
 keywords: "\"Cyber City Games,GTA V Series,GTA World Videos,Urban Video Game Lists,Virtual City Games,Next-Gen Games Guide,Videogame City Scenes\""
-thumbnail: https://www.lifewire.com/thmb/ebrh4pryk1RCkUBx_N34Im614oA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-14050070541-0fc96b82fdc54287bf3bbce3ba323342.jpg
+thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef3415c454c76fbd282fafbfc.jpg
 ---
 
 ## Cyber City Scenes: Video Game List Like GTA V

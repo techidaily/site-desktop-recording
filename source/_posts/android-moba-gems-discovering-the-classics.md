@@ -1,7 +1,7 @@
 ---
 title: "\"Android MOBA Gems  Discovering the Classics\""
-date: 2024-05-19T20:39:27.520Z
-updated: 2024-05-20T20:39:27.520Z
+date: 2024-06-09T05:38:15.729Z
+updated: 2024-06-10T05:38:15.729Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Android MOBA Gems: Discovering the Classics\""
 excerpt: "\"This Article Describes Android MOBA Gems: Discovering the Classics\""
 keywords: "Android MOBAs,Mobile Gaming Gems,Classic MOBA Games,Android Game Rewards,Gem Collecting in MOBA,Historical MOBA Titles,Discovering Classics MOBA"
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## Android MOBA Gems: Discovering the Classics

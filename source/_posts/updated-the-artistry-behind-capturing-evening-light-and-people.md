@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Artistry Behind Capturing Evening Light and People"
-date: 2024-05-18T05:34:37.062Z
-updated: 2024-05-19T05:34:37.062Z
+date: 2024-06-09T05:38:16.149Z
+updated: 2024-06-10T05:38:16.149Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] The Artistry Behind Capturing Evening Light and People"
 excerpt: "This Article Describes [Updated] The Artistry Behind Capturing Evening Light and People"
 keywords: "Joyful Nintendo Gaming,Top Nintendo Card Games,Fun With Nintendo Decks,Prime Nintendo Playing,Ultimate Nintendo Collectibles,Nintendo Cards Excitement,Best Nintendo Game Cards"
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## The Artistry Behind Capturing Evening Light and People

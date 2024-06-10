@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Terror in Town  A List of Intense Zombie Games\""
-date: 2024-05-19T20:38:06.208Z
-updated: 2024-05-20T20:38:06.208Z
+date: 2024-06-09T05:38:10.437Z
+updated: 2024-06-10T05:38:10.437Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Terror in Town: A List of Intense Zombie Games\""
 excerpt: "\"This Article Describes [New] Terror in Town: A List of Intense Zombie Games\""
 keywords: "Zombie Horror Gaming,Intensity Zombie Titles,Epic Undead Games,Thrilling Dead Gameplay,Intense Zombie Puzzle,Scary Zombie Quest,Adrenaline in Dead Games"
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## Terror in Town: A List of Intense Zombie Games

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Masterclass  Setting Up Countdowns in OBS Studio\""
-date: 2024-05-18T05:25:49.878Z
-updated: 2024-05-19T05:25:49.878Z
+date: 2024-06-09T05:38:08.039Z
+updated: 2024-06-10T05:38:08.039Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Masterclass: Setting Up Countdowns in OBS Studio\""
 excerpt: "\"This Article Describes [New] In 2024, Masterclass: Setting Up Countdowns in OBS Studio\""
 keywords: "Desktop Live TV,Screen Capture Windows,PC Live Streaming,Desktop Broadcast,Windowed Media Playback,Capture Live TV,Windows Screengrab Mastery"
-thumbnail: https://www.lifewire.com/thmb/GmtX4Dz-IqWNOXpwPIQPNtbYXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
 ## Masterclass: Setting Up Countdowns in OBS Studio

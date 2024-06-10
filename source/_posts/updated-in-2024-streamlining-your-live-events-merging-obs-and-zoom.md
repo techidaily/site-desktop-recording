@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Streamlining Your Live Events  Merging OBS and Zoom\""
-date: 2024-05-18T05:54:47.234Z
-updated: 2024-05-19T05:54:47.234Z
+date: 2024-06-09T05:38:18.811Z
+updated: 2024-06-10T05:38:18.811Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Streamlining Your Live Events: Merging OBS and Zoom\""
 excerpt: "\"This Article Describes [Updated] In 2024, Streamlining Your Live Events: Merging OBS and Zoom\""
 keywords: "OBS & Zoom Integration,Live Event Streaming Tech,OBS ZOOM Combo Guide,Video Conference Optimization,Efficient Event Broadcasting,Unified Stream Tools,Simplified Live Meetings"
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Streamlining Your Live Events: Merging OBS and Zoom

@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging Filters, Masks & Effects to Elevate Conference Calls"
-date: 2024-05-18T05:47:07.694Z
-updated: 2024-05-19T05:47:07.694Z
+date: 2024-06-09T05:38:13.938Z
+updated: 2024-06-10T05:38:13.938Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Leveraging Filters, Masks & Effects to Elevate Conference Calls"
 excerpt: "This Article Describes [New] Leveraging Filters, Masks & Effects to Elevate Conference Calls"
 keywords: "Filter Enhance Calls,Mask Meetings Clear,Call Effect Techniques,Elevate Calls Filters,Professional Video Calls,Conference Call Boosts,Audio Quality Improve"
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Leveraging Filters, Masks & Effects to Elevate Conference Calls

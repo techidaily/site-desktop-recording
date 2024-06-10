@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Undead Uprising - Top 8 Unleashed in Video Game Realm\""
-date: 2024-05-18T05:38:42.700Z
-updated: 2024-05-19T05:38:42.700Z
+date: 2024-06-09T05:38:10.241Z
+updated: 2024-06-10T05:38:10.241Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Undead Uprising - Top 8 Unleashed in Video Game Realm\""
 excerpt: "\"This Article Describes 2024 Approved: Undead Uprising - Top 8 Unleashed in Video Game Realm\""
 keywords: "Undead Rise Gaming,Zombie Battle Royale,Top Eight Horror Games,Epic Dead Uprising,Unleashed Zombies Realm,Video Game Survival Challenge,Undead Game Hunt Leader"
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## Undead Uprising - Top 8 Unleashed in Video Game Realm

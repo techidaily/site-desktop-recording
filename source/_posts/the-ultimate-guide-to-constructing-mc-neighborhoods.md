@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Constructing MC Neighborhoods"
-date: 2024-05-18T05:35:50.825Z
-updated: 2024-05-19T05:35:50.825Z
+date: 2024-06-09T05:38:18.092Z
+updated: 2024-06-10T05:38:18.092Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Ultimate Guide to Constructing MC Neighborhoods"
 excerpt: "This Article Describes The Ultimate Guide to Constructing MC Neighborhoods"
 keywords: "Build MC Zones,MC Community Design,MC Urban Planning,Creating MC Hubs,MC Neighborhood Basics,MC Townships Guide,MC District Layouts"
-thumbnail: https://www.lifewire.com/thmb/7xkPKaI2xi5sTbIeFjMPxaWn7Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-tvos_a-star-is-born_060319-b01aea7d8a1949609359d8d96b1a22e0.jpg
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
 ## The Ultimate Guide to Constructing MC Neighborhoods

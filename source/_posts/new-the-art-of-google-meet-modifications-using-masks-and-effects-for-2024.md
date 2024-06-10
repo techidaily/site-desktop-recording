@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of Google Meet Modifications  Using Masks & Effects for 2024\""
-date: 2024-05-18T05:50:09.236Z
-updated: 2024-05-19T05:50:09.236Z
+date: 2024-06-09T05:38:17.986Z
+updated: 2024-06-10T05:38:17.986Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] The Art of Google Meet Modifications: Using Masks & Effects for 2024\""
 excerpt: "\"This Article Describes [New] The Art of Google Meet Modifications: Using Masks & Effects for 2024\""
 keywords: "Google Meet Adjustments,Google Meet Customization,Google Meet Enhancements,Google Meet Interface Tweaks,Google Meet Visual Upgrades,Mask Effects in Meet,Virtual Meeting Features"
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## The Art of Google Meet Modifications: Using Masks & Effects

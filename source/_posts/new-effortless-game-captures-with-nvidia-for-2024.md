@@ -1,7 +1,7 @@
 ---
 title: "[New] Effortless Game Captures with NVIDIA for 2024"
-date: 2024-05-18T05:54:43.432Z
-updated: 2024-05-19T05:54:43.432Z
+date: 2024-06-09T05:38:14.301Z
+updated: 2024-06-10T05:38:14.301Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Effortless Game Captures with NVIDIA for 2024"
 excerpt: "This Article Describes [New] Effortless Game Captures with NVIDIA for 2024"
 keywords: "\"Easy Gaming Snapshots,Nvidia Screen Recording,Seamless Play Recordings,High-Quality Game Capture,Streamlined Gaming Captures,NVIDIA Live Capture,Quick Game Replays\""
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## Effortless Game Captures with NVIDIA

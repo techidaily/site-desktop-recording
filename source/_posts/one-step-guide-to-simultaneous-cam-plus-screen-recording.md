@@ -1,7 +1,7 @@
 ---
 title: "One Step Guide to Simultaneous Cam + Screen Recording"
-date: 2024-05-18T05:47:18.719Z
-updated: 2024-05-19T05:47:18.719Z
+date: 2024-06-09T05:38:22.871Z
+updated: 2024-06-10T05:38:22.871Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes One Step Guide to Simultaneous Cam + Screen Recording"
 excerpt: "This Article Describes One Step Guide to Simultaneous Cam + Screen Recording"
 keywords: "\"Cam+Screen Capture Tips,Simultaneous Recording Techniques,Screen-Recording Basics,Screen & Camera Guide,Dual Screen Record Now,Combined Cam + Screen,Quick Recording Setup Guide\""
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## One Step Guide to Simultaneous Cam + Screen Recording

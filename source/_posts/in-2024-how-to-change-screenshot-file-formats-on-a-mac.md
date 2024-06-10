@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Change Screenshot File Formats on a Mac"
-date: 2024-05-19T20:38:01.694Z
-updated: 2024-05-20T20:38:01.694Z
+date: 2024-06-09T05:38:10.209Z
+updated: 2024-06-10T05:38:10.209Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, How to Change Screenshot File Formats on a Mac"
 excerpt: "This Article Describes In 2024, How to Change Screenshot File Formats on a Mac"
 keywords: "Mac Screenshot Format Change,Mac Screenshot Reformat,Changing Mac Screenshots,Mac Screenshot File Type,Convert Mac Screen Capture,Change Mac Screenshot Extension,Screenshot File Conversion Mac"
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## Simple Steps to Modify Screen Capture on macOS
