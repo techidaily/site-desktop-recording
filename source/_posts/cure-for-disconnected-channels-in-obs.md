@@ -1,7 +1,7 @@
 ---
 title: "Cure for Disconnected Channels in OBS"
-date: 2024-05-18T05:50:28.117Z
-updated: 2024-05-19T05:50:28.117Z
+date: 2024-06-18T07:39:22.498Z
+updated: 2024-06-19T07:39:22.498Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Cure for Disconnected Channels in OBS"
 excerpt: "This Article Describes Cure for Disconnected Channels in OBS"
 keywords: "IOS Screen Capture Tips,IPad Screen Record Guide,Pro ScreenRecording Techniques,Advanced iPad Screen Share,Efficient Screen Recording Methods,IPad Screencast Tricks,Mastering iPad Video Capture"
-thumbnail: https://www.lifewire.com/thmb/b7hSKwI9Oajpbwr32n5Vsf7fcds=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/operationcouldnotcomplete-95695abe458d4062a2c2f7e46e656b08.png
+thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7eef6880dc4b8d8fa008ddde2f.png
 ---
 
 ## Cure for Disconnected Channels in OBS

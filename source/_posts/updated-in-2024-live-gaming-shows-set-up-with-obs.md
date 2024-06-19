@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Live Gaming Shows  Set Up with OBS\""
-date: 2024-05-18T05:31:48.329Z
-updated: 2024-05-19T05:31:48.329Z
+date: 2024-06-18T07:39:22.978Z
+updated: 2024-06-19T07:39:22.978Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Live Gaming Shows: Set Up with OBS\""
 excerpt: "\"This Article Describes [Updated] In 2024, Live Gaming Shows: Set Up with OBS\""
 keywords: "\"Gaming Live Shows,OBS Broadcasting,Live Stream Games,OBS Studio Setup,Real-Time Game Sharing,Video Game Livestreams,OBS Graphics for Gaming\""
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## Live Gaming Shows: Set Up with OBS

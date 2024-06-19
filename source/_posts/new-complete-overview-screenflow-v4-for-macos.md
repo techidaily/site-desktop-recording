@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Complete Overview  ScreenFlow v4 for macOS\""
-date: 2024-05-18T05:25:56.031Z
-updated: 2024-05-19T05:25:56.031Z
+date: 2024-06-18T07:39:24.063Z
+updated: 2024-06-19T07:39:24.063Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Complete Overview: ScreenFlow v4 for macOS\""
 excerpt: "\"This Article Describes [New] Complete Overview: ScreenFlow v4 for macOS\""
 keywords: "MacOS ScreenFlow Guide,ScreenFlow V4 Basics,ScreenFlow Tools Mac,Video Editor Mac OS,ScreenFlow Software Review,MacVid Editing Tool,Advanced ScreenFlow MacOS"
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Complete Overview: ScreenFlow v4 for macOS

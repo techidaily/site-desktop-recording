@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Adjusting OBS Encoding Settings\""
-date: 2024-05-18T05:44:04.769Z
-updated: 2024-05-19T05:44:04.769Z
+date: 2024-06-18T07:39:23.146Z
+updated: 2024-06-19T07:39:23.146Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Adjusting OBS Encoding Settings\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Adjusting OBS Encoding Settings\""
 keywords: "OBS Code Adjustment,Encode Settings Update,Video Format Tweaking,Encoding Parameters Tuning,Stream Quality Control,Bitrate Optimization,Resolution Modification"
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## Adjusting OBS Encoding Settings

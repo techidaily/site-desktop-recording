@@ -1,7 +1,7 @@
 ---
 title: "Zoom Meeting Fundamentals for the Uninitiated"
-date: 2024-05-18T05:45:11.292Z
-updated: 2024-05-19T05:45:11.292Z
+date: 2024-06-18T07:39:16.248Z
+updated: 2024-06-19T07:39:16.248Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Zoom Meeting Fundamentals for the Uninitiated"
 excerpt: "This Article Describes Zoom Meeting Fundamentals for the Uninitiated"
 keywords: "Zoom Basics Quickstart,Intro to Zoom Sessions,Learn Zoom Conferencing,Essential Zoom Tips,Newbie Zoom Guide,Mastering Zoom Meetings,Zoom Skills for Beginners"
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## Zoom Meeting Fundamentals for the Uninitiated
@@ -110,7 +110,7 @@ As an attendee of a Zoom webinar, you can either join a webinar through a regist
 
 In some cases, you can also gain access to the join link from the registration confirmation page and all you have to do is click on it to join a webinar.
 
-![  Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
+![Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
 
 Zoom offers the option to join a webinar manually, and you just have to locate the 9-digit webinar ID in the registration email, before signing in to your Zoom account from your computer or your Smartphone. Proceed to click on the Join a Meeting option, insert the 9-digit webinar ID and click Join. Provide your name and email address if the platform asks for this information and then click on the Join Webinar button.
 
@@ -225,7 +225,7 @@ As an attendee of a Zoom webinar, you can either join a webinar through a regist
 
 In some cases, you can also gain access to the join link from the registration confirmation page and all you have to do is click on it to join a webinar.
 
-![  Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
+![Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
 
 Zoom offers the option to join a webinar manually, and you just have to locate the 9-digit webinar ID in the registration email, before signing in to your Zoom account from your computer or your Smartphone. Proceed to click on the Join a Meeting option, insert the 9-digit webinar ID and click Join. Provide your name and email address if the platform asks for this information and then click on the Join Webinar button.
 
@@ -340,7 +340,7 @@ As an attendee of a Zoom webinar, you can either join a webinar through a regist
 
 In some cases, you can also gain access to the join link from the registration confirmation page and all you have to do is click on it to join a webinar.
 
-![  Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
+![Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
 
 Zoom offers the option to join a webinar manually, and you just have to locate the 9-digit webinar ID in the registration email, before signing in to your Zoom account from your computer or your Smartphone. Proceed to click on the Join a Meeting option, insert the 9-digit webinar ID and click Join. Provide your name and email address if the platform asks for this information and then click on the Join Webinar button.
 
@@ -455,7 +455,7 @@ As an attendee of a Zoom webinar, you can either join a webinar through a regist
 
 In some cases, you can also gain access to the join link from the registration confirmation page and all you have to do is click on it to join a webinar.
 
-![  Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
+![Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
 
 Zoom offers the option to join a webinar manually, and you just have to locate the 9-digit webinar ID in the registration email, before signing in to your Zoom account from your computer or your Smartphone. Proceed to click on the Join a Meeting option, insert the 9-digit webinar ID and click Join. Provide your name and email address if the platform asks for this information and then click on the Join Webinar button.
 

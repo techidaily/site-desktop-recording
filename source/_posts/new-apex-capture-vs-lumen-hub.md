@@ -1,7 +1,7 @@
 ---
 title: "[New] Apex Capture VS Lumen Hub"
-date: 2024-05-19T20:38:24.067Z
-updated: 2024-05-20T20:38:24.067Z
+date: 2024-06-18T07:39:23.486Z
+updated: 2024-06-19T07:39:23.486Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Apex Capture VS Lumen Hub"
 excerpt: "This Article Describes [New] Apex Capture VS Lumen Hub"
 keywords: "Apex vs Lumen Hub,Capture Apex Hub,Hub Apex Tech,Lumen Capture Hub,Hub Comparision Apex,Apex Technologies Hub,LumenHub Capture Dev"
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## Apex Capture VS Lumen Hub

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Beginner's Handbook to Vimeo Footage Capture\""
-date: 2024-05-18T05:39:46.465Z
-updated: 2024-05-19T05:39:46.465Z
+date: 2024-06-18T07:39:18.345Z
+updated: 2024-06-19T07:39:18.345Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Beginner's Handbook to Vimeo Footage Capture\""
 excerpt: "\"This Article Describes 2024 Approved: Beginner's Handbook to Vimeo Footage Capture\""
 keywords: "\"Beginner's Guide Vimeo Tips,Vimeo Capture For Newbies,Entry-Level Vimeo Editing,Start with Vimeo Recording,Novice's Video Capturing Tech,First Steps in Vimeo Footage,Simple Vimeo Filming Guide\""
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## Beginner's Handbook to Vimeo Footage Capture

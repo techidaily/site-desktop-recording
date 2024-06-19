@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Top 5 List  PS3 Games on Windows Platforms for 2024\""
-date: 2024-05-18T05:57:17.512Z
-updated: 2024-05-19T05:57:17.512Z
+date: 2024-06-18T07:39:22.163Z
+updated: 2024-06-19T07:39:22.163Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Ultimate Top 5 List: PS3 Games on Windows Platforms for 2024\""
 excerpt: "\"This Article Describes Ultimate Top 5 List: PS3 Games on Windows Platforms for 2024\""
 keywords: "PS3 Games Windows,Top Windows Gaming,PS3 Windows Play,Top PC Console Games,Windows PS3 Games List,Best Windows PS3 Games,Ultimate Windows Game Guide"
-thumbnail: https://www.lifewire.com/thmb/6UZHTeyuNkJhbDQGbXCRwhK1TEI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1218764238-30613399ad1b4cffab4ab474184b9c88.jpg
+thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8409002b7334f65b8debc634.jpg
 ---
 
 ## Ultimate Top 5 List: PS3 Games on Windows Platforms

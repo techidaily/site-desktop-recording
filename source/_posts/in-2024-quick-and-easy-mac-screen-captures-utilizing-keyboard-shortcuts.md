@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick and Easy Mac Screen Captures  Utilizing Keyboard Shortcuts\""
-date: 2024-05-19T20:37:56.915Z
-updated: 2024-05-20T20:37:56.915Z
+date: 2024-06-18T07:39:28.327Z
+updated: 2024-06-19T07:39:28.327Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Quick and Easy Mac Screen Captures: Utilizing Keyboard Shortcuts\""
 excerpt: "\"This Article Describes In 2024, Quick and Easy Mac Screen Captures: Utilizing Keyboard Shortcuts\""
 keywords: "Mac Screenshot Tips,Quick Mac Picture Guide,Keyboard Shortcut Snaps,Easy Mac Capture Methods,Fast Mac Screen Grabs,Shortcut Mac Photos,Simplified Mac Images"
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## Quick and Easy Mac Screen Captures: Utilizing Keyboard Shortcuts

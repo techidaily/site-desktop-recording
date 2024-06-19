@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Frugal Hardware  Efficient OBS Arrangements\""
-date: 2024-05-19T20:38:14.737Z
-updated: 2024-05-20T20:38:14.737Z
+date: 2024-06-18T07:39:22.771Z
+updated: 2024-06-19T07:39:22.771Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Frugal Hardware: Efficient OBS Arrangements\""
 excerpt: "\"This Article Describes [New] Frugal Hardware: Efficient OBS Arrangements\""
 keywords: "\"Frugal Hardware Setup,Efficient OBS Designs,Budget-Friendly OBS,Cost-Saving Hardware,Optimal OBS Arrangement,Economical Tech Configurations,Inexpensive OBS Systems\""
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## Frugal Hardware: Efficient OBS Arrangements

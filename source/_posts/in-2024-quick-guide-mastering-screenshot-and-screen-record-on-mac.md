@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Guide  Mastering Screenshot & Screen Record on Mac\""
-date: 2024-05-18T05:53:49.438Z
-updated: 2024-05-19T05:53:49.438Z
+date: 2024-06-18T07:39:23.070Z
+updated: 2024-06-19T07:39:23.070Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Quick Guide: Mastering Screenshot & Screen Record on Mac\""
 excerpt: "\"This Article Describes In 2024, Quick Guide: Mastering Screenshot & Screen Record on Mac\""
 keywords: "Mac Screenshots Basics,ScreenRecord Tips, Mac,Essential Mac Capturing Skills,Mac Screen Recording Guide,Efficient Mac Screenshot Techniques,Master Mac Screenshot Tools,Quick Mac Screen Record Methods"
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## Quick Guide: Mastering Screenshot & Screen Record on Mac

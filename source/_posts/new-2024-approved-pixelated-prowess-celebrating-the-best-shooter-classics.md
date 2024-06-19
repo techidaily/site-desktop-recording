@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Pixelated Prowess  Celebrating the Best Shooter Classics\""
-date: 2024-05-18T05:57:51.212Z
-updated: 2024-05-19T05:57:51.212Z
+date: 2024-06-18T07:39:17.581Z
+updated: 2024-06-19T07:39:17.581Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Pixelated Prowess: Celebrating the Best Shooter Classics\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Pixelated Prowess: Celebrating the Best Shooter Classics\""
 keywords: "PixelArt Gaming,ClassicShooter Titles,VintageGamer Classics,RetroGame Prowess,ShooterGame Hits,ShootingClassic Games,OldSchool Gameplay"
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Pixelated Prowess: Celebrating the Best Shooter Classics

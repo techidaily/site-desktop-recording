@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplify Your Multitasking  Using Shortcut Keys for Mac's Screen Capture\""
-date: 2024-05-19T20:37:46.312Z
-updated: 2024-05-20T20:37:46.312Z
+date: 2024-06-18T07:39:25.614Z
+updated: 2024-06-19T07:39:25.614Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Simplify Your Multitasking: Using Shortcut Keys for Mac's Screen Capture\""
 excerpt: "\"This Article Describes [New] Simplify Your Multitasking: Using Shortcut Keys for Mac's Screen Capture\""
 keywords: "\"Mac Screenshot Shortcuts,Simplified Multi-Task Mac,Screen Capture Keyboard Tricks,Easy Mac Screen Capture,Quick Mac Image Snapping,Mac Multitasking Tips,Fast Screen Save Mac Keys\""
-thumbnail: https://www.lifewire.com/thmb/V0mVc7hXHyanE76GvodfwiaKNvE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-966273172-fbc5e7e0e68a48f69a1a5ddc0d6df827.jpg
+thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761cee72b14ccd455aec2a0df5c4.jpg
 ---
 
 ## Simplify Your Multitasking: Using Shortcut Keys for Mac's Screen Capture

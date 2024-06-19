@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Crime Quest Clones  Video Game List Like GTA V\""
-date: 2024-05-18T05:33:28.054Z
-updated: 2024-05-19T05:33:28.054Z
+date: 2024-06-18T07:39:16.076Z
+updated: 2024-06-19T07:39:16.076Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Crime Quest Clones: Video Game List Like GTA V\""
 excerpt: "\"This Article Describes [New] In 2024, Crime Quest Clones: Video Game List Like GTA V\""
 keywords: "\"Crime Quests Games,GTA Clone Lists,Violent RPG Games,Alternative Gaming,Grand Theft V Sequel,Game Reviews: Crime Series,Avoid Game Plagiarism\""
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## Crime Quest Clones: Video Game List Like GTA V

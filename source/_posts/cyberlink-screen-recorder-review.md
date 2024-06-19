@@ -1,7 +1,7 @@
 ---
 title: "Cyberlink Screen Recorder Review"
-date: 2024-05-18T05:48:51.260Z
-updated: 2024-05-19T05:48:51.260Z
+date: 2024-06-18T07:39:13.976Z
+updated: 2024-06-19T07:39:13.976Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Cyberlink Screen Recorder Review"
 excerpt: "This Article Describes Cyberlink Screen Recorder Review"
 keywords: "Screen Recorder CyberLink,CyberLink Record Software,Screen Capture by CyberLink,CyberLink Video Recorder,CyberLink Record Review,Quick Screen Recording Tool,CyberLink Screen Capture"
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## Cyberlink Screen Recorder Review

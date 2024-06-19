@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] OBS Tutorial  Capturing Every Moment of Gameplay\""
-date: 2024-05-18T05:41:15.580Z
-updated: 2024-05-19T05:41:15.580Z
+date: 2024-06-18T07:39:19.003Z
+updated: 2024-06-19T07:39:19.003Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] OBS Tutorial: Capturing Every Moment of Gameplay\""
 excerpt: "\"This Article Describes [Updated] OBS Tutorial: Capturing Every Moment of Gameplay\""
 keywords: "\"OBS Gaming Guide,Live Streaming Basics,Gameplay Recording Tips,Video Editing with OBS,OBS Capture Techniques,Real-Time Playback,Gamers' OBS Handbook\""
-thumbnail: https://www.lifewire.com/thmb/8cntKMhShePwne7YMK1BVkFRlYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snork-fa65ca350e2243e1a2deaf6bb7b209b1.jpg
+thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4255ce54480ebe44b63f8c8e.jpg
 ---
 
 ## OBS Tutorial: Capturing Every Moment of Gameplay

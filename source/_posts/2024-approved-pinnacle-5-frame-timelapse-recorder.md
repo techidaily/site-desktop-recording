@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pinnacle 5-Frame Timelapse Recorder\""
-date: 2024-05-19T20:38:26.718Z
-updated: 2024-05-20T20:38:26.718Z
+date: 2024-06-18T07:39:12.770Z
+updated: 2024-06-19T07:39:12.770Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Pinnacle 5-Frame Timelapse Recorder\""
 excerpt: "\"This Article Describes 2024 Approved: Pinnacle 5-Frame Timelapse Recorder\""
 keywords: "FreedomRec Pro,Freedom Frame,2024 Gaming Record,Premium Game Capture,Pro Gaming Screen,Recording Priceless Games,2024 Game Save"
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## Pinnacle 5-Frame Timelapse Recorder

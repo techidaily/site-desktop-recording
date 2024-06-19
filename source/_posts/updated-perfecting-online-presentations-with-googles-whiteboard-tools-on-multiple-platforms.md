@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms"
-date: 2024-05-18T05:56:13.258Z
-updated: 2024-05-19T05:56:13.258Z
+date: 2024-06-18T07:39:16.609Z
+updated: 2024-06-19T07:39:16.609Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms"
 excerpt: "This Article Describes [Updated] Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms"
 keywords: "\"Google Whiteboard,Online Presentation,Whiteboard Toolkit,Platform-Crossing,Multimedia Tech,Digital Boarding,Presentation Software\""
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Remedies for Disabling OBS Fullscreen"
-date: 2024-05-18T05:39:06.537Z
-updated: 2024-05-19T05:39:06.537Z
+date: 2024-06-18T07:39:16.295Z
+updated: 2024-06-19T07:39:16.295Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Remedies for Disabling OBS Fullscreen"
 excerpt: "This Article Describes [New] In 2024, Remedies for Disabling OBS Fullscreen"
 keywords: "OBS Fullscreen Fix,Stop OBS Fullscreen,OBS Freeze Solution,Disable OBS AutoFull,End Fullscreen OBS Bug,Remove OBS Fullscreen Issue,Troubleshoot OBS Fullscreen"
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## Remedies for Disabling OBS Fullscreen

@@ -1,7 +1,7 @@
 ---
 title: "[New] Export PPT as Animated Film"
-date: 2024-05-19T20:37:48.702Z
-updated: 2024-05-20T20:37:48.702Z
+date: 2024-06-18T07:39:16.213Z
+updated: 2024-06-19T07:39:16.213Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Export PPT as Animated Film"
 excerpt: "This Article Describes [New] Export PPT as Animated Film"
 keywords: "Export PPT Animation,PPT to Film Conversion,Animated PPT Video,Creating Animated Slides,PPT Movie Maker,Slide Transition Effects,Animate PPT Presentation"
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## Export PPT as Animated Film
@@ -81,15 +81,15 @@ When the Save and Send menu appears on the screen you should find the Create a V
 
 Create a Video box that contains video settings will pop up on the screen and you should click on the Computer&HD Displays option in order to adjust the size and the quality of your video.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
 
 In the next step, you can switch off the default timings and narration by clicking on the Don't Use Recorded Timings and Narration. Keep in mind that this step is only necessary if you want to adjust timings manually and use narration you recorded.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-recorded-timings-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-recorded-timings-settings.jpg)
 
 Click on the Create Video icon once you've made all adjustments and go ahead to select the destination on your hard drive where the video file will be saved and to insert a file name.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
 
 The conversion process will take a while, but after it is over, you'll be able to share the PowerPoint presentation video on video sharing platforms or social media networks.
 
@@ -107,11 +107,11 @@ Once the Create a Video window emerges on the screen, you should click on the Co
 
 After fine-tuning the video settings, you can proceed to click on the Use Recorded Timings and Narrations menu. If you don't want to include narration or recorded timings in your video, you can set the duration of each slide individually with the Timings feature that is located at the bottom of the screen.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
 
 Hitting the Create a Video button will bring up the Save As window that will enable you to name the video file, select the location of the folder where the video file will be saved and choose the file format to which you want to convert the PPT file. When ready, click on the Save button to start the conversion, and that's it, you've successfully turned a PPT file into a video.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
 
 ## Part 4: Saving PowerPoint Presentation as video on Mac OS
 
@@ -203,15 +203,15 @@ When the Save and Send menu appears on the screen you should find the Create a V
 
 Create a Video box that contains video settings will pop up on the screen and you should click on the Computer&HD Displays option in order to adjust the size and the quality of your video.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
 
 In the next step, you can switch off the default timings and narration by clicking on the Don't Use Recorded Timings and Narration. Keep in mind that this step is only necessary if you want to adjust timings manually and use narration you recorded.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-recorded-timings-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-recorded-timings-settings.jpg)
 
 Click on the Create Video icon once you've made all adjustments and go ahead to select the destination on your hard drive where the video file will be saved and to insert a file name.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
 
 The conversion process will take a while, but after it is over, you'll be able to share the PowerPoint presentation video on video sharing platforms or social media networks.
 
@@ -229,11 +229,11 @@ Once the Create a Video window emerges on the screen, you should click on the Co
 
 After fine-tuning the video settings, you can proceed to click on the Use Recorded Timings and Narrations menu. If you don't want to include narration or recorded timings in your video, you can set the duration of each slide individually with the Timings feature that is located at the bottom of the screen.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
 
 Hitting the Create a Video button will bring up the Save As window that will enable you to name the video file, select the location of the folder where the video file will be saved and choose the file format to which you want to convert the PPT file. When ready, click on the Save button to start the conversion, and that's it, you've successfully turned a PPT file into a video.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
 
 ## Part 4: Saving PowerPoint Presentation as video on Mac OS
 
@@ -325,15 +325,15 @@ When the Save and Send menu appears on the screen you should find the Create a V
 
 Create a Video box that contains video settings will pop up on the screen and you should click on the Computer&HD Displays option in order to adjust the size and the quality of your video.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
 
 In the next step, you can switch off the default timings and narration by clicking on the Don't Use Recorded Timings and Narration. Keep in mind that this step is only necessary if you want to adjust timings manually and use narration you recorded.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-recorded-timings-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-recorded-timings-settings.jpg)
 
 Click on the Create Video icon once you've made all adjustments and go ahead to select the destination on your hard drive where the video file will be saved and to insert a file name.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
 
 The conversion process will take a while, but after it is over, you'll be able to share the PowerPoint presentation video on video sharing platforms or social media networks.
 
@@ -351,11 +351,11 @@ Once the Create a Video window emerges on the screen, you should click on the Co
 
 After fine-tuning the video settings, you can proceed to click on the Use Recorded Timings and Narrations menu. If you don't want to include narration or recorded timings in your video, you can set the duration of each slide individually with the Timings feature that is located at the bottom of the screen.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
 
 Hitting the Create a Video button will bring up the Save As window that will enable you to name the video file, select the location of the folder where the video file will be saved and choose the file format to which you want to convert the PPT file. When ready, click on the Save button to start the conversion, and that's it, you've successfully turned a PPT file into a video.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
 
 ## Part 4: Saving PowerPoint Presentation as video on Mac OS
 
@@ -447,15 +447,15 @@ When the Save and Send menu appears on the screen you should find the Create a V
 
 Create a Video box that contains video settings will pop up on the screen and you should click on the Computer&HD Displays option in order to adjust the size and the quality of your video.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
 
 In the next step, you can switch off the default timings and narration by clicking on the Don't Use Recorded Timings and Narration. Keep in mind that this step is only necessary if you want to adjust timings manually and use narration you recorded.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-recorded-timings-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-recorded-timings-settings.jpg)
 
 Click on the Create Video icon once you've made all adjustments and go ahead to select the destination on your hard drive where the video file will be saved and to insert a file name.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
 
 The conversion process will take a while, but after it is over, you'll be able to share the PowerPoint presentation video on video sharing platforms or social media networks.
 
@@ -473,11 +473,11 @@ Once the Create a Video window emerges on the screen, you should click on the Co
 
 After fine-tuning the video settings, you can proceed to click on the Use Recorded Timings and Narrations menu. If you don't want to include narration or recorded timings in your video, you can set the duration of each slide individually with the Timings feature that is located at the bottom of the screen.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
 
 Hitting the Create a Video button will bring up the Save As window that will enable you to name the video file, select the location of the folder where the video file will be saved and choose the file format to which you want to convert the PPT file. When ready, click on the Save button to start the conversion, and that's it, you've successfully turned a PPT file into a video.
 
-![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
+![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
 
 ## Part 4: Saving PowerPoint Presentation as video on Mac OS
 

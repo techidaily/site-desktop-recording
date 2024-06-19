@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Celebrating the #10 Best MOBA Games on Android\""
-date: 2024-05-18T05:58:49.246Z
-updated: 2024-05-19T05:58:49.246Z
+date: 2024-06-18T07:39:28.297Z
+updated: 2024-06-19T07:39:28.297Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Celebrating the #10 Best MOBA Games on Android\""
 excerpt: "\"This Article Describes 2024 Approved: Celebrating the #10 Best MOBA Games on Android\""
 keywords: "Mobile MOBAs Top,MOBAs Best Apps,10 MOBAs Leaders,Ultimate MOBAs Android,Android's Best MOBA Games,Ranked MOBAs on Mobile,Elite MOBAs for Android"
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## Celebrating the #10 Best MOBA Games on Android

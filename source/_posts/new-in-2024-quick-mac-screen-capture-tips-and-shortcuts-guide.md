@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Quick Mac Screen Capture Tips and Shortcuts Guide"
-date: 2024-05-19T20:37:48.202Z
-updated: 2024-05-20T20:37:48.202Z
+date: 2024-06-18T07:39:24.452Z
+updated: 2024-06-19T07:39:24.452Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Quick Mac Screen Capture Tips and Shortcuts Guide"
 excerpt: "This Article Describes [New] In 2024, Quick Mac Screen Capture Tips and Shortcuts Guide"
 keywords: "Quick Mac Snap Tips,Mac Shot Shortcuts,ScreenCapture Mac Guide,FastMac Screenshot Tricks,MacCapture Shortcuts List,QuickSnaps Mac Techniques,EasyMac Capture Hints"
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Quick Mac Screen Capture Tips and Shortcuts Guide

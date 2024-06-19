@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sprout ScreenCapture  Transform Your PC Footage Game\""
-date: 2024-05-18T05:43:33.728Z
-updated: 2024-05-19T05:43:33.728Z
+date: 2024-06-18T07:39:14.857Z
+updated: 2024-06-19T07:39:14.857Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Sprout ScreenCapture: Transform Your PC Footage Game\""
 excerpt: "\"This Article Describes [New] Sprout ScreenCapture: Transform Your PC Footage Game\""
 keywords: "Sprout Capture Tool,PC Footage Enhancer,ScreenTransform Pro,PC Video Editor,Footage Mastery,Sprout Capturing Software,PC Footage Gameplay"
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## Sprout ScreenCapture: Transform Your PC Footage Game

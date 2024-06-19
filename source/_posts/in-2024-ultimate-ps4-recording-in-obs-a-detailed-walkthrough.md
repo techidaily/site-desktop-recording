@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate PS4 Recording in OBS - A Detailed Walkthrough\""
-date: 2024-05-19T20:37:48.536Z
-updated: 2024-05-20T20:37:48.536Z
+date: 2024-06-18T07:39:15.087Z
+updated: 2024-06-19T07:39:15.087Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Ultimate PS4 Recording in OBS - A Detailed Walkthrough\""
 excerpt: "\"This Article Describes In 2024, Ultimate PS4 Recording in OBS - A Detailed Walkthrough\""
 keywords: "PS4 OBS Recording Tutorial,OBS Guide for PS4,Ultimate OBS PS4 Demo,PS4 Video Capture in OBS,Detailed OBS Playback PS4,Mastering OBS on PS4,Professional PS4 Screen Recording"
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## Ultimate PS4 Recording in OBS - A Detailed Walkthrough
