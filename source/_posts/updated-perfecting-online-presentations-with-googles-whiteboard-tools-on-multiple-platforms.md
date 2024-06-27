@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms"
-date: 2024-06-18T07:39:16.609Z
-updated: 2024-06-19T07:39:16.609Z
+date: 2024-06-25T23:48:44.588Z
+updated: 2024-06-26T23:48:44.588Z
 tags: 
   - screen-recording
   - ai video
@@ -17,9 +17,7 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
 ## Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms
 
-# How to Use a Whiteboard in Google Meet
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+# How to Use a Whiteboard in Google Meet ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 

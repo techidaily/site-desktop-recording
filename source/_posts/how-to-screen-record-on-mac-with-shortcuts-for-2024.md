@@ -1,7 +1,7 @@
 ---
 title: "How to Screen Record on Mac with Shortcuts for 2024"
-date: 2024-05-19T20:37:57.194Z
-updated: 2024-05-20T20:37:57.194Z
+date: 2024-06-25T23:48:39.775Z
+updated: 2024-06-26T23:48:39.775Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Screen Record on Mac with Shortcuts for 2024"
 excerpt: "This Article Describes How to Screen Record on Mac with Shortcuts for 2024"
 keywords: "Mac Screen Recording Shortcuts,Quick Screen Capture Mac,Shortcuts for Mac Record,Mac ScreenCapture Trick,Easy Mac Screen Save,Mac ScreenShortcut Guide,Fast Mac ScreenRecord"
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## How to Screen Record on Mac with Shortcuts

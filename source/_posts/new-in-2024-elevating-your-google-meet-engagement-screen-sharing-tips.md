@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Elevating Your Google Meet Engagement  Screen Sharing Tips\""
-date: 2024-05-19T20:38:07.145Z
-updated: 2024-05-20T20:38:07.145Z
+date: 2024-06-25T23:48:39.948Z
+updated: 2024-06-26T23:48:39.948Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes [New] In 2024, Elevating Your Google Meet Engagement: Screen Sharing Tips\""
 excerpt: "\"This Article Describes [New] In 2024, Elevating Your Google Meet Engagement: Screen Sharing Tips\""
 keywords: "Engage in Google Meets,Screen Share Strategies,Elevate Meet Participation,Enhance Online Presence,Interactive Meeting Tips,Effective Meet Engagement,Boost Virtual Collaboration"
-thumbnail: https://www.lifewire.com/thmb/-m_9JJb4F4y8I0dYVcJrZSeVFcs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unlockedphone_mikkelwilliam_Getty_Eplus-bd0f806b392b4069ab6618d3b520f5b7.jpg
+thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg
 ---
 
 ## Elevating Your Google Meet Engagement: Screen Sharing Tips
 
-# How to Share Screen on Google Meet
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+# How to Share Screen on Google Meet ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 
@@ -53,7 +51,7 @@ Click on the **Present now** option to share screen.
 
 Note: When Present Now is clicked, the menu will appear to ask you to select the area of the screen you want to share. You can share the entire screen, a specific window, or a browser tab.
 
-![   Google Meet Present Now  ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-share-screen.jpg)
+![Google Meet Present Now](https://images.wondershare.com/filmora/article-images/google-meet-present-now-share-screen.jpg)
 
 ### Step 3: Confirm sharing window or screen
 
@@ -61,7 +59,7 @@ Click on the **Share option** after selecting your preferred choice of screen sh
 
 **Note**: Initially, you will find the screen option disabled. It will be enabled after you click on the window tab showing a preview of your screen.
 
-![   Google Meet Share Screen ](https://images.wondershare.com/filmora/article-images/google-meet-share-screen.jpg)
+![Google Meet Share Screen](https://images.wondershare.com/filmora/article-images/google-meet-share-screen.jpg)
 
 ## Part 2: How to Share Your iPhone or iPad's Screen Using Google Meet?
 
@@ -75,13 +73,13 @@ Download the Google Meet application from the application store. Launch the app 
 
 Click on the three dots on the bottom left of the screen. Then, click on **Share** **Screen**.
 
-![  Share Screen on Google Meet ](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-iphone.jpg)
+![Share Screen on Google Meet](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-iphone.jpg)
 
 ### **Step 3:** Start screen sharing and broadcast
 
 A pop-up will appear. Start broadcast to share your screen with other participants.
 
-![  Share Screen on Google Meet iPhone](https://images.wondershare.com/filmora/article-images/google-meet-screen-broadcast-iphone.jpg)
+![Share Screen on Google Meet iPhone](https://images.wondershare.com/filmora/article-images/google-meet-screen-broadcast-iphone.jpg)
 
 **Note:** When you want to stop sharing your screen, you need first to stop the broadcast and then stop sharing the screen. You may also share your screen when someone else is already sharing the screen in Google Meet. In such a case, other participant's presentations will pause until you stop sharing your screen.
 
@@ -97,13 +95,13 @@ Tap on the Google Meet app icon to launch it and join the video session.
 
 Click on the **three dots** (ellipsis button) appearing on the top right corner of your phone's or tablet's screen and choose the **share screen** from the list of options in the menu.
 
-![  Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-android.jpg)
+![Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-android.jpg)
 
 ### Step 3: Confirm sharing content
 
 Click **start sharing** from the pop-up message displayed on the screen.
 
-![  Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/start-screen-sharing-google-meet-android.jpg)
+![Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/start-screen-sharing-google-meet-android.jpg)
 
 ## Part 4: How to Share Your Screen When Someone Else is Presenting?
 
@@ -125,7 +123,7 @@ Click the **Present** **Now** to share the screen based on your need.
 
 Choose **the Share now** option when a pop-up notification appears, and then your screen will be shared on the meeting.
 
-![  Share Screen on Google Meet when someone else is presenting](https://images.wondershare.com/filmora/article-images/share-screen-as-presenter-on-google-meet.jpg)
+![Share Screen on Google Meet when someone else is presenting](https://images.wondershare.com/filmora/article-images/share-screen-as-presenter-on-google-meet.jpg)
 
 **Note:** The other member presenting will find his presentation paused till you do not end your presentation and cancel screen sharing.
 
@@ -139,13 +137,13 @@ Launch the Google Meet website or its application, enter the meeting code or lin
 
 Click the Google Meet invite link and then you will see the screen as below.
 
-![  Share Screen without join in Google Meet  ](https://images.wondershare.com/filmora/article-images/present-without-participant-google-meet.jpg)
+![Share Screen without join in Google Meet](https://images.wondershare.com/filmora/article-images/present-without-participant-google-meet.jpg)
 
 ### Step 2: Share screen without participating
 
 Tap **Present** and select a preferred window to share. By default, the system audio is disabled. Enable it if you need to share the system audio.
 
-![  Share Screen without join in Google Meet  ](https://images.wondershare.com/filmora/article-images/share-screen-on-google-meet-without-participating.jpg)
+![Share Screen without join in Google Meet](https://images.wondershare.com/filmora/article-images/share-screen-on-google-meet-without-participating.jpg)
 
 **Note**: When you are just sharing the screen with the microphone and camera disabled, other participants will not be able to hear your voice or see you. Similarly, you do not need to turn on the camera and microphone if you are using Google Meet on an Android device, as you can directly share the screen instead of joining a meeting on an Android device.
 
@@ -167,7 +165,7 @@ Search for Google Meet and click **new meeting**.
 
 Click the **Present now** option and choose the window area you want to share from the drop-down menu. Tap the '**allow'** button to start screen sharing.
 
-![Share  Google Meet screen on Firefox  ](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-firefox-browser.jpg)
+![Share  Google Meet screen on Firefox](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-firefox-browser.jpg)
 
 **Conclusion**
 
@@ -213,7 +211,7 @@ Click on the **Present now** option to share screen.
 
 Note: When Present Now is clicked, the menu will appear to ask you to select the area of the screen you want to share. You can share the entire screen, a specific window, or a browser tab.
 
-![   Google Meet Present Now  ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-share-screen.jpg)
+![Google Meet Present Now](https://images.wondershare.com/filmora/article-images/google-meet-present-now-share-screen.jpg)
 
 ### Step 3: Confirm sharing window or screen
 
@@ -221,7 +219,7 @@ Click on the **Share option** after selecting your preferred choice of screen sh
 
 **Note**: Initially, you will find the screen option disabled. It will be enabled after you click on the window tab showing a preview of your screen.
 
-![   Google Meet Share Screen ](https://images.wondershare.com/filmora/article-images/google-meet-share-screen.jpg)
+![Google Meet Share Screen](https://images.wondershare.com/filmora/article-images/google-meet-share-screen.jpg)
 
 ## Part 2: How to Share Your iPhone or iPad's Screen Using Google Meet?
 
@@ -235,13 +233,13 @@ Download the Google Meet application from the application store. Launch the app 
 
 Click on the three dots on the bottom left of the screen. Then, click on **Share** **Screen**.
 
-![  Share Screen on Google Meet ](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-iphone.jpg)
+![Share Screen on Google Meet](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-iphone.jpg)
 
 ### **Step 3:** Start screen sharing and broadcast
 
 A pop-up will appear. Start broadcast to share your screen with other participants.
 
-![  Share Screen on Google Meet iPhone](https://images.wondershare.com/filmora/article-images/google-meet-screen-broadcast-iphone.jpg)
+![Share Screen on Google Meet iPhone](https://images.wondershare.com/filmora/article-images/google-meet-screen-broadcast-iphone.jpg)
 
 **Note:** When you want to stop sharing your screen, you need first to stop the broadcast and then stop sharing the screen. You may also share your screen when someone else is already sharing the screen in Google Meet. In such a case, other participant's presentations will pause until you stop sharing your screen.
 
@@ -257,13 +255,13 @@ Tap on the Google Meet app icon to launch it and join the video session.
 
 Click on the **three dots** (ellipsis button) appearing on the top right corner of your phone's or tablet's screen and choose the **share screen** from the list of options in the menu.
 
-![  Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-android.jpg)
+![Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-android.jpg)
 
 ### Step 3: Confirm sharing content
 
 Click **start sharing** from the pop-up message displayed on the screen.
 
-![  Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/start-screen-sharing-google-meet-android.jpg)
+![Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/start-screen-sharing-google-meet-android.jpg)
 
 ## Part 4: How to Share Your Screen When Someone Else is Presenting?
 
@@ -285,7 +283,7 @@ Click the **Present** **Now** to share the screen based on your need.
 
 Choose **the Share now** option when a pop-up notification appears, and then your screen will be shared on the meeting.
 
-![  Share Screen on Google Meet when someone else is presenting](https://images.wondershare.com/filmora/article-images/share-screen-as-presenter-on-google-meet.jpg)
+![Share Screen on Google Meet when someone else is presenting](https://images.wondershare.com/filmora/article-images/share-screen-as-presenter-on-google-meet.jpg)
 
 **Note:** The other member presenting will find his presentation paused till you do not end your presentation and cancel screen sharing.
 
@@ -299,13 +297,13 @@ Launch the Google Meet website or its application, enter the meeting code or lin
 
 Click the Google Meet invite link and then you will see the screen as below.
 
-![  Share Screen without join in Google Meet  ](https://images.wondershare.com/filmora/article-images/present-without-participant-google-meet.jpg)
+![Share Screen without join in Google Meet](https://images.wondershare.com/filmora/article-images/present-without-participant-google-meet.jpg)
 
 ### Step 2: Share screen without participating
 
 Tap **Present** and select a preferred window to share. By default, the system audio is disabled. Enable it if you need to share the system audio.
 
-![  Share Screen without join in Google Meet  ](https://images.wondershare.com/filmora/article-images/share-screen-on-google-meet-without-participating.jpg)
+![Share Screen without join in Google Meet](https://images.wondershare.com/filmora/article-images/share-screen-on-google-meet-without-participating.jpg)
 
 **Note**: When you are just sharing the screen with the microphone and camera disabled, other participants will not be able to hear your voice or see you. Similarly, you do not need to turn on the camera and microphone if you are using Google Meet on an Android device, as you can directly share the screen instead of joining a meeting on an Android device.
 
@@ -327,7 +325,7 @@ Search for Google Meet and click **new meeting**.
 
 Click the **Present now** option and choose the window area you want to share from the drop-down menu. Tap the '**allow'** button to start screen sharing.
 
-![Share  Google Meet screen on Firefox  ](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-firefox-browser.jpg)
+![Share  Google Meet screen on Firefox](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-firefox-browser.jpg)
 
 **Conclusion**
 
@@ -373,7 +371,7 @@ Click on the **Present now** option to share screen.
 
 Note: When Present Now is clicked, the menu will appear to ask you to select the area of the screen you want to share. You can share the entire screen, a specific window, or a browser tab.
 
-![   Google Meet Present Now  ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-share-screen.jpg)
+![Google Meet Present Now](https://images.wondershare.com/filmora/article-images/google-meet-present-now-share-screen.jpg)
 
 ### Step 3: Confirm sharing window or screen
 
@@ -381,7 +379,7 @@ Click on the **Share option** after selecting your preferred choice of screen sh
 
 **Note**: Initially, you will find the screen option disabled. It will be enabled after you click on the window tab showing a preview of your screen.
 
-![   Google Meet Share Screen ](https://images.wondershare.com/filmora/article-images/google-meet-share-screen.jpg)
+![Google Meet Share Screen](https://images.wondershare.com/filmora/article-images/google-meet-share-screen.jpg)
 
 ## Part 2: How to Share Your iPhone or iPad's Screen Using Google Meet?
 
@@ -395,13 +393,13 @@ Download the Google Meet application from the application store. Launch the app 
 
 Click on the three dots on the bottom left of the screen. Then, click on **Share** **Screen**.
 
-![  Share Screen on Google Meet ](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-iphone.jpg)
+![Share Screen on Google Meet](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-iphone.jpg)
 
 ### **Step 3:** Start screen sharing and broadcast
 
 A pop-up will appear. Start broadcast to share your screen with other participants.
 
-![  Share Screen on Google Meet iPhone](https://images.wondershare.com/filmora/article-images/google-meet-screen-broadcast-iphone.jpg)
+![Share Screen on Google Meet iPhone](https://images.wondershare.com/filmora/article-images/google-meet-screen-broadcast-iphone.jpg)
 
 **Note:** When you want to stop sharing your screen, you need first to stop the broadcast and then stop sharing the screen. You may also share your screen when someone else is already sharing the screen in Google Meet. In such a case, other participant's presentations will pause until you stop sharing your screen.
 
@@ -417,13 +415,13 @@ Tap on the Google Meet app icon to launch it and join the video session.
 
 Click on the **three dots** (ellipsis button) appearing on the top right corner of your phone's or tablet's screen and choose the **share screen** from the list of options in the menu.
 
-![  Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-android.jpg)
+![Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-android.jpg)
 
 ### Step 3: Confirm sharing content
 
 Click **start sharing** from the pop-up message displayed on the screen.
 
-![  Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/start-screen-sharing-google-meet-android.jpg)
+![Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/start-screen-sharing-google-meet-android.jpg)
 
 ## Part 4: How to Share Your Screen When Someone Else is Presenting?
 
@@ -445,7 +443,7 @@ Click the **Present** **Now** to share the screen based on your need.
 
 Choose **the Share now** option when a pop-up notification appears, and then your screen will be shared on the meeting.
 
-![  Share Screen on Google Meet when someone else is presenting](https://images.wondershare.com/filmora/article-images/share-screen-as-presenter-on-google-meet.jpg)
+![Share Screen on Google Meet when someone else is presenting](https://images.wondershare.com/filmora/article-images/share-screen-as-presenter-on-google-meet.jpg)
 
 **Note:** The other member presenting will find his presentation paused till you do not end your presentation and cancel screen sharing.
 
@@ -459,13 +457,13 @@ Launch the Google Meet website or its application, enter the meeting code or lin
 
 Click the Google Meet invite link and then you will see the screen as below.
 
-![  Share Screen without join in Google Meet  ](https://images.wondershare.com/filmora/article-images/present-without-participant-google-meet.jpg)
+![Share Screen without join in Google Meet](https://images.wondershare.com/filmora/article-images/present-without-participant-google-meet.jpg)
 
 ### Step 2: Share screen without participating
 
 Tap **Present** and select a preferred window to share. By default, the system audio is disabled. Enable it if you need to share the system audio.
 
-![  Share Screen without join in Google Meet  ](https://images.wondershare.com/filmora/article-images/share-screen-on-google-meet-without-participating.jpg)
+![Share Screen without join in Google Meet](https://images.wondershare.com/filmora/article-images/share-screen-on-google-meet-without-participating.jpg)
 
 **Note**: When you are just sharing the screen with the microphone and camera disabled, other participants will not be able to hear your voice or see you. Similarly, you do not need to turn on the camera and microphone if you are using Google Meet on an Android device, as you can directly share the screen instead of joining a meeting on an Android device.
 
@@ -487,7 +485,7 @@ Search for Google Meet and click **new meeting**.
 
 Click the **Present now** option and choose the window area you want to share from the drop-down menu. Tap the '**allow'** button to start screen sharing.
 
-![Share  Google Meet screen on Firefox  ](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-firefox-browser.jpg)
+![Share  Google Meet screen on Firefox](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-firefox-browser.jpg)
 
 **Conclusion**
 
@@ -533,7 +531,7 @@ Click on the **Present now** option to share screen.
 
 Note: When Present Now is clicked, the menu will appear to ask you to select the area of the screen you want to share. You can share the entire screen, a specific window, or a browser tab.
 
-![   Google Meet Present Now  ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-share-screen.jpg)
+![Google Meet Present Now](https://images.wondershare.com/filmora/article-images/google-meet-present-now-share-screen.jpg)
 
 ### Step 3: Confirm sharing window or screen
 
@@ -541,7 +539,7 @@ Click on the **Share option** after selecting your preferred choice of screen sh
 
 **Note**: Initially, you will find the screen option disabled. It will be enabled after you click on the window tab showing a preview of your screen.
 
-![   Google Meet Share Screen ](https://images.wondershare.com/filmora/article-images/google-meet-share-screen.jpg)
+![Google Meet Share Screen](https://images.wondershare.com/filmora/article-images/google-meet-share-screen.jpg)
 
 ## Part 2: How to Share Your iPhone or iPad's Screen Using Google Meet?
 
@@ -555,13 +553,13 @@ Download the Google Meet application from the application store. Launch the app 
 
 Click on the three dots on the bottom left of the screen. Then, click on **Share** **Screen**.
 
-![  Share Screen on Google Meet ](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-iphone.jpg)
+![Share Screen on Google Meet](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-iphone.jpg)
 
 ### **Step 3:** Start screen sharing and broadcast
 
 A pop-up will appear. Start broadcast to share your screen with other participants.
 
-![  Share Screen on Google Meet iPhone](https://images.wondershare.com/filmora/article-images/google-meet-screen-broadcast-iphone.jpg)
+![Share Screen on Google Meet iPhone](https://images.wondershare.com/filmora/article-images/google-meet-screen-broadcast-iphone.jpg)
 
 **Note:** When you want to stop sharing your screen, you need first to stop the broadcast and then stop sharing the screen. You may also share your screen when someone else is already sharing the screen in Google Meet. In such a case, other participant's presentations will pause until you stop sharing your screen.
 
@@ -577,13 +575,13 @@ Tap on the Google Meet app icon to launch it and join the video session.
 
 Click on the **three dots** (ellipsis button) appearing on the top right corner of your phone's or tablet's screen and choose the **share screen** from the list of options in the menu.
 
-![  Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-android.jpg)
+![Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-android.jpg)
 
 ### Step 3: Confirm sharing content
 
 Click **start sharing** from the pop-up message displayed on the screen.
 
-![  Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/start-screen-sharing-google-meet-android.jpg)
+![Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/start-screen-sharing-google-meet-android.jpg)
 
 ## Part 4: How to Share Your Screen When Someone Else is Presenting?
 
@@ -605,7 +603,7 @@ Click the **Present** **Now** to share the screen based on your need.
 
 Choose **the Share now** option when a pop-up notification appears, and then your screen will be shared on the meeting.
 
-![  Share Screen on Google Meet when someone else is presenting](https://images.wondershare.com/filmora/article-images/share-screen-as-presenter-on-google-meet.jpg)
+![Share Screen on Google Meet when someone else is presenting](https://images.wondershare.com/filmora/article-images/share-screen-as-presenter-on-google-meet.jpg)
 
 **Note:** The other member presenting will find his presentation paused till you do not end your presentation and cancel screen sharing.
 
@@ -619,13 +617,13 @@ Launch the Google Meet website or its application, enter the meeting code or lin
 
 Click the Google Meet invite link and then you will see the screen as below.
 
-![  Share Screen without join in Google Meet  ](https://images.wondershare.com/filmora/article-images/present-without-participant-google-meet.jpg)
+![Share Screen without join in Google Meet](https://images.wondershare.com/filmora/article-images/present-without-participant-google-meet.jpg)
 
 ### Step 2: Share screen without participating
 
 Tap **Present** and select a preferred window to share. By default, the system audio is disabled. Enable it if you need to share the system audio.
 
-![  Share Screen without join in Google Meet  ](https://images.wondershare.com/filmora/article-images/share-screen-on-google-meet-without-participating.jpg)
+![Share Screen without join in Google Meet](https://images.wondershare.com/filmora/article-images/share-screen-on-google-meet-without-participating.jpg)
 
 **Note**: When you are just sharing the screen with the microphone and camera disabled, other participants will not be able to hear your voice or see you. Similarly, you do not need to turn on the camera and microphone if you are using Google Meet on an Android device, as you can directly share the screen instead of joining a meeting on an Android device.
 
@@ -647,7 +645,7 @@ Search for Google Meet and click **new meeting**.
 
 Click the **Present now** option and choose the window area you want to share from the drop-down menu. Tap the '**allow'** button to start screen sharing.
 
-![Share  Google Meet screen on Firefox  ](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-firefox-browser.jpg)
+![Share  Google Meet screen on Firefox](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-firefox-browser.jpg)
 
 **Conclusion**
 

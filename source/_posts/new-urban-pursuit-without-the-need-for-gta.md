@@ -1,7 +1,7 @@
 ---
 title: "[New] Urban Pursuit Without the Need for GTA"
-date: 2024-05-19T20:38:26.289Z
-updated: 2024-05-20T20:38:26.289Z
+date: 2024-06-25T23:48:39.451Z
+updated: 2024-06-26T23:48:39.451Z
 tags: 
   - screen-recording
   - ai video
@@ -12,16 +12,14 @@ categories:
 description: "This Article Describes [New] Urban Pursuit Without the Need for GTA"
 excerpt: "This Article Describes [New] Urban Pursuit Without the Need for GTA"
 keywords: "\"City Chase No GTA,Urban Escapade GTA-Free,Street Life No GTA,City Thrill No GTA,Urban Quest Without GTA,Non-GTA City Games,Real Streets No GTA\""
-thumbnail: https://www.lifewire.com/thmb/ZDnyMd5y1TI-4l8Th58f2C_oJzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/F8conferencelogo-7ec4475dc6624114aea076c2611df199.jpg
+thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
 ## Urban Pursuit Without the Need for GTA
 
 Understandably, you may be looking for other games like GTA if you've enjoyed being in Los Santos and Blaine County, but find that things are getting stale. Despite Rockstar's continued tease of GTA 6, most of us have already experienced that world since 2013\. We've collected a few of our favorite GTA-inspired substitutes for you to enjoy in the meantime. We've compiled 10 games like GTA V to keep you occupied until we find out what's next for the series.
 
-### 1.Red Dead Redemption 2
-
-![red-dead-redemption-2-poster](https://images.wondershare.com/filmora/article-images/red-dead-redemption-2-poster.jpg)
+### 1.Red Dead Redemption 2 ![red-dead-redemption-2-poster](https://images.wondershare.com/filmora/article-images/red-dead-redemption-2-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
 
@@ -37,9 +35,7 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
-### 2.Assassin's Creed Origins
-
-![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
+### 2.Assassin's Creed Origins ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
 
@@ -57,9 +53,7 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 • The best part of the Assassin's Creed History.
 
-### 3.Watch Dogs 2
-
-![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
+### 3.Watch Dogs 2 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
 **Platforms**: PC, PS4, Xbox One
 
@@ -75,9 +69,7 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 • The concept is very similar to GTA V but it is more of a tech genre game.
 
-### 4.Saints Row: The Third
-
-![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
+### 4.Saints Row: The Third ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
 
@@ -95,9 +87,7 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
-### 5.Just Cause 4
-
-![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
+### 5.Just Cause 4 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
 
@@ -113,9 +103,7 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 • New gadgets can be experimented with on the physics system.
 
-### 6.Yakuza 0
-
-![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
+### 6.Yakuza 0 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
 
 **Platforms:** PC, PS4
 
@@ -131,9 +119,7 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 • The storyline and main characters are good.
 
-### 7.Sleeping Dogs
-
-![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
+### 7.Sleeping Dogs ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
 
@@ -149,9 +135,7 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
-### 8.The Saboteur
-
-![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
+### 8.The Saboteur ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
 
 **Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
 
@@ -169,9 +153,7 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 • Excellent sound design and a great story.
 
-### 9.Mafia: Definitive Edition
-
-![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
+### 9.Mafia: Definitive Edition ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows
 
@@ -189,9 +171,7 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
-### 10.Grand Theft Auto IV
-
-![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
+### 10.Grand Theft Auto IV ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
 
 **Platforms:** Xbox 360, PlayStation 3, Microsoft Windows
 
@@ -225,9 +205,7 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
-### 2.Assassin's Creed Origins
-
-![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
+### 2.Assassin's Creed Origins ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
 
@@ -245,9 +223,7 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 • The best part of the Assassin's Creed History.
 
-### 3.Watch Dogs 2
-
-![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
+### 3.Watch Dogs 2 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
 **Platforms**: PC, PS4, Xbox One
 
@@ -263,9 +239,7 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 • The concept is very similar to GTA V but it is more of a tech genre game.
 
-### 4.Saints Row: The Third
-
-![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
+### 4.Saints Row: The Third ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
 
@@ -283,9 +257,7 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
-### 5.Just Cause 4
-
-![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
+### 5.Just Cause 4 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
 
@@ -301,9 +273,7 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 • New gadgets can be experimented with on the physics system.
 
-### 6.Yakuza 0
-
-![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
+### 6.Yakuza 0 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
 
 **Platforms:** PC, PS4
 
@@ -319,9 +289,7 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 • The storyline and main characters are good.
 
-### 7.Sleeping Dogs
-
-![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
+### 7.Sleeping Dogs ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
 
@@ -337,9 +305,7 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
-### 8.The Saboteur
-
-![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
+### 8.The Saboteur ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
 
 **Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
 
@@ -357,9 +323,7 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 • Excellent sound design and a great story.
 
-### 9.Mafia: Definitive Edition
-
-![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
+### 9.Mafia: Definitive Edition ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows
 
@@ -377,9 +341,7 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
-### 10.Grand Theft Auto IV
-
-![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
+### 10.Grand Theft Auto IV ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
 
 **Platforms:** Xbox 360, PlayStation 3, Microsoft Windows
 
@@ -413,9 +375,7 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
-### 2.Assassin's Creed Origins
-
-![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
+### 2.Assassin's Creed Origins ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
 
@@ -433,9 +393,7 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 • The best part of the Assassin's Creed History.
 
-### 3.Watch Dogs 2
-
-![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
+### 3.Watch Dogs 2 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
 **Platforms**: PC, PS4, Xbox One
 
@@ -451,9 +409,7 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 • The concept is very similar to GTA V but it is more of a tech genre game.
 
-### 4.Saints Row: The Third
-
-![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
+### 4.Saints Row: The Third ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
 
@@ -471,9 +427,7 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
-### 5.Just Cause 4
-
-![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
+### 5.Just Cause 4 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
 
@@ -489,9 +443,7 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 • New gadgets can be experimented with on the physics system.
 
-### 6.Yakuza 0
-
-![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
+### 6.Yakuza 0 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
 
 **Platforms:** PC, PS4
 
@@ -507,9 +459,7 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 • The storyline and main characters are good.
 
-### 7.Sleeping Dogs
-
-![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
+### 7.Sleeping Dogs ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
 
@@ -525,9 +475,7 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
-### 8.The Saboteur
-
-![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
+### 8.The Saboteur ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
 
 **Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
 
@@ -545,9 +493,7 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 • Excellent sound design and a great story.
 
-### 9.Mafia: Definitive Edition
-
-![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
+### 9.Mafia: Definitive Edition ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows
 
@@ -565,9 +511,7 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
-### 10.Grand Theft Auto IV
-
-![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
+### 10.Grand Theft Auto IV ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
 
 **Platforms:** Xbox 360, PlayStation 3, Microsoft Windows
 
@@ -601,9 +545,7 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
-### 2.Assassin's Creed Origins
-
-![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
+### 2.Assassin's Creed Origins ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
 
@@ -621,9 +563,7 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 • The best part of the Assassin's Creed History.
 
-### 3.Watch Dogs 2
-
-![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
+### 3.Watch Dogs 2 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
 **Platforms**: PC, PS4, Xbox One
 
@@ -639,9 +579,7 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 • The concept is very similar to GTA V but it is more of a tech genre game.
 
-### 4.Saints Row: The Third
-
-![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
+### 4.Saints Row: The Third ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
 
@@ -659,9 +597,7 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
-### 5.Just Cause 4
-
-![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
+### 5.Just Cause 4 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
 
@@ -677,9 +613,7 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 • New gadgets can be experimented with on the physics system.
 
-### 6.Yakuza 0
-
-![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
+### 6.Yakuza 0 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
 
 **Platforms:** PC, PS4
 
@@ -695,9 +629,7 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 • The storyline and main characters are good.
 
-### 7.Sleeping Dogs
-
-![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
+### 7.Sleeping Dogs ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
 
@@ -713,9 +645,7 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
-### 8.The Saboteur
-
-![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
+### 8.The Saboteur ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
 
 **Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
 
@@ -733,9 +663,7 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 • Excellent sound design and a great story.
 
-### 9.Mafia: Definitive Edition
-
-![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
+### 9.Mafia: Definitive Edition ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows
 
@@ -753,9 +681,7 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
-### 10.Grand Theft Auto IV
-
-![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
+### 10.Grand Theft Auto IV ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
 
 **Platforms:** Xbox 360, PlayStation 3, Microsoft Windows
 

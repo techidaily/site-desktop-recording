@@ -1,7 +1,7 @@
 ---
 title: "AMD Classic Bundle"
-date: 2024-05-18T05:23:02.434Z
-updated: 2024-05-19T05:23:02.434Z
+date: 2024-06-25T23:48:40.615Z
+updated: 2024-06-26T23:48:40.615Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes AMD Classic Bundle"
 excerpt: "This Article Describes AMD Classic Bundle"
 keywords: "\"AMD Retro Gaming,Radeon Classic Setup,Vintage PC Components,AMD HDMI Adapter,Legacy GPU Deals,PCI-Express Cards Bundle,Old Game Console Emulator\""
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## AMD Classic Bundle
