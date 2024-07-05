@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Real-Time Chromebook Display Logger\""
-date: 2024-05-18T05:34:08.856Z
-updated: 2024-05-19T05:34:08.856Z
+date: 2024-07-04T00:13:27.514Z
+updated: 2024-07-05T00:13:27.514Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Real-Time Chromebook Display Logger\""
 excerpt: "\"This Article Describes [New] Real-Time Chromebook Display Logger\""
 keywords: "\"Chromebook Screen Logging Live,Real-Time Display on Chromebook,Chromebook Video Recorder,Instant Chromebook Screen Capture,Live Chromebook Display Logger,Chromebook In-the-Moment Viewing,Direct Chromebook Image Gatherer\""
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## Real-Time Chromebook Display Logger
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Re-Establishing OBS Audio Recording Capabilities\""
-date: 2024-05-18T05:35:53.277Z
-updated: 2024-05-19T05:35:53.277Z
+date: 2024-07-04T00:13:24.664Z
+updated: 2024-07-05T00:13:24.664Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Re-Establishing OBS Audio Recording Capabilities\""
 excerpt: "\"This Article Describes 2024 Approved: Re-Establishing OBS Audio Recording Capabilities\""
 keywords: "ScreenCaptureX Record,ProRecCap Features,Capture X Pro Advance,ProScreenRecordX,ScreenX LatestTech,ProX RecordingUpdate,CaptureProXNewFeatures"
-thumbnail: https://www.lifewire.com/thmb/Ov60TE6o0ZdI6Oaw589hEL_tVLg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229088-5bd1f61e46e0fb0026fdf2f0.jpg
+thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a50d24fd1a27318344d95b256.jpg
 ---
 
 ## Re-Establishing OBS Audio Recording Capabilities

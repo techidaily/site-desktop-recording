@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Record Your Webcam with VLC"
-date: 2024-05-19T20:37:44.968Z
-updated: 2024-05-20T20:37:44.968Z
+date: 2024-07-04T00:13:25.105Z
+updated: 2024-07-05T00:13:25.105Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Record Your Webcam with VLC"
 excerpt: "This Article Describes In 2024, Record Your Webcam with VLC"
 keywords: "Webcam Record VLC,VLC Webcam Recorder,Capture Webcam via VLC,VLC Webcam Recording,Stream Webcam With VLC,VLC for Webcam Capture,Record Live Webcam (VLC)"
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## Record Your Webcam with VLC

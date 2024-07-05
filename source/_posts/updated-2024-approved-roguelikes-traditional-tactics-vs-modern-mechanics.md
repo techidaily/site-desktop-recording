@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Roguelike's Traditional Tactics Vs. Modern Mechanics\""
-date: 2024-05-18T05:46:45.148Z
-updated: 2024-05-19T05:46:45.148Z
+date: 2024-07-04T00:13:26.572Z
+updated: 2024-07-05T00:13:26.572Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Roguelike's Traditional Tactics Vs. Modern Mechanics\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Roguelike's Traditional Tactics Vs. Modern Mechanics\""
 keywords: "\"Roguelikes Vs. Modern Design,Old-School Strategy in Gaming,Classic Rogue Mech Dynamics,Traditional Tactics in Roguelike Games,Timeless Gameplay Mechanics,Vintage Role-Playing Warfare,Evolution of Rogue Combat Techniques\""
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Roguelike's Traditional Tactics Vs. Modern Mechanics

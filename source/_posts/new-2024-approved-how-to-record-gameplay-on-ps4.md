@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Record Gameplay on PS4\""
-date: 2024-05-19T20:38:19.734Z
-updated: 2024-05-20T20:38:19.734Z
+date: 2024-07-04T00:13:27.569Z
+updated: 2024-07-05T00:13:27.569Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: How to Record Gameplay on PS4\""
 excerpt: "\"This Article Describes [New] 2024 Approved: How to Record Gameplay on PS4\""
 keywords: "PS4 Game Capture Guide,PS4 Screen Recording Tips,PS4 Playback Tutorial,Capture PS4 Gameplay Steps,PS4 Gaming Stream Setup,Save PS4 Video Games,Screen Record PS4 Session"
-thumbnail: https://www.lifewire.com/thmb/0ReomQ5wrb7WSffrn0hDnZKzgPU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-gaming-laptop-5235493-145a8c941b9f46e99d9a90bdee387893.jpg
+thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1ab1cb47d3f2f93a3bce610c.jpg
 ---
 
 ## How to Record Gameplay on PS4

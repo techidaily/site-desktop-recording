@@ -1,7 +1,7 @@
 ---
 title: "Dreamy Minecraft Domiciles Decoded"
-date: 2024-05-18T05:36:46.795Z
-updated: 2024-05-19T05:36:46.795Z
+date: 2024-07-04T00:13:23.067Z
+updated: 2024-07-05T00:13:23.067Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Dreamy Minecraft Domiciles Decoded"
 excerpt: "This Article Describes Dreamy Minecraft Domiciles Decoded"
 keywords: "Dreamy MCR Homes,MiniMCA Houses,Creepy Cave Dwellings,Vivid MineHabitats,Fantasy Mojang Residences,Whimsical Blocklives,Enchanted Stoneworlds"
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Dreamy Minecraft Domiciles Decoded

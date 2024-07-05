@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Crafting Compelling Video Narratives Using Captivate\""
-date: 2024-06-25T23:48:44.396Z
-updated: 2024-06-26T23:48:44.396Z
+date: 2024-07-04T00:13:24.010Z
+updated: 2024-07-05T00:13:24.010Z
 tags: 
   - screen-recording
   - ai video
@@ -17,7 +17,8 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 ## Crafting Compelling Video Narratives Using Captivate
 
-# How to Record a Video Presentation Using Adobe Captivate ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+# How to Record a Video Presentation Using Adobe Captivate
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
 

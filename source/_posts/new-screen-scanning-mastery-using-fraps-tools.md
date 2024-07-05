@@ -1,7 +1,7 @@
 ---
 title: "[New] Screen Scanning Mastery Using Fraps Tools"
-date: 2024-05-19T20:38:25.831Z
-updated: 2024-05-20T20:38:25.831Z
+date: 2024-07-04T00:13:27.461Z
+updated: 2024-07-05T00:13:27.461Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Screen Scanning Mastery Using Fraps Tools"
 excerpt: "This Article Describes [New] Screen Scanning Mastery Using Fraps Tools"
 keywords: "\"Fraps Screen Capture,Screen Scan Techniques,Mastering Screen Recording,Fraps Pro Guide,Advanced Screen Scanning,High-Quality Scans with Fraps,Optimizing Image Capture\""
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## Screen Scanning Mastery Using Fraps Tools

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Vibrant Discourse Evaluation - Ver. 8\""
-date: 2024-05-19T20:38:20.269Z
-updated: 2024-05-20T20:38:20.269Z
+date: 2024-07-04T00:13:23.201Z
+updated: 2024-07-05T00:13:23.201Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Vibrant Discourse Evaluation - Ver. 8\""
 excerpt: "\"This Article Describes In 2024, Vibrant Discourse Evaluation - Ver. 8\""
 keywords: "Vibrant Discussion Analysis,Ver 8 Discussion Review,Discourse Vibrancy Check,Version 8 Debate Score,Evaluating Discourse Level,Discourse Dynamics Assessment,V8 Discourse Metrics"
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## Vibrant Discourse Evaluation - Ver. 8

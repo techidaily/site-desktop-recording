@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Chorus & Bass  Mac's Sound Control\""
-date: 2024-05-19T20:37:55.033Z
-updated: 2024-05-20T20:37:55.033Z
+date: 2024-07-04T00:13:22.069Z
+updated: 2024-07-05T00:13:22.069Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Chorus & Bass: Mac's Sound Control\""
 excerpt: "\"This Article Describes In 2024, Chorus & Bass: Mac's Sound Control\""
 keywords: "Mac Audio Mixing,Chorus Effect Mac,Bass Leveling Mac,Mac Music Editors,Chorus & Bass Software,Balanced Stereo Outputs,Professional Sound Control"
-thumbnail: https://www.lifewire.com/thmb/vmRvggsBE9toSpXM8p1WS8O5Wjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
 ---
 
 ## Chorus & Bass: Mac's Sound Control

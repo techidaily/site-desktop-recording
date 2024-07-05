@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top 10 Must-Have Terraria Extensions for 2024\""
-date: 2024-05-19T20:38:22.719Z
-updated: 2024-05-20T20:38:22.719Z
+date: 2024-07-04T00:13:26.944Z
+updated: 2024-07-05T00:13:26.944Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Top 10 Must-Have Terraria Extensions for 2024\""
 excerpt: "\"This Article Describes [Updated] Top 10 Must-Have Terraria Extensions for 2024\""
 keywords: "\"Terraria Upgrades,Essential Terraria Tools,Must-Purchase Extensions,Terraria Add-Ons Guide,Top Terraria Upgrades,Key Terrian Extensions,Terraria Essentials Guide\""
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## Top 10 Must-Have Terraria Extensions
@@ -33,7 +33,7 @@ Before we move toward the top 10 best terraria mods, make sure to download and i
 
 ![tmodloader-poster](https://images.wondershare.com/filmora/article-images/tmodloader-poster.jpg)
 
-#### [1\. N Terraria (Standalone)](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/)
+#### 1\. N Terraria (Standalone)
 
 ![n-terraria-standalone-poster](https://images.wondershare.com/filmora/article-images/n-terraria-standalone-poster.jpg)
 
@@ -45,7 +45,7 @@ Terraria is one of the amazing games with everything similar to an RPG. But this
 * Include new races, classes and level systems
 * Increase in the difficulty
 
-#### [2\. Terraria Overhaul](https://forums.terraria.org/index.php?threads/terraria-overhaul-gameplay-enhancements-and-much-more.60369/)
+#### 2\. Terraria Overhaul
 
 ![terraria-overhaul-poster](https://images.wondershare.com/filmora/article-images/terraria-overhaul-poster.jpg)
 
@@ -58,7 +58,7 @@ Terraria Overhaul enhances the existing features and options instead of adding s
 * Include new game seasons
 * Enhanced combat system
 
-#### [3\. Calamity](https://forums.terraria.org/index.php?threads/calamity-mod.44065/)
+#### 3\. Calamity
 
 ![calamity-poster](https://images.wondershare.com/filmora/article-images/calamity-poster.jpg)
 
@@ -71,7 +71,7 @@ Calamity is one of the best Terraria mods because it brings huge and impactful c
 * 1,000 new and unique items
 * Five new difficulty levels
 
-#### [4\. Thorium](https://forums.terraria.org/index.php?threads/the-thorium-mod.40788/)
+#### 4\. Thorium
 
 ![thorium-poster](https://images.wondershare.com/filmora/article-images/thorium-poster.png)
 
@@ -85,7 +85,7 @@ If you are looking for something thoughtful and deep in Terraria then you should
 * Three new classes: Thrower, Bard, Healer
 * Wide range of places to explore
 
-#### [5\. Super Terraria World](https://forums.terraria.org/index.php?threads/super-terraria-world-mmorpg-style-mod-server-and-client-mod.936/)
+#### 5\. Super Terraria World
 
 ![super-terraria-world-poster](https://images.wondershare.com/filmora/article-images/super-terraria-world-poster.png)
 
@@ -97,7 +97,7 @@ Super Terraria World has been there for a couple of years now. But it continuous
 * New skills, quests and NPCs
 * Continues improvement
 
-#### [6\. Magic Storage](https://forums.terraria.org/index.php?threads/magic-storage.56294/)
+#### 6\. Magic Storage
 
 ![magic-storage-poster](https://images.wondershare.com/filmora/article-images/magic-storage-poster.png)
 
@@ -110,7 +110,7 @@ Magic Storage enables the players of Terraria to connect several storage contain
 * Access crates remotely
 * Enhance the experience of playing Terraria
 
-#### [7\. Recipe Browser](https://forums.terraria.org/index.php?threads/recipe-browser.62462/)
+#### 7\. Recipe Browser
 
 ![recipe-browser-poster.png](https://images.wondershare.com/filmora/article-images/recipe-browser-poster.png)
 
@@ -123,7 +123,7 @@ Recipe Browser is another mod that helps you control and access the wild and exc
 * Know how to craft things
 * Know about the item that you need
 
-#### [8\. Veinminer](https://forums.terraria.org/index.php?threads/veinminer-mod-mine-ores-faster.63652/)
+#### 8\. Veinminer
 
 ![veinminer-poster](https://images.wondershare.com/filmora/article-images/veinminer-poster.jpg)
 
@@ -135,7 +135,7 @@ Mining in Terraria using clicks of the mouse can be very painful because you hav
 * Destroy the entire chunk of blocks in one click
 * Save your time and clicks
 
-#### [9\. Fargo's Mutant Mod](https://forums.terraria.org/index.php?threads/fargos-mutant-mod-summons-and-souls.42291/)
+#### 9\. Fargo's Mutant Mod
 
 ![fargos-mutant-mod-poster](https://images.wondershare.com/filmora/article-images/fargos-mutant-mod-poster.jpg)
 
@@ -149,7 +149,7 @@ The main focus of this mod is quality of life. This mod includes a wide range of
 * Purchase every including wood, lumberjack, and more
 * Purchase boss summoning trinkets
 
-#### [10\. Boss Checklist](https://forums.terraria.org/index.php?threads/boss-checklist-in-game-progression-checklist.50668/)
+#### 10\. Boss Checklist
 
 ![boss-checklist-poster](https://images.wondershare.com/filmora/article-images/boss-checklist-poster.jpg)
 
@@ -179,7 +179,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 #### **Conclusion:**
 
@@ -207,7 +207,7 @@ Before we move toward the top 10 best terraria mods, make sure to download and i
 
 ![tmodloader-poster](https://images.wondershare.com/filmora/article-images/tmodloader-poster.jpg)
 
-#### [1\. N Terraria (Standalone)](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/)
+#### 1\. N Terraria (Standalone)
 
 ![n-terraria-standalone-poster](https://images.wondershare.com/filmora/article-images/n-terraria-standalone-poster.jpg)
 
@@ -219,7 +219,7 @@ Terraria is one of the amazing games with everything similar to an RPG. But this
 * Include new races, classes and level systems
 * Increase in the difficulty
 
-#### [2\. Terraria Overhaul](https://forums.terraria.org/index.php?threads/terraria-overhaul-gameplay-enhancements-and-much-more.60369/)
+#### 2\. Terraria Overhaul
 
 ![terraria-overhaul-poster](https://images.wondershare.com/filmora/article-images/terraria-overhaul-poster.jpg)
 
@@ -232,7 +232,7 @@ Terraria Overhaul enhances the existing features and options instead of adding s
 * Include new game seasons
 * Enhanced combat system
 
-#### [3\. Calamity](https://forums.terraria.org/index.php?threads/calamity-mod.44065/)
+#### 3\. Calamity
 
 ![calamity-poster](https://images.wondershare.com/filmora/article-images/calamity-poster.jpg)
 
@@ -245,7 +245,7 @@ Calamity is one of the best Terraria mods because it brings huge and impactful c
 * 1,000 new and unique items
 * Five new difficulty levels
 
-#### [4\. Thorium](https://forums.terraria.org/index.php?threads/the-thorium-mod.40788/)
+#### 4\. Thorium
 
 ![thorium-poster](https://images.wondershare.com/filmora/article-images/thorium-poster.png)
 
@@ -259,7 +259,7 @@ If you are looking for something thoughtful and deep in Terraria then you should
 * Three new classes: Thrower, Bard, Healer
 * Wide range of places to explore
 
-#### [5\. Super Terraria World](https://forums.terraria.org/index.php?threads/super-terraria-world-mmorpg-style-mod-server-and-client-mod.936/)
+#### 5\. Super Terraria World
 
 ![super-terraria-world-poster](https://images.wondershare.com/filmora/article-images/super-terraria-world-poster.png)
 
@@ -271,7 +271,7 @@ Super Terraria World has been there for a couple of years now. But it continuous
 * New skills, quests and NPCs
 * Continues improvement
 
-#### [6\. Magic Storage](https://forums.terraria.org/index.php?threads/magic-storage.56294/)
+#### 6\. Magic Storage
 
 ![magic-storage-poster](https://images.wondershare.com/filmora/article-images/magic-storage-poster.png)
 
@@ -284,7 +284,7 @@ Magic Storage enables the players of Terraria to connect several storage contain
 * Access crates remotely
 * Enhance the experience of playing Terraria
 
-#### [7\. Recipe Browser](https://forums.terraria.org/index.php?threads/recipe-browser.62462/)
+#### 7\. Recipe Browser
 
 ![recipe-browser-poster.png](https://images.wondershare.com/filmora/article-images/recipe-browser-poster.png)
 
@@ -297,7 +297,7 @@ Recipe Browser is another mod that helps you control and access the wild and exc
 * Know how to craft things
 * Know about the item that you need
 
-#### [8\. Veinminer](https://forums.terraria.org/index.php?threads/veinminer-mod-mine-ores-faster.63652/)
+#### 8\. Veinminer
 
 ![veinminer-poster](https://images.wondershare.com/filmora/article-images/veinminer-poster.jpg)
 
@@ -309,7 +309,7 @@ Mining in Terraria using clicks of the mouse can be very painful because you hav
 * Destroy the entire chunk of blocks in one click
 * Save your time and clicks
 
-#### [9\. Fargo's Mutant Mod](https://forums.terraria.org/index.php?threads/fargos-mutant-mod-summons-and-souls.42291/)
+#### 9\. Fargo's Mutant Mod
 
 ![fargos-mutant-mod-poster](https://images.wondershare.com/filmora/article-images/fargos-mutant-mod-poster.jpg)
 
@@ -323,7 +323,7 @@ The main focus of this mod is quality of life. This mod includes a wide range of
 * Purchase every including wood, lumberjack, and more
 * Purchase boss summoning trinkets
 
-#### [10\. Boss Checklist](https://forums.terraria.org/index.php?threads/boss-checklist-in-game-progression-checklist.50668/)
+#### 10\. Boss Checklist
 
 ![boss-checklist-poster](https://images.wondershare.com/filmora/article-images/boss-checklist-poster.jpg)
 
@@ -353,7 +353,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 #### **Conclusion:**
 
@@ -381,7 +381,7 @@ Before we move toward the top 10 best terraria mods, make sure to download and i
 
 ![tmodloader-poster](https://images.wondershare.com/filmora/article-images/tmodloader-poster.jpg)
 
-#### [1\. N Terraria (Standalone)](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/)
+#### 1\. N Terraria (Standalone)
 
 ![n-terraria-standalone-poster](https://images.wondershare.com/filmora/article-images/n-terraria-standalone-poster.jpg)
 
@@ -393,7 +393,7 @@ Terraria is one of the amazing games with everything similar to an RPG. But this
 * Include new races, classes and level systems
 * Increase in the difficulty
 
-#### [2\. Terraria Overhaul](https://forums.terraria.org/index.php?threads/terraria-overhaul-gameplay-enhancements-and-much-more.60369/)
+#### 2\. Terraria Overhaul
 
 ![terraria-overhaul-poster](https://images.wondershare.com/filmora/article-images/terraria-overhaul-poster.jpg)
 
@@ -406,7 +406,7 @@ Terraria Overhaul enhances the existing features and options instead of adding s
 * Include new game seasons
 * Enhanced combat system
 
-#### [3\. Calamity](https://forums.terraria.org/index.php?threads/calamity-mod.44065/)
+#### 3\. Calamity
 
 ![calamity-poster](https://images.wondershare.com/filmora/article-images/calamity-poster.jpg)
 
@@ -419,7 +419,7 @@ Calamity is one of the best Terraria mods because it brings huge and impactful c
 * 1,000 new and unique items
 * Five new difficulty levels
 
-#### [4\. Thorium](https://forums.terraria.org/index.php?threads/the-thorium-mod.40788/)
+#### 4\. Thorium
 
 ![thorium-poster](https://images.wondershare.com/filmora/article-images/thorium-poster.png)
 
@@ -433,7 +433,7 @@ If you are looking for something thoughtful and deep in Terraria then you should
 * Three new classes: Thrower, Bard, Healer
 * Wide range of places to explore
 
-#### [5\. Super Terraria World](https://forums.terraria.org/index.php?threads/super-terraria-world-mmorpg-style-mod-server-and-client-mod.936/)
+#### 5\. Super Terraria World
 
 ![super-terraria-world-poster](https://images.wondershare.com/filmora/article-images/super-terraria-world-poster.png)
 
@@ -445,7 +445,7 @@ Super Terraria World has been there for a couple of years now. But it continuous
 * New skills, quests and NPCs
 * Continues improvement
 
-#### [6\. Magic Storage](https://forums.terraria.org/index.php?threads/magic-storage.56294/)
+#### 6\. Magic Storage
 
 ![magic-storage-poster](https://images.wondershare.com/filmora/article-images/magic-storage-poster.png)
 
@@ -458,7 +458,7 @@ Magic Storage enables the players of Terraria to connect several storage contain
 * Access crates remotely
 * Enhance the experience of playing Terraria
 
-#### [7\. Recipe Browser](https://forums.terraria.org/index.php?threads/recipe-browser.62462/)
+#### 7\. Recipe Browser
 
 ![recipe-browser-poster.png](https://images.wondershare.com/filmora/article-images/recipe-browser-poster.png)
 
@@ -471,7 +471,7 @@ Recipe Browser is another mod that helps you control and access the wild and exc
 * Know how to craft things
 * Know about the item that you need
 
-#### [8\. Veinminer](https://forums.terraria.org/index.php?threads/veinminer-mod-mine-ores-faster.63652/)
+#### 8\. Veinminer
 
 ![veinminer-poster](https://images.wondershare.com/filmora/article-images/veinminer-poster.jpg)
 
@@ -483,7 +483,7 @@ Mining in Terraria using clicks of the mouse can be very painful because you hav
 * Destroy the entire chunk of blocks in one click
 * Save your time and clicks
 
-#### [9\. Fargo's Mutant Mod](https://forums.terraria.org/index.php?threads/fargos-mutant-mod-summons-and-souls.42291/)
+#### 9\. Fargo's Mutant Mod
 
 ![fargos-mutant-mod-poster](https://images.wondershare.com/filmora/article-images/fargos-mutant-mod-poster.jpg)
 
@@ -497,7 +497,7 @@ The main focus of this mod is quality of life. This mod includes a wide range of
 * Purchase every including wood, lumberjack, and more
 * Purchase boss summoning trinkets
 
-#### [10\. Boss Checklist](https://forums.terraria.org/index.php?threads/boss-checklist-in-game-progression-checklist.50668/)
+#### 10\. Boss Checklist
 
 ![boss-checklist-poster](https://images.wondershare.com/filmora/article-images/boss-checklist-poster.jpg)
 
@@ -527,7 +527,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 #### **Conclusion:**
 
@@ -555,7 +555,7 @@ Before we move toward the top 10 best terraria mods, make sure to download and i
 
 ![tmodloader-poster](https://images.wondershare.com/filmora/article-images/tmodloader-poster.jpg)
 
-#### [1\. N Terraria (Standalone)](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/)
+#### 1\. N Terraria (Standalone)
 
 ![n-terraria-standalone-poster](https://images.wondershare.com/filmora/article-images/n-terraria-standalone-poster.jpg)
 
@@ -567,7 +567,7 @@ Terraria is one of the amazing games with everything similar to an RPG. But this
 * Include new races, classes and level systems
 * Increase in the difficulty
 
-#### [2\. Terraria Overhaul](https://forums.terraria.org/index.php?threads/terraria-overhaul-gameplay-enhancements-and-much-more.60369/)
+#### 2\. Terraria Overhaul
 
 ![terraria-overhaul-poster](https://images.wondershare.com/filmora/article-images/terraria-overhaul-poster.jpg)
 
@@ -580,7 +580,7 @@ Terraria Overhaul enhances the existing features and options instead of adding s
 * Include new game seasons
 * Enhanced combat system
 
-#### [3\. Calamity](https://forums.terraria.org/index.php?threads/calamity-mod.44065/)
+#### 3\. Calamity
 
 ![calamity-poster](https://images.wondershare.com/filmora/article-images/calamity-poster.jpg)
 
@@ -593,7 +593,7 @@ Calamity is one of the best Terraria mods because it brings huge and impactful c
 * 1,000 new and unique items
 * Five new difficulty levels
 
-#### [4\. Thorium](https://forums.terraria.org/index.php?threads/the-thorium-mod.40788/)
+#### 4\. Thorium
 
 ![thorium-poster](https://images.wondershare.com/filmora/article-images/thorium-poster.png)
 
@@ -607,7 +607,7 @@ If you are looking for something thoughtful and deep in Terraria then you should
 * Three new classes: Thrower, Bard, Healer
 * Wide range of places to explore
 
-#### [5\. Super Terraria World](https://forums.terraria.org/index.php?threads/super-terraria-world-mmorpg-style-mod-server-and-client-mod.936/)
+#### 5\. Super Terraria World
 
 ![super-terraria-world-poster](https://images.wondershare.com/filmora/article-images/super-terraria-world-poster.png)
 
@@ -619,7 +619,7 @@ Super Terraria World has been there for a couple of years now. But it continuous
 * New skills, quests and NPCs
 * Continues improvement
 
-#### [6\. Magic Storage](https://forums.terraria.org/index.php?threads/magic-storage.56294/)
+#### 6\. Magic Storage
 
 ![magic-storage-poster](https://images.wondershare.com/filmora/article-images/magic-storage-poster.png)
 
@@ -632,7 +632,7 @@ Magic Storage enables the players of Terraria to connect several storage contain
 * Access crates remotely
 * Enhance the experience of playing Terraria
 
-#### [7\. Recipe Browser](https://forums.terraria.org/index.php?threads/recipe-browser.62462/)
+#### 7\. Recipe Browser
 
 ![recipe-browser-poster.png](https://images.wondershare.com/filmora/article-images/recipe-browser-poster.png)
 
@@ -645,7 +645,7 @@ Recipe Browser is another mod that helps you control and access the wild and exc
 * Know how to craft things
 * Know about the item that you need
 
-#### [8\. Veinminer](https://forums.terraria.org/index.php?threads/veinminer-mod-mine-ores-faster.63652/)
+#### 8\. Veinminer
 
 ![veinminer-poster](https://images.wondershare.com/filmora/article-images/veinminer-poster.jpg)
 
@@ -657,7 +657,7 @@ Mining in Terraria using clicks of the mouse can be very painful because you hav
 * Destroy the entire chunk of blocks in one click
 * Save your time and clicks
 
-#### [9\. Fargo's Mutant Mod](https://forums.terraria.org/index.php?threads/fargos-mutant-mod-summons-and-souls.42291/)
+#### 9\. Fargo's Mutant Mod
 
 ![fargos-mutant-mod-poster](https://images.wondershare.com/filmora/article-images/fargos-mutant-mod-poster.jpg)
 
@@ -671,7 +671,7 @@ The main focus of this mod is quality of life. This mod includes a wide range of
 * Purchase every including wood, lumberjack, and more
 * Purchase boss summoning trinkets
 
-#### [10\. Boss Checklist](https://forums.terraria.org/index.php?threads/boss-checklist-in-game-progression-checklist.50668/)
+#### 10\. Boss Checklist
 
 ![boss-checklist-poster](https://images.wondershare.com/filmora/article-images/boss-checklist-poster.jpg)
 
@@ -701,7 +701,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 #### **Conclusion:**
 

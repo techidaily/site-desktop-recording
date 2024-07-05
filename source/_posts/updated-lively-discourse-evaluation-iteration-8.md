@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lively Discourse Evaluation - Iteration 8\""
-date: 2024-05-18T05:41:15.312Z
-updated: 2024-05-19T05:41:15.312Z
+date: 2024-07-04T00:13:25.205Z
+updated: 2024-07-05T00:13:25.205Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Lively Discourse Evaluation - Iteration 8\""
 excerpt: "\"This Article Describes [Updated] Lively Discourse Evaluation - Iteration 8\""
 keywords: "Lively Discuss Eval,Vibrant Dialog Score,Active Chat Assessment,Dynamic Conversation Rating,Energetic Debate Evaluation,Stimulating Talk Analysis,Bustling Forum Appraisal"
-thumbnail: https://www.lifewire.com/thmb/6UZHTeyuNkJhbDQGbXCRwhK1TEI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1218764238-30613399ad1b4cffab4ab474184b9c88.jpg
+thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8409002b7334f65b8debc634.jpg
 ---
 
 ## Lively Discourse Evaluation - Iteration 8

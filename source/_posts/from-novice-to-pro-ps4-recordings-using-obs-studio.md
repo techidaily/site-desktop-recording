@@ -1,7 +1,7 @@
 ---
 title: "\"From Novice to Pro  PS4 Recordings Using OBS Studio\""
-date: 2024-05-19T20:37:59.748Z
-updated: 2024-05-20T20:37:59.748Z
+date: 2024-07-04T00:13:23.339Z
+updated: 2024-07-05T00:13:23.339Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes From Novice to Pro: PS4 Recordings Using OBS Studio\""
 excerpt: "\"This Article Describes From Novice to Pro: PS4 Recordings Using OBS Studio\""
 keywords: "\"PS4 Gaming Recording,OBS Studio for PS4,PS4 Game Capture,Learning OBS Studio,Pro-Gamer Broadcasting,Advanced PS4 Recordings,OBS Studio Tutorials (PS4)\""
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## From Novice to Pro: PS4 Recordings Using OBS Studio

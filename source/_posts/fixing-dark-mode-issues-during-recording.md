@@ -1,7 +1,7 @@
 ---
 title: "Fixing Dark Mode Issues During Recording"
-date: 2024-05-18T05:40:17.207Z
-updated: 2024-05-19T05:40:17.207Z
+date: 2024-07-04T00:13:26.291Z
+updated: 2024-07-05T00:13:26.291Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Fixing Dark Mode Issues During Recording"
 excerpt: "This Article Describes Fixing Dark Mode Issues During Recording"
 keywords: "Fix Dark Record Glitches,Resolve Screen Blackout,Correct Recording Dark Mode,Address Dark Mode Problems,Solve Recorder Dark Issue,Rectify Video Dark Mode,Troubleshoot Dark Mode in Recordings"
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## Fixing Dark Mode Issues During Recording

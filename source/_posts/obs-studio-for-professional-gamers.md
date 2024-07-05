@@ -1,7 +1,7 @@
 ---
 title: "OBS Studio for Professional Gamers"
-date: 2024-05-18T05:24:16.080Z
-updated: 2024-05-19T05:24:16.080Z
+date: 2024-07-04T00:13:17.606Z
+updated: 2024-07-05T00:13:17.606Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes OBS Studio for Professional Gamers"
 excerpt: "This Article Describes OBS Studio for Professional Gamers"
 keywords: "\"Gamer OBS Studio,Pro Gamers Studio,Game Broadcasting Studio,OBS for Gamers,High-Quality Streams,Streamer Production Tool,Professional Livestreaming Software\""
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## OBS Studio for Professional Gamers

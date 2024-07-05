@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tranquility Trove  PC's Best Bets\""
-date: 2024-06-25T23:48:44.041Z
-updated: 2024-06-26T23:48:44.041Z
+date: 2024-07-04T00:13:25.870Z
+updated: 2024-07-05T00:13:25.870Z
 tags: 
   - screen-recording
   - ai video
@@ -17,7 +17,8 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
 ## Tranquility Trove: PC's Best Bets
 
-# FREE Top 12 Best Idle Games You Can Try on PC ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# FREE Top 12 Best Idle Games You Can Try on PC
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 
