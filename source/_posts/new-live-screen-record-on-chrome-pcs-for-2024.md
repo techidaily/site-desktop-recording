@@ -1,7 +1,7 @@
 ---
 title: "[New] Live Screen Record on Chrome PCs for 2024"
-date: 2024-05-19T20:38:00.114Z
-updated: 2024-05-20T20:38:00.114Z
+date: 2024-07-19T13:32:21.478Z
+updated: 2024-07-20T13:32:21.478Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Live Screen Record on Chrome PCs for 2024"
 excerpt: "This Article Describes [New] Live Screen Record on Chrome PCs for 2024"
 keywords: "\"Chromecast Screen Recorder,Chrome Live Screencast,Chrome Screencasting Pro,Quick Chrome Recording,Chrome Webcam Capture,Real-Time Chrome Record,PC Chrome Screen Save\""
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## Live Screen Record on Chrome PCs
@@ -25,12 +25,21 @@ So we have done our research to assist those who are in search of a cool and eas
 
 The Chrome OS Native screenshot as well as a screen recorder application is very easy and simple to use. It comes with a simple GUI in the Chromebook OS. The recorder lets you record your screen and audio input. To get your hand on the application and learn how to use it, you gotta follow the steps below. Before moving to the “How’s” you need to know that the Chrome OS native screenshot generally comes with the OS but if you are an old user and using the old version then you will need to bring it on your OS. Let's see how can we do that.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1: Setting Up
 
 If you are not seeing the recorder out of the box then you will need to access the Chrome OS features. It can be done by enabling the Chromes OS flags. All you have to do is to search chrome://flags with its browser. After that search for “screen capture”. And you will see enable option in front of the screen capture bar, enable it and you will be asked for a permission reset prompt and it's done.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chrome native screen recorder setting up](https://images.wondershare.com/filmora/article-images/chrome-native-screen-recorder-setting-up.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Recorder Screen
 
 Once you are done with settings up the flag or you are using the latest Chrome OS now it's time to move to record your screen. Go to the lower right button of your OS screen and click on the shelf as shown in the figure below. A new window will appear, now you will need to click on the screen capture.
@@ -45,6 +54,9 @@ Finally, once you are done recording and now it's time to stop recording. You ju
 
 ![chrome stop recording](https://images.wondershare.com/filmora/article-images/chrome-stop-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Other Alternative Ways to Record Chrome Screen
 
 A lot of other applications and plugins are also used to capture screenshots and record your Chrome OS. Some of the basic and fantastic applications that might help you to record your screen are discussed in the coming sections.
@@ -53,6 +65,9 @@ A lot of other applications and plugins are also used to capture screenshots and
 
 Screencastify is one of the easy to set up and user-friendly extensions that can be used on the Chrome OS browser to record your screen. All you have to do is go to screecastify.com and click on add extension as shown in the figure.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screencastify](https://images.wondershare.com/filmora/article-images/screencastify-site.jpg)
 
 Once it is installed, you can go to extensions and launch it. It will pop up a signing page just sign in using your Google account directly as shown. There are three steps, each step needs to be done completely to proceed further. The First step is signing in. To get done with this step in hurry just click sign in using google account.
@@ -61,6 +76,9 @@ Once it is installed, you can go to extensions and launch it. It will pop up a s
 
 Once you are finished signing in and installing, it's time to set microphone settings in a new browser window. After that click next and it will be finished. Access it from the top right corner as shown in the picture and it will be open.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screencastify set microphone new browser](https://images.wondershare.com/filmora/article-images/screencastify-set-microphone-new-browser.jpg)
 
 You can record your desktop screen with the desktop icon. The browser tab can be recorded by clicking that icon and clicking record. Moreover, the webcam record can be captured using the webcam icon and clicking start recording as shown below in the figure.
@@ -85,10 +103,25 @@ Let's come to the recording of the screen. Open up the extension from the pinned
 
 Similarly, a screenshot can be taken by going to the “Capture” section in the main bar. Click “Visible Port” and click start capturing. After that, a vibrant screenshot editor will pop up to edit your screenshot at the run time.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Nimbus
 
 Another amazing Google extension for screen recording that is used widely is Nimbus. The installation is somehow similar to the said above extensions. Search for the extension named “Nimbus”. Add it to the chrome browser like shown. After that, a signup page will appear to sign up using a Google account. Add the extension to pinned application in the bar as shown in the figure.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![nimbus screen recorder](https://images.wondershare.com/filmora/article-images/nimbus-capture-poster.png)
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
@@ -144,3 +177,64 @@ To wind up, it's true there are a lot of screen recording add-ons and applicatio
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-bandicam-vs-camtasia-which-one-is-better/"><u>[New] 2024 Approved  Bandicam vs Camtasia, Which One Is Better?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-elite-uploader-mp4-files-directly-for-fb/"><u>[New] 2024 Approved  Elite Uploader  MP4 Files Directly for FB</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-rapid-methods-for-capturing-digital-conference-sessions/"><u>[New] 2024 Approved  Rapid Methods for Capturing Digital Conference Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-top-7-stardew-valley-improvement-packs/"><u>[New] 2024 Approved  The Top 7 Stardew Valley Improvement Packs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-charm-in-the-click-a-thumbnail-hack-for-youtube-shorts-for-2024/"><u>[New] Crafting Charm in the Click  A Thumbnail Hack for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-google-meet-excellence-on-the-house-complete-guide-for-all-users-for-2024/"><u>[New] Google Meet Excellence on the House  Complete Guide for All Users for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-detailed-study-of-frozen-delights-playback-gadgets/"><u>[New] In 2024, Detailed Study of Frozen Delights Playback Gadgets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715937939110-new-in-2024-how-to-choose-between-filmora-and-democreator/"><u>[New] In 2024, How to Choose Between Filmora and Democreator?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-optimizing-your-live-broadcasts-with-obs-and-zoom/"><u>[New] In 2024, Optimizing Your Live Broadcasts with OBS & Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-smooth-segmentation-4-easy-fades-explained/"><u>[New] In 2024, Smooth Segmentation  4 Easy Fades Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-introduction/"><u>[New] Introduction</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-art-of-live-recording-sporting-events-on-screen/"><u>[New] The Art of Live Recording  Sporting Events on Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-discord-live-broadcasts/"><u>[New] The Ultimate Guide to Discord Live Broadcasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-review-of-camstudio-capturing-features/"><u>[New] The Ultimate Review of CamStudio Capturing Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-8-affordable-industry-standard-open-videoconference-platforms/"><u>[New] Top 8 Affordable, Industry-Standard Open Videoconference Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-tricks-to-faster-and-smoother-instagram-media-for-2024/"><u>[New] Tricks to Faster and Smoother Instagram Media for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capture-and-record-a-2023-look-at-camstudios-capabilities/"><u>[Updated] 2024 Approved  Capture and Record  A 2023 Look at CamStudio's Capabilities</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-harmonizing-tech-and-artistry-mac-studios/"><u>[Updated] 2024 Approved  Harmonizing Tech & Artistry  Mac Studios</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-online-meetings-with-these-budget-friendly-video-conferencing-services/"><u>[Updated] 2024 Approved  Mastering Online Meetings with These Budget-Friendly Video Conferencing Services</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-8-pioneering-open-source-platforms-revolutionizing-business-calls/"><u>[Updated] 8 Pioneering Open-Source Platforms Revolutionizing Business Calls</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-action-screen-recorder-review-for-2024/"><u>[Updated] Action Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capturing-every-angle-samsungs-pro-versus-lgs/"><u>[Updated] Capturing Every Angle  Samsung's Pro Versus LG's</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-digital-sound-logging-system-inputs-for-2024/"><u>[Updated] Digital Sound Logging  System Inputs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-eliminate-ambient-chatter-in-skype-calls-for-2024/"><u>[Updated] Eliminate Ambient Chatter in Skype Calls for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes-for-2024/"><u>[Updated] Grandest Clash of Titans  A Compilation of the Top 7 Total War Skirmishes for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-chat-on-google-meet-complete-guide-for-2024/"><u>[Updated] How to Chat on Google Meet [Complete Guide] for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-roblox-gameplay-on-mac-for-2024/"><u>[Updated] How to Record Roblox Gameplay on Mac for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-easy-streaming-managing-and-publishing-videos/"><u>[Updated] In 2024, Easy Streaming, Managing, and Publishing Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-enhance-your-livestream-going-beyond-obs/"><u>[Updated] In 2024, Enhance Your Livestream  Going Beyond OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-master-screen-grabber-list-1-8/"><u>[Updated] In 2024, Master Screen Grabber List #1-8</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-audio-capture-from-facetime-chats/"><u>[Updated] In 2024, Mastering Audio Capture From FaceTime Chats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-photoflex-max-best-windowsmac-picture-editors/"><u>[Updated] In 2024, PhotoFlex Max  Best Windows/Mac Picture Editors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quick-simple-steps-to-saving-twitters-emotive-graphics-gifs-for-2024/"><u>[Updated] Quick, Simple Steps to Saving Twitter’s Emotive Graphics (GIFs) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715860419631-updated-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/"><u>[Updated] Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10).</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715859958186-2024-approved-essential-game-picks-ghost-of-tsushima-rival-edition/"><u>2024 Approved  Essential Game Picks  Ghost of Tsushima Rival Edition!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-insider-guide-to-instagrams-inquiry-emoji/"><u>2024 Approved  The Insider Guide to Instagram's Inquiry Emoji</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-6-techniques-for-capturing-your-minecraft-adventures/"><u>2024 Approved  Top 6 Techniques for Capturing Your Minecraft Adventures</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-edit-flv-video-files-with-flv-editor-windows-macandroid-iphone-and-online/"><u>2024 Approved How to Edit FLV Video Files with FLV Editor Windows, Mac，Android, iPhone & Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beginning-a-language-journey-get-it-at-only-5-off-now/"><u>Beginning a Language Journey? Get It at Only 5%% Off Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/global-sensations-surpassing-100-million-views-on-youtube-the-yearly-countdown-for-2024/"><u>Global Sensations  Surpassing 100 Million Views on YouTube (The Yearly Countdown) for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-red-magic-9-proplus-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nubia Red Magic 9 Pro+ to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 6/iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-13-proplus-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 13 Pro+ 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-embark-on-a-digital-communication-adventure-with-google-meet/"><u>In 2024, Embark on a Digital Communication Adventure with Google Meet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-transform-personal-experiences-through-direct-webcam-capture-using-vlc/"><u>In 2024, Transform Personal Experiences Through Direct Webcam Capture Using VLC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-triumph-through-battle-the-supreme-selection-of-top-7-total-wars/"><u>In 2024, Triumph Through Battle  The Supreme Selection of Top 7 Total Wars</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-windows-leading-video-chat-pros-top-8/"><u>In 2024, Windows' Leading Video Chat Pros  Top 8</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-tiktok-videos-mac-editing-techniques-for-2024/"><u>Mastering TikTok Videos  Mac Editing Techniques for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unbiased-reviews-of-the-best-youtube-to-mp3-converters-available/"><u>New In 2024, Unbiased Reviews of the Best YouTube to MP3 Converters Available</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secure-and-updated-altering-numbers-in-tiktok-profiles-for-2024/"><u>Secure and Updated  Altering Numbers in TikTok Profiles for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software-for-2024/"><u>The Evolution of Video Capturing  Insights Into the Latest Apeaksoft Software for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-gecata-analyzer-report-for-2024/"><u>Ultimate GECATA Analyzer Report for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unveiling-the-trouble-solving-fb-messengers-video-not-sending-flaw/"><u>Unveiling the Trouble  Solving FB Messenger's Video Not Sending Flaw</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/vimeo-vs-youtube-vs-dailymotion-which-video-platform-is-right-for-you/"><u>Vimeo vs YouTube vs Dailymotion  Which Video Platform Is Right for You?</u></a></li>
+</ul></div>

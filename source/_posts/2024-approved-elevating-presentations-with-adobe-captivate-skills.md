@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Elevating Presentations with Adobe Captivate Skills\""
-date: 2024-05-18T05:59:02.759Z
-updated: 2024-05-19T05:59:02.759Z
+date: 2024-07-19T17:22:22.974Z
+updated: 2024-07-20T17:22:22.974Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Elevating Presentations with Adobe Captivate Skills\""
 excerpt: "\"This Article Describes 2024 Approved: Elevating Presentations with Adobe Captivate Skills\""
 keywords: "Captivate Presentation,Adobe Captivate Boost,Skillful Presentations,Elevate Captivate Use,Advance Captivate Techniques,Captivate Professionalism,Improve Captivate Talks"
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## Elevating Presentations with Adobe Captivate Skills
@@ -29,8 +29,19 @@ The Internet has changed the way we look at education since it grants us access 
 
 To make things even better, the Adobe Captivate software is compatible with all documents created with Microsoft PowerPoint and in this article we are going to guide you through each step of the process of recording a video presentation using Adobe Captivate.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -64,6 +75,15 @@ Click on the Demo option in the Adobe Captivate's welcome window, and then click
 
 After you click on the Create button, a new window will appear on the screen. In the upper left corner of the window, you'll be able to see Screen Area and Application options. Select the Application feature and head over to the drop-down menu located directly below it to select the Microsoft PowerPoint application or any other app compatible with the software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
@@ -90,6 +110,187 @@ You'll also be able to set the preferred frame rate, encoding option and aspect 
 
 Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+The Internet has changed the way we look at education since it grants us access to unlimited amounts of knowledge. Adobe Captivate is one of the most powerful software products that enables its users to produce video presentations and interactive eLearning content with powerful authoring tools. The software is designed to reduce the amount of time you have to spend on setting up the video recording session, so you can focus on the quality of the content you are presenting.
+
+To make things even better, the Adobe Captivate software is compatible with all documents created with Microsoft PowerPoint and in this article we are going to guide you through each step of the process of recording a video presentation using Adobe Captivate.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+## How to Record a Video Presentation Using Adobe Captivate
+
+Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
+
+#### Step 1 - Setting up a video recording session
+
+Double-click on Adobe Captivate's desktop icon to launch the software, and then head over to Microsft PowerPoint and open the presentation you'd like to record in the second monitor. Adobe Captivate enables you to capture all animations, objects or multimedia featured in the PowerPoint presentation and it also allows you to record any on-screen activity you want.
+
+![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
+
+Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
+
+#### Step 2 - Select the application and designate the area of the screen you'd like to record
+
+After you click on the Create button, a new window will appear on the screen. In the upper left corner of the window, you'll be able to see Screen Area and Application options. Select the Application feature and head over to the drop-down menu located directly below it to select the Microsoft PowerPoint application or any other app compatible with the software.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
+
+In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
+
+#### Step 3 - Starting a new video recording session
+
+Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
+
+![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
+
+When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
+
+Hit the Record button to initiate the video recording session. You can hit the Esc or End buttons to stop recording if you are using a PC, while Mac users can perform the same action by hitting Cmd + Enter keys.
+
+#### Step 4 - Publish the video
+
+Upon the completion of the video recording session, the Publish Video Demo window will appear on the screen. You'll be able to save your video as an MP4 file directly to your computer, or you can export the video directly to YouTube, Facebook or Twitter.
+
+![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
+
+You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
+
+**Conclusion:**
+
+Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+The Internet has changed the way we look at education since it grants us access to unlimited amounts of knowledge. Adobe Captivate is one of the most powerful software products that enables its users to produce video presentations and interactive eLearning content with powerful authoring tools. The software is designed to reduce the amount of time you have to spend on setting up the video recording session, so you can focus on the quality of the content you are presenting.
+
+To make things even better, the Adobe Captivate software is compatible with all documents created with Microsoft PowerPoint and in this article we are going to guide you through each step of the process of recording a video presentation using Adobe Captivate.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+## How to Record a Video Presentation Using Adobe Captivate
+
+Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
+
+#### Step 1 - Setting up a video recording session
+
+Double-click on Adobe Captivate's desktop icon to launch the software, and then head over to Microsft PowerPoint and open the presentation you'd like to record in the second monitor. Adobe Captivate enables you to capture all animations, objects or multimedia featured in the PowerPoint presentation and it also allows you to record any on-screen activity you want.
+
+![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
+
+Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
+
+#### Step 2 - Select the application and designate the area of the screen you'd like to record
+
+After you click on the Create button, a new window will appear on the screen. In the upper left corner of the window, you'll be able to see Screen Area and Application options. Select the Application feature and head over to the drop-down menu located directly below it to select the Microsoft PowerPoint application or any other app compatible with the software.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
+
+In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
+
+#### Step 3 - Starting a new video recording session
+
+Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
+
+When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
+
+Hit the Record button to initiate the video recording session. You can hit the Esc or End buttons to stop recording if you are using a PC, while Mac users can perform the same action by hitting Cmd + Enter keys.
+
+#### Step 4 - Publish the video
+
+Upon the completion of the video recording session, the Publish Video Demo window will appear on the screen. You'll be able to save your video as an MP4 file directly to your computer, or you can export the video directly to YouTube, Facebook or Twitter.
+
+![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
+
+You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
+
+**Conclusion:**
+
+Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -123,8 +324,23 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Record a Video Presentation Using Adobe Captivate
 
 Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
@@ -149,160 +365,10 @@ In the Snap To section of the window, you'll be able to choose between Applicati
 
 Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
 
-![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
-
-When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
-
-Hit the Record button to initiate the video recording session. You can hit the Esc or End buttons to stop recording if you are using a PC, while Mac users can perform the same action by hitting Cmd + Enter keys.
-
-#### Step 4 - Publish the video
-
-Upon the completion of the video recording session, the Publish Video Demo window will appear on the screen. You'll be able to save your video as an MP4 file directly to your computer, or you can export the video directly to YouTube, Facebook or Twitter.
-
-![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
-
-You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
-
-**Conclusion:**
-
-Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-The Internet has changed the way we look at education since it grants us access to unlimited amounts of knowledge. Adobe Captivate is one of the most powerful software products that enables its users to produce video presentations and interactive eLearning content with powerful authoring tools. The software is designed to reduce the amount of time you have to spend on setting up the video recording session, so you can focus on the quality of the content you are presenting.
-
-To make things even better, the Adobe Captivate software is compatible with all documents created with Microsoft PowerPoint and in this article we are going to guide you through each step of the process of recording a video presentation using Adobe Captivate.
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-## How to Record a Video Presentation Using Adobe Captivate
-
-Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
-
-#### Step 1 - Setting up a video recording session
-
-Double-click on Adobe Captivate's desktop icon to launch the software, and then head over to Microsft PowerPoint and open the presentation you'd like to record in the second monitor. Adobe Captivate enables you to capture all animations, objects or multimedia featured in the PowerPoint presentation and it also allows you to record any on-screen activity you want.
-
-![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
-
-Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
-
-#### Step 2 - Select the application and designate the area of the screen you'd like to record
-
-After you click on the Create button, a new window will appear on the screen. In the upper left corner of the window, you'll be able to see Screen Area and Application options. Select the Application feature and head over to the drop-down menu located directly below it to select the Microsoft PowerPoint application or any other app compatible with the software.
-
-![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
-
-In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
-
-#### Step 3 - Starting a new video recording session
-
-Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
-
-![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
-
-When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
-
-Hit the Record button to initiate the video recording session. You can hit the Esc or End buttons to stop recording if you are using a PC, while Mac users can perform the same action by hitting Cmd + Enter keys.
-
-#### Step 4 - Publish the video
-
-Upon the completion of the video recording session, the Publish Video Demo window will appear on the screen. You'll be able to save your video as an MP4 file directly to your computer, or you can export the video directly to YouTube, Facebook or Twitter.
-
-![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
-
-You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
-
-**Conclusion:**
-
-Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-The Internet has changed the way we look at education since it grants us access to unlimited amounts of knowledge. Adobe Captivate is one of the most powerful software products that enables its users to produce video presentations and interactive eLearning content with powerful authoring tools. The software is designed to reduce the amount of time you have to spend on setting up the video recording session, so you can focus on the quality of the content you are presenting.
-
-To make things even better, the Adobe Captivate software is compatible with all documents created with Microsoft PowerPoint and in this article we are going to guide you through each step of the process of recording a video presentation using Adobe Captivate.
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-## How to Record a Video Presentation Using Adobe Captivate
-
-Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
-
-#### Step 1 - Setting up a video recording session
-
-Double-click on Adobe Captivate's desktop icon to launch the software, and then head over to Microsft PowerPoint and open the presentation you'd like to record in the second monitor. Adobe Captivate enables you to capture all animations, objects or multimedia featured in the PowerPoint presentation and it also allows you to record any on-screen activity you want.
-
-![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
-
-Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
-
-#### Step 2 - Select the application and designate the area of the screen you'd like to record
-
-After you click on the Create button, a new window will appear on the screen. In the upper left corner of the window, you'll be able to see Screen Area and Application options. Select the Application feature and head over to the drop-down menu located directly below it to select the Microsoft PowerPoint application or any other app compatible with the software.
-
-![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
-
-In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
-
-#### Step 3 - Starting a new video recording session
-
-Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
@@ -354,3 +420,48 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-easyvidwin11-the-simplest-way-to-record-your-pc-screen/"><u>[New] 2024 Approved  EasyVidWin11  The Simplest Way to Record Your PC Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-advanced-techniques-for-mov-file-editing-in-win-11-for-2024/"><u>[New] Advanced Techniques for MOV File Editing in Win 11 for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-gameglasses-glimpse-guide/"><u>[New] GameGlasses Glimpse Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-beginner-friendly-guide-to-iphone-screen-recordings/"><u>[New] In 2024, Beginner-Friendly Guide to iPhone Screen Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-insiders-window-to-screen-recording-elite-tools-w10w11/"><u>[New] Insider's Window to Screen Recording Elite Tools W10/W11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-speech-to-text-efficient-conversion-techniques-for-microsoft-word-users/"><u>[New] Speech to Text  Efficient Conversion Techniques for Microsoft Word Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlining-creative-processes-with-obs-studio-tools/"><u>[New] Streamlining Creative Processes with OBS Studio Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-12-pioneering-offline-capture-tools/"><u>[Updated] 12 Pioneering Offline Capture Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-becoming-an-expert-broadcaster-streaming-high-quality-video-online/"><u>[Updated] 2024 Approved  Becoming an Expert Broadcaster  Streaming High-Quality Video Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-tides-the-rising-wave-of-viral-videos/"><u>[Updated] 2024 Approved  Tweeting Tides  The Rising Wave of Viral Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capturing-every-word-a-comprehensive-guide-to-zoom-transcription-tools/"><u>[Updated] Capturing Every Word  A Comprehensive Guide to Zoom Transcription Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-chorus-collective-recordings-downloads-and-evaluation/"><u>[Updated] Chorus Collective  Recordings, Downloads & Evaluation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid/"><u>[Updated] Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-conquer-windows-screenshots-5-recommended-recorders/"><u>[Updated] Conquer Windows Screenshots  #5 Recommended Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-experts-blueprint-revolutionizing-your-screencasting-experience-with-mobizen/"><u>[Updated] Expert's Blueprint  Revolutionizing Your Screencasting Experience with Mobizen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-leading-the-charge-in-modern-presentation-recordings/"><u>[Updated] Leading the Charge in Modern Presentation Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mini-masterpieces-top-6-coolest-mini-houses-in-mc/"><u>[Updated] Mini Masterpieces  Top 6 Coolest Mini-Houses in MC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-step-into-professional-mac-audio-recording-a-complete-audacity-course/"><u>[Updated] Step Into Professional Mac Audio Recording  A Complete Audacity Course</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-presentation-converters-for-clips/"><u>[Updated] Top Presentation Converters for Clips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-advanced-tips-for-screenshot-management-and-archiving/"><u>2024 Approved  Advanced Tips for Screenshot Management and Archiving</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-collective-chronicle-converter/"><u>2024 Approved  Collective Chronicle Converter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-gamers-delight-switchs-best-fighters-top-10-edition/"><u>2024 Approved  Gamer's Delight  Switch's Best Fighters - Top 10 Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-screening-the-modern-internet-best-capture-apps-reviewed/"><u>2024 Approved  Screening the Modern Internet  Best Capture Apps Reviewed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essentials-of-sharing-music-compilations-online/"><u>2024 Approved  The Essentials of Sharing Music Compilations Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-premium-ps1-game-simulators-for-pc-gamers/"><u>5 Premium PS1 Game Simulators for PC Gamers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcasting-conferences-with-no-expense-account-for-2024/"><u>Broadcasting Conferences with No Expense Account for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-the-airwaves-pc-tv-transmission/"><u>Capturing the Airwaves  PC TV Transmission</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-gt-neo-5-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme GT Neo 5 Safely | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-10-essential-screen-recording-apps-for-mac-users/"><u>In 2024, 10 Essential Screen Recording Apps for Mac Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-xs-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone XS without the Previous Owner?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-escaping-through-ethernet-an-exclusive-list-of-websites-that-promote-serenity/"><u>In 2024, Escaping Through Ethernet An Exclusive List of Websites that Promote Serenity</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-flipping-the-script-how-to-revamp-your-tiktok-username-effectively/"><u>In 2024, Flipping the Script  How to Revamp Your TikTok Username Effectively</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-n55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo N55 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-in-depth-guide-to-capturing-and-enhancing-ps4-gaming/"><u>In 2024, In-Depth Guide to Capturing and Enhancing PS4 Gaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-osblend-the-vmix-alternative/"><u>In 2024, OSBlend  The VMix Alternative</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-stream-movie-trailers-anywhere-best-ios-apps/"><u>In 2024, Stream Movie Trailers Anywhere Best iOS Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-uncovering-budget-friendly-video-conferencing-tools-for-multiple-systems/"><u>In 2024, Uncovering Budget-Friendly Video Conferencing Tools for Multiple Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlock-advanced-capturing-a-guide-to-aiseesoft-screen-recorder-use/"><u>In 2024, Unlock Advanced Capturing  A Guide to Aiseesoft Screen Recorder Use</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/iphone-7-live-view-recording-tutorial/"><u>IPhone 7 Live View Recording Tutorial</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-project-protection-learn-how-to-save-your-final-cut-pro-files/"><u>New 2024 Approved Project Protection Learn How to Save Your Final Cut Pro Files</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/teachers-choice-top-recording-applications/"><u>Teachers' Choice  Top Recording Applications</u></a></li>
+</ul></div>

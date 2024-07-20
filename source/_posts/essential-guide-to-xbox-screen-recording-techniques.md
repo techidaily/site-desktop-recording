@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide to Xbox Screen Recording Techniques"
-date: 2024-05-19T20:40:29.608Z
-updated: 2024-05-20T20:40:29.608Z
+date: 2024-07-19T17:34:50.025Z
+updated: 2024-07-20T17:34:50.025Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Essential Guide to Xbox Screen Recording Techniques"
 excerpt: "This Article Describes Essential Guide to Xbox Screen Recording Techniques"
 keywords: "Xbox Record Pro,Xbox Screencap Tips,Xbox Screen Capture,Xbox Game Recorder,Quick Xbox Save Vid,Xbox Screenshot Guide,Master Xbox Record"
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## Essential Guide to Xbox Screen Recording Techniques
@@ -67,6 +67,9 @@ Step 4: To stop recording, you have to open the guide by pressing Xbox button an
 
 The recorded video will be saved and you can view the clips from Recent Captures.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Record Screen on Windows 10 and 11?
 
 If you have connected your Xbox gaming console to your Windows PC and you want to record your gameplay, you will need a screen recorder Xbox. To make recording easy for gamers on Windows 10 and 11, Microsoft has a pre-installed app called Xbox Game Bar. If you opt for Xbox Game Bar recording, you do not have to install any external app and you can start recording instantly. Here are the steps to record screen on Windows 10 and 11 with Xbox Game Bar.
@@ -121,12 +124,167 @@ For macOS 10.12 or later
 
 Step 2: Launch the application and click on New Project option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora video recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 3: Go to Record > Record PC Screen option.
 
 Step 4: Set the screen size as per requirements. Select the audio sources appropriately. For more settings and parameters, click on Gear icon at the bottom-right corner. Note the hotkeys as they will be handy to start and stop recording of full-screen gameplay.
 
+![recorder options settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
+
+Step 5: Click on the Record button to start recording the screen.
+
+![filmora start recording](https://images.wondershare.com/filmora/article-images/select-recording-area.jpg)
+
+You will get a few seconds to open the game and start playing before recording starts. Press F9 to stop recording when your gameplay is over.
+
+##### Filmora Game Recorder
+
+Record game screen on PC and Mac with webcam
+
+Capture system amd micorphone audio simultaneously
+
+Edit video and audio with built-in tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+## The Bottom Line
+
+Hopefully, you have understood how to record screen with Xbox game bar directly. Similarly, we have illustrated how to record Xbox gameplay on your computer, provided it has Windows 10/11 installed. We have also let you know how to record your gameplay on your PC with a professional screen recorder and video editor. Now the choice is yours to record and share your gameplay with the world.
+
+Part 2. [Xbox Record Screen on Windows 10 and 11](#part2)
+
+Part 3. [How to Share Xbox Recording](#part3)
+
+Part 4. [Xbox Alternative Way to Record PC Screen](#part4)
+
+##### Filmora Game Recorder
+
+Record game screen on PC and Mac with webcam
+
+Capture system amd micorphone audio simultaneously
+
+Edit video and audio with built-in tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+## Part 1\. How to Take Screenshots with Xbox Consoles?
+
+Xbox consoles have the controls to take screenshots while playing a game. Similarly, you can record your gameplay for 10 minutes (internal storage) or 60 minutes (external storage). As a matter of fact, you can record what just happened (past gameplay) up to 2 minutes. Here are the steps on how to use screen recorder Xbox gaming console.
+
+Step 1: Turn on your Xbox gaming console.
+
+Step 2: Start playing your game and when you want to take a screenshot, press Xbox button on the console.
+
+Step 3: You will see the guide on the screen and press “Y” button. Otherwise, you can go to Capture Screenshot option as well.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![capture screenshot xbox](https://images.wondershare.com/filmora/article-images/capture-screenshots-xbox-consoles.jpg)
+
+This will save a screenshot automatically and you can access the screenshots from Recent Captures option under Capture & Share.
+
+Here are the steps on how to record Xbox one gameplay.
+
+Step 1: Turn on your Xbox gaming console.
+
+Step 2: Start playing your game and press Xbox button on the console and this will open the guide.
+
+Step 3: Go to Capture & Share and select Start Recording option. This will start recording and the duration depends on the video resolution and storage space available.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![xbox start recording](https://images.wondershare.com/filmora/article-images/xbox-start-recording.jpg)
+
+Step 4: To stop recording, you have to open the guide by pressing Xbox button and press “X” button.
+
+The recorded video will be saved and you can view the clips from Recent Captures.
+
+## Part 2\. How to Record Screen on Windows 10 and 11?
+
+If you have connected your Xbox gaming console to your Windows PC and you want to record your gameplay, you will need a screen recorder Xbox. To make recording easy for gamers on Windows 10 and 11, Microsoft has a pre-installed app called Xbox Game Bar. If you opt for Xbox Game Bar recording, you do not have to install any external app and you can start recording instantly. Here are the steps to record screen on Windows 10 and 11 with Xbox Game Bar.
+
+Step 1: Start playing your game on your PC through Xbox console.
+
+Step 2: When you want to record the screen, press Windows + G keys together. Alternatively, you can press Xbox button. This will launch Xbox Game Bar application on your screen.
+
+Step 2: From the top bar, click on Capture option. This will open a new small side bar with recording controls.
+
+Step 3: From the side bar, click on Record icon to start recording. Alternatively, you can use Windows + Alt + G keys together Xbox game bar record to start.
+
+![launch xbox game bar](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
+
+Step 4: To stop recording, click on Stop icon. Alternatively, you can press Windows + Alt + G keys together to stop recording.
+
+On the side bar, you can click on Camera icon to capture screenshots. There is another option to record the last 30 seconds.
+
+## Part 3\. How to Share Xbox Recording?
+
+If you have taken screenshots and recorded videos of important moments on your gameplay, you can share the screenshots or clips on Twitter as it is the default option available. Alternatively, you can copy any specific screenshot or clip to your clipboard and share it on any platform you want to.
+
+Step 1: Open Xbox Game Bar by pressing Windows + G keys.
+
+Step 2: Go to Widget Menu and click on Gallery option.
+
+![xbox gallery option](https://images.wondershare.com/filmora/article-images/xbox-gallery-option.jpg)
+
+Step 3: From Gallery, choose your recorded screenshots or videos.
+
+Step 4: Click on Share to Twitter button.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+![share game recording xbox](https://images.wondershare.com/filmora/article-images/share-game-recording-twitter.jpg)
+
+Step 5: Enter your text to tweet and click on Share button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 4\. Alternative Way to Record Screen on Windows 10
+
+If you are serious about recording your gameplay from your computer, you have to look beyond Xbox Game Box. There are various limitations of Xbox Game Bar and the most concerning one is that it affects the performance significantly. This adverse effect is mainly noticeable when you are playing any high-end game on your computer. Therefore, you have to look for an alternative to Xbox recorder game bar.
+
+We recommend the best [video recorder software](https://tools.techidaily.com/wondershare/filmora/download/) Filmora not just for capturing your gameplay but also edit your recorded gameplay. Editing plays a major role in making the recorded gameplay interesting to watch. You can trim out the boring sections and add video effects wherever needed. Moreover, you can record gameplay along with webcam and audio for your facial expressions and commentary. Here are the steps on how to record screen on Windows 10 without Xbox Game Bar.
+
+Step 1: Download and install Wondershare Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Launch the application and click on New Project option.
+
+![filmora video recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Go to Record > Record PC Screen option.
+
+Step 4: Set the screen size as per requirements. Select the audio sources appropriately. For more settings and parameters, click on Gear icon at the bottom-right corner. Note the hotkeys as they will be handy to start and stop recording of full-screen gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recorder options settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
 Step 5: Click on the Record button to start recording the screen.
@@ -165,6 +323,9 @@ Edit video and audio with built-in tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to Take Screenshots with Xbox Consoles?
 
 Xbox consoles have the controls to take screenshots while playing a game. Similarly, you can record your gameplay for 10 minutes (internal storage) or 60 minutes (external storage). As a matter of fact, you can record what just happened (past gameplay) up to 2 minutes. Here are the steps on how to use screen recorder Xbox gaming console.
@@ -175,6 +336,9 @@ Step 2: Start playing your game and when you want to take a screenshot, press Xb
 
 Step 3: You will see the guide on the screen and press “Y” button. Otherwise, you can go to Capture Screenshot option as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![capture screenshot xbox](https://images.wondershare.com/filmora/article-images/capture-screenshots-xbox-consoles.jpg)
 
 This will save a screenshot automatically and you can access the screenshots from Recent Captures option under Capture & Share.
@@ -187,6 +351,9 @@ Step 2: Start playing your game and press Xbox button on the console and this wi
 
 Step 3: Go to Capture & Share and select Start Recording option. This will start recording and the duration depends on the video resolution and storage space available.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![xbox start recording](https://images.wondershare.com/filmora/article-images/xbox-start-recording.jpg)
 
 Step 4: To stop recording, you have to open the guide by pressing Xbox button and press “X” button.
@@ -257,6 +424,9 @@ Step 4: Set the screen size as per requirements. Select the audio sources approp
 
 Step 5: Click on the Record button to start recording the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora start recording](https://images.wondershare.com/filmora/article-images/select-recording-area.jpg)
 
 You will get a few seconds to open the game and start playing before recording starts. Press F9 to stop recording when your gameplay is over.
@@ -271,6 +441,9 @@ Edit video and audio with built-in tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 Hopefully, you have understood how to record screen with Xbox game bar directly. Similarly, we have illustrated how to record Xbox gameplay on your computer, provided it has Windows 10/11 installed. We have also let you know how to record your gameplay on your PC with a professional screen recorder and video editor. Now the choice is yours to record and share your gameplay with the world.
@@ -291,6 +464,9 @@ Edit video and audio with built-in tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. How to Take Screenshots with Xbox Consoles?
 
 Xbox consoles have the controls to take screenshots while playing a game. Similarly, you can record your gameplay for 10 minutes (internal storage) or 60 minutes (external storage). As a matter of fact, you can record what just happened (past gameplay) up to 2 minutes. Here are the steps on how to use screen recorder Xbox gaming console.
@@ -301,6 +477,9 @@ Step 2: Start playing your game and when you want to take a screenshot, press Xb
 
 Step 3: You will see the guide on the screen and press “Y” button. Otherwise, you can go to Capture Screenshot option as well.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![capture screenshot xbox](https://images.wondershare.com/filmora/article-images/capture-screenshots-xbox-consoles.jpg)
 
 This will save a screenshot automatically and you can access the screenshots from Recent Captures option under Capture & Share.
@@ -319,6 +498,9 @@ Step 4: To stop recording, you have to open the guide by pressing Xbox button an
 
 The recorded video will be saved and you can view the clips from Recent Captures.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Record Screen on Windows 10 and 11?
 
 If you have connected your Xbox gaming console to your Windows PC and you want to record your gameplay, you will need a screen recorder Xbox. To make recording easy for gamers on Windows 10 and 11, Microsoft has a pre-installed app called Xbox Game Bar. If you opt for Xbox Game Bar recording, you do not have to install any external app and you can start recording instantly. Here are the steps to record screen on Windows 10 and 11 with Xbox Game Bar.
@@ -331,12 +513,27 @@ Step 2: From the top bar, click on Capture option. This will open a new small si
 
 Step 3: From the side bar, click on Record icon to start recording. Alternatively, you can use Windows + Alt + G keys together Xbox game bar record to start.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch xbox game bar](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
 
 Step 4: To stop recording, click on Stop icon. Alternatively, you can press Windows + Alt + G keys together to stop recording.
 
 On the side bar, you can click on Camera icon to capture screenshots. There is another option to record the last 30 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to Share Xbox Recording?
 
 If you have taken screenshots and recorded videos of important moments on your gameplay, you can share the screenshots or clips on Twitter as it is the default option available. Alternatively, you can copy any specific screenshot or clip to your clipboard and share it on any platform you want to.
@@ -351,6 +548,10 @@ Step 3: From Gallery, choose your recorded screenshots or videos.
 
 Step 4: Click on Share to Twitter button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![share game recording xbox](https://images.wondershare.com/filmora/article-images/share-game-recording-twitter.jpg)
 
 Step 5: Enter your text to tweet and click on Share button.
@@ -379,132 +580,9 @@ Step 3: Go to Record > Record PC Screen option.
 
 Step 4: Set the screen size as per requirements. Select the audio sources appropriately. For more settings and parameters, click on Gear icon at the bottom-right corner. Note the hotkeys as they will be handy to start and stop recording of full-screen gameplay.
 
-![recorder options settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
-
-Step 5: Click on the Record button to start recording the screen.
-
-![filmora start recording](https://images.wondershare.com/filmora/article-images/select-recording-area.jpg)
-
-You will get a few seconds to open the game and start playing before recording starts. Press F9 to stop recording when your gameplay is over.
-
-##### Filmora Game Recorder
-
-Record game screen on PC and Mac with webcam
-
-Capture system amd micorphone audio simultaneously
-
-Edit video and audio with built-in tools
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## The Bottom Line
-
-Hopefully, you have understood how to record screen with Xbox game bar directly. Similarly, we have illustrated how to record Xbox gameplay on your computer, provided it has Windows 10/11 installed. We have also let you know how to record your gameplay on your PC with a professional screen recorder and video editor. Now the choice is yours to record and share your gameplay with the world.
-
-Part 2. [Xbox Record Screen on Windows 10 and 11](#part2)
-
-Part 3. [How to Share Xbox Recording](#part3)
-
-Part 4. [Xbox Alternative Way to Record PC Screen](#part4)
-
-##### Filmora Game Recorder
-
-Record game screen on PC and Mac with webcam
-
-Capture system amd micorphone audio simultaneously
-
-Edit video and audio with built-in tools
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 1\. How to Take Screenshots with Xbox Consoles?
-
-Xbox consoles have the controls to take screenshots while playing a game. Similarly, you can record your gameplay for 10 minutes (internal storage) or 60 minutes (external storage). As a matter of fact, you can record what just happened (past gameplay) up to 2 minutes. Here are the steps on how to use screen recorder Xbox gaming console.
-
-Step 1: Turn on your Xbox gaming console.
-
-Step 2: Start playing your game and when you want to take a screenshot, press Xbox button on the console.
-
-Step 3: You will see the guide on the screen and press “Y” button. Otherwise, you can go to Capture Screenshot option as well.
-
-![capture screenshot xbox](https://images.wondershare.com/filmora/article-images/capture-screenshots-xbox-consoles.jpg)
-
-This will save a screenshot automatically and you can access the screenshots from Recent Captures option under Capture & Share.
-
-Here are the steps on how to record Xbox one gameplay.
-
-Step 1: Turn on your Xbox gaming console.
-
-Step 2: Start playing your game and press Xbox button on the console and this will open the guide.
-
-Step 3: Go to Capture & Share and select Start Recording option. This will start recording and the duration depends on the video resolution and storage space available.
-
-![xbox start recording](https://images.wondershare.com/filmora/article-images/xbox-start-recording.jpg)
-
-Step 4: To stop recording, you have to open the guide by pressing Xbox button and press “X” button.
-
-The recorded video will be saved and you can view the clips from Recent Captures.
-
-## Part 2\. How to Record Screen on Windows 10 and 11?
-
-If you have connected your Xbox gaming console to your Windows PC and you want to record your gameplay, you will need a screen recorder Xbox. To make recording easy for gamers on Windows 10 and 11, Microsoft has a pre-installed app called Xbox Game Bar. If you opt for Xbox Game Bar recording, you do not have to install any external app and you can start recording instantly. Here are the steps to record screen on Windows 10 and 11 with Xbox Game Bar.
-
-Step 1: Start playing your game on your PC through Xbox console.
-
-Step 2: When you want to record the screen, press Windows + G keys together. Alternatively, you can press Xbox button. This will launch Xbox Game Bar application on your screen.
-
-Step 2: From the top bar, click on Capture option. This will open a new small side bar with recording controls.
-
-Step 3: From the side bar, click on Record icon to start recording. Alternatively, you can use Windows + Alt + G keys together Xbox game bar record to start.
-
-![launch xbox game bar](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
-
-Step 4: To stop recording, click on Stop icon. Alternatively, you can press Windows + Alt + G keys together to stop recording.
-
-On the side bar, you can click on Camera icon to capture screenshots. There is another option to record the last 30 seconds.
-
-## Part 3\. How to Share Xbox Recording?
-
-If you have taken screenshots and recorded videos of important moments on your gameplay, you can share the screenshots or clips on Twitter as it is the default option available. Alternatively, you can copy any specific screenshot or clip to your clipboard and share it on any platform you want to.
-
-Step 1: Open Xbox Game Bar by pressing Windows + G keys.
-
-Step 2: Go to Widget Menu and click on Gallery option.
-
-![xbox gallery option](https://images.wondershare.com/filmora/article-images/xbox-gallery-option.jpg)
-
-Step 3: From Gallery, choose your recorded screenshots or videos.
-
-Step 4: Click on Share to Twitter button.
-
-![share game recording xbox](https://images.wondershare.com/filmora/article-images/share-game-recording-twitter.jpg)
-
-Step 5: Enter your text to tweet and click on Share button.
-
-## Part 4\. Alternative Way to Record Screen on Windows 10
-
-If you are serious about recording your gameplay from your computer, you have to look beyond Xbox Game Box. There are various limitations of Xbox Game Bar and the most concerning one is that it affects the performance significantly. This adverse effect is mainly noticeable when you are playing any high-end game on your computer. Therefore, you have to look for an alternative to Xbox recorder game bar.
-
-We recommend the best [video recorder software](https://tools.techidaily.com/wondershare/filmora/download/) Filmora not just for capturing your gameplay but also edit your recorded gameplay. Editing plays a major role in making the recorded gameplay interesting to watch. You can trim out the boring sections and add video effects wherever needed. Moreover, you can record gameplay along with webcam and audio for your facial expressions and commentary. Here are the steps on how to record screen on Windows 10 without Xbox Game Bar.
-
-Step 1: Download and install Wondershare Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Launch the application and click on New Project option.
-
-![filmora video recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 3: Go to Record > Record PC Screen option.
-
-Step 4: Set the screen size as per requirements. Select the audio sources appropriately. For more settings and parameters, click on Gear icon at the bottom-right corner. Note the hotkeys as they will be handy to start and stop recording of full-screen gameplay.
-
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recorder options settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
 Step 5: Click on the Record button to start recording the screen.
@@ -551,3 +629,53 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-optimizing-video-creation-in-obs-studio/"><u>[New] 2024 Approved  Optimizing Video Creation in OBS Studio</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-real-time-audio-recording-techniques-for-web-broadcasts/"><u>[New] 2024 Approved  Real-Time Audio Recording Techniques for Web Broadcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-visionhd-video-streamer/"><u>[New] 2024 Approved  VisionHD Video Streamer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-aesthetic-assembly-android-and-ios-video-sets-for-insta/"><u>[New] Aesthetic Assembly  Android & iOS Video Sets for Insta</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-diverse-bites-foodies-top-international-menu-picks-for-2024/"><u>[New] Diverse Bites  Foodies' Top International Menu Picks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-firefoxs-best-screen-cast-add-ons/"><u>[New] Firefox's Best Screen Cast Add-Ons</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-live-to-recorded-a-skilled-approach-to-skype-chat-documentation/"><u>[New] From Live to Recorded  A Skilled Approach to Skype Chat Documentation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-novice-to-expert-a-comprehensive-guide-to-macscreencasting/"><u>[New] From Novice to Expert  A Comprehensive Guide to MacScreencasting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-innovative-recording-solutions-for-igadgets/"><u>[New] In 2024, Innovative Recording Solutions for iGadgets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-reducing-recording-ambiance-free-methods-and-pros/"><u>[New] In 2024, Reducing Recording Ambiance  Free Methods and Pros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-tactical-guide-to-screening-meetings-on-mobilepc/"><u>[New] In 2024, Tactical Guide to Screening Meetings on Mobile/PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unveiling-the-top-10-mobile-battle-strategies/"><u>[New] In 2024, Unveiling the Top 10 Mobile Battle Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unveilingeaseinusingyourwebcamforrecord/"><u>[New] In 2024, UnveilingEaseInUsingYourWebCamForRecord</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-which-livestreaming-tool-wins-obs-or-bandicam/"><u>[New] In 2024, Which Livestreaming Tool Wins  OBS or Bandicam?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-virtual-play-samsungs-most-popular-titles/"><u>[New] Pioneering Virtual Play  Samsung's Most Popular Titles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-professional-mac-cam-recording-techniques-for-2024/"><u>[New] Professional Mac Cam Recording Techniques for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ticking-time-away-with-obs-creating-a-countdown-timer-for-2024/"><u>[New] Ticking Time Away with OBS  Creating a Countdown Timer for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-20plus-screen-recording-tips-to-help-you-create-better-videos/"><u>[Updated] 2024 Approved  20+ Screen Recording Tips to Help You Create Better Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-analyzing-the-full-range-of-obs-studios-capabilities/"><u>[Updated] 2024 Approved  Analyzing the Full Range of OBS Studio's Capabilities</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-tips-for-easy-documentation-of-youtube-videos/"><u>[Updated] 2024 Approved  Tips for Easy Documentation of YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-guide-to-conveniently-documenting-your-gaming-victories-for-2024/"><u>[Updated] A Guide to Conveniently Documenting Your Gaming Victories for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-visual-storytelling-with-impeccable-voice-over/"><u>[Updated] Enhancing Visual Storytelling with Impeccable Voice Over</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-fostering-self-assurance-against-virtual-hostility/"><u>[Updated] Fostering Self-Assurance Against Virtual Hostility</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-prime-selection-of-affordable-online-video-recorders/"><u>[Updated] In 2024, The Prime Selection of Affordable Online Video Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-learn-ipads-screen-sharing-basics-for-2024/"><u>[Updated] Learn iPad's Screen Sharing Basics for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-webcam-users-guide-for-quality-recordings/"><u>[Updated] The Ultimate WebCam User's Guide for Quality Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-advanced-slidecasting-powerpoint-and-webcam-perfection/"><u>2024 Approved  Advanced Slidecasting  PowerPoint & Webcam Perfection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-agile-approaches-storing-ppt-speeches/"><u>2024 Approved  Agile Approaches  Storing PPT Speeches</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-vigor-in-voice-assessment-version-8/"><u>2024 Approved  Vigor in Voice  Assessment Version 8</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-zero-money-high-quality-ranks-of-best-recording-apps/"><u>2024 Approved  Zero Money, High Quality  Ranks of Best Recording Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/beginners-path-to-screen-casting-with-apple-devices/"><u>Beginner’s Path to Screen Casting with Apple Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-screen-recording-steps-for-perfection/"><u>Essential Screen Recording Steps for Perfection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-analysis-top-9-digital-recording-tools-assessed/"><u>Expert Analysis  Top 9 Digital Recording Tools Assessed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles/"><u>Explore Android' Written By  Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m54-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy M54 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-epic-mmo-collection-best-10-no-cost-online-adventures/"><u>In 2024, Epic MMO Collection  Best 10 No-Cost Online Adventures</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-how-to-generate-speech-from-text-the-best-text-to-speech-converters/"><u>In 2024, How To Generate Speech From Text | The Best Text-to-Speech Converters</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-mac-users-learn-how-to-download-and-install-kinemaster/"><u>In 2024, Mac Users Learn How to Download and Install KineMaster</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-select-the-superior-a-guide-to-8-outstanding-free-android-mp3-downloaders/"><u>In 2024, Select the Superior  A Guide to 8 Outstanding Free Android MP3 Downloaders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-manual-for-minecraft-playbacks-on-mac/"><u>In 2024, The Ultimate Manual for Minecraft Playbacks on Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pinnacle-mac-gif-sorter/"><u>Pinnacle Mac GIF Sorter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/precision-portals-to-ps3-gaming-on-windows/"><u>Precision Portals to Ps3 Gaming on Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/prime-backdrops-for-effective-virtual-gatherings/"><u>Prime Backdrops for Effective Virtual Gatherings</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-group-policies-focusing-on-one-user-at-a-time/"><u>Tailoring Group Policies: Focusing on One User at a Time</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-tier-video-capture-tools-for-pc-users/"><u>Top-Tier Video Capture Tools for PC Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlock-social-media-success-hashtag-utilization-on-instagram-for-2024/"><u>Unlock Social Media Success  Hashtag Utilization on Instagram for 2024</u></a></li>
+</ul></div>

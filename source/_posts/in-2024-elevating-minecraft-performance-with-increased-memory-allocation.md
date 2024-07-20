@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Elevating Minecraft Performance with Increased Memory Allocation"
-date: 2024-05-19T20:38:00.238Z
-updated: 2024-05-20T20:38:00.238Z
+date: 2024-07-19T13:32:38.443Z
+updated: 2024-07-20T13:32:38.443Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Elevating Minecraft Performance with Increased Memory Allocation"
 excerpt: "This Article Describes In 2024, Elevating Minecraft Performance with Increased Memory Allocation"
 keywords: "\"Boost Mincraft Speed (Max: 20 Chars),Enhance Gameplay MCR (Max: 23 Chars),Optimize Minecraft Memory (Max: 26 Chars),Increase MCR Performance (Max: 25 Chars),RAM Boost in MC (Max: 17 Chars),Elevate MCR Speed (Max: 19 Chars),Improve Memory Allocation MCR (Max: 38 Chars, but Adjusted to Fit the Limit if Necessary)\""
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## Elevating Minecraft Performance with Increased Memory Allocation
@@ -37,6 +37,9 @@ To allocate more RAM to Minecraft, you have to change the setting of your Minecr
 * [2\. How to allocate more RAM to Minecraft using CurseForge Launcher](#way2)
 * [3\. How to allocate more RAM to Minecraft using ATLauncher](#way3)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 Filmora Game Recorder
@@ -65,6 +68,325 @@ If you love to play Minecraft it is impossible that you would not have heard of 
 
 **Step 03:** It will open a new window that contains the settings of Minecraft. Now click on the "More Options".
 
+![allocate-more-ram-using-default-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step3.png)
+
+**Step 04:** Scroll down to "JVM Arguments". Here you can see the text. The "2G" in this text represents the 2 Gigabytes of RAM. Change it to the number of Gigabytes that you want to allocate to Minecraft. In this case, we are changing it to "4G", which means 4 Gigabytes. Leave the rest of the text as it is and hit "Save".
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+![allocate-more-ram-using-default-launcher-step4](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step4.png)
+
+**Step 05:** Now go to the "Play" tab, hit Play, and enjoy playing Minecraft with more RAM for a smooth and better experience.
+
+![allocate-more-ram-using-default-launcher-step5](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step5.png)
+
+Try Filmora to Make Game Recording Smoothly!
+
+[**Filmora Game Recorder**](https://tools.techidaily.com/wondershare/filmora/download/) can capture any area of the PC screen and webcam. It's perfect to capture and streaming the game process without using much RAM. Plus, you can edit the game recording video files in Filmora directly! Worth to have a try!
+
+[Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to allocate more RAM to Minecraft using CurseForge Launcher
+
+After Minecraft Launcher, CurseForge is the second-best launcher for Minecraft. It allows you to change the Memory you want to allocate to Minecraft according to your needs.
+
+**Step 01:** Open CurseForge Launcher and click on the Settings icon located at the bottom left corner of the window.
+
+![allocate-more-ram-using-curseforge-launcher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step1.png)
+
+**Step 02:** Under Game Specifics, which is located on the left bar of the CurseForge, click on Minecraft. It will open the settings related to Minecraft.
+
+![allocate-more-ram-using-curseforge-launcher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step2.png)
+
+**Step 03:** Scroll down to Java Settings. Under Java Settings, you will find a bar to control the Allocated Memory. Arrange it according to your need and requirement of the memory you want to allocate to Minecraft. Hit the Cross (X) on the top and enjoy playing your favorite game without any glitch or crash.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![allocate-more-ram-using-curseforge-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step3.png)
+
+![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
+
+## A cross-platform for making videos anywhere for all creators
+
+![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
+
+ Why your video editing isn't good enough? How about some creative inspo?
+
+* 100 Million+ Users
+* 150+ Countries and Regions
+* 4 Million+ Social Media Followers
+* 5 Million+ Stock Media for Use
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://apps.apple.com/app/apple-store/id1459336970?pt=169436&ct=official-website&mt=8)
+
+[Try It Free](https://app.adjust.com/b0k9hf2%5F4bsu85t)
+
+ \* Secure Download
+
+![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
+
+---
+
+## How to allocate more RAM to Minecraft using ATLauncher
+
+ATLauncher is another famous and widely used launcher for Minecraft. It also has a feature to control the memory you want to allocate to Minecraft. Let's proceed to how to allocate more RAM to Minecraft.
+
+**Step 01:** Open ATLauncher and navigate to "Settings".
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![allocate-more-ram-using-atlauncher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-atlauncher-step1.jpg)
+
+**Step 02:** At the top of the settings page, you will some tabs. Click on the Java/Minecraft. It will open the settings related to Minecraft. Under these settings, change the "Maximum Memory/RAM" according to your needs and hit "Save". It will allocate Minecraft with the memory of your choice to let you play Minecraft in the perfect way possible.
+
+![allocate-more-ram-using-atlauncher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-atlauncher-step2.jpg)
+
+These are the most used Minecraft launchers that are used throughout the world. Choose any method depending upon the launcher you are using to play Minecraft. These methods of how to allocate more RAM to Minecraft can help you have the smoothest Minecraft experience and enjoy all kinds of mods and texture without any lag or crash. If you want to capture the Minecraft games, you can use a [screen recorder](https://tools.techidaily.com/wondershare/filmora/download/) for computer called Filmora. It is an all-in-one video recorder and editor, which helps to capture high quality videos and edit them with rich tools and effects. Take a look at the below video to know more details.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Minecraft is one of the best video games that allows its players to create their world, explore new places, build amazing things, and many more. Everyone loves to play Minecraft, especially after installing modes and textures into it. But adding such elements into Minecraft makes it heavy and it consumes a lot of memory of your PC. If your PC doesn't have enough memory to be used by Minecraft, its frames may shutter, it may load slowly and sometimes it might even crash. But there is no need to worry about it. There are several ways available on the internet that show you how to allocate more ram to Minecraft. In this article, we are going to show the easiest way of how to allocate more ram to Minecraft with a step-by-step guide.
+
+Before proceeding to the method of how to allocate more ram to Minecraft, keep in mind that this method will only work for "Minecraft: Java Edition". It will not work on any other edition such as "Bedrock" which is also known as "Minecraft for Windows 10". In Minecraft Bedrock Edition there is no built-in option to control how much ram to use.
+
+To allocate more RAM to Minecraft, you have to change the setting of your Minecraft launcher app. It is the app that you use to launch and play Minecraft. There are several different launchers available on the internet that are used for Minecraft depending upon the mods you are using. In this article, we are going to cover three mostly used launcher
+
+**This article contains:**
+
+* [1\. How to allocate more RAM to Minecraft using Default Launcher](#way1)
+* [2\. How to allocate more RAM to Minecraft using CurseForge Launcher](#way2)
+* [3\. How to allocate more RAM to Minecraft using ATLauncher](#way3)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+Filmora Game Recorder
+
+#### Wondershare Filmora - [Minecraft Game Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+
+• Record screen while game streaming without using spare RAM
+
+• Personalize the crop the recording area to post the game record on any social media
+
+• Cross-platform supported - (Windows, Mac, iOS, Android)
+
+[Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to allocate more RAM to Minecraft using Default Launcher
+
+If you love to play Minecraft it is impossible that you would not have heard of Minecraft Launcher. It is the most common Minecraft Launcher that is used by so many players all around the world.
+
+**Step 01:** Open Minecraft Launcher and navigate to the "Installation" Tab.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![allocate-more-ram-using-default-launcher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step1.png)
+
+**Step 02:** Under the Installation, tab clicks on the three dots located on the right of the "Latest Release" and select "Edit".
+
+![allocate-more-ram-using-default-launcher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step2.png)
+
+**Step 03:** It will open a new window that contains the settings of Minecraft. Now click on the "More Options".
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+![allocate-more-ram-using-default-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step3.png)
+
+**Step 04:** Scroll down to "JVM Arguments". Here you can see the text. The "2G" in this text represents the 2 Gigabytes of RAM. Change it to the number of Gigabytes that you want to allocate to Minecraft. In this case, we are changing it to "4G", which means 4 Gigabytes. Leave the rest of the text as it is and hit "Save".
+
+![allocate-more-ram-using-default-launcher-step4](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step4.png)
+
+**Step 05:** Now go to the "Play" tab, hit Play, and enjoy playing Minecraft with more RAM for a smooth and better experience.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+![allocate-more-ram-using-default-launcher-step5](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step5.png)
+
+Try Filmora to Make Game Recording Smoothly!
+
+[**Filmora Game Recorder**](https://tools.techidaily.com/wondershare/filmora/download/) can capture any area of the PC screen and webcam. It's perfect to capture and streaming the game process without using much RAM. Plus, you can edit the game recording video files in Filmora directly! Worth to have a try!
+
+[Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## How to allocate more RAM to Minecraft using CurseForge Launcher
+
+After Minecraft Launcher, CurseForge is the second-best launcher for Minecraft. It allows you to change the Memory you want to allocate to Minecraft according to your needs.
+
+**Step 01:** Open CurseForge Launcher and click on the Settings icon located at the bottom left corner of the window.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![allocate-more-ram-using-curseforge-launcher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step1.png)
+
+**Step 02:** Under Game Specifics, which is located on the left bar of the CurseForge, click on Minecraft. It will open the settings related to Minecraft.
+
+![allocate-more-ram-using-curseforge-launcher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step2.png)
+
+**Step 03:** Scroll down to Java Settings. Under Java Settings, you will find a bar to control the Allocated Memory. Arrange it according to your need and requirement of the memory you want to allocate to Minecraft. Hit the Cross (X) on the top and enjoy playing your favorite game without any glitch or crash.
+
+![allocate-more-ram-using-curseforge-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
+
+## A cross-platform for making videos anywhere for all creators
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
+
+ Why your video editing isn't good enough? How about some creative inspo?
+
+* 100 Million+ Users
+* 150+ Countries and Regions
+* 4 Million+ Social Media Followers
+* 5 Million+ Stock Media for Use
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://apps.apple.com/app/apple-store/id1459336970?pt=169436&ct=official-website&mt=8)
+
+[Try It Free](https://app.adjust.com/b0k9hf2%5F4bsu85t)
+
+ \* Secure Download
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
+
+---
+
+## How to allocate more RAM to Minecraft using ATLauncher
+
+ATLauncher is another famous and widely used launcher for Minecraft. It also has a feature to control the memory you want to allocate to Minecraft. Let's proceed to how to allocate more RAM to Minecraft.
+
+**Step 01:** Open ATLauncher and navigate to "Settings".
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![allocate-more-ram-using-atlauncher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-atlauncher-step1.jpg)
+
+**Step 02:** At the top of the settings page, you will some tabs. Click on the Java/Minecraft. It will open the settings related to Minecraft. Under these settings, change the "Maximum Memory/RAM" according to your needs and hit "Save". It will allocate Minecraft with the memory of your choice to let you play Minecraft in the perfect way possible.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+![allocate-more-ram-using-atlauncher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-atlauncher-step2.jpg)
+
+These are the most used Minecraft launchers that are used throughout the world. Choose any method depending upon the launcher you are using to play Minecraft. These methods of how to allocate more RAM to Minecraft can help you have the smoothest Minecraft experience and enjoy all kinds of mods and texture without any lag or crash. If you want to capture the Minecraft games, you can use a [screen recorder](https://tools.techidaily.com/wondershare/filmora/download/) for computer called Filmora. It is an all-in-one video recorder and editor, which helps to capture high quality videos and edit them with rich tools and effects. Take a look at the below video to know more details.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Minecraft is one of the best video games that allows its players to create their world, explore new places, build amazing things, and many more. Everyone loves to play Minecraft, especially after installing modes and textures into it. But adding such elements into Minecraft makes it heavy and it consumes a lot of memory of your PC. If your PC doesn't have enough memory to be used by Minecraft, its frames may shutter, it may load slowly and sometimes it might even crash. But there is no need to worry about it. There are several ways available on the internet that show you how to allocate more ram to Minecraft. In this article, we are going to show the easiest way of how to allocate more ram to Minecraft with a step-by-step guide.
+
+Before proceeding to the method of how to allocate more ram to Minecraft, keep in mind that this method will only work for "Minecraft: Java Edition". It will not work on any other edition such as "Bedrock" which is also known as "Minecraft for Windows 10". In Minecraft Bedrock Edition there is no built-in option to control how much ram to use.
+
+To allocate more RAM to Minecraft, you have to change the setting of your Minecraft launcher app. It is the app that you use to launch and play Minecraft. There are several different launchers available on the internet that are used for Minecraft depending upon the mods you are using. In this article, we are going to cover three mostly used launcher
+
+**This article contains:**
+
+* [1\. How to allocate more RAM to Minecraft using Default Launcher](#way1)
+* [2\. How to allocate more RAM to Minecraft using CurseForge Launcher](#way2)
+* [3\. How to allocate more RAM to Minecraft using ATLauncher](#way3)
+
+![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+Filmora Game Recorder
+
+#### Wondershare Filmora - [Minecraft Game Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+
+• Record screen while game streaming without using spare RAM
+
+• Personalize the crop the recording area to post the game record on any social media
+
+• Cross-platform supported - (Windows, Mac, iOS, Android)
+
+[Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to allocate more RAM to Minecraft using Default Launcher
+
+If you love to play Minecraft it is impossible that you would not have heard of Minecraft Launcher. It is the most common Minecraft Launcher that is used by so many players all around the world.
+
+**Step 01:** Open Minecraft Launcher and navigate to the "Installation" Tab.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![allocate-more-ram-using-default-launcher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step1.png)
+
+**Step 02:** Under the Installation, tab clicks on the three dots located on the right of the "Latest Release" and select "Edit".
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![allocate-more-ram-using-default-launcher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step2.png)
+
+**Step 03:** It will open a new window that contains the settings of Minecraft. Now click on the "More Options".
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allocate-more-ram-using-default-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step3.png)
 
 **Step 04:** Scroll down to "JVM Arguments". Here you can see the text. The "2G" in this text represents the 2 Gigabytes of RAM. Change it to the number of Gigabytes that you want to allocate to Minecraft. In this case, we are changing it to "4G", which means 4 Gigabytes. Leave the rest of the text as it is and hit "Save".
@@ -99,6 +421,9 @@ After Minecraft Launcher, CurseForge is the second-best launcher for Minecraft. 
 
 ![allocate-more-ram-using-curseforge-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
 ## A cross-platform for making videos anywhere for all creators
@@ -124,16 +449,34 @@ After Minecraft Launcher, CurseForge is the second-best launcher for Minecraft. 
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to allocate more RAM to Minecraft using ATLauncher
 
 ATLauncher is another famous and widely used launcher for Minecraft. It also has a feature to control the memory you want to allocate to Minecraft. Let's proceed to how to allocate more RAM to Minecraft.
 
 **Step 01:** Open ATLauncher and navigate to "Settings".
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allocate-more-ram-using-atlauncher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-atlauncher-step1.jpg)
 
 **Step 02:** At the top of the settings page, you will some tabs. Click on the Java/Minecraft. It will open the settings related to Minecraft. Under these settings, change the "Maximum Memory/RAM" according to your needs and hit "Save". It will allocate Minecraft with the memory of your choice to let you play Minecraft in the perfect way possible.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![allocate-more-ram-using-atlauncher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-atlauncher-step2.jpg)
 
 These are the most used Minecraft launchers that are used throughout the world. Choose any method depending upon the launcher you are using to play Minecraft. These methods of how to allocate more RAM to Minecraft can help you have the smoothest Minecraft experience and enjoy all kinds of mods and texture without any lag or crash. If you want to capture the Minecraft games, you can use a [screen recorder](https://tools.techidaily.com/wondershare/filmora/download/) for computer called Filmora. It is an all-in-one video recorder and editor, which helps to capture high quality videos and edit them with rich tools and effects. Take a look at the below video to know more details.
@@ -184,6 +527,9 @@ If you love to play Minecraft it is impossible that you would not have heard of 
 
 **Step 01:** Open Minecraft Launcher and navigate to the "Installation" Tab.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allocate-more-ram-using-default-launcher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step1.png)
 
 **Step 02:** Under the Installation, tab clicks on the three dots located on the right of the "Latest Release" and select "Edit".
@@ -196,6 +542,9 @@ If you love to play Minecraft it is impossible that you would not have heard of 
 
 **Step 04:** Scroll down to "JVM Arguments". Here you can see the text. The "2G" in this text represents the 2 Gigabytes of RAM. Change it to the number of Gigabytes that you want to allocate to Minecraft. In this case, we are changing it to "4G", which means 4 Gigabytes. Leave the rest of the text as it is and hit "Save".
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allocate-more-ram-using-default-launcher-step4](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step4.png)
 
 **Step 05:** Now go to the "Play" tab, hit Play, and enjoy playing Minecraft with more RAM for a smooth and better experience.
@@ -210,6 +559,10 @@ Try Filmora to Make Game Recording Smoothly!
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## How to allocate more RAM to Minecraft using CurseForge Launcher
 
 After Minecraft Launcher, CurseForge is the second-best launcher for Minecraft. It allows you to change the Memory you want to allocate to Minecraft according to your needs.
@@ -224,12 +577,18 @@ After Minecraft Launcher, CurseForge is the second-best launcher for Minecraft. 
 
 **Step 03:** Scroll down to Java Settings. Under Java Settings, you will find a bar to control the Allocated Memory. Arrange it according to your need and requirement of the memory you want to allocate to Minecraft. Hit the Cross (X) on the top and enjoy playing your favorite game without any glitch or crash.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allocate-more-ram-using-curseforge-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step3.png)
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
 ## A cross-platform for making videos anywhere for all creators
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
 
  Why your video editing isn't good enough? How about some creative inspo?
@@ -247,6 +606,10 @@ After Minecraft Launcher, CurseForge is the second-best launcher for Minecraft. 
 
  \* Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
 ---
@@ -265,262 +628,15 @@ ATLauncher is another famous and widely used launcher for Minecraft. It also has
 
 These are the most used Minecraft launchers that are used throughout the world. Choose any method depending upon the launcher you are using to play Minecraft. These methods of how to allocate more RAM to Minecraft can help you have the smoothest Minecraft experience and enjoy all kinds of mods and texture without any lag or crash. If you want to capture the Minecraft games, you can use a [screen recorder](https://tools.techidaily.com/wondershare/filmora/download/) for computer called Filmora. It is an all-in-one video recorder and editor, which helps to capture high quality videos and edit them with rich tools and effects. Take a look at the below video to know more details.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-Minecraft is one of the best video games that allows its players to create their world, explore new places, build amazing things, and many more. Everyone loves to play Minecraft, especially after installing modes and textures into it. But adding such elements into Minecraft makes it heavy and it consumes a lot of memory of your PC. If your PC doesn't have enough memory to be used by Minecraft, its frames may shutter, it may load slowly and sometimes it might even crash. But there is no need to worry about it. There are several ways available on the internet that show you how to allocate more ram to Minecraft. In this article, we are going to show the easiest way of how to allocate more ram to Minecraft with a step-by-step guide.
-
-Before proceeding to the method of how to allocate more ram to Minecraft, keep in mind that this method will only work for "Minecraft: Java Edition". It will not work on any other edition such as "Bedrock" which is also known as "Minecraft for Windows 10". In Minecraft Bedrock Edition there is no built-in option to control how much ram to use.
-
-To allocate more RAM to Minecraft, you have to change the setting of your Minecraft launcher app. It is the app that you use to launch and play Minecraft. There are several different launchers available on the internet that are used for Minecraft depending upon the mods you are using. In this article, we are going to cover three mostly used launcher
-
-**This article contains:**
-
-* [1\. How to allocate more RAM to Minecraft using Default Launcher](#way1)
-* [2\. How to allocate more RAM to Minecraft using CurseForge Launcher](#way2)
-* [3\. How to allocate more RAM to Minecraft using ATLauncher](#way3)
-
-![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-Filmora Game Recorder
-
-#### Wondershare Filmora - [Minecraft Game Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
-
-• Record screen while game streaming without using spare RAM
-
-• Personalize the crop the recording area to post the game record on any social media
-
-• Cross-platform supported - (Windows, Mac, iOS, Android)
-
-[Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## How to allocate more RAM to Minecraft using Default Launcher
-
-If you love to play Minecraft it is impossible that you would not have heard of Minecraft Launcher. It is the most common Minecraft Launcher that is used by so many players all around the world.
-
-**Step 01:** Open Minecraft Launcher and navigate to the "Installation" Tab.
-
-![allocate-more-ram-using-default-launcher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step1.png)
-
-**Step 02:** Under the Installation, tab clicks on the three dots located on the right of the "Latest Release" and select "Edit".
-
-![allocate-more-ram-using-default-launcher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step2.png)
-
-**Step 03:** It will open a new window that contains the settings of Minecraft. Now click on the "More Options".
-
-![allocate-more-ram-using-default-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step3.png)
-
-**Step 04:** Scroll down to "JVM Arguments". Here you can see the text. The "2G" in this text represents the 2 Gigabytes of RAM. Change it to the number of Gigabytes that you want to allocate to Minecraft. In this case, we are changing it to "4G", which means 4 Gigabytes. Leave the rest of the text as it is and hit "Save".
-
-![allocate-more-ram-using-default-launcher-step4](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step4.png)
-
-**Step 05:** Now go to the "Play" tab, hit Play, and enjoy playing Minecraft with more RAM for a smooth and better experience.
-
-![allocate-more-ram-using-default-launcher-step5](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step5.png)
-
-Try Filmora to Make Game Recording Smoothly!
-
-[**Filmora Game Recorder**](https://tools.techidaily.com/wondershare/filmora/download/) can capture any area of the PC screen and webcam. It's perfect to capture and streaming the game process without using much RAM. Plus, you can edit the game recording video files in Filmora directly! Worth to have a try!
-
-[Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-## How to allocate more RAM to Minecraft using CurseForge Launcher
-
-After Minecraft Launcher, CurseForge is the second-best launcher for Minecraft. It allows you to change the Memory you want to allocate to Minecraft according to your needs.
-
-**Step 01:** Open CurseForge Launcher and click on the Settings icon located at the bottom left corner of the window.
-
-![allocate-more-ram-using-curseforge-launcher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step1.png)
-
-**Step 02:** Under Game Specifics, which is located on the left bar of the CurseForge, click on Minecraft. It will open the settings related to Minecraft.
-
-![allocate-more-ram-using-curseforge-launcher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step2.png)
-
-**Step 03:** Scroll down to Java Settings. Under Java Settings, you will find a bar to control the Allocated Memory. Arrange it according to your need and requirement of the memory you want to allocate to Minecraft. Hit the Cross (X) on the top and enjoy playing your favorite game without any glitch or crash.
-
-![allocate-more-ram-using-curseforge-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step3.png)
-
-![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
-
-## A cross-platform for making videos anywhere for all creators
-
-![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
-
- Why your video editing isn't good enough? How about some creative inspo?
-
-* 100 Million+ Users
-* 150+ Countries and Regions
-* 4 Million+ Social Media Followers
-* 5 Million+ Stock Media for Use
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://apps.apple.com/app/apple-store/id1459336970?pt=169436&ct=official-website&mt=8)
-
-[Try It Free](https://app.adjust.com/b0k9hf2%5F4bsu85t)
-
- \* Secure Download
-
-![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
-
----
-
-## How to allocate more RAM to Minecraft using ATLauncher
-
-ATLauncher is another famous and widely used launcher for Minecraft. It also has a feature to control the memory you want to allocate to Minecraft. Let's proceed to how to allocate more RAM to Minecraft.
-
-**Step 01:** Open ATLauncher and navigate to "Settings".
-
-![allocate-more-ram-using-atlauncher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-atlauncher-step1.jpg)
-
-**Step 02:** At the top of the settings page, you will some tabs. Click on the Java/Minecraft. It will open the settings related to Minecraft. Under these settings, change the "Maximum Memory/RAM" according to your needs and hit "Save". It will allocate Minecraft with the memory of your choice to let you play Minecraft in the perfect way possible.
-
-![allocate-more-ram-using-atlauncher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-atlauncher-step2.jpg)
-
-These are the most used Minecraft launchers that are used throughout the world. Choose any method depending upon the launcher you are using to play Minecraft. These methods of how to allocate more RAM to Minecraft can help you have the smoothest Minecraft experience and enjoy all kinds of mods and texture without any lag or crash. If you want to capture the Minecraft games, you can use a [screen recorder](https://tools.techidaily.com/wondershare/filmora/download/) for computer called Filmora. It is an all-in-one video recorder and editor, which helps to capture high quality videos and edit them with rich tools and effects. Take a look at the below video to know more details.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-Minecraft is one of the best video games that allows its players to create their world, explore new places, build amazing things, and many more. Everyone loves to play Minecraft, especially after installing modes and textures into it. But adding such elements into Minecraft makes it heavy and it consumes a lot of memory of your PC. If your PC doesn't have enough memory to be used by Minecraft, its frames may shutter, it may load slowly and sometimes it might even crash. But there is no need to worry about it. There are several ways available on the internet that show you how to allocate more ram to Minecraft. In this article, we are going to show the easiest way of how to allocate more ram to Minecraft with a step-by-step guide.
-
-Before proceeding to the method of how to allocate more ram to Minecraft, keep in mind that this method will only work for "Minecraft: Java Edition". It will not work on any other edition such as "Bedrock" which is also known as "Minecraft for Windows 10". In Minecraft Bedrock Edition there is no built-in option to control how much ram to use.
-
-To allocate more RAM to Minecraft, you have to change the setting of your Minecraft launcher app. It is the app that you use to launch and play Minecraft. There are several different launchers available on the internet that are used for Minecraft depending upon the mods you are using. In this article, we are going to cover three mostly used launcher
-
-**This article contains:**
-
-* [1\. How to allocate more RAM to Minecraft using Default Launcher](#way1)
-* [2\. How to allocate more RAM to Minecraft using CurseForge Launcher](#way2)
-* [3\. How to allocate more RAM to Minecraft using ATLauncher](#way3)
-
-![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-Filmora Game Recorder
-
-#### Wondershare Filmora - [Minecraft Game Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
-
-• Record screen while game streaming without using spare RAM
-
-• Personalize the crop the recording area to post the game record on any social media
-
-• Cross-platform supported - (Windows, Mac, iOS, Android)
-
-[Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## How to allocate more RAM to Minecraft using Default Launcher
-
-If you love to play Minecraft it is impossible that you would not have heard of Minecraft Launcher. It is the most common Minecraft Launcher that is used by so many players all around the world.
-
-**Step 01:** Open Minecraft Launcher and navigate to the "Installation" Tab.
-
-![allocate-more-ram-using-default-launcher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step1.png)
-
-**Step 02:** Under the Installation, tab clicks on the three dots located on the right of the "Latest Release" and select "Edit".
-
-![allocate-more-ram-using-default-launcher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step2.png)
-
-**Step 03:** It will open a new window that contains the settings of Minecraft. Now click on the "More Options".
-
-![allocate-more-ram-using-default-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step3.png)
-
-**Step 04:** Scroll down to "JVM Arguments". Here you can see the text. The "2G" in this text represents the 2 Gigabytes of RAM. Change it to the number of Gigabytes that you want to allocate to Minecraft. In this case, we are changing it to "4G", which means 4 Gigabytes. Leave the rest of the text as it is and hit "Save".
-
-![allocate-more-ram-using-default-launcher-step4](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step4.png)
-
-**Step 05:** Now go to the "Play" tab, hit Play, and enjoy playing Minecraft with more RAM for a smooth and better experience.
-
-![allocate-more-ram-using-default-launcher-step5](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-default-launcher-step5.png)
-
-Try Filmora to Make Game Recording Smoothly!
-
-[**Filmora Game Recorder**](https://tools.techidaily.com/wondershare/filmora/download/) can capture any area of the PC screen and webcam. It's perfect to capture and streaming the game process without using much RAM. Plus, you can edit the game recording video files in Filmora directly! Worth to have a try!
-
-[Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Game Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-## How to allocate more RAM to Minecraft using CurseForge Launcher
-
-After Minecraft Launcher, CurseForge is the second-best launcher for Minecraft. It allows you to change the Memory you want to allocate to Minecraft according to your needs.
-
-**Step 01:** Open CurseForge Launcher and click on the Settings icon located at the bottom left corner of the window.
-
-![allocate-more-ram-using-curseforge-launcher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step1.png)
-
-**Step 02:** Under Game Specifics, which is located on the left bar of the CurseForge, click on Minecraft. It will open the settings related to Minecraft.
-
-![allocate-more-ram-using-curseforge-launcher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step2.png)
-
-**Step 03:** Scroll down to Java Settings. Under Java Settings, you will find a bar to control the Allocated Memory. Arrange it according to your need and requirement of the memory you want to allocate to Minecraft. Hit the Cross (X) on the top and enjoy playing your favorite game without any glitch or crash.
-
-![allocate-more-ram-using-curseforge-launcher-step3](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-curseforge-launcher-step3.png)
-
-![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
-
-## A cross-platform for making videos anywhere for all creators
-
-![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
-
- Why your video editing isn't good enough? How about some creative inspo?
-
-* 100 Million+ Users
-* 150+ Countries and Regions
-* 4 Million+ Social Media Followers
-* 5 Million+ Stock Media for Use
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://apps.apple.com/app/apple-store/id1459336970?pt=169436&ct=official-website&mt=8)
-
-[Try It Free](https://app.adjust.com/b0k9hf2%5F4bsu85t)
-
- \* Secure Download
-
-![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
-
----
-
-## How to allocate more RAM to Minecraft using ATLauncher
-
-ATLauncher is another famous and widely used launcher for Minecraft. It also has a feature to control the memory you want to allocate to Minecraft. Let's proceed to how to allocate more RAM to Minecraft.
-
-**Step 01:** Open ATLauncher and navigate to "Settings".
-
-![allocate-more-ram-using-atlauncher-step1](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-atlauncher-step1.jpg)
-
-**Step 02:** At the top of the settings page, you will some tabs. Click on the Java/Minecraft. It will open the settings related to Minecraft. Under these settings, change the "Maximum Memory/RAM" according to your needs and hit "Save". It will allocate Minecraft with the memory of your choice to let you play Minecraft in the perfect way possible.
-
-![allocate-more-ram-using-atlauncher-step2](https://images.wondershare.com/filmora/article-images/allocate-more-ram-using-atlauncher-step2.jpg)
-
-These are the most used Minecraft launchers that are used throughout the world. Choose any method depending upon the launcher you are using to play Minecraft. These methods of how to allocate more RAM to Minecraft can help you have the smoothest Minecraft experience and enjoy all kinds of mods and texture without any lag or crash. If you want to capture the Minecraft games, you can use a [screen recorder](https://tools.techidaily.com/wondershare/filmora/download/) for computer called Filmora. It is an all-in-one video recorder and editor, which helps to capture high quality videos and edit them with rich tools and effects. Take a look at the below video to know more details.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -554,3 +670,57 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-anonymous-story-consumption-navigating-through-instagram-stories-on-desktopmobile-free/"><u>[New] 2024 Approved  Anonymous Story Consumption  Navigating Through Instagram Stories on Desktop/Mobile [Free]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pixelpeek-presenters-paper/"><u>[New] 2024 Approved  PixelPeek Presenter's Paper</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-streamlining-adobe-presentation-videos-in-adobe/"><u>[New] 2024 Approved  Streamlining Adobe Presentation Videos in Adobe</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unveiling-the-reality-of-recordcasts-claims/"><u>[New] 2024 Approved  Unveiling the Reality of RecordCast's Claims</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-dial-down-the-din-quieting-background-in-recording-for-2024/"><u>[New] Dial Down the Din  Quieting Background in Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-key-insights-fifa-content-on-youtube-charted/"><u>[New] Key Insights  FIFA Content on YouTube Charted</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-instagram-broadcasting-with-obs-a-step-by-step-guide-for-2024/"><u>[New] Mastering Instagram Broadcasting with OBS  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-video-file-management-movs-on-windows-10-for-2024/"><u>[New] Mastering Video File Management  MOVs on Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-pull-mp3-tracks-from-your-fb-video-watchlist/"><u>[New] Pull MP3 Tracks From Your FB Video Watchlist</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-revitalizing-past-moments-with-instagram-filters/"><u>[New] Revitalizing Past Moments with Instagram Filters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-10-excellent-open-source-screen-capture-programs/"><u>[Updated] 10 Excellent Open-Source Screen Capture Programs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-boosting-view-speed-for-instagram-media-content/"><u>[Updated] 2024 Approved  Boosting View Speed for Instagram Media Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-chart-topping-video-content-on-youtube/"><u>[Updated] 2024 Approved  Chart-Topping Video Content on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-simplified-hp-laptop-screen-recording-four-effective-ways/"><u>[Updated] 2024 Approved  Simplified HP Laptop Screen Recording - Four Effective Ways</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac/"><u>[Updated] 2024 Approved  Visualize Your Workflow - Top Free Screen Recorders for PC & Mac</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-conquering-tiktok-a-step-by-step-pc-and-mac-manual/"><u>[Updated] Conquering TikTok  A Step-by-Step PC and Mac Manual</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-custom-minecraft-gif-templates/"><u>[Updated] In 2024, Free Custom Minecraft GIF Templates</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-how-to-live-stream-on-twitter/"><u>[Updated] In 2024, How to Live Stream on Twitter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-primary-screening-footage-study-and-off-the-cuff-selections/"><u>[Updated] In 2024, Primary Screening Footage Study and Off-the-Cuff Selections</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-essential-list-best-winscreen-recorder-apps/"><u>[Updated] In 2024, The Essential List  Best Winscreen Recorder Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vsg-screen-snapshots-review-thorough-examination/"><u>[Updated] In 2024, VSG Screen Snapshots Review  Thorough Examination</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-screen-capture-in-linux-with-these-tools-for-2024/"><u>[Updated] Mastering Screen Capture in Linux with These Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-most-reliable-external-hdds-for-xbox-users-for-2024/"><u>[Updated] Most Reliable External HDDs for Xbox Users for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-guide-to-affordable-online-meetings-plus-desktop-display-for-2024/"><u>[Updated] Ultimate Guide to Affordable Online Meetings + Desktop Display for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-affordable-hardware-excellent-obs-setup/"><u>2024 Approved  Affordable Hardware  Excellent OBS Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-effortless-video-capture-using-screencastify-app/"><u>2024 Approved  Effortless Video Capture  Using Screencastify App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-the-charge-in-webinar-innovation/"><u>2024 Approved  Leading the Charge in Webinar Innovation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-tech-driven-drones-the-rise-of-syma-x8c/"><u>2024 Approved  Tech-Driven Drones – The Rise of Syma X8C</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-uncovered-the-hidden-youtube-shorts-fix/"><u>2024 Approved  Uncovered  The Hidden YouTube Shorts Fix</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-10-zero-cost-video-collaboration-platforms-for-enterprises-and-education-for-2024/"><u>Best 10 Zero-Cost Video Collaboration Platforms  For Enterprises & Education for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/breaking-the-freeze-reviving-your-obs-cam-for-2024/"><u>Breaking the Freeze  Reviving Your OBS Cam for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/formulating-a-seamless-subscription-hyperlink-to-youtube/"><u>Formulating a Seamless Subscription Hyperlink to YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-altering-screenshot-file-types-on-a-macintosh/"><u>In 2024, Altering Screenshot File Types on a Macintosh</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elite-12-personal-recording-solutions/"><u>In 2024, Elite 12 Personal Recording Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-expert-evaluation-chilled-delights-playback-tools/"><u>In 2024, Expert Evaluation  Chilled Delights Playback Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-14-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 14 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-defy-2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Defy 2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-100-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/minimca-houses-best-abode-guides-for-new-players/"><u>MiniMCA Houses  Best Abode Guides for New Players</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-create-a-stunning-slideshow-a-step-by-step-guide-for-2024/"><u>New Create a Stunning Slideshow A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-the-necessity-of-the-creation-of-video-content-for-social-media-has-urged-many-editing-software-to-come-out-on-the-market-we-have-reviewed-some-free-of-/"><u>New The Necessity of the Creation of Video Content for Social Media Has Urged Many Editing Software to Come Out on the Market. We Have Reviewed some, Free of Them in This Article for You</u></a></li>
+<li><a href="https://facebook.techidaily.com/opt-out-of-whatsapps-updated-policy-no-limits-on-account/"><u>Opt-Out of WhatsApp's Updated Policy, No Limits on Account</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/pro-gamers-audio-gold-5-essential-sound-devices/"><u>Pro Gamers' Audio Gold  5 Essential Sound Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proven-subtitle-editors-the-comprehensive-top-10-list-online/"><u>Proven Subtitle Editors – The Comprehensive Top 10 List (Online)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-fixes-for-perfect-mac-cam-recordings/"><u>Quick Fixes for Perfect Mac Cam Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/skyeconomys-haven-budget-friendly-large-data-space-for-2024/"><u>SkyEconomy's Haven  Budget-Friendly Large Data Space for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-screen-snatchers-handbook-by-zd-software-experts/"><u>The Ultimate Screen Snatcher’s Handbook by ZD Software Experts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-tier-techniques-instagrams-clandestine-tools-for-growth/"><u>Top-Tier Techniques  Instagram's Clandestine Tools for Growth</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unveiling-the-leading-mac-speech-recorders-our-curated-list-of-5/"><u>Unveiling The Leading Mac Speech Recorders  Our Curated List of 5</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/windows-11s-top-video-capture-tools-essentials-edition/"><u>Windows 11'S Top Video Capture Tools  Essentials Edition</u></a></li>
+</ul></div>

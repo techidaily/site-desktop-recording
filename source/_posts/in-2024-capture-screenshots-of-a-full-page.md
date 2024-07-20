@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Capture Screenshots of a Full Page"
-date: 2024-06-18T07:40:17.978Z
-updated: 2024-06-19T07:40:17.978Z
+date: 2024-07-19T17:38:04.928Z
+updated: 2024-07-20T17:38:04.928Z
 tags: 
   - screen-recording
   - ai video
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 # Full Page Screen Capture: How to Capture Screenshots of a Full Page?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -37,6 +41,9 @@ On the other hand, The Internet contains such a vast amount of information, that
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -58,6 +65,10 @@ For macOS 10.12 or later
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
@@ -68,6 +79,9 @@ If you'd like to avoid producing several screenshots that you'll later have to c
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Capturing Screenshots With Browser Extensions
 
 Built-in screen capturing options on Windows and Mac offer only a limited amount of features and for that reason installing the browser extensions that enable you to capture scroll web pages may be a better option. Here are some of the best extensions for taking screenshots of full pages.
@@ -104,6 +118,9 @@ If you don't want to go through the trouble of installing a screenshot extension
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
@@ -122,6 +139,9 @@ Regardless of the method you use to create a full page screenshot, one thing is 
 
 Leave a comment below and let us know which method of capturing full page screenshots you like to use the most.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -138,3 +158,55 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-concealed-chorus-capturers-6-discreet-audio-recorders-for-devices/"><u>[New] 2024 Approved  Concealed Chorus Capturers  6 Discreet Audio Recorders for Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unlocking-the-power-of-revenue-streams-youtubers-adsense-manual/"><u>[New] 2024 Approved  Unlocking the Power of Revenue Streams  YouTubers' AdSense Manual</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-boosting-stability-and-speed-more-ram-for-minecraft/"><u>[New] Boosting Stability & Speed  More RAM for Minecraft</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-budget-friendly-hd-desktop-recording-tools-roundup/"><u>[New] Budget-Friendly HD Desktop Recording Tools Roundup</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-comedy-cornucopia-twitters-best-for-2024/"><u>[New] Comedy Cornucopia  Twitter's Best for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-elevating-your-itunes-media-library-with-recordings-for-2024/"><u>[New] Elevating Your iTunes Media Library with Recordings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-best-practices-for-4k-screen-recording/"><u>[New] In 2024, Best Practices for 4K Screen Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-must-have-mac-frame-captures-handbook-limited-to-156-characters-for-2024/"><u>[New] Must-Have Mac Frame Captures Handbook (Limited to 156 Characters) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-obs-studio-vs-bandicam-which-takes-the-crown/"><u>[New] OBS Studio Vs. Bandicam  Which Takes the Crown?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-orchestrating-visuals-and-vo-in-powerpoint/"><u>[New] Orchestrating Visuals & VO in Powerpoint</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-fb-video-content-sharing-from-windows-pc-ios-android/"><u>[New] Unlocking FB Video Content Sharing From Windows PC, iOS, Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-maximizing-impact-a-guide-to-creating-winning-videos-on-devices/"><u>[Updated] 2024 Approved  Maximizing Impact  A Guide to Creating Winning Videos on Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-nocturnal-nuances-expert-insights-into-nighttime-photography/"><u>[Updated] 2024 Approved  Nocturnal Nuances  Expert Insights Into Nighttime Photography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715860241974-updated-essential-8-android-group-calls-over-4-users/"><u>[Updated] Essential 8 Android Group Calls  Over 4 Users!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expert-picks-8-superior-linux-snapshot-tools-for-2024/"><u>[Updated] Expert Picks  8 Superior Linux Snapshot Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expert-reviews-top-5-high-performance-video-devices-for-2024/"><u>[Updated] Expert Reviews  Top 5 High-Performance Video Devices for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-immediate-visuals-the-fastest-4-ways-to-snip-on-chrome-os-for-2024/"><u>[Updated] Immediate Visuals  The Fastest 4 Ways To Snip on Chrome OS for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-jumpstart-your-youtube-venture-top-equipment-choices/"><u>[Updated] Jumpstart Your YouTube Venture  Top Equipment Choices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-zoom-audio-high-fidelity-and-unmuted-channels-for-2024/"><u>[Updated] Mastering Zoom Audio  High Fidelity & Unmuted Channels for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfect-every-moment-top-3-techniques-to-record-lol-games-for-2024/"><u>[Updated] Perfect Every Moment  Top 3 Techniques to Record LOL Games for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sony-unveils-excellence-the-4k-smartphone-breakthrough-with-xperia-xz/"><u>[Updated] Sony Unveils Excellence  The 4K Smartphone Breakthrough with Xperia XZ</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-top-7-stardew-valley-improvement-packs/"><u>[Updated] The Top 7 Stardew Valley Improvement Packs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-ten-skype-capture-devices-reviewed/"><u>[Updated] Top Ten Skype Capture Devices Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-beginners-handbook-to-vimeo-footage-capture/"><u>2024 Approved  Beginner's Handbook to Vimeo Footage Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-optimizing-performance-a-deep-dive-into-streamlabs-obs/"><u>2024 Approved  Optimizing Performance  A Deep Dive Into Streamlabs OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-strategic-planning-for-virtual-teams-mastering-slack-and-filmora-coordination/"><u>2024 Approved  Strategic Planning for Virtual Teams  Mastering Slack & Filmora Coordination</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/an-honest-review-of-recordcast-for-2024/"><u>An Honest Review of RecordCast for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/conclusion/"><u>Conclusion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/crafting-a-vocal-identity-steps-for-impactful-video-overdubs-for-2024/"><u>Crafting a Vocal Identity  Steps for Impactful Video Overdubs for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>From Content Maker to Cash Magnet  Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-asus-rog-phone-7-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Asus ROG Phone 7 Phones? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-a-comprehensive-walkthrough-of-adobe-presenter-recording/"><u>In 2024, A Comprehensive Walkthrough of Adobe Presenter Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-acoustic-imprinting-pc-noises-logged/"><u>In 2024, Acoustic Imprinting  PC Noises Logged</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-advanced-tips-excelling-at-slide-show-recordings/"><u>In 2024, Advanced Tips  Excelling at Slide Show Recordings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-cloaked-consumption-the-secret-guide-for-exploring-instagram-stories-on-multiple-platforms-free/"><u>In 2024, Cloaked Consumption  The Secret Guide for Exploring Instagram Stories on Multiple Platforms (Free)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-cutting-edge-zoom-techniques-for-peak-call-quality/"><u>In 2024, Cutting Edge Zoom Techniques for Peak Call Quality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS with/without SIM Card</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-innovative-8-android-video-chat-apps-beyond-duostrios/"><u>In 2024, Innovative 8 Android Video Chat Apps Beyond Duos/Trios</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-list-of-facebook-mp3-converter-websites/"><u>New In 2024, The Ultimate List of Facebook MP3 Converter Websites</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pioneering-tools-top-5-cloud-based-videography-platforms-for-2024/"><u>Pioneering Tools  Top 5 Cloud-Based Videography Platforms for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quintessential-quiet-gaming-on-the-go-for-2024/"><u>Quintessential Quiet Gaming on the Go for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamlabs-rival-in-the-eye-of-a-streamer-for-2024/"><u>Streamlabs' Rival in the Eye of a Streamer for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamline-your-slide-show-secrets-to-excellent-ppt-recording/"><u>Streamline Your Slide Show  Secrets to Excellent PPT Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-finest-9-mic-recorders-web-based-edition/"><u>The Finest 9 Mic Recorders, Web-Based Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-obs-playbook-for-twitch-and-youtube-streaming/"><u>The Ultimate OBS Playbook for Twitch & YouTube Streaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/thunder-gods-fury-new-age-begins-for-2024/"><u>Thunder God's Fury  New Age Begins for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-selection-of-ps1-games-now-on-your-computer/"><u>Ultimate Selection of PS1 Games, Now on Your Computer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-4-ways-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved 4 Ways to Loop a Video on Vimeo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor Magic V2? | Dr.fone</u></a></li>
+</ul></div>

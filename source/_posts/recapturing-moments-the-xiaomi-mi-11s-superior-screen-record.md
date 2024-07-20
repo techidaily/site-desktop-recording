@@ -1,7 +1,7 @@
 ---
 title: "\"Recapturing Moments  The Xiaomi Mi 11'S Superior Screen Record\""
-date: 2024-05-19T20:38:01.168Z
-updated: 2024-05-20T20:38:01.168Z
+date: 2024-07-19T13:34:12.321Z
+updated: 2024-07-20T13:34:12.321Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Recapturing Moments: The Xiaomi Mi 11'S Superior Screen Record\""
 excerpt: "\"This Article Describes Recapturing Moments: The Xiaomi Mi 11'S Superior Screen Record\""
 keywords: "Mi11 Screen Recording,Xiaomi Mi11 Display,Mi11 High Res Scr,Mi11 Ultra Clear View,Mi11 Superior Screencap,Xiaomi Mi11 Record,Mi11 HD Screen Capture"
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## Recapturing Moments: The Xiaomi Mi 11'S Superior Screen Record
@@ -29,6 +29,9 @@ While taking into consideration Xiaomi, the Xiaomi screen recorder would be the 
 
 03 [Recommend Desktop Screen Recorder -Wondershare Filmora](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Record Screen on Xiaomi Smartphones?
 
 Before we get into the Xiaomi screen recorder APK, it is essential to understand how Xiaomi came into the field to create a brand name.
@@ -37,10 +40,16 @@ Founded in 2010, Xiaomi Inc. has changed the narrative of regular Android device
 
 Screen recording has become a need these days as everything seems to be occurring online. Everything is under the shadow of video and audio recording, from meetings to classes and exams to conferences. So, without delaying the process any longer, let us switch our focus to the process of screen recording on Xiaomi smartphones.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Screen Recording Feature in the Control Centre
 
 You have to bring the "Screen Recording" feature to the Control Centre in the first step. Hold your Xiaomi smartphone and access the Control Centre. The user can swipe the screen from top to bottom to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![access xiaomi control centre](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-1.jpg)
 
 ### Step 2: Editing the Shortcuts on Control Centre
@@ -55,10 +64,16 @@ Tap the (+) sign on its top and make it a part of the “Control Centre” for b
 
 ![add screen record option](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 4: Screen Recording Process
 
 The Control Centre shows the Screen Recorder. Hit on it and begin the procedure. The screen recording would be started, followed by a timer with a red dot. If you have to stop the recording, tap on the red dot. The video recording is saved in the gallery.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![initiate screen recording](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-4.jpg)
 
 ## Part 2: 3 Popular Screen Recorder for Xiaomi Phones
@@ -67,6 +82,9 @@ While we are on Xiaomi voice recorders, let us have an insight into the top thre
 
 In such a situation, the built-in screen recorder of Xiaomi may not work. It would be best to have a screen recorder that understands all your needs and bring nothing but the best. So, without taking any longer, let us discuss the three popular screen recorder Xiaomi APK.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### [Super Screen Recorder](https://play.google.com/store/apps/details?id=com.tianxingjian.screenshot&hl=en&gl=US)
 
 The Super Screen Recorder has an extensive set of features that have made screen recording fun and interesting. One can count on this tool to bring productivity to the workplace. Use the application to record clean and clear videos with one tap on the floating window.
@@ -85,6 +103,160 @@ There is no recording limit when it comes to Super Screen Recorder.
 
 In the ocean of Xiaomi screen recorders, Screen Recorder Video Recorder has pretty much taken the lead. For a powerful video recording with high-quality output, one should put their money on this tool. Screen Recorder Video Recorder has got you all covered if you wish to change the aspect ratio, doodle on the screen while recording, and recording of internet audio.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![screen recorder video recorder](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-6.jpg)
+
+The multiple features of this magical tool include:
+
+* The editing of video recording has become easy with the tool. You can insert trendy filters, cute stickers, and music.
+* The application supports HD video while offering both portrait and landscape video orientation.
+* The recording video can be easily hidden to make the process smooth, flawless, and professional.
+
+### [DU Recorder Pro](https://play.google.com/store/apps/details?id=com.duscreenrecorder.apk&hl=en&gl=US)
+
+DU Recorder Pro covers the video recording of gameplays, video calls, tutorials, and training videos. The smooth recorded output is provided by this tool which has made it popular in the field. Acting a workable Xiaomi screen recorder APK, DU Recorder offers a countdown timer and a floating window to navigate diverse settings in seconds.
+
+![du recorder pro](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-7.jpg)
+
+Following are some attributes associated with DU Recorder Pro:
+
+* There is no watermark when it comes to the output of DU Recorder Pro.
+* Video editing is an absolute treat with this tool.
+* The screen recording is smooth, and the user can stop, pause, and initiate the recording flawlessly.
+
+## Part 3: Recommend Desktop Screen Recorder -Wondershare Filmora
+
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has to be your clear choice for the best desktop screen recording experience. For once, it gives the user independence to choose between a “PC Screen,” “Webcam,” or “Voice Over.” The options help the user make the right choice. Additionally, there is an option of choosing the entire screen, custom, or a targeted window.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+![screen options in filmora](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-8.jpg)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Wondershare Filmora has enhanced the user’s free will by letting him take control of the video quality and frame frequency. The user can decide if the microphone has to be switched on or off in the process. Not only this, one can rely on Filmora to insert the expected closure time of the video recording.
+
+After that, the screen recording stops automatically. There is a mouse clicks option that is displayed during the video recording. Filmora offers a different design of the mouse display and lets you choose if you need the click sound. The Pause/Resume hotkey and Start/Stop hotkey can also be tailored to user needs.
+
+![screen recorder settings by filmora](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-9.jpg)
+
+In short, it would be hard to find a screen recorder that takes all the user’s needs under consideration. After the settings have been updated and the recording is done, the tool saves the video automatically to the library.
+
+The user can access the video from there and make necessary changes to it. The changes can be as slight as altering the brightness or saturation of the video and as massive as cropping, trimming, or adding effects to it.
+
+### Conclusion
+
+Xiaomi has made the brand name in a short interval. The article reviewed the Xiaomi screen recorder function and how it comes to the rescue. The renowned screen recorder was also introduced with its key features. Wondershare Filmora was recommended by the end of the write-up as the best screen recorder in the market for Windows and Mac users.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+02 [3 Popular Screen Recorder for Xiaomi Phones](#part2)
+
+03 [Recommend Desktop Screen Recorder -Wondershare Filmora](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 1: How to Record Screen on Xiaomi Smartphones?
+
+Before we get into the Xiaomi screen recorder APK, it is essential to understand how Xiaomi came into the field to create a brand name.
+
+Founded in 2010, Xiaomi Inc. has changed the narrative of regular Android devices in the market. In a short time interval, this company became a global product that offers honest prices for Android lovers. Xiaomi has multiple features that give it uniqueness as compared to other devices. The screen recording feature is one of the most workable traits of the lot.
+
+Screen recording has become a need these days as everything seems to be occurring online. Everything is under the shadow of video and audio recording, from meetings to classes and exams to conferences. So, without delaying the process any longer, let us switch our focus to the process of screen recording on Xiaomi smartphones.
+
+### Step 1: Screen Recording Feature in the Control Centre
+
+You have to bring the "Screen Recording" feature to the Control Centre in the first step. Hold your Xiaomi smartphone and access the Control Centre. The user can swipe the screen from top to bottom to open it.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![access xiaomi control centre](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+### Step 2: Editing the Shortcuts on Control Centre
+
+The top right side of the Control Centre offers a pen-shaped icon just beside the “Settings” icon. Click on it and the bottom panel will display “Available Toggles,” where “Screen Recorder” would be present.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+![tap on edit icon](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 3: Creating the Shortcut for Easy Access
+
+Tap the (+) sign on its top and make it a part of the “Control Centre” for better accessibility. Now, to initiate the screen recording, launch the Control Centre.
+
+![add screen record option](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-3.jpg)
+
+### Step 4: Screen Recording Process
+
+The Control Centre shows the Screen Recorder. Hit on it and begin the procedure. The screen recording would be started, followed by a timer with a red dot. If you have to stop the recording, tap on the red dot. The video recording is saved in the gallery.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![initiate screen recording](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: 3 Popular Screen Recorder for Xiaomi Phones
+
+While we are on Xiaomi voice recorders, let us have an insight into the top three screen recorders that would work like a charm in Xiaomi smartphones. In most typical scenarios, we need more than audio and screen recording. One has to make precise edits to the video, work on its display and quality, and whatnot.
+
+In such a situation, the built-in screen recorder of Xiaomi may not work. It would be best to have a screen recorder that understands all your needs and bring nothing but the best. So, without taking any longer, let us discuss the three popular screen recorder Xiaomi APK.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### [Super Screen Recorder](https://play.google.com/store/apps/details?id=com.tianxingjian.screenshot&hl=en&gl=US)
+
+The Super Screen Recorder has an extensive set of features that have made screen recording fun and interesting. One can count on this tool to bring productivity to the workplace. Use the application to record clean and clear videos with one tap on the floating window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![super screen recorder](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-5.jpg)
+
+The workable traits of Super Screen Recorder are as given below:
+
+The app can be used to trim the unnecessary parts of the video and control the speed.
+
+No watermark is present in the final output; thus, making the process clean and smooth.
+
+There is no recording limit when it comes to Super Screen Recorder.
+
+### [Screen Recorder Video Recorder](https://play.google.com/store/apps/details?id=screenrecorder.recorder.editor&hl=en&gl=US)
+
+In the ocean of Xiaomi screen recorders, Screen Recorder Video Recorder has pretty much taken the lead. For a powerful video recording with high-quality output, one should put their money on this tool. Screen Recorder Video Recorder has got you all covered if you wish to change the aspect ratio, doodle on the screen while recording, and recording of internet audio.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen recorder video recorder](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-6.jpg)
 
 The multiple features of this magical tool include:
@@ -123,6 +295,9 @@ Wondershare Filmora has enhanced the user’s free will by letting him take cont
 
 After that, the screen recording stops automatically. There is a mouse clicks option that is displayed during the video recording. Filmora offers a different design of the mouse display and lets you choose if you need the click sound. The Pause/Resume hotkey and Start/Stop hotkey can also be tailored to user needs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen recorder settings by filmora](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-9.jpg)
 
 In short, it would be hard to find a screen recorder that takes all the user’s needs under consideration. After the settings have been updated and the recording is done, the tool saves the video automatically to the library.
@@ -167,12 +342,18 @@ The top right side of the Control Centre offers a pen-shaped icon just beside th
 
 ![tap on edit icon](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Creating the Shortcut for Easy Access
 
 Tap the (+) sign on its top and make it a part of the “Control Centre” for better accessibility. Now, to initiate the screen recording, launch the Control Centre.
 
 ![add screen record option](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-3.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Step 4: Screen Recording Process
 
 The Control Centre shows the Screen Recorder. Hit on it and begin the procedure. The screen recording would be started, followed by a timer with a red dot. If you have to stop the recording, tap on the red dot. The video recording is saved in the gallery.
@@ -185,6 +366,9 @@ While we are on Xiaomi voice recorders, let us have an insight into the top thre
 
 In such a situation, the built-in screen recorder of Xiaomi may not work. It would be best to have a screen recorder that understands all your needs and bring nothing but the best. So, without taking any longer, let us discuss the three popular screen recorder Xiaomi APK.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Super Screen Recorder](https://play.google.com/store/apps/details?id=com.tianxingjian.screenshot&hl=en&gl=US)
 
 The Super Screen Recorder has an extensive set of features that have made screen recording fun and interesting. One can count on this tool to bring productivity to the workplace. Use the application to record clean and clear videos with one tap on the floating window.
@@ -211,6 +395,9 @@ The multiple features of this magical tool include:
 * The application supports HD video while offering both portrait and landscape video orientation.
 * The recording video can be easily hidden to make the process smooth, flawless, and professional.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### [DU Recorder Pro](https://play.google.com/store/apps/details?id=com.duscreenrecorder.apk&hl=en&gl=US)
 
 DU Recorder Pro covers the video recording of gameplays, video calls, tutorials, and training videos. The smooth recorded output is provided by this tool which has made it popular in the field. Acting a workable Xiaomi screen recorder APK, DU Recorder offers a countdown timer and a floating window to navigate diverse settings in seconds.
@@ -227,6 +414,9 @@ Following are some attributes associated with DU Recorder Pro:
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has to be your clear choice for the best desktop screen recording experience. For once, it gives the user independence to choose between a “PC Screen,” “Webcam,” or “Voice Over.” The options help the user make the right choice. Additionally, there is an option of choosing the entire screen, custom, or a targeted window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screen options in filmora](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-8.jpg)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -241,12 +431,22 @@ Wondershare Filmora has enhanced the user’s free will by letting him take cont
 
 After that, the screen recording stops automatically. There is a mouse clicks option that is displayed during the video recording. Filmora offers a different design of the mouse display and lets you choose if you need the click sound. The Pause/Resume hotkey and Start/Stop hotkey can also be tailored to user needs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen recorder settings by filmora](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-9.jpg)
 
 In short, it would be hard to find a screen recorder that takes all the user’s needs under consideration. After the settings have been updated and the recording is done, the tool saves the video automatically to the library.
 
 The user can access the video from there and make necessary changes to it. The changes can be as slight as altering the brightness or saturation of the video and as massive as cropping, trimming, or adding effects to it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Xiaomi has made the brand name in a short interval. The article reviewed the Xiaomi screen recorder function and how it comes to the rescue. The renowned screen recorder was also introduced with its key features. Wondershare Filmora was recommended by the end of the write-up as the best screen recorder in the market for Windows and Mac users.
@@ -265,6 +465,9 @@ Detailed tutorials provided by the official channel
 
 03 [Recommend Desktop Screen Recorder -Wondershare Filmora](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Record Screen on Xiaomi Smartphones?
 
 Before we get into the Xiaomi screen recorder APK, it is essential to understand how Xiaomi came into the field to create a brand name.
@@ -273,12 +476,21 @@ Founded in 2010, Xiaomi Inc. has changed the narrative of regular Android device
 
 Screen recording has become a need these days as everything seems to be occurring online. Everything is under the shadow of video and audio recording, from meetings to classes and exams to conferences. So, without delaying the process any longer, let us switch our focus to the process of screen recording on Xiaomi smartphones.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Screen Recording Feature in the Control Centre
 
 You have to bring the "Screen Recording" feature to the Control Centre in the first step. Hold your Xiaomi smartphone and access the Control Centre. The user can swipe the screen from top to bottom to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![access xiaomi control centre](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Editing the Shortcuts on Control Centre
 
 The top right side of the Control Centre offers a pen-shaped icon just beside the “Settings” icon. Click on it and the bottom panel will display “Available Toggles,” where “Screen Recorder” would be present.
@@ -295,6 +507,9 @@ Tap the (+) sign on its top and make it a part of the “Control Centre” for b
 
 The Control Centre shows the Screen Recorder. Hit on it and begin the procedure. The screen recording would be started, followed by a timer with a red dot. If you have to stop the recording, tap on the red dot. The video recording is saved in the gallery.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![initiate screen recording](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-4.jpg)
 
 ## Part 2: 3 Popular Screen Recorder for Xiaomi Phones
@@ -321,6 +536,9 @@ There is no recording limit when it comes to Super Screen Recorder.
 
 In the ocean of Xiaomi screen recorders, Screen Recorder Video Recorder has pretty much taken the lead. For a powerful video recording with high-quality output, one should put their money on this tool. Screen Recorder Video Recorder has got you all covered if you wish to change the aspect ratio, doodle on the screen while recording, and recording of internet audio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screen recorder video recorder](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-6.jpg)
 
 The multiple features of this magical tool include:
@@ -345,124 +563,9 @@ Following are some attributes associated with DU Recorder Pro:
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has to be your clear choice for the best desktop screen recording experience. For once, it gives the user independence to choose between a “PC Screen,” “Webcam,” or “Voice Over.” The options help the user make the right choice. Additionally, there is an option of choosing the entire screen, custom, or a targeted window.
 
-![screen options in filmora](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-8.jpg)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Wondershare Filmora has enhanced the user’s free will by letting him take control of the video quality and frame frequency. The user can decide if the microphone has to be switched on or off in the process. Not only this, one can rely on Filmora to insert the expected closure time of the video recording.
-
-After that, the screen recording stops automatically. There is a mouse clicks option that is displayed during the video recording. Filmora offers a different design of the mouse display and lets you choose if you need the click sound. The Pause/Resume hotkey and Start/Stop hotkey can also be tailored to user needs.
-
-![screen recorder settings by filmora](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-9.jpg)
-
-In short, it would be hard to find a screen recorder that takes all the user’s needs under consideration. After the settings have been updated and the recording is done, the tool saves the video automatically to the library.
-
-The user can access the video from there and make necessary changes to it. The changes can be as slight as altering the brightness or saturation of the video and as massive as cropping, trimming, or adding effects to it.
-
-### Conclusion
-
-Xiaomi has made the brand name in a short interval. The article reviewed the Xiaomi screen recorder function and how it comes to the rescue. The renowned screen recorder was also introduced with its key features. Wondershare Filmora was recommended by the end of the write-up as the best screen recorder in the market for Windows and Mac users.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-02 [3 Popular Screen Recorder for Xiaomi Phones](#part2)
-
-03 [Recommend Desktop Screen Recorder -Wondershare Filmora](#part3)
-
-## Part 1: How to Record Screen on Xiaomi Smartphones?
-
-Before we get into the Xiaomi screen recorder APK, it is essential to understand how Xiaomi came into the field to create a brand name.
-
-Founded in 2010, Xiaomi Inc. has changed the narrative of regular Android devices in the market. In a short time interval, this company became a global product that offers honest prices for Android lovers. Xiaomi has multiple features that give it uniqueness as compared to other devices. The screen recording feature is one of the most workable traits of the lot.
-
-Screen recording has become a need these days as everything seems to be occurring online. Everything is under the shadow of video and audio recording, from meetings to classes and exams to conferences. So, without delaying the process any longer, let us switch our focus to the process of screen recording on Xiaomi smartphones.
-
-### Step 1: Screen Recording Feature in the Control Centre
-
-You have to bring the "Screen Recording" feature to the Control Centre in the first step. Hold your Xiaomi smartphone and access the Control Centre. The user can swipe the screen from top to bottom to open it.
-
-![access xiaomi control centre](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-1.jpg)
-
-### Step 2: Editing the Shortcuts on Control Centre
-
-The top right side of the Control Centre offers a pen-shaped icon just beside the “Settings” icon. Click on it and the bottom panel will display “Available Toggles,” where “Screen Recorder” would be present.
-
-![tap on edit icon](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-2.jpg)
-
-### Step 3: Creating the Shortcut for Easy Access
-
-Tap the (+) sign on its top and make it a part of the “Control Centre” for better accessibility. Now, to initiate the screen recording, launch the Control Centre.
-
-![add screen record option](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-3.jpg)
-
-### Step 4: Screen Recording Process
-
-The Control Centre shows the Screen Recorder. Hit on it and begin the procedure. The screen recording would be started, followed by a timer with a red dot. If you have to stop the recording, tap on the red dot. The video recording is saved in the gallery.
-
-![initiate screen recording](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-4.jpg)
-
-## Part 2: 3 Popular Screen Recorder for Xiaomi Phones
-
-While we are on Xiaomi voice recorders, let us have an insight into the top three screen recorders that would work like a charm in Xiaomi smartphones. In most typical scenarios, we need more than audio and screen recording. One has to make precise edits to the video, work on its display and quality, and whatnot.
-
-In such a situation, the built-in screen recorder of Xiaomi may not work. It would be best to have a screen recorder that understands all your needs and bring nothing but the best. So, without taking any longer, let us discuss the three popular screen recorder Xiaomi APK.
-
-### [Super Screen Recorder](https://play.google.com/store/apps/details?id=com.tianxingjian.screenshot&hl=en&gl=US)
-
-The Super Screen Recorder has an extensive set of features that have made screen recording fun and interesting. One can count on this tool to bring productivity to the workplace. Use the application to record clean and clear videos with one tap on the floating window.
-
-![super screen recorder](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-5.jpg)
-
-The workable traits of Super Screen Recorder are as given below:
-
-The app can be used to trim the unnecessary parts of the video and control the speed.
-
-No watermark is present in the final output; thus, making the process clean and smooth.
-
-There is no recording limit when it comes to Super Screen Recorder.
-
-### [Screen Recorder Video Recorder](https://play.google.com/store/apps/details?id=screenrecorder.recorder.editor&hl=en&gl=US)
-
-In the ocean of Xiaomi screen recorders, Screen Recorder Video Recorder has pretty much taken the lead. For a powerful video recording with high-quality output, one should put their money on this tool. Screen Recorder Video Recorder has got you all covered if you wish to change the aspect ratio, doodle on the screen while recording, and recording of internet audio.
-
-![screen recorder video recorder](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-6.jpg)
-
-The multiple features of this magical tool include:
-
-* The editing of video recording has become easy with the tool. You can insert trendy filters, cute stickers, and music.
-* The application supports HD video while offering both portrait and landscape video orientation.
-* The recording video can be easily hidden to make the process smooth, flawless, and professional.
-
-### [DU Recorder Pro](https://play.google.com/store/apps/details?id=com.duscreenrecorder.apk&hl=en&gl=US)
-
-DU Recorder Pro covers the video recording of gameplays, video calls, tutorials, and training videos. The smooth recorded output is provided by this tool which has made it popular in the field. Acting a workable Xiaomi screen recorder APK, DU Recorder offers a countdown timer and a floating window to navigate diverse settings in seconds.
-
-![du recorder pro](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-7.jpg)
-
-Following are some attributes associated with DU Recorder Pro:
-
-* There is no watermark when it comes to the output of DU Recorder Pro.
-* Video editing is an absolute treat with this tool.
-* The screen recording is smooth, and the user can stop, pause, and initiate the recording flawlessly.
-
-## Part 3: Recommend Desktop Screen Recorder -Wondershare Filmora
-
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has to be your clear choice for the best desktop screen recording experience. For once, it gives the user independence to choose between a “PC Screen,” “Webcam,” or “Voice Over.” The options help the user make the right choice. Additionally, there is an option of choosing the entire screen, custom, or a targeted window.
-
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screen options in filmora](https://images.wondershare.com/filmora/article-images/2021/record-screen-on-xiaomi-8.jpg)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -522,3 +625,43 @@ Detailed tutorials provided by the official channel
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-video-capture-with-obs-studios-features/"><u>[New] 2024 Approved  Mastering Video Capture with OBS Studio's Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-most-acclaimed-ipad-recording-software-3p/"><u>[New] 2024 Approved  Most Acclaimed iPad Recording Software 3P</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-novice-necessities-the-ultimate-beginners-video-editor/"><u>[New] 2024 Approved  Novice Necessities  The Ultimate Beginner's Video Editor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-comprehensive-skype-screencasting-with-obs-for-2024/"><u>[New] Comprehensive Skype Screencasting with OBS for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-coordinating-multiple-channels-on-one-screen/"><u>[New] Coordinating Multiple Channels on One Screen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-tips-for-making-youtube-introductory-trailers-for-2024/"><u>[New] Essential Tips for Making YouTube Introductory Trailers for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-expand-your-reach-top-tactics-to-amplify-fb-clout-for-2024/"><u>[New] Expand Your Reach  Top Tactics to Amplify FB Clout for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ideal-screen-snappers-top-5-picks-for-2024/"><u>[New] Ideal Screen Snappers  Top 5 Picks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-illuminate-your-gaming-recordings-avoid-black-screens-with-obs-for-2024/"><u>[New] Illuminate Your Gaming Recordings  Avoid Black Screens with OBS for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-save-and-archive-google-voice-chats/"><u>[New] In 2024, How to Save and Archive Google Voice Chats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-inside-look-top-picks-for-live-webcam-capture-for-2024/"><u>[New] Inside Look  Top Picks for Live WebCam Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-start-setting-up-and-using-obs-on-a-mac-computer-for-2024/"><u>[New] Quick Start  Setting Up and Using OBS on a Mac Computer for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secrets-to-mastering-photosvideos-in-windows-11/"><u>[New] Secrets to Mastering Photos/Videos in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-cam-cover-selection/"><u>[New] The Ultimate Guide to Cam Cover Selection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-desktop-capture-showdown-select-between-obs-and-shadowplay/"><u>[Updated] 2024 Approved  Desktop Capture Showdown  Select Between OBS and ShadowPlay</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-free-fast-skype-to-mp3-guide-for-call-recorders/"><u>[Updated] 2024 Approved  Free, Fast  Skype to MP3 Guide for Call Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-easyscreen-videotaker-analysis-plus-other-apps-for-2024/"><u>[Updated] EasyScreen Videotaker Analysis + Other Apps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-effortless-screen-capture-on-chrome-os-devices-for-2024/"><u>[Updated] Effortless Screen Capture on Chrome OS Devices for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-explore-and-relish-top-sandbox-journeys-for-2024/"><u>[Updated] Explore and Relish Top Sandbox Journeys for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-harmony-hub-innovations-showcased-for-2024/"><u>[Updated] Harmony Hub  Innovations Showcased for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ideal-choice-12-superior-clicking-adventures-on-your-pc-for-2024/"><u>[Updated] Ideal Choice  12 Superior Clicking Adventures on Your PC for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>[Updated] In 2024, Grandest Clash of Titans  A Compilation of the Top 7 Total War Skirmishes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-prime-techniques-for-silent-videography/"><u>[Updated] In 2024, Prime Techniques for Silent Videography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-securing-group-discussions-on-hangouts/"><u>[Updated] In 2024, Securing Group Discussions on Hangouts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-swift-and-simple-method-for-screenshots-on-ios-devices/"><u>[Updated] Swift and Simple Method for Screenshots on IOS Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unlock-the-art-of-recording-all-your-hulu-content/"><u>[Updated] Unlock the Art of Recording All Your Hulu Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-youtubes-flawless-beauty-masterclass-skincare-hairdos-and-cosmetics/"><u>2024 Approved  YouTube's Flawless Beauty Masterclass  Skincare, Hairdos & Cosmetics</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-14-imei-checker-by-drfone-ios/"><u>Best Free iPhone 14 IMEI Checker</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-your-first-camera-the-2024-bestseller-list/"><u>Choosing Your First Camera  The 2024 Bestseller List</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-s17e-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo S17e? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-creativity-in-windows-10-how-to-trim-movies-and-more/"><u>In 2024, Unleash Creativity in Windows 10  How To Trim Movies and More</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-soundtrack-search-navigating-the-iphones-abilities-for-track-titling-for-2024/"><u>New The Soundtrack Search Navigating the iPhones Abilities for Track Titling for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-quintessential-guide-to-win-1011-recorder-tools-for-2024/"><u>The Quintessential Guide to Win 10/11 Recorder Tools for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-movie-magic-on-android-a-comprehensive-app-guide/"><u>Updated Movie Magic on Android A Comprehensive App Guide</u></a></li>
+</ul></div>

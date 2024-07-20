@@ -1,7 +1,7 @@
 ---
 title: "\"Freezing Your Window  Windows Screenshoting Guide for 2024\""
-date: 2024-06-09T05:38:37.304Z
-updated: 2024-06-10T05:38:37.304Z
+date: 2024-07-19T17:35:23.693Z
+updated: 2024-07-20T17:35:23.693Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,9 @@ In this article, we are going to show you five different ways of creating screen
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -46,6 +49,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
@@ -68,10 +74,16 @@ The Free Form option lets you create a screenshot in any shape you want, while t
 
 After taking a screenshot you will get a notification in the Windows Action Center, click on the notification and then click on the screenshot to open it in the Screen Sketch app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
 #### Step 3. Saving and Exporting Screenshots
@@ -82,10 +94,16 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
 
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
@@ -96,6 +114,9 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
@@ -104,6 +125,9 @@ However, this option is only available on the Windows 10 version of the app, and
 
 You can launch the app from the Start menu or by typing its name in the Search Charm. When the Snipping Tool window appears on the screen you can click on the New drop-down menu and choose from, Free Form, Rectangular, Window and Full-Screen snip options. Simply click on the option that best meets your demands.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
@@ -162,6 +186,10 @@ Taking screenshots on Windows 7,8 or 10 is a fun process that doesn't require yo
 
 Leave a comment and let us know what is your favorite method of taking screenshots on PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -178,3 +206,54 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-adobes-toolset-perfecting-your-youtube-uploads/"><u>[New] 2024 Approved  Adobe's Toolset  Perfecting Your YouTube Uploads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-preeminent-online-spaces-enhancing-youtube-traffic/"><u>[New] 2024 Approved  Preeminent Online Spaces Enhancing YouTube Traffic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-prime-choices-beyond-obs-for-video-capture/"><u>[New] 2024 Approved  Prime Choices  Beyond OBS for Video Capture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlocking-success-with-instagrams-business-platform/"><u>[New] 2024 Approved  Unlocking Success with Instagram's Business Platform</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unveiling-the-best-non-obs-streaming-tools-for-video-creators/"><u>[New] 2024 Approved  Unveiling the Best Non-OBS Streaming Tools for Video Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-crimson-update-kit-for-2024/"><u>[New] Crimson Update Kit for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-dive-right-in-the-art-of-entering-a-tiktok-stream/"><u>[New] Dive Right In  The Art of Entering a TikTok Stream</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-elite-videographers-choice-ideal-grabber-software/"><u>[New] Elite Videographer's Choice  Ideal Grabber Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-tips-for-steam-gamers-recordings/"><u>[New] Essential Tips for Steam Gamers' Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-expertly-curated-list-premium-ubuscreen-recorder-apps/"><u>[New] Expertly Curated List  Premium UbuScreen Recorder Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-4-strategies-for-capturing-xbox-games-play-by-play/"><u>[New] In 2024, 4 Strategies for Capturing Xbox Games Play-By-Play</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-digital-dominance-10-screen-capture-software-ranked/"><u>[New] In 2024, Digital Dominance  #10 Screen Capture Software Ranked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-discover-the-creme-de-la-creme-of-mac-snipers/"><u>[New] In 2024, Discover the Crème De La Crème of Mac Snipers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-explore-cheap-video-call-alternatives-compatible-with-windows-and-mac/"><u>[New] In 2024, Explore Cheap Video Call Alternatives Compatible With Windows & Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-archive-your-minecraft-sessions-on-a-mac-computer/"><u>[New] In 2024, How to Archive Your Minecraft Sessions on a Mac Computer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-precision-in-screenshots-a-detailed-guide/"><u>[New] In 2024, Precision in Screenshots  A Detailed Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-12-wildlife-wonders-for-your-android-device/"><u>[New] In 2024, Top 12 Wildlife Wonders for Your Android Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-steps-to-record-iphone-display-for-2024/"><u>[New] Quick Steps to Record IPhone Display for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlock-more-views-the-art-of-editing-your-youtube-content-for-2024/"><u>[New] Unlock More Views  The Art of Editing Your YouTube Content for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-webinar-recording-tactics-zero-price-strategy-for-2024/"><u>[New] Webinar Recording Tactics  Zero Price Strategy for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-chromebooks-to-the-rescue-mastering-webcam-recordings/"><u>[Updated] 2024 Approved  Chromebooks to the Rescue  Mastering Webcam Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leveraging-skype-for-interactive-home-office-video-conferencing/"><u>[Updated] 2024 Approved  Leveraging Skype for Interactive Home Office Video Conferencing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-optimizing-your-home-studio-for-online-broadcasts/"><u>[Updated] 2024 Approved  Optimizing Your Home Studio for Online Broadcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-streamline-your-gaming-with-xbox-screen-recorders/"><u>[Updated] 2024 Approved  Streamline Your Gaming with Xbox Screen Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-step-by-step-approach-to-professional-ps4-gaming-recordings-for-2024/"><u>[Updated] A Step-by-Step Approach to Professional PS4 Gaming Recordings for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-achieve-youtube-stardom-top-strategies-for-recognition-and-growth/"><u>[Updated] Achieve YouTube Stardom  Top Strategies for Recognition and Growth</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-breaking-barriers-on-frozen-grounds-olympic-snowboard-speed-showdown/"><u>[Updated] Breaking Barriers on Frozen Grounds - Olympic Snowboard Speed Showdown</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-crafting-a-perfect-paradise-the-top-stardew-valley-mods-7-14-for-2024/"><u>[Updated] Crafting a Perfect Paradise  The Top Stardew Valley Mods (#7-14) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-direct-comparison-evaluating-obs-against-twitch-hubs-for-2024/"><u>[Updated] Direct Comparison  Evaluating OBS Against Twitch Hubs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-halting-real-time-recordings-on-qt-player-for-2024/"><u>[Updated] Halting Real-Time Recordings on QT Player for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-solved-obs-full-screen-not-working/"><u>[Updated] In 2024, [Solved] OBS Full Screen Not Working</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-inside-look-freewebcampro-software-overview/"><u>[Updated] In 2024, Inside Look  FreeWebcamPro Software Overview</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premier-pc-camera-tool/"><u>[Updated] In 2024, Premier PC Camera Tool</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-quickening-vimeo-content-streams-for-2024/"><u>[Updated] Quickening Vimeo Content Streams for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supreme-conversion-software-top-4k-downloads-for-youtubers/"><u>[Updated] Supreme Conversion Software  Top 4K Downloads for YouTubers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-picks-choosing-the-ideal-screen-capture-solution-showmore/"><u>[Updated] Top Picks  Choosing the Ideal Screen Capture Solution - ShowMore</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-calming-harmonics-windowsmac-direction/"><u>2024 Approved  Calming Harmonics  Windows/Mac Direction</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-master-downloader-facebook-and-firefox-integration/"><u>2024 Approved  Master Downloader  Facebook & FireFox Integration</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-televising-streamed-social-media-vids-in-households/"><u>2024 Approved  Televising Streamed Social Media Vids in Households</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-win11s-best-built-in-recording-software/"><u>2024 Approved  Win11's Best Built-In Recording Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expertly-curated-list-of-premier-linux-screenshots/"><u>Expertly Curated List of Premier Linux Screenshots</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-critical-clip-climbers-ranking-video-hours-from-1-to-10/"><u>In 2024, Critical Clip Climbers  Ranking Video Hours From #1 to #10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/perfecting-the-art-of-itunes-video-recording/"><u>Perfecting the Art of iTunes Video Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-cinematographers-choice-best-lenses-for-4k-excellence/"><u>The Cinematographer's Choice  Best Lenses for 4K Excellence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-11-mac-applications-for-efficient-screen-saving/"><u>Top 11 Mac Applications for Efficient Screen Saving</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-screen-capturing-techniques-on-ipad-for-2024/"><u>Unlocking Screen Capturing Techniques on iPad for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-v29e-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo V29e Users</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-a78-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A78 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] Parallel Audio Stream Mapping for 2024"
-date: 2024-05-19T20:38:12.255Z
-updated: 2024-05-20T20:38:12.255Z
+date: 2024-07-19T13:58:06.166Z
+updated: 2024-07-20T13:58:06.166Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "This Article Describes [New] Parallel Audio Stream Mapping for 2024"
 excerpt: "This Article Describes [New] Parallel Audio Stream Mapping for 2024"
 keywords: "\"Parallel Sound Sync,Audio Multi-Tracking,Synced Audio Channels,Dual Audio Patterns,Concurrent Sound Paths,Harmonized Stream Tracks,Simultaneous Sound Links\""
-thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
 ---
 
 ## Parallel Audio Stream Mapping
 
 # How to Record Multiple Monitors
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -46,6 +49,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## How to Record Multiple Monitors
@@ -54,6 +60,9 @@ The first step towards setting up a screencasting session with multiple displays
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -113,6 +122,10 @@ If you would like to capture footage from multiple monitors, but you are not sur
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -128,14 +141,23 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -152,6 +174,9 @@ Sum up the two values of the wider sides of the screens and insert the value you
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Capturing Multiple Monitor Displays with Camtasia
 
 Selecting more than one monitor from the Camtasia's Fullscreen settings is unfortunately not possible, but the Custom recording settings option allows you to capture footage from two different displays. You'll need to make sure that both monitors are properly aligned and the that Extend These Displays feature is selected. Here's how you record multiple monitors with Camtasia.
@@ -177,6 +202,9 @@ In case that you want to record your secondary monitor, we recommend you to try 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -193,6 +221,9 @@ Producing a software tutorial or a gameplay video with screen recording software
 
 If you would like to capture footage from multiple monitors, but you are not sure how, you've come to the right place, because in this article we are going to show you how to record two monitors at the same time using the OBS Studio and Camtasia screen recording software.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -234,6 +265,9 @@ Sum up the two values of the wider sides of the screens and insert the value you
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Capturing Multiple Monitor Displays with Camtasia
 
 Selecting more than one monitor from the Camtasia's Fullscreen settings is unfortunately not possible, but the Custom recording settings option allows you to capture footage from two different displays. You'll need to make sure that both monitors are properly aligned and the that Extend These Displays feature is selected. Here's how you record multiple monitors with Camtasia.
@@ -275,6 +309,10 @@ Producing a software tutorial or a gameplay video with screen recording software
 
 If you would like to capture footage from multiple monitors, but you are not sure how, you've come to the right place, because in this article we are going to show you how to record two monitors at the same time using the OBS Studio and Camtasia screen recording software.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -300,6 +338,9 @@ The first step towards setting up a screencasting session with multiple displays
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -339,6 +380,9 @@ In case that you want to record your secondary monitor, we recommend you to try 
 * Able to Record Computer Audio And Voice Over
 * Splendid Annotations, Cursor Effects and Editing Features
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
@@ -374,3 +418,41 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-ios-screenshoting-hack/"><u>[New] 2024 Approved  The Ultimate iOS Screenshoting Hack</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-visualize-your-movies-with-best-grabbers/"><u>[New] 2024 Approved  Visualize Your Movies with Best Grabbers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-3-ways-to-record-itunes-videos/"><u>[New] 3 Ways to Record iTunes Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-exploring-skies-in-4k-with-mi-drone-for-2024/"><u>[New] Exploring Skies in 4K with MI Drone for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-shottaker-windowsmac-capture-tools/"><u>[New] In 2024, Ultimate ShotTaker  Windows/Mac Capture Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-journey-through-history-similar-themed-video-games-to-ghost-of-tsushima/"><u>[New] Journey Through History  Similar Themed Video Games to Ghost of Tsushima</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-learn-to-quickly-cut-videos-using-built-in-windows-features/"><u>[New] Learn to Quickly Cut Videos Using Built-In Windows Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-live-undo-on-twitch-essential-tips-and-strategies/"><u>[New] Mastering Live Undo on Twitch  Essential Tips and Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-reignite-retro-fun-select-best-pc-emulators-for-game-boy-advance-games/"><u>[New] Reignite Retro Fun  Select Best PC Emulators for Game Boy Advance Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simplified-guide-to-recording-pc-screens-for-hp-users/"><u>[New] Simplified Guide to Recording PC Screens for HP Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-smooth-visual-journeys-master-fades-in-a-flash/"><u>[New] Smooth Visual Journeys  Master Fades in a Flash</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-step-by-step-guide-recording-audio-on-the-internet-today/"><u>[New] Step-by-Step Guide  Recording Audio on the Internet Today</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unleashing-social-potential-maximizing-business-impact-with-tiktok/"><u>[New] Unleashing Social Potential  Maximizing Business Impact with TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-film-school-at-home-mastering-video-editing-via-youtube-and-alternatives/"><u>[Updated] Film School at Home  Mastering Video Editing via YouTube & Alternatives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-guide-to-choosing-winning-screen-recording-software-for-windows-for-2024/"><u>[Updated] Ultimate Guide to Choosing Winning Screen Recording Software for Windows for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-effective-ways-to-archive-and-record-youtube-events/"><u>2024 Approved  Effective Ways to Archive and Record Youtube Events</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/android-device-capture-free-simplify-your-tech-life/"><u>Android Device Capture - FREE! Simplify Your Tech Life</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/crossing-into-a-shared-tiktok-space-easy-ways/"><u>Crossing Into a Shared TikTok Space  Easy Ways</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/efficient-obs-settings-for-thrifty-users/"><u>Efficient OBS Settings for Thrifty Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-techniques-for-high-quality-android-recordings-for-2024/"><u>Expert Techniques for High-Quality Android Recordings for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-electorate-enthrallment-best-politic-based-game-reviews/"><u>In 2024, Electorate Enthrallment  Best Politic-Based Game Reviews</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elevate-your-lol-gameplay-on-camera-three-methods/"><u>In 2024, Elevate Your LOL Gameplay on Camera - Three Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-laptop-setup-guide-to-initiate-direct-chat-rooms-via-whatsapp-web/"><u>In 2024, Laptop Setup Guide to Initiate Direct Chat Rooms via WhatsApp Web</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-premium-choice-10-leading-webcams-for-win-11/"><u>In 2024, Premium Choice  10 Leading Webcams for Win 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-professional-insight-into-accurate-and-clear-vr-recording/"><u>In 2024, Professional Insight Into Accurate and Clear VR Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optibackup-insider-opinions/"><u>OptiBackup Insider Opinions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pixelpilot-screen-recorder-critique-plus-backups/"><u>PixelPilot Screen Recorder Critique + Backups</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pro-mic-tech-scoring-the-top-9-mic-recorder-brands-for-2024/"><u>Pro Mic Tech  Scoring the Top 9 Mic Recorder Brands for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/seamless-slidecasts-combining-webcam-and-ppt-for-2024/"><u>Seamless Slidecasts  Combining Webcam and PPT for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snickerspace-build-memes-that-make-people-smile-for-2024/"><u>SnickerSpace  Build Memes That Make People Smile for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/step-by-step-minecraft-screenshots-and-videos-for-2024/"><u>Step-by-Step Minecraft Screenshots & Videos for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-vivo-v30-lite-5g-by-drfone-android/"><u>Universal Unlock Pattern for Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-no-more-shaky-videos-discover-the-best-free-android-video-stabilizers/"><u>Updated In 2024, No More Shaky Videos Discover the Best Free Android Video Stabilizers</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Preserve Your Display  Win OS Snapshots Explained\""
-date: 2024-05-18T05:32:22.789Z
-updated: 2024-05-19T05:32:22.789Z
+date: 2024-07-19T15:28:31.802Z
+updated: 2024-07-20T15:28:31.802Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes Preserve Your Display: Win OS Snapshots Explained\""
 excerpt: "\"This Article Describes Preserve Your Display: Win OS Snapshots Explained\""
 keywords: "Save Windows Snapshots,Snapshot Backup WinOS,Save WinSys Snapshots,Quick OS Restore Win,Capture Display WinSnap,OS Image Retention Win,Easy Win Snap Shot"
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## Preserve Your Display: Win OS Snapshots Explained
 
 # How to Take Screenshots on Windows \[5 Methods\]
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -29,6 +32,9 @@ Capturing a still image of your computer's screen can help you explain a problem
 
 In this article, we are going to show you five different ways of creating screenshots on Windows 7,8 and 10 and we are going to take you through each method step by step. Let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -48,6 +54,9 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
 
 The latest Windows update brings the Screen Sketch app, that was previously available with the Windows Ink utility. PC owners that have the build 17661 of Windows 10 installed on their computers can use the app to create screenshots, draw on screen or crop the screenshots they produce with Screen Sketch. The app also lets you share the images from the clipboard and it replaces all other methods of making screenshots on Windows 10's 17661 build. Here's how you can create screenshots with this app.
@@ -60,6 +69,9 @@ You can either double-click on the app's desktop icon or you can launch it from 
 
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
 
 The Free Form option lets you create a screenshot in any shape you want, while the Full-Screen feature automatically captures the entire screen. The image you create will be saved on your hard-drive, and if you want to edit it, you'll have to import the file into Screen Sketch.
@@ -68,6 +80,18 @@ The Free Form option lets you create a screenshot in any shape you want, while t
 
 After taking a screenshot you will get a notification in the Windows Action Center, click on the notification and then click on the screenshot to open it in the Screen Sketch app.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
@@ -78,6 +102,9 @@ You can add annotations to the screenshots, by clicking on the bullet point pen,
 
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-saving.jpg)
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
@@ -92,6 +119,9 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
@@ -104,6 +134,9 @@ However, this option is only available on the Windows 10 version of the app, and
 
 You can launch the app from the Start menu or by typing its name in the Search Charm. When the Snipping Tool window appears on the screen you can click on the New drop-down menu and choose from, Free Form, Rectangular, Window and Full-Screen snip options. Simply click on the option that best meets your demands.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
@@ -178,6 +211,9 @@ Capturing a still image of your computer's screen can help you explain a problem
 
 In this article, we are going to show you five different ways of creating screenshots on Windows 7,8 and 10 and we are going to take you through each method step by step. Let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -195,8 +231,14 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
 
 The latest Windows update brings the Screen Sketch app, that was previously available with the Windows Ink utility. PC owners that have the build 17661 of Windows 10 installed on their computers can use the app to create screenshots, draw on screen or crop the screenshots they produce with Screen Sketch. The app also lets you share the images from the clipboard and it replaces all other methods of making screenshots on Windows 10's 17661 build. Here's how you can create screenshots with this app.
@@ -205,6 +247,9 @@ The latest Windows update brings the Screen Sketch app, that was previously avai
 
 You can either double-click on the app's desktop icon or you can launch it from the Windows Start menu. When the app opens, you'll be able to see all of the software tools in its main window. Click on the New Snipping icon, in the Screen Sketch's ribbon, and proceed to designate the area of the screen you'd like to capture.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
 
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
@@ -221,6 +266,9 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
 #### Step 3. Saving and Exporting Screenshots
@@ -235,10 +283,16 @@ The Share feature enables you to post the picture on social media or send it via
 
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
 
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
@@ -253,6 +307,9 @@ However, this option is only available on the Windows 10 version of the app, and
 
 You can launch the app from the Start menu or by typing its name in the Search Charm. When the Snipping Tool window appears on the screen you can click on the New drop-down menu and choose from, Free Form, Rectangular, Window and Full-Screen snip options. Simply click on the option that best meets your demands.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
@@ -263,6 +320,9 @@ Once you've taken the screenshot you can use the Pen and Highlighter features to
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
 Charms were first introduced on Windows 8, but trying to snap a screenshot with the Share Charm on this version of the OS won't produce any results since the screenshot option is only available on the Windows 8.1\. You can access the Charms Bar that offers Search, Share, Start, Devices and Settings charms by either pressing the Windows+C keys or by moving the mouse cursor down from the upper right corner of the screen.
@@ -311,6 +371,9 @@ Taking screenshots on Windows 7,8 or 10 is a fun process that doesn't require yo
 
 Leave a comment and let us know what is your favorite method of taking screenshots on PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -327,8 +390,23 @@ Capturing a still image of your computer's screen can help you explain a problem
 
 In this article, we are going to show you five different ways of creating screenshots on Windows 7,8 and 10 and we are going to take you through each method step by step. Let's get started.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -344,6 +422,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
@@ -354,6 +435,10 @@ The latest Windows update brings the Screen Sketch app, that was previously avai
 
 You can either double-click on the app's desktop icon or you can launch it from the Windows Start menu. When the app opens, you'll be able to see all of the software tools in its main window. Click on the New Snipping icon, in the Screen Sketch's ribbon, and proceed to designate the area of the screen you'd like to capture.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
 
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
@@ -370,6 +455,9 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
 #### Step 3. Saving and Exporting Screenshots
@@ -390,6 +478,9 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
@@ -402,6 +493,9 @@ However, this option is only available on the Windows 10 version of the app, and
 
 You can launch the app from the Start menu or by typing its name in the Search Charm. When the Snipping Tool window appears on the screen you can click on the New drop-down menu and choose from, Free Form, Rectangular, Window and Full-Screen snip options. Simply click on the option that best meets your demands.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
@@ -412,6 +506,9 @@ Once you've taken the screenshot you can use the Pen and Highlighter features to
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
 Charms were first introduced on Windows 8, but trying to snap a screenshot with the Share Charm on this version of the OS won't produce any results since the screenshot option is only available on the Windows 8.1\. You can access the Charms Bar that offers Search, Share, Start, Devices and Settings charms by either pressing the Windows+C keys or by moving the mouse cursor down from the upper right corner of the screen.
@@ -422,6 +519,13 @@ The Share Charm on Windows 8.1 enables you to share links, music, videos, photos
 
 Hold the Window + C keys or use the mouse to access the Charms Bar and then click on the Share option. The feature lets you share files through email, and you can also use it to take screenshots within the apps you downloaded from the Windows Store. For the purpose of this article, we chose to show you how you can take screenshots from the Video app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
 
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
@@ -460,6 +564,9 @@ Taking screenshots on Windows 7,8 or 10 is a fun process that doesn't require yo
 
 Leave a comment and let us know what is your favorite method of taking screenshots on PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -493,6 +600,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
@@ -515,6 +625,9 @@ The Free Form option lets you create a screenshot in any shape you want, while t
 
 After taking a screenshot you will get a notification in the Windows Action Center, click on the notification and then click on the screenshot to open it in the Screen Sketch app.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
@@ -543,6 +656,9 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
@@ -642,3 +758,63 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-hushing-up-unwanted-noise-on-skype/"><u>[New] 2024 Approved  Hushing Up Unwanted Noise on Skype</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-leveraging-technology-for-optimal-fb-stream-recording/"><u>[New] 2024 Approved  Leveraging Technology for Optimal FB Stream Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-step-by-step-guide-capturing-youtube-live-on-multiple-devices/"><u>[New] 2024 Approved  Step-by-Step Guide  Capturing YouTube Live on Multiple Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unlock-flawless-facetime-call-recordings-a-complete-walkthrough/"><u>[New] 2024 Approved  Unlock Flawless FaceTime Call Recordings  A Complete Walkthrough</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-elevate-video-output-quality-mastering-aiseesoft-screencast-tech/"><u>[New] Elevate Video Output Quality  Mastering Aiseesoft Screencast Tech</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-recording-steps-in-gh/"><u>[New] Essential Recording Steps in GH</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-frameinspector-appraisal-suite/"><u>[New] FrameInspector Appraisal Suite</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-from-forgotten-to-found-a-guide-to-using-tiktok-hashtags-right/"><u>[New] From Forgotten to Found  A Guide to Using TikTok Hashtags Right</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-perfect-your-skype-interviews-with-professional-recording-tactics/"><u>[New] In 2024, Perfect Your Skype Interviews with Professional Recording Tactics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-prioritize-privacy-in-conversations-the-best-10-free-secure-mobile-calling-apps-for-iosandroid/"><u>[New] In 2024, Prioritize Privacy in Conversations – The Best 10 Free, Secure Mobile Calling Apps for iOS/Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-securing-speech-accuracy-techniques-for-perfect-translation/"><u>[New] In 2024, Securing Speech Accuracy  Techniques for Perfect Translation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-simplified-guide-effortless-ipad-screen-recording-techniques/"><u>[New] In 2024, Simplified Guide  Effortless iPad Screen Recording Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-vsdc-screen-recorder-review/"><u>[New] In 2024, VSDC Screen Recorder Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfecting-instagram-livestreams-with-obs-technology-for-2024/"><u>[New] Perfecting Instagram Livestreams with OBS Technology for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-leading-10-competitors-to-zoom-for-pc-and-phone-for-2024/"><u>[New] The Leading 10 Competitors to Zoom for PC & Phone for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-time-efficient-methods-for-recording-vimeo-videos-for-2024/"><u>[New] Time-Efficient Methods for Recording Vimeo Videos for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ransform-your-visual-storytelling-with-no-cost-green-screen-lessons-from-youtubes-best-experts/"><u>[New] Transform Your Visual Storytelling with No-Cost Green Screen Lessons From YouTube's Best Experts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unleash-creativity-capturing-sims-4-adventures/"><u>[New] Unleash Creativity  Capturing Sims 4 Adventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ace-your-online-presence-youtubes-studio-command-center/"><u>[Updated] 2024 Approved  Ace Your Online Presence  YouTube's Studio Command Center</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-get-pure-video-streams-from-tiktok-directly-online/"><u>[Updated] 2024 Approved  Get Pure Video Streams From TikTok Directly Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-perfecting-the-live-broadcast-4-tips-for-fb-enthusiasts/"><u>[Updated] 2024 Approved  Perfecting the Live Broadcast  4 Tips for FB Enthusiasts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-complete-list-of-creative-and-catchy-youtube-channel-titles-for-modern-blogging-maximum-length-156-characters/"><u>[Updated] A Complete List of Creative and Catchy YouTube Channel Titles for Modern Blogging (Maximum Length  156 Characters)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-boosting-performance-allocating-additional-ram-to-minecraft/"><u>[Updated] Boosting Performance  Allocating Additional RAM to Minecraft</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-list-top-10-costless-screensharing-apps-for-professionals/"><u>[Updated] Essential List  Top 10 Costless Screensharing Apps for Professionals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-excellent-mac-bandicam-substitutes-5-for-2024/"><u>[Updated] Excellent Mac Bandicam Substitutes [#5] for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-experience-legendary-ps3-gaming-on-your-pc-today/"><u>[Updated] Experience Legendary PS3 Gaming on Your PC Today</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-a-journalistic-closing-statement/"><u>[Updated] In 2024, Crafting a Journalistic Closing Statement</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-high-end-methods-for-monitoring-and-recording-pc-sounds/"><u>[Updated] In 2024, High-End Methods for Monitoring and Recording PC Sounds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premier-recorder-clean-and-clear-android-edition/"><u>[Updated] In 2024, Premier Recorder  Clean and Clear Android Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-5-remote-viewing-recorders/"><u>[Updated] In 2024, Ultimate 5 Remote Viewing Recorders</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-youtube-dimensions-a-comprehensive-guide/"><u>[Updated] Mastering YouTube Dimensions  A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-securing-your-online-sessions-pcmobile-recording-for-2024/"><u>[Updated] Securing Your Online Sessions  PC/Mobile Recording for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/10-premier-choices-for-no-cost-screen-recording-tools/"><u>10 Premier Choices for No-Cost Screen Recording Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2023s-comprehensive-guide-to-ios-device-screen-capture-for-2024/"><u>2023'S Comprehensive Guide to iOS Device Screen Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-celestial-warriors-unite-release-date/"><u>2024 Approved  Celestial Warriors Unite! Release Date</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-google-hangouts-recording-guide/"><u>2024 Approved  Google Hangouts Recording Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-insider-tips-skyrocketing-your-canva-experience/"><u>2024 Approved  Insider Tips  Skyrocketing Your Canva Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-interactive-narratives-basics-and-beyond/"><u>2024 Approved  Interactive Narratives Basics and Beyond</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unleash-creativity-video-art-and-live-streaming-with-vlc-webcam-capabilities/"><u>2024 Approved  Unleash Creativity  Video Art & Live Streaming with VLC Webcam Capabilities</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-cut-trim-and-polish-the-best-free-online-video-editors/"><u>2024 Approved Cut, Trim, and Polish The Best Free Online Video Editors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-se-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone SE</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/dollar-store-diy-hacks-to-use-for-filmmaking-on-a-budget-for-2024/"><u>Dollar-Store DIY Hacks to Use for Filmmaking on a Budget for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elite-list-ten-economical-desktop-sharing-apps/"><u>Elite List  Ten Economical Desktop Sharing Apps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y55s-5g-2023-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y55s 5G (2023) to Roku | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-advanced-methods-for-archiving-your-roblox-quests-on-mac/"><u>In 2024, Advanced Methods for Archiving Your Roblox Quests on Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-enhancing-mobile-broadcasting-via-obs-strategies/"><u>In 2024, Enhancing Mobile Broadcasting via OBS  Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-free-secure-video-calls-top-10-safe-apps-for-android-and-ios-users/"><u>In 2024, Free, Secure Video Calls  Top 10 Safe Apps for Android and iOS Users</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-14-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 14 and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-untapped-realities-of-instagram-story-watchers/"><u>In 2024, Untapped Realities of Instagram Story Watchers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pinnacle-recorders-of-academic-dialogues/"><u>Pinnacle Recorders of Academic Dialogues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-se-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone SE</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>Updated How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963662601-updated-if-you-have-a-low-budget-but-want-to-create-a-filmy-appearance-of-the-video-then-read-6-ways-to-get-professional-filming-equipment-by-using-househol/"><u>Updated If You Have a Low Budget but Want to Create a Filmy Appearance of the Video, Then Read 6 Ways to Get Professional Filming Equipment by Using Household Objects for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-produce-professional-looking-videos-with-fcpx-stabilization-tools/"><u>Updated In 2024, Produce Professional-Looking Videos with FCPX Stabilization Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/what-to-do-with-icloud-drives-desktop-anddocuments-access-in-sierra-for-2024/"><u>What to Do with iCloud Drive’s Desktop &Documents Access in Sierra for 2024</u></a></li>
+</ul></div>

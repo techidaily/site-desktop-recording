@@ -1,7 +1,7 @@
 ---
 title: "Adjusting Settings for Audible OBS Broadcasts"
-date: 2024-05-19T20:38:06.059Z
-updated: 2024-05-20T20:38:06.059Z
+date: 2024-07-19T13:44:14.622Z
+updated: 2024-07-20T13:44:14.622Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Adjusting Settings for Audible OBS Broadcasts"
 excerpt: "This Article Describes Adjusting Settings for Audible OBS Broadcasts"
 keywords: "\"RL Broadcast Live,Live RL Streams,Broadcasting Live RL,RL Broadcast Tips,Live RL Techniques,Cutting-Edge RL Broadcast,Live RL Broadcast Guide\""
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## Adjusting Settings for Audible OBS Broadcasts
@@ -31,6 +31,9 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
@@ -39,6 +42,9 @@ All in all, to record desktop audio with OBS, you have to enter a third-party au
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 ### **2\. Run it as Administrator**
@@ -59,8 +65,306 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 2) Click the speaker icon beneath OBS to unmute this program.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
+### **4\. Check the sound settings**
+
+Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
+
+* Then click the Microphone/Auxiliary Audio Device drop-down box to choose the proper device there if necessary
+* Alternatively, you may pick the Default choices on those drop-down boxes to set up the program for your default sound devices.
+* Press the Apply button, then click OK to exit the window.
+
+![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
+
+### **5\. Remove Other Programs for Audio Control**
+
+Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
+
+* Click Access Sound Panel in Settings to open the window displayed immediately below
+* Select Speakers on the Playback tab
+* Select the Set Default option and click the Apply button.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
+
+### **6\. Update your audio driver**
+
+If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
+
+* Click on the Start menu and search for Device Manager
+* From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
+
+### **7\. Reinstall OBS**
+
+If none of the techniques can assist you, your OBS is experiencing an undefined problem, you may reinstall it. Some files may be damaged when installing OBS studio. Uninstalling and reinstalling the program might address the issue with corrupted files. As none of the techniques above work, you might try re-installing OBS studio on your PC. To do so you will have to implement these steps:
+
+* Initially, remove it. On your desktop, click Start and navigate to Settings > Apps.
+* In the pop-up “Programs and Features” box scroll down through the list of apps to locate “OBS Studio”.
+* Click on OBS Studio and then pick “Uninstall”
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
+
+## 8\. Use OBS Alternative
+
+When all the preceding approaches fail to address the issue, merely switch to an alternate screen recorder to generate a video. Be that as it may, one of the common troubles while recording with OBS studio is the "OBS studio sound not functioning " issue which looks to be incredibly puzzling since you can end up going through a few hours recording and editing a video yet there is no solid. Personally, Filmora's [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) will be pretty nice. When you are going to uncover the solution to why is OBS not recording audio, there are numerous screen and audio recorders that will be beneficial for you. One of the greatest recording applications is Filmora. The program contains built-in functions, and you may conduct various editing by cropping, dividing, or chopping the audio. Moreover, the application is quite straightforward to use which is pretty different from OBS, the one that requires practice. You may use the keyboard shortcut to start recording your screen without additional setup.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
+
+![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+### **Features Why You Should Go for Filmora:**
+
+* It has both the versions for Windows and Mac
+* The screen and audio recording are easy, and the screen size is configurable.
+* You may add transitions, graphics, stickers, and audio to the material that you are going to modify.
+* The editing capabilities are easy to use since it offers all the audio and video editing tools that are necessary to edit recorded audio.
+* You may opt to capture audio alone or both screen and audio
+* The users may build an image with picture effects. Moreover, it also enables options to insert video snippets wherever in the material.
+* The program can capture computer displays and magnify screens.
+* You may simply record screens without any constraints.
+* It’s possible to capture your camera output without recording the screen
+* You may export videos in any desired format by utilizing sophisticated setup tools.
+
+##### Filmora Audio Recorder
+
+Capture system and microphone audio
+
+Customize the audio recording settings
+
+Edit system and microphone audio seperately
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Conclusion
+
+When recording from OBS studio, if the desktop audio section does not react to any audio, you will not hear the noises from the computer in your recordings. To discover whether OBS pulls up any audio from the PC, check the Audio Mixer. OBS studio is one of the most wonderful free screen recording apps which is not difficult to apply, particularly for YouTubers. Make sure to follow all the remedies one by one and go through the reasons owing to why it is triggered in the first place. If you are encountering the problem with OBS not recording audio, you might utilize an alternative to OBS studio.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Solutions to Fix OBS Not Recording Audio
+
+All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### **1\. Close the OBS and Restart**
+
+While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+### **2\. Run it as Administrator**
+
+You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
+
+* Click Windows start menu
+* On the search bar, search OBS
+* Right Click on OBS Studio and click Run as administrator
+
+![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
+
+### **3\. Unmute OBS**
+
+If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
+
+1) Right-click the speaker icon at the taskbar and choose Open Volume Mixer.
+
+2) Click the speaker icon beneath OBS to unmute this program.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
+
+### **4\. Check the sound settings**
+
+Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
+
+* Then click the Microphone/Auxiliary Audio Device drop-down box to choose the proper device there if necessary
+* Alternatively, you may pick the Default choices on those drop-down boxes to set up the program for your default sound devices.
+* Press the Apply button, then click OK to exit the window.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+### **5\. Remove Other Programs for Audio Control**
+
+Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
+
+* Click Access Sound Panel in Settings to open the window displayed immediately below
+* Select Speakers on the Playback tab
+* Select the Set Default option and click the Apply button.
+
+![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
+
+### **6\. Update your audio driver**
+
+If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
+
+* Click on the Start menu and search for Device Manager
+* From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
+
+![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+### **7\. Reinstall OBS**
+
+If none of the techniques can assist you, your OBS is experiencing an undefined problem, you may reinstall it. Some files may be damaged when installing OBS studio. Uninstalling and reinstalling the program might address the issue with corrupted files. As none of the techniques above work, you might try re-installing OBS studio on your PC. To do so you will have to implement these steps:
+
+* Initially, remove it. On your desktop, click Start and navigate to Settings > Apps.
+* In the pop-up “Programs and Features” box scroll down through the list of apps to locate “OBS Studio”.
+* Click on OBS Studio and then pick “Uninstall”
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
+
+## 8\. Use OBS Alternative
+
+When all the preceding approaches fail to address the issue, merely switch to an alternate screen recorder to generate a video. Be that as it may, one of the common troubles while recording with OBS studio is the "OBS studio sound not functioning " issue which looks to be incredibly puzzling since you can end up going through a few hours recording and editing a video yet there is no solid. Personally, Filmora's [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) will be pretty nice. When you are going to uncover the solution to why is OBS not recording audio, there are numerous screen and audio recorders that will be beneficial for you. One of the greatest recording applications is Filmora. The program contains built-in functions, and you may conduct various editing by cropping, dividing, or chopping the audio. Moreover, the application is quite straightforward to use which is pretty different from OBS, the one that requires practice. You may use the keyboard shortcut to start recording your screen without additional setup.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
+
+![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+### **Features Why You Should Go for Filmora:**
+
+* It has both the versions for Windows and Mac
+* The screen and audio recording are easy, and the screen size is configurable.
+* You may add transitions, graphics, stickers, and audio to the material that you are going to modify.
+* The editing capabilities are easy to use since it offers all the audio and video editing tools that are necessary to edit recorded audio.
+* You may opt to capture audio alone or both screen and audio
+* The users may build an image with picture effects. Moreover, it also enables options to insert video snippets wherever in the material.
+* The program can capture computer displays and magnify screens.
+* You may simply record screens without any constraints.
+* It’s possible to capture your camera output without recording the screen
+* You may export videos in any desired format by utilizing sophisticated setup tools.
+
+##### Filmora Audio Recorder
+
+Capture system and microphone audio
+
+Customize the audio recording settings
+
+Edit system and microphone audio seperately
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Conclusion
+
+When recording from OBS studio, if the desktop audio section does not react to any audio, you will not hear the noises from the computer in your recordings. To discover whether OBS pulls up any audio from the PC, check the Audio Mixer. OBS studio is one of the most wonderful free screen recording apps which is not difficult to apply, particularly for YouTubers. Make sure to follow all the remedies one by one and go through the reasons owing to why it is triggered in the first place. If you are encountering the problem with OBS not recording audio, you might utilize an alternative to OBS studio.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Solutions to Fix OBS Not Recording Audio
+
+All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### **1\. Close the OBS and Restart**
+
+While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
+
+![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
+
+### **2\. Run it as Administrator**
+
+You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
+
+* Click Windows start menu
+* On the search bar, search OBS
+* Right Click on OBS Studio and click Run as administrator
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### **3\. Unmute OBS**
+
+If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
+
+1) Right-click the speaker icon at the taskbar and choose Open Volume Mixer.
+
+2) Click the speaker icon beneath OBS to unmute this program.
+
+![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -100,6 +404,9 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Use OBS Alternative
 
 When all the preceding approaches fail to address the issue, merely switch to an alternate screen recorder to generate a video. Be that as it may, one of the common troubles while recording with OBS studio is the "OBS studio sound not functioning " issue which looks to be incredibly puzzling since you can end up going through a few hours recording and editing a video yet there is no solid. Personally, Filmora's [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) will be pretty nice. When you are going to uncover the solution to why is OBS not recording audio, there are numerous screen and audio recorders that will be beneficial for you. One of the greatest recording applications is Filmora. The program contains built-in functions, and you may conduct various editing by cropping, dividing, or chopping the audio. Moreover, the application is quite straightforward to use which is pretty different from OBS, the one that requires practice. You may use the keyboard shortcut to start recording your screen without additional setup.
@@ -153,6 +460,9 @@ All in all, to record desktop audio with OBS, you have to enter a third-party au
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 ### **2\. Run it as Administrator**
@@ -173,6 +483,13 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 2) Click the speaker icon beneath OBS to unmute this program.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
 ### **4\. Check the sound settings**
@@ -193,8 +510,14 @@ Try recording with your speakers as the default playback device instead of headp
 * Select Speakers on the Playback tab
 * Select the Set Default option and click the Apply button.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -202,8 +525,14 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * Click on the Start menu and search for Device Manager
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### **7\. Reinstall OBS**
 
 If none of the techniques can assist you, your OBS is experiencing an undefined problem, you may reinstall it. Some files may be damaged when installing OBS studio. Uninstalling and reinstalling the program might address the issue with corrupted files. As none of the techniques above work, you might try re-installing OBS studio on your PC. To do so you will have to implement these steps:
@@ -228,234 +557,11 @@ For macOS 10.12 or later
 
 After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
 
-![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-### **Features Why You Should Go for Filmora:**
-
-* It has both the versions for Windows and Mac
-* The screen and audio recording are easy, and the screen size is configurable.
-* You may add transitions, graphics, stickers, and audio to the material that you are going to modify.
-* The editing capabilities are easy to use since it offers all the audio and video editing tools that are necessary to edit recorded audio.
-* You may opt to capture audio alone or both screen and audio
-* The users may build an image with picture effects. Moreover, it also enables options to insert video snippets wherever in the material.
-* The program can capture computer displays and magnify screens.
-* You may simply record screens without any constraints.
-* It’s possible to capture your camera output without recording the screen
-* You may export videos in any desired format by utilizing sophisticated setup tools.
-
-##### Filmora Audio Recorder
-
-Capture system and microphone audio
-
-Customize the audio recording settings
-
-Edit system and microphone audio seperately
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Conclusion
-
-When recording from OBS studio, if the desktop audio section does not react to any audio, you will not hear the noises from the computer in your recordings. To discover whether OBS pulls up any audio from the PC, check the Audio Mixer. OBS studio is one of the most wonderful free screen recording apps which is not difficult to apply, particularly for YouTubers. Make sure to follow all the remedies one by one and go through the reasons owing to why it is triggered in the first place. If you are encountering the problem with OBS not recording audio, you might utilize an alternative to OBS studio.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Solutions to Fix OBS Not Recording Audio
-
-All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
-
-### **1\. Close the OBS and Restart**
-
-While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
-
-![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
-
-### **2\. Run it as Administrator**
-
-You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
-
-* Click Windows start menu
-* On the search bar, search OBS
-* Right Click on OBS Studio and click Run as administrator
-
-![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
-
-### **3\. Unmute OBS**
-
-If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
-
-1) Right-click the speaker icon at the taskbar and choose Open Volume Mixer.
-
-2) Click the speaker icon beneath OBS to unmute this program.
-
-![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
-
-### **4\. Check the sound settings**
-
-Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
-
-* Then click the Microphone/Auxiliary Audio Device drop-down box to choose the proper device there if necessary
-* Alternatively, you may pick the Default choices on those drop-down boxes to set up the program for your default sound devices.
-* Press the Apply button, then click OK to exit the window.
-
-![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
-
-### **5\. Remove Other Programs for Audio Control**
-
-Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
-
-* Click Access Sound Panel in Settings to open the window displayed immediately below
-* Select Speakers on the Playback tab
-* Select the Set Default option and click the Apply button.
-
-![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
-
-### **6\. Update your audio driver**
-
-If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
-
-* Click on the Start menu and search for Device Manager
-* From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
-
-![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-### **7\. Reinstall OBS**
-
-If none of the techniques can assist you, your OBS is experiencing an undefined problem, you may reinstall it. Some files may be damaged when installing OBS studio. Uninstalling and reinstalling the program might address the issue with corrupted files. As none of the techniques above work, you might try re-installing OBS studio on your PC. To do so you will have to implement these steps:
-
-* Initially, remove it. On your desktop, click Start and navigate to Settings > Apps.
-* In the pop-up “Programs and Features” box scroll down through the list of apps to locate “OBS Studio”.
-* Click on OBS Studio and then pick “Uninstall”
-
-![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
-
-## 8\. Use OBS Alternative
-
-When all the preceding approaches fail to address the issue, merely switch to an alternate screen recorder to generate a video. Be that as it may, one of the common troubles while recording with OBS studio is the "OBS studio sound not functioning " issue which looks to be incredibly puzzling since you can end up going through a few hours recording and editing a video yet there is no solid. Personally, Filmora's [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) will be pretty nice. When you are going to uncover the solution to why is OBS not recording audio, there are numerous screen and audio recorders that will be beneficial for you. One of the greatest recording applications is Filmora. The program contains built-in functions, and you may conduct various editing by cropping, dividing, or chopping the audio. Moreover, the application is quite straightforward to use which is pretty different from OBS, the one that requires practice. You may use the keyboard shortcut to start recording your screen without additional setup.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
-
-![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-### **Features Why You Should Go for Filmora:**
-
-* It has both the versions for Windows and Mac
-* The screen and audio recording are easy, and the screen size is configurable.
-* You may add transitions, graphics, stickers, and audio to the material that you are going to modify.
-* The editing capabilities are easy to use since it offers all the audio and video editing tools that are necessary to edit recorded audio.
-* You may opt to capture audio alone or both screen and audio
-* The users may build an image with picture effects. Moreover, it also enables options to insert video snippets wherever in the material.
-* The program can capture computer displays and magnify screens.
-* You may simply record screens without any constraints.
-* It’s possible to capture your camera output without recording the screen
-* You may export videos in any desired format by utilizing sophisticated setup tools.
-
-##### Filmora Audio Recorder
-
-Capture system and microphone audio
-
-Customize the audio recording settings
-
-Edit system and microphone audio seperately
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Conclusion
-
-When recording from OBS studio, if the desktop audio section does not react to any audio, you will not hear the noises from the computer in your recordings. To discover whether OBS pulls up any audio from the PC, check the Audio Mixer. OBS studio is one of the most wonderful free screen recording apps which is not difficult to apply, particularly for YouTubers. Make sure to follow all the remedies one by one and go through the reasons owing to why it is triggered in the first place. If you are encountering the problem with OBS not recording audio, you might utilize an alternative to OBS studio.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Solutions to Fix OBS Not Recording Audio
-
-All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
-
-### **1\. Close the OBS and Restart**
-
-While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
-
-![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
-
-### **2\. Run it as Administrator**
-
-You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
-
-* Click Windows start menu
-* On the search bar, search OBS
-* Right Click on OBS Studio and click Run as administrator
-
-![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
-
-### **3\. Unmute OBS**
-
-If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
-
-1) Right-click the speaker icon at the taskbar and choose Open Volume Mixer.
-
-2) Click the speaker icon beneath OBS to unmute this program.
-
-![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
-
-### **4\. Check the sound settings**
-
-Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
-
-* Then click the Microphone/Auxiliary Audio Device drop-down box to choose the proper device there if necessary
-* Alternatively, you may pick the Default choices on those drop-down boxes to set up the program for your default sound devices.
-* Press the Apply button, then click OK to exit the window.
-
-![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
-
-### **5\. Remove Other Programs for Audio Control**
-
-Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
-
-* Click Access Sound Panel in Settings to open the window displayed immediately below
-* Select Speakers on the Playback tab
-* Select the Set Default option and click the Apply button.
-
-![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
-
-### **6\. Update your audio driver**
-
-If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
-
-* Click on the Start menu and search for Device Manager
-* From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
-
-![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-### **7\. Reinstall OBS**
-
-If none of the techniques can assist you, your OBS is experiencing an undefined problem, you may reinstall it. Some files may be damaged when installing OBS studio. Uninstalling and reinstalling the program might address the issue with corrupted files. As none of the techniques above work, you might try re-installing OBS studio on your PC. To do so you will have to implement these steps:
-
-* Initially, remove it. On your desktop, click Start and navigate to Settings > Apps.
-* In the pop-up “Programs and Features” box scroll down through the list of apps to locate “OBS Studio”.
-* Click on OBS Studio and then pick “Uninstall”
-
-![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
-
-## 8\. Use OBS Alternative
-
-When all the preceding approaches fail to address the issue, merely switch to an alternate screen recorder to generate a video. Be that as it may, one of the common troubles while recording with OBS studio is the "OBS studio sound not functioning " issue which looks to be incredibly puzzling since you can end up going through a few hours recording and editing a video yet there is no solid. Personally, Filmora's [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) will be pretty nice. When you are going to uncover the solution to why is OBS not recording audio, there are numerous screen and audio recorders that will be beneficial for you. One of the greatest recording applications is Filmora. The program contains built-in functions, and you may conduct various editing by cropping, dividing, or chopping the audio. Moreover, the application is quite straightforward to use which is pretty different from OBS, the one that requires practice. You may use the keyboard shortcut to start recording your screen without additional setup.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
-
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 ### **Features Why You Should Go for Filmora:**
@@ -510,3 +616,51 @@ When recording from OBS studio, if the desktop audio section does not react to a
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-enhancements-the-most-acclaimed-video-editing-tools/"><u>[New] In 2024, Snapchat Enhancements  The Most Acclaimed Video Editing Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-keep-it-hot-ideas-for-uninterrupted-snapchat-connections/"><u>[New] Keep It Hot - Ideas for Uninterrupted Snapchat Connections</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-8-best-free-websites-for-3d-text-psd-files/"><u>[Updated] 8 Best Free Websites for 3D Text PSD Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-process-of-sharing-srt-text-in-social-digital-spaces/"><u>[Updated] Unveiling the Process of Sharing SRT Text in Social Digital Spaces</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-bone-chilling-image-builder/"><u>2024 Approved  Bone-Chilling Image Builder</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-efface-markings-iosandroid-apps-for-clear-videos/"><u>2024 Approved  Efface Markings  IOS/Android Apps for Clear Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-intrigue-and-ingenuity-in-leading-escapade-centres/"><u>2024 Approved  Intrigue and Ingenuity in Leading Escapade Centres</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ipad-guide-creating-time-lapse-videos/"><u>2024 Approved  IPad Guide  Creating Time-Lapse Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-iphone-and-ipad-screen-recording-top-methods-of-2023/"><u>2024 Approved  IPhone & iPad Screen Recording  Top Methods of 2023</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-irecorder-unpacked-what-you-need-to-know/"><u>2024 Approved  IRecorder Unpacked  What You Need to Know</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-is-itops-feature-set-enough-to-justify-usage/"><u>2024 Approved  Is ITop's Feature Set Enough to Justify Usage?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ispring-review-a-deep-dive-into-screen-capture/"><u>2024 Approved  ISpring Review  A Deep Dive Into Screen Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-junior-road-rules-and-racer-revelry/"><u>2024 Approved  Junior Road Rules & Racer Revelry</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-kickstart-your-webinar-skills-with-easy-to-follow-zoom-steps/"><u>2024 Approved  Kickstart Your Webinar Skills with Easy-to-Follow Zoom Steps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-laptop-and-mobile-commencing-a-google-meet-session/"><u>2024 Approved  Laptop & Mobile  Commencing a Google Meet Session</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-launching-your-digital-dialogues-in-google-meet/"><u>2024 Approved  Launching Your Digital Dialogues in Google Meet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-laymans-land-easy-to-construct-mc-homes-unlocked/"><u>2024 Approved  Layman's Land  Easy-to-Construct MC Homes Unlocked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-applications-replacing-obs-for-live-sessions/"><u>2024 Approved  Leading Applications Replacing OBS for Live Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-free-switch-game-reproducers/"><u>2024 Approved  Leading Free Switch Game Reproducers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-gamers-video-logging-systems/"><u>2024 Approved  Leading Gamers' Video Logging Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-the-way-in-android-simulation-software-top-15-list/"><u>2024 Approved  Leading the Way in Android Simulation Software (Top 15 List)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-video-call-applications-for-conference-success/"><u>2024 Approved  Leading Video Call Applications for Conference Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-lenovos-screen-recording-an-in-depth-user-manual/"><u>2024 Approved  Lenovo’s Screen Recording – An In-Depth User Manual</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-little-gamers-treasure-trove-of-joy/"><u>2024 Approved  Little Gamers' Treasure Trove of Joy</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-live-stream-enhancements-top-15-non-obs-tools-unveiled/"><u>2024 Approved  Live-Stream Enhancements  Top 15 Non-OBS Tools Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-livestream-leaders-clash/"><u>2024 Approved  LiveStream Leaders Clash</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-livestreaming-and-media-management-with-ms-video-hub/"><u>2024 Approved  LiveStreaming & Media Management with MS Video Hub</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-logitechs-elite-4k-webcam-exhaustive-features-and-usability/"><u>2024 Approved  Logitech’s Elite 4K Webcam  Exhaustive Features & Usability</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-logitechs-secret-weapon-video-recordings-unveiled/"><u>2024 Approved  Logitech's Secret Weapon  Video Recordings Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-audio-interfaces-unveiled-the-podcasters-must-have-list/"><u>2024 Approved  Top Audio Interfaces Unveiled  The Podcaster's Must-Have List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-animators-toolkit-samples/"><u>Advanced Animator's Toolkit Samples</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-lava-storm-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Storm 5G Fingerprint Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dissecting-inshot-an-elite-video-editor-examined/"><u>Dissecting InShot  An Elite Video Editor Examined</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/flawless-screen-recorders-for-2024/"><u>Flawless Screen Recorders for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-x7b-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-13-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 13 online without jailbreak</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/innovative-text-additions-5-advanced-caption-methods-for-tiktok-for-2024/"><u>Innovative Text Additions  5 Advanced Caption Methods for TikTok for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lighting-setup-tips-to-make-great-videos/"><u>Lighting Setup Tips to Make Great Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-mastering-filmora-scrn-a-beginners-guide-to-desktop-recording/"><u>New 2024 Approved Mastering Filmora Scrn A Beginners Guide to Desktop Recording</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-elevate-your-whatsapp-status-game-with-these-top-apps-for-2024/"><u>New Elevate Your WhatsApp Status Game with These Top Apps for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/step-into-the-spotlight-with-these-top-20-tiktok-dancers/"><u>Step Into the Spotlight with These Top 20 TikTok Dancers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-video-production-on-mac-tips-and-tricks/"><u>Updated 2024 Approved Video Production on Mac Tips and Tricks</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Artistry Behind Capturing Evening Light and People"
-date: 2024-06-09T05:38:16.149Z
-updated: 2024-06-10T05:38:16.149Z
+date: 2024-07-19T15:38:02.688Z
+updated: 2024-07-20T15:38:02.688Z
 tags: 
   - screen-recording
   - ai video
@@ -21,22 +21,39 @@ It has been seen that most portrait photography is carried out during the daytim
 
 Well, **night-mode portraits** can be such an opportunity. However, it can be a little challenging for you. Night portrait shoots require the photographer to manipulate shutter speed, aperture, ISO, and more. Besides, there are certain dos and don'ts that you also need to keep in mind. Keep reading to know more about this.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Shooting with a topic
 
 One of the most difficult repercussions of **night mode portraits** is that everything in your sight takes on a strange appeal, which can easily make it challenging to understand the composition and picture subject. Well, to avoid such an issue, you need to make yourself familiarized with your topic or subject. So, you can arrive at the location before sunset and begin the setup procedure.
 
 This will also allow you to take advantage of clicking pictures during special hour lighting. Besides, it will also help you to know how changing list settings can affect the scene. Another important thing to consider here is styling your subject. You need to make sure that your subjects look professional and choose the right type of clothing. So, try to understand the purpose of your **night mode portraits.**
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### 2\. Lighting your Subject
 
 While shooting **night portraits,** based on the location, you may not get sufficient natural light to light up the subject. This is where you need to use some types of artificial lighting. Without this, you may not be able to capture the details of your subject. Your shots will look very blurry and underexposed. Well, artificial lighting need not be a flash. The source of artificial lighting can be anything.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pexels matheus bertelli 573298](https://images.wondershare.com/filmora/article-images/2022/11/pexels-matheus-bertelli-573298.jpg)
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
@@ -47,6 +64,9 @@ Don't forget to take advantage of your camera's night mode portrait option to ge
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### 4\. Shooting with a Stabilizer
 
 For better results, you can use a camera stabilizer. A camera stabilizer will offer you the ability to take beautiful and smooth shots while moving. Stabilizers come in different configurations and sizes. They can effectively lower the vibration of the camera while moving. But shooting with a monopod, gimbal, or other rigs can be a little challenging for you. However, there are some tips that you can keep in your mind for better results, for example:
@@ -86,6 +106,9 @@ Talking about the shutter speed, for stationary subjects, you can go for 1/160s.
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
@@ -94,6 +117,9 @@ However, you can also preset the white balance in your camera or edit the photos
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
@@ -137,3 +163,48 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-brain-busting-the-premier-room-challenge-list/"><u>[New] Brain-Busting  The Premier Room Challenge List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-directscreen-a-streamlined-windows-recorder/"><u>[New] DirectScreen  A Streamlined Windows Recorder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-voice-fixes-for-your-snapchat-snaps-using-dual-methods/"><u>[Updated] 2024 Approved  Quick Voice Fixes for Your Snapchat Snaps Using Dual Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-streamline-your-digital-footprint-the-ultimate-screen-recording-manual/"><u>[Updated] 2024 Approved  Streamline Your Digital Footprint  The Ultimate Screen Recording Manual</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-swift-recording-pro-with-voice-commentary-feature/"><u>[Updated] 2024 Approved  Swift Recording Pro with Voice Commentary Feature</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-to-embrace-or-not-the-itop-screen-recorder-dilemran/"><u>[Updated] 2024 Approved  To Embrace or Not  The ITop Screen Recorder Dilemran</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-examining-video-comments-on-youtube-for-2024/"><u>[Updated] Examining Video Comments on YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-innovative-tools-for-cutting-edge-xbox-gaming-recordings/"><u>[Updated] In 2024, Innovative Tools for Cutting-Edge Xbox Gaming Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-press-record-on-your-pc-with-simplicity/"><u>[Updated] In 2024, Press 'Record' On Your PC with Simplicity</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-essential-guide-to-using-zdsoft-vision/"><u>[Updated] In 2024, The Essential Guide to Using ZDSoft Vision</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-resolving-fps-confusion-30vs60-for-high-quality-recordings/"><u>[Updated] Resolving FPS Confusion  30Vs.60 For High-Quality Recordings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-tiktok-to-mp4-mastery-free-watermark-free-extractors/"><u>[Updated] TikTok to MP4 Mastery  Free, Watermark-Free Extractors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-7-top-mac-vids/"><u>[Updated] Ultimate Guide to 7 Top Mac Vids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-x-audiomaster-personal-computing-for-2024/"><u>[Updated] X-AudioMaster  Personal Computing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-enhance-listening-experience-on-pc-get-x-recorder-software/"><u>2024 Approved  Enhance Listening Experience on PC – Get X-Recorder Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-exclusive-window-snapshot-suite/"><u>2024 Approved  Exclusive Window Snapshot Suite</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-free-software-spectrum-for-high-quality-capture/"><u>2024 Approved  Free Software Spectrum for High-Quality Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-iphone-tips-for-time-dilation-in-videography/"><u>2024 Approved  IPhone Tips for Time-Dilation in Videography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-macs-ultimate-visual-recorder/"><u>2024 Approved  Mac's Ultimate Visual Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-navigating-the-maze-a-comprehensive-guide-to-mov-capture-in-win10/"><u>2024 Approved  Navigating the Maze  A Comprehensive Guide to MOV Capture in Win10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/"><u>A Step-by-Step Tutorial for Capturing Excellent IGTV Footage</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/beginners-pathway-to-proficientyoucamuse/"><u>Beginner's Pathway to ProficientYouCamUse</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/epic-eats-escapades-toptiktokfoodies-for-2024/"><u>Epic Eats Escapades  #TopTiktokFoodies for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-screen-grabbing-software-compared-on-pcmac-for-2024/"><u>Essential Screen Grabbing Software Compared on PC/Mac for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-play-7t-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-12-mouse-focused-pc-games-for-enthusiasts/"><u>In 2024, Best 12 Mouse-Focused PC Games for Enthusiasts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-itel-s23plusmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Itel S23+Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-prime-pick-screen-recorders-for-win11-15-list/"><u>In 2024, Prime Pick Screen Recorders for Win11 (#15 List)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revolutionary-techniques-mastering-visual-arts-with-the-top-10-free-youtube-tutorials/"><u>In 2024, Revolutionary Techniques  Mastering Visual Arts with the Top 10 Free YouTube Tutorials</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-strategic-planning-for-virtual-teams-mastering-slack-and-filmora-coordination/"><u>In 2024, Strategic Planning for Virtual Teams  Mastering Slack & Filmora Coordination</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-superior-methods-for-silent-video-production/"><u>In 2024, Superior Methods for Silent Video Production</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-fundamentals-of-crafting-high-quality-videos-for-instagram-audiences/"><u>In 2024, The Fundamentals of Crafting High-Quality Videos for Instagram Audiences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-5-timelapse-recording-software/"><u>In 2024, Top 5 Timelapse Recording Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/loom-essentials-perfecting-the-art-of-screen-recording/"><u>Loom Essentials  Perfecting the Art of Screen Recording</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-fcp-voice-over-essentials-a-beginners-guide-to-success/"><u>New 2024 Approved FCP Voice Over Essentials A Beginners Guide to Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-and-secure-lecture-capture-methods-for-mac-users-for-2024/"><u>Quick and Secure Lecture Capture Methods for Mac Users for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/securing-group-discussions-on-hangouts-for-2024/"><u>Securing Group Discussions on Hangouts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-essential-tutorial-for-facebook-live-on-roku-tv/"><u>The Essential Tutorial for Facebook Live on Roku TV</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unveiling-linuxs-leading-screen-capture-apps/"><u>Unveiling Linux’s Leading Screen Capture Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-10-free-video-editing-software-for-windows-10-trim-cut-and-more/"><u>Updated In 2024, 10 Free Video Editing Software for Windows 10 Trim, Cut, and More</u></a></li>
+</ul></div>

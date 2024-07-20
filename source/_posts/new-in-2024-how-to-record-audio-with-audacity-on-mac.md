@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Record Audio with Audacity on Mac?"
-date: 2024-05-19T20:37:46.807Z
-updated: 2024-05-20T20:37:46.807Z
+date: 2024-07-19T13:04:20.480Z
+updated: 2024-07-20T13:04:20.480Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, How to Record Audio with Audacity on Mac?"
 excerpt: "This Article Describes [New] In 2024, How to Record Audio with Audacity on Mac?"
 keywords: "\"Audacity Mac Recording Tips,Mac Audio Capture Using Audacity,Learn Audacity for Mac Audio,Simple Mac Audacity Recordings,Mac Guide: Audacity Recording,Audacity Setup on Mac,Quick Mac Audio with Audacity\""
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## How to Record Audio with Audacity on Mac?
@@ -31,10 +31,16 @@ Step 1: Visit [Audacity Download](https://www.audacityteam.org/download/mac/) pa
 
  Step 2: It should download Audacity DMG file automatically. However, if it does not, click on “Audacity (version) dmg file” on the Download website.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![step2 dmg file](https://images.wondershare.com/filmora/article-images/step2-dmg-file.jpg)
 
 Alternatively, you can go to FossHub and search for Audacity and download the latest Audacity macOS DMG file.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fosshub](https://images.wondershare.com/filmora/article-images/fosshub.jpg)
 
 Step 3: Once the downloading of the file is complete, double-click on the downloaded “Audacity macOS DMG” file to start installing the file. You can also find the file under Downloads from Finder.
@@ -43,6 +49,9 @@ Step 4: Follow the on-screen instructions to complete the installation process.
 
 Step 5: Go to Applications and launch Audacity. In case it does not open from Applications, you can go to the location where Audacity is installed and open directly from there.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to record audio with Audacity on Mac?
 
 We have already stated that operating Audacity on Mac is slightly complicated. Audacity is designed to record audio from external sources through microphone. Here are the steps on how to use Audacity on Mac to record audio with a microphone.
@@ -63,6 +72,9 @@ Step 4: Now, you are ready to start recording your audio through microphone usin
 
 Step 5: When you are done, click on Stop button at the top bar.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Alternative way to record sound on Mac
 
 There are several issues with Audacity Mac version. Audacity record computer audio Mac without microphone is quite complicated. Besides, Audacity Mac Catalina is not supported. The user interface is overwhelming for beginners which is why many users look for a better alternative. We recommend Wondershare Filmora to record sound on Mac.
@@ -89,6 +101,9 @@ Here are the steps on how to record any audio with video using Filmora.
 
 Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
@@ -99,6 +114,9 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
@@ -129,10 +147,16 @@ Step 2: From Recording window, set the video recording screen size as per your r
 
 Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
@@ -163,6 +187,9 @@ Step 2: From Recording window, set the video recording screen size as per your r
 
 Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
@@ -191,6 +218,9 @@ Here are the steps on how to record any audio with video using Filmora.
 
 Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
@@ -234,3 +264,45 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-crafting-journeys-a-comprehensive-guide-for-aspiring-travel-content-creators/"><u>[New] 2024 Approved  Crafting Journeys  A Comprehensive Guide for Aspiring Travel Content Creators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-efficient-viewing-the-comprehensive-guide-for-creating-youtube-watch-later-lists/"><u>[New] 2024 Approved  Efficient Viewing  The Comprehensive Guide for Creating YouTube Watch Later Lists</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-first-class-screen-capture-solutions/"><u>[New] 2024 Approved  First-Class Screen Capture Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-leading-clearcut-screen-capture-options-no-commercials/"><u>[New] 2024 Approved  Leading Clearcut Screen Capture Options (No Commercials)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-essential-guide-to-blurring-video-borders-in-teams/"><u>[New] 2024 Approved  The Essential Guide to Blurring Video Borders in Teams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-ten-financial-fortunes-in-gaming-24-edition/"><u>[New] 2024 Approved  Top Ten Financial Fortunes in Gaming - '24 Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-vital-tips-to-preserve-lol-competitions/"><u>[New] 2024 Approved  Vital Tips to Preserve LOL Competitions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-leading-titles-in-editing-webcam-videos-effectively/"><u>[New] In 2024, Leading Titles in Editing Webcam Videos Effectively</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-plain-screeners-toolkit-for-win10-users/"><u>[New] In 2024, Plain Screener's Toolkit for Win10 Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[New] In 2024, Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-nocturnal-nuances-expert-insights-into-nighttime-photography-for-2024/"><u>[New] Nocturnal Nuances  Expert Insights Into Nighttime Photography for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-overwatch-gamers-record-like-a-pro-for-2024/"><u>[New] Overwatch Gamers, Record Like a Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-quick-guide-to-restore-video-sharing-in-fb-messengers-iosandroid-for-2024/"><u>[New] Quick Guide to Restore Video Sharing in FB Messengers (iOS/Android) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-free-recorder-apps-no-watermarks-here-for-2024/"><u>[New] Top Free Recorder Apps, No Watermarks Here for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-tech-choice-screen-recording-leaders-on-the-web-for-2024/"><u>[New] Top Tech Choice  Screen Recording Leaders on the Web for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transforming-igtv-with-multi-language-captioning-for-2024/"><u>[New] Transforming IGTV with Multi-Language Captioning for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-optimal-screen-recorder-tools-on-ubuntu/"><u>[Updated] 2024 Approved  Optimal Screen Recorder Tools on Ubuntu</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-techniques-for-effective-capturing-of-chat-conversations/"><u>[Updated] 2024 Approved  Techniques for Effective Capturing of Chat Conversations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-economical-path-to-skype-calls-as-mp3-files/"><u>[Updated] 2024 Approved  The Economical Path to Skype Calls as MP3 Files</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-analysis-which-editing-tool-trumps-the-other-filmora-or-democreator/"><u>[Updated] In 2024, Expert Analysis  Which Editing Tool Trumps the Other, Filmora or Democreator?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ice-cream-capture-gadget-detailed-examination/"><u>[Updated] In 2024, Ice Cream Capture Gadget Detailed Examination</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-thors-quest-legends-of-the-ragnarok/"><u>[Updated] In 2024, Thor's Quest  Legends of the Ragnarök</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-turning-heads-with-efficient-video-rotation-in-vlc/"><u>[Updated] In 2024, Turning Heads with Efficient Video Rotation in VLC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-ppt-presentations-successfully-in-google-meet-for-2024/"><u>[Updated] Navigating PPT Presentations Successfully in Google Meet for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-the-riches-of-stardews-ginger-isle-for-2024/"><u>[Updated] Navigating the Riches of Stardew’s Ginger Isle for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-ultimate-tutorial-uploading-360-degree-footage-on-facebook/"><u>[Updated] Ultimate Tutorial  Uploading 360-Degree Footage on Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-the-art-of-recording-discord-conversations-in-real-time-for-2024/"><u>[Updated] Unveiling the Art of Recording Discord Conversations in Real-Time for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-cinematography-skills-editing-and-sharing-360-videos-on-youtube/"><u>2024 Approved  Elevate Your Cinematography Skills  Editing and Sharing 360° Videos on YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-your-experience-in-sub4sub-prioritize-the-essentials-first/"><u>2024 Approved  Elevate Your Experience in Sub4sub - Prioritize the Essentials First</u></a></li>
+<li><a href="https://facebook.techidaily.com/break-the-cycle-how-to-stop-using-facebook-daily/"><u>Break the Cycle: How to Stop Using Facebook Daily</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-sony-xperia-1-v-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Sony Xperia 1 V Face Lock?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-15-superior-podcast-publishing-venues/"><u>In 2024, 15 Superior Podcast Publishing Venues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-the-digital-experience-through-zooming/"><u>In 2024, Sculpting the Digital Experience Through Zooming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-c33-2023s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme C33 2023s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-smooth-handh-points-during-cinematography/"><u>Strategies for Smooth Handh Points During Cinematography</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-smartest-way-to-improve-phone-voices-on-android-a-list-of-the-best-7-editing-apps/"><u>Updated 2024 Approved The Smartest Way to Improve Phone Voices on Android A List of the Best 7 Editing Apps</u></a></li>
+</ul></div>

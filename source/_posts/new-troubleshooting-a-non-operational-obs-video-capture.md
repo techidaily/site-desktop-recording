@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Troubleshooting a Non-Operational OBS Video Capture\""
-date: 2024-05-18T05:26:45.329Z
-updated: 2024-05-19T05:26:45.329Z
+date: 2024-07-19T15:04:19.843Z
+updated: 2024-07-20T15:04:19.844Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Troubleshooting a Non-Operational OBS Video Capture\""
 excerpt: "\"This Article Describes [New] Troubleshooting a Non-Operational OBS Video Capture\""
 keywords: "\"OBS No Function,Trouble OBS Recording,Fixing OBS Not Operating,Stop OBS Failure,Resolve Non-OBS Playback,Reverse OBS Blackout,Unlock OBS Capture\""
-thumbnail: https://www.lifewire.com/thmb/INF6SYasZPz8DbBoNXqU2flP540=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb90774e1fcb8b0eea83e6c871.png
 ---
 
 ## Troubleshooting a Non-Operational OBS Video Capture
@@ -21,12 +21,18 @@ Open Broadcaster Software (OBS) is a free tool that enables you to broadcast mus
 
 Assuming you are a post for freeware that can do screen recording properly and profitably, an OBS screen recorder is warmly encouraged. Even better, its outstanding ability is to cope with live spillage by supporting numerous popular web-based features. In video conferencing software like Skype, Zoom, Teams, Google Meet, or Facebook Messenger Rooms, you may notice a video source issue labeled "OBS camera not showing" in the OBS Studio. And you may question what it is and how to utilize the virtual camera Virtually every streamer around the world knows about OBS (Open Broadcaster Software), a free open-sourced streaming and recording application. That being said, users of OBS still run into a handful of technical troubles from time to time and the "OBS camera not working" issue is a classic example. So OBS appears to fail to pick up your camera all of a sudden and you don't know what to do to fix it? Then you have arrived in the correct spot as down below, you will discover some of the most common solutions to the problem of "OBS camera stops working" presently.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Update to the Newest Windows Version
 
 Regularly upgrading drivers and the newest versions of Windows can cure most issues on your computer, including OBS difficulties.
 
 ![windows update](https://images.wondershare.com/filmora/article-images/windows-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Reinstall Webcam
 
 Remember to verify your settings with a practice stream or video first, since everything can seem fine but have a stutter or flicker - all it's about balancing the best choices Follow the instructions below to reinstall the webcam and repair the problem on OBS:
@@ -53,10 +59,16 @@ Step 2: Open webcam settings by accessing the Source tab. Here, locate and doubl
 
 Step 3: Check the options Deactivate When Not Showing. Perform the same processes for each scene in OBS.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 4: Adjust Webcam Settings
 
 If the webcam is still not functioning on OBS, visit the webcam settings by completing the same steps before and tweak items like camera resolution, FPS, video format, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Add Your Webcam as A Source
 
 At the moment everything is set to default and you could notice your camera looks softer than it should and also cropped. Once you're pleased with your choices, press Configure Video and this will bring up your camera's attributes and settings. What you'll have accessible to you can depend on your camera, but you'll also have access to things like brightness, contrast, sharpness, and so on. Add your camera as a source and then right-click and pick Properties.
@@ -93,6 +105,9 @@ Step 3: Start Recording
 
 To commence, just tap the Record button and it will start recording your personalized screen with the webcam straight immediately. And similar is the method after you're done with the recording, tap the Stop button that'll transport you inside the video editor to polish your recorded material.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recording video with filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 Step 4: Save Webcam Recordings
@@ -129,6 +144,10 @@ Step 4: Save Webcam Recordings
 
 In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 OBS Studio is especially popular in the gaming community since it helps you create video from numerous sources, mix your audio, set hotkeys to operate the recorder in full-screen mode, and then broadcast it live via Twitch and similar platforms or submit it to video sharing sites. if you want to make use of the capabilities of video recording and editing, consider Filmora. So, if you're a newbie wishing to film your gaming sessions, Filmora is an OBS option you should explore. Filmora video editorial manager gives various essential parts including the potential to add overlays,3D Effects, and components, for example, GIF photos, music, and text to the recordings.
@@ -141,6 +160,9 @@ Step 1: Install and Launch the Software
 
 To start, visit the official website and download the Filmora installer for your preferred system. Afterward, install the program within your system to get started. For that, you may utilize this OBS Studio option on the move. Just visit the Wondershare official platform on the web and from there, you can discover both versions of Filmora software, i-e., Windows and Mac versions with the current version.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Setup Webcam Recording
@@ -159,6 +181,9 @@ Step 4: Save Webcam Recordings
 
 In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 OBS Studio is especially popular in the gaming community since it helps you create video from numerous sources, mix your audio, set hotkeys to operate the recorder in full-screen mode, and then broadcast it live via Twitch and similar platforms or submit it to video sharing sites. if you want to make use of the capabilities of video recording and editing, consider Filmora. So, if you're a newbie wishing to film your gaming sessions, Filmora is an OBS option you should explore. Filmora video editorial manager gives various essential parts including the potential to add overlays,3D Effects, and components, for example, GIF photos, music, and text to the recordings.
@@ -171,12 +196,19 @@ Step 1: Install and Launch the Software
 
 To start, visit the official website and download the Filmora installer for your preferred system. Afterward, install the program within your system to get started. For that, you may utilize this OBS Studio option on the move. Just visit the Wondershare official platform on the web and from there, you can discover both versions of Filmora software, i-e., Windows and Mac versions with the current version.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Setup Webcam Recording
 
 To personalize your webcam with the recording screen, firstly, you need to start with the New Project and then open the Screen recorder. For that, go to the File > Record Media and then choose your chosen format of screen recording from the options as shown above. It'll transport you to the user-friendly UI of Filmora where you may pick up the recording capability on-spot as demonstrated in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
 Step 3: Start Recording
@@ -189,6 +221,9 @@ Step 4: Save Webcam Recordings
 
 In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 OBS Studio is especially popular in the gaming community since it helps you create video from numerous sources, mix your audio, set hotkeys to operate the recorder in full-screen mode, and then broadcast it live via Twitch and similar platforms or submit it to video sharing sites. if you want to make use of the capabilities of video recording and editing, consider Filmora. So, if you're a newbie wishing to film your gaming sessions, Filmora is an OBS option you should explore. Filmora video editorial manager gives various essential parts including the potential to add overlays,3D Effects, and components, for example, GIF photos, music, and text to the recordings.
@@ -218,3 +253,53 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-behind-the-scenes-mastering-screen-recordings-in-games/"><u>[New] 2024 Approved  Behind the Scenes  Mastering Screen Recordings in Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-diverse-iptv-platforms-integration/"><u>[New] 2024 Approved  Diverse IPTV Platforms Integration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-getting-started-with-google-meet-participation/"><u>[New] 2024 Approved  Getting Started with Google Meet Participation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-techniques-for-implementing-luts-in-creative-suite/"><u>[New] Advanced Techniques for Implementing LUTs in Creative Suite</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-complete-guide-to-camstudio-screencap-mastery/"><u>[New] In 2024, Complete Guide to CamStudio Screencap Mastery</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-instagram-video-sharing-tips/"><u>[New] In 2024, Instagram Video Sharing Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfect-your-presence-the-compreenas-guide-to-obs-youtube-and-twitch-for-2024/"><u>[New] Perfect Your Presence  The Compreenas Guide to OBS, YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premier-ios-applications-for-playstation-2-simulation-for-2024/"><u>[New] Premier IOS Applications for PlayStation 2 Simulation for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-preserving-sims-4-moments-effective-strategies-for-recording-playthroughs-for-2024/"><u>[New] Preserving Sims 4 Moments  Effective Strategies for Recording Playthroughs for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>[New] Transform Tweets Into Files  IPhone/Android Instructional Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-low-cost-gaming-setups-keyboard-picks-for-2024/"><u>[New] Ultimate Low-Cost Gaming Setups  Keyboard Picks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-achieving-clear-dialogue-in-google-hangouts/"><u>[Updated] 2024 Approved  Achieving Clear Dialogue in Google Hangouts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-chromebook-and-hp-efficient-webcam-recording-tips/"><u>[Updated] 2024 Approved  Chromebook & HP  Efficient Webcam Recording Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-correcting-obs-darkness-during-live-streams/"><u>[Updated] 2024 Approved  Correcting OBS Darkness During Live Streams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-enhance-ipad-recording-simpler-approaches-revealed/"><u>[Updated] 2024 Approved  Enhance iPad Recording  Simpler Approaches Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quickcapture-ultimate-scan/"><u>[Updated] 2024 Approved  QuickCapture Ultimate Scan</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-chromebook-and-hp-beginners-guide-to-webcam-recordings-for-2024/"><u>[Updated] Chromebook & HP  Beginner’s Guide to Webcam Recordings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ad-free-desktop-recorder-at-no-cost/"><u>[Updated] In 2024, Ad-Free Desktop Recorder at No Cost</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-amazons-hottest-tiktok-products-essentials/"><u>[Updated] In 2024, Amazon's Hottest TikTok Products - Essentials</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-combining-camera-and-display-in-one-go/"><u>[Updated] In 2024, Combining Camera and Display in One Go</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-convenient-methods-for-video-recording-on-youtube/"><u>[Updated] In 2024, Convenient Methods for Video Recording on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-experience-classic-games-anywhere-with-these-top-5-game-boy-advance-console-emulators/"><u>[Updated] In 2024, Experience Classic Games Anywhere with These Top 5 Game Boy Advance Console Emulators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-explore-cost-free-cross-platform-virtual-communication-software/"><u>[Updated] In 2024, Explore Cost-Free, Cross-Platform Virtual Communication Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mycam-recorder-insights-a-thorough-technical-assessment/"><u>[Updated] In 2024, MyCam Recorder Insights  A Thorough Technical Assessment</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pioneering-adventures-the-ultimate-gaming-list-top-10-for-2024/"><u>[Updated] Pioneering Adventures  The Ultimate Gaming List (Top 10) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-professional-tips-to-transform-your-facecam-videos-for-2024/"><u>[Updated] Professional Tips to Transform Your Facecam Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-stream-software-showdown-obs-vs-shadowplay/"><u>[Updated] The Ultimate Stream Software Showdown  OBS vs ShadowPlay</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-android-recorder-commercial-free/"><u>[Updated] Top Android Recorder - Commercial-Free</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unshackle-your-gaming-experience-with-diverse-capture-tools/"><u>[Updated] Unshackle Your Gaming Experience with Diverse Capture Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-facebooks-potential-in-health-marketing/"><u>2024 Approved  Mastering Facebook's Potential in Health Marketing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-universal-approach-to-smartphone-mac-and-pc-video-filming/"><u>2024 Approved  Universal Approach to Smartphone, Mac, and PC Video Filming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinematic-basics-unveiled-fundamental-shots-explained-clearly/"><u>Cinematic Basics Unveiled  Fundamental Shots Explained Clearly</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/download-filmora-free-and-safe-avoiding-viruses-and-scams/"><u>Download Filmora Free and Safe Avoiding Viruses and Scams</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/elevate-images-taking-vertical-panoramas-on-screens/"><u>Elevate Images  Taking Vertical Panoramas on Screens</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/embark-on-elevating-voice-startup-steps-for-an-engaging-product-vlog-channel-for-2024/"><u>Embark on Elevating Voice  Startup Steps for an Engaging Product Vlog Channel for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-a38-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo A38 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-xs-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone XS Max to SIM? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-best-youtube-thumbnail-size/"><u>In 2024, The Best YouTube Thumbnail Size</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-guide-6-superior-apps-for-immediate-voice-transformation/"><u>In 2024, Ultimate Guide 6 Superior Apps for Immediate Voice Transformation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-zooming-in-a-videoleap-approach-for-2024/"><u>The Art of Zooming In  A Videoleap Approach for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-real-value-of-selfie-verifications-in-2024/"><u>The Real Value of Selfie Verifications, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-10-alternatives-to-game-bar-for-screenshots-and-recordings-for-2024/"><u>Top 10 Alternatives to Game Bar for Screenshots & Recordings for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unlocking-the-credentials-your-pathway-to-validated-disco-memberhood/"><u>Unlocking the Credentials  Your Pathway to Validated Disco Memberhood</u></a></li>
+</ul></div>

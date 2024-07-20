@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Creating Skype Chats for PC & Mac Users for 2024"
-date: 2024-05-18T05:38:44.873Z
-updated: 2024-05-19T05:38:44.873Z
+date: 2024-07-19T15:55:41.064Z
+updated: 2024-07-20T15:55:41.064Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "This Article Describes [Updated] Creating Skype Chats for PC & Mac Users for 2024"
 excerpt: "This Article Describes [Updated] Creating Skype Chats for PC & Mac Users for 2024"
 keywords: "\"Skype Conversation PC/Mac,Cross-Platform Skype Talk,PC/Mac Skype Dialogue,Mac/PC Skype Chat,Skype Communication Devices,Multiplatform Skype Talks,Skype Messaging PC/Mac\""
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## Creating Skype Chats for PC & Mac Users
 
 # How to Make a Group Chat on Skype \[For Windows and Mac\]
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -32,6 +35,9 @@ From the inventions of Alexander Graham Bell to today’s swift text messages, t
 * [**Part 3: Manage Your Skype Group Chat**](#part3)
 * [**Part 4: Q&A about Skype Group Chat**](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Make a Skype Group Chat on Windows
 
 Communicating with multiple people simultaneously from different parts of the world in real-time couldn’t be thought of some years ago. However, today Skype group chat makes it possible for anyone to connect and collaborate with several people without any barriers and limitations.
@@ -45,6 +51,185 @@ To make a group chat on Skype using a Windows operating system you can get conne
 
 * A new window will appear in the Skype main screen. Here you’ll have to write the name of the group and select a picture for the group chat. The name should represent the purpose of the chat group to make sense to its participants, I’ve selected a figurative name for the sake of an example. After you’re done with the name and picture, press the ahead arrow.
 
+![create group name](https://images.wondershare.com/filmora/article-images/create-group-name2.jpg)
+
+* Skype will take you to your contact list to choose the members for your new chat group. You can skimp through the whole list or search the name in the search bar to look for a particular person. Once you’re done selecting all your contacts press the “Done” button and Skype will create your new shiny group within a minute.
+
+![finish create group](https://images.wondershare.com/filmora/article-images/finish-create-group3.jpg)
+
+* You’ll be taken directly to the new group chat you just created. Here you can chat with all the group members at the same time without any delay. Send pictures, videos, schedule a group call, add more people to the group, and many more features.
+
+![start group chat](https://images.wondershare.com/filmora/article-images/start-group-chat4.jpg)
+
+## Part 2: Start a Skype Group Chat on Mac
+
+Skype allows anyone to create a group chat on Mac. You can easily create and enjoy your Skype group chat with the simple steps below.
+
+* [**Download Skype**](https://www.skype.com/) on your Mac system and sign in with your Microsoft account.
+* On the home page of Skype, you need to press and open the drop-down menu right next to the “New Chat” notepad icon. From the list select the “New Group Chat” option to get started creating your Skype group chat.
+
+![select new chat](https://images.wondershare.com/filmora/article-images/select-new-chat1.jpg)
+
+* A new window will pop up for you to determine the group name and picture. Choose a name that best describes the purpose of the group, as in our case it’s a dummy chat group, so I named it “Skype group chat”. Once you’ve done press the forward arrow button.
+
+![get group name](https://images.wondershare.com/filmora/article-images/get-group-name2.jpg)
+
+* You’ll be taken to your “Contact List” to choose the contacts you want to add to the group. After selecting all the contacts press the “Done” button and Skype will make a group chat and notify all the members of their joining the group.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+![contact list](https://images.wondershare.com/filmora/article-images/contact-list3.jpg)
+
+* You will directly be taken to the newly created Skype group chat. where you can start chit chat with the group members.
+
+![get new group](https://images.wondershare.com/filmora/article-images/get-new-group4.jpg)
+
+* Now you can have a group video or audio call in real-time with members around the world. Talk and collaborate with coworkers, family, and friends while being able to send pictures, videos, and other files simultaneously.
+
+## Part 3: Manage Your Skype Group Chat
+
+Skype gives you full control over the group chats you create on Windows, Mac, Linux, and other platforms. To manage your Skype group chats, you can keep the following:
+
+* **Open the group settings**: right-click the group name under “Recent Chats”.
+
+![manage group](https://images.wondershare.com/filmora/article-images/manage-group1.jpg)
+
+* **Update or add a group picture**: Upload, view, or remove the group picture.
+
+![upload group pic](https://images.wondershare.com/filmora/article-images/upload-group-pic2.jpg)
+
+* **Change your group name**: Press the Edit (pencil) icon next to the group name to edit the name of your group.
+* **Share a link to join your group**: You can add virtually anyone to your Skype group by sending them this link even if they’re not using Skype.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![share group link](https://images.wondershare.com/filmora/article-images/share-group-link3.jpg)
+
+* **Send a message**: Press the “Send Message” button to send a message to the group.
+* **Start a video call**: Press the Start video call camera icon to start a video call with the whole group.
+* **Start a call**: Select Start call to begin an audio call with the group.
+* **Schedule a call**: Schedule a call with the group. All the group members will be invited.
+* **Add people**: You can add more participants to the group by pressing Add people and selecting from the contact list.
+* **Group gallery**: In Group Gallery you can view all the images, videos, links, and files that have been shared with this group chat.
+
+![group gallery](https://images.wondershare.com/filmora/article-images/group-gallery10.jpg)
+
+## Part 4: Q&A about Skype Group Chat
+
+Have some questions about skype group video chat? Keep the following!
+
+### Q1: How many people can you have on a Skype group chat?
+
+Skype group video chat enables up to 50 people to meet and cooperate all at once. The group screen sharing option allows the presenter to share PowerPoint slides, video recordings of the skype meeting, and much more. Making long-distance learning a possible reality for students all around the world and enabling remote co-workers to work on projects efficiently. Assign project modules and discuss due dates with more productive face-to-face conversations via Skype group video calling.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Q2: Is it no longer possible to block individual contacts on Skype?
+
+Skype enables you to block a contact to prevent them from sending you instant messages, calling you, and seeing your state on Skype, in effect blocking their access to your Skype profile. While the company also allows you to report the contact as abusive which can notify the company moderators to stop the spammers from an early stage and not allow them to torture other Skype users.
+
+You can in effect block a contact in Skype
+
+* 1\. Go to the “Recent Chats” or “Contacts” tab and select the contact you want to block.
+* 2\. Right-click the contact name and chose the “View profile” option from the menu.
+* 3\. In the profile of the contact, member scroll down to the bottom of the profile window and click the red colored “Block contact” option.
+
+![block contact](https://images.wondershare.com/filmora/article-images/block-contact4.jpg)
+
+* 4\. Skype will ask you to confirm if you want to block this particular contact and also if you want to report the abuse from this person by pressing the toggle button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![confirm block](https://images.wondershare.com/filmora/article-images/confirm-block5.jpg)
+
+* 5\. Press the “Block” button and the contact will effectively be blocked from your Skype account and removed from your contact list and chats.
+
+Tips:
+
+In case you receive an unwanted call from an unknown number, you have the privilege to block the number right ways from the chat. Just press the “Block + the number” link to block a particular number.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Q3: How do I delete all contacts on a Skype list with one click?
+
+Every once in a while, you may find some contacts you no longer need in your Skype contacts – particularly after a quick call or a job interview. Generally, to delete a contact you’ll have to view the person’s profile details and then press the “Remove from contact list” option, but here I’ll be showing you a fairly easy and simple way to delete all your contacts at once.
+
+To delete all your Skype contacts at once follow the steps:
+
+* 1\. Open Skype app and press the menu bar right next to your name. Select “Settings” to open the settings of Skype.
+
+![skype settings](https://images.wondershare.com/filmora/article-images/skype-settings6.jpg)
+
+* 2\. In the settings go to the “Contacts” tab on the left sidebar. This will show all the settings for contacts, go to “Privacy” settings.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+![contact tab](https://images.wondershare.com/filmora/article-images/contact-tab7.jpg)
+
+* 3\. In the Privacy settings, you will see all the other details. We need to go into the “View list” under the Profile section. This will reveal all your contacts in a list.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![view list](https://images.wondershare.com/filmora/article-images/view-list8.jpg)
+
+* 4\. In the list, you’ll be presented with all your contacts. Deleting them is very easy, just left-click each or dotted menu option and select “Delete contact”. This way you won’t have to go into each contact’s profile to delete the particular contact.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![delete contact](https://images.wondershare.com/filmora/article-images/delete-contact9.jpg)
+
+## Conclusion
+
+Skype group chats allow multiple people to communicate face-to-face through time, space, and culture. The group chat feature of Skype mimics the important characters of interpersonal communication and can help boost confidence and expedite effective communication for students and teams across the office. I showed you an efficient way to **make a group chat** using Skype to collaborate and share your time with loved ones, coworkers, friends, and anyone for that matter to share the stuff that appeals to the particular group of people.
+
+If you feel the same about the need for group chats like the one Skype offers, tell us about the applications you usually use for group chatting among your friends, family, and office staff in the comment section below.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+From the inventions of Alexander Graham Bell to today’s swift text messages, the mode of communication has changed throughout history. The workplace communication needs are evolving significantly and every one of us, individuals, companies, and organizations need to adapt promptly to the new ways of collaborating. Advanced technologies have now made it possible to **make a group chat** with family, friends, school, and coworkers to constantly stay updated with the latest family happenings or the progress of a particular project you’re working on. **Skype group chat** allows you to swiftly send messages, videos, pictures, etc. to multiple people at once while constantly apprising the group members of the latest events and developments. In this article, you will learn:
+
+* [**Part 1: Make a Skype Group Chat on Windows**](#part1)
+* [**Part 2: Start a Skype Group Chat on Mac**](#part2)
+* [**Part 3: Manage Your Skype Group Chat**](#part3)
+* [**Part 4: Q&A about Skype Group Chat**](#part4)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: Make a Skype Group Chat on Windows
+
+Communicating with multiple people simultaneously from different parts of the world in real-time couldn’t be thought of some years ago. However, today Skype group chat makes it possible for anyone to connect and collaborate with several people without any barriers and limitations.
+
+To make a group chat on Skype using a Windows operating system you can get connected with individuals from diverse localities of the world within a minute. To make a Skype group chat for yourself follow along with the steps below.
+
+* [**Download Skype**](https://www.skype.com/) on your Windows PC. You’ll need to sign in with a Microsoft account or sign up if you haven’t already had a Skype account.
+* Once you’ve logged in to Skype you’ll be presented with a similar interface with “Recent Chats” showing up in the left pane. To make a group chat click on the drop-down icon next to the “New Chat” button and select “New Group Chat” and your new Skype group chat is only a few clicks away.
+
+![new group chat](https://images.wondershare.com/filmora/article-images/new-group-chat1.jpg)
+
+* A new window will appear in the Skype main screen. Here you’ll have to write the name of the group and select a picture for the group chat. The name should represent the purpose of the chat group to make sense to its participants, I’ve selected a figurative name for the sake of an example. After you’re done with the name and picture, press the ahead arrow.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create group name](https://images.wondershare.com/filmora/article-images/create-group-name2.jpg)
 
 * Skype will take you to your contact list to choose the members for your new chat group. You can skimp through the whole list or search the name in the search bar to look for a particular person. Once you’re done selecting all your contacts press the “Done” button and Skype will create your new shiny group within a minute.
@@ -88,11 +273,17 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 
 * **Update or add a group picture**: Upload, view, or remove the group picture.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload group pic](https://images.wondershare.com/filmora/article-images/upload-group-pic2.jpg)
 
 * **Change your group name**: Press the Edit (pencil) icon next to the group name to edit the name of your group.
 * **Share a link to join your group**: You can add virtually anyone to your Skype group by sending them this link even if they’re not using Skype.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![share group link](https://images.wondershare.com/filmora/article-images/share-group-link3.jpg)
 
 * **Send a message**: Press the “Send Message” button to send a message to the group.
@@ -104,6 +295,9 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 
 ![group gallery](https://images.wondershare.com/filmora/article-images/group-gallery10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Part 4: Q&A about Skype Group Chat
 
 Have some questions about skype group video chat? Keep the following!
@@ -134,6 +328,9 @@ Tips:
 
 In case you receive an unwanted call from an unknown number, you have the privilege to block the number right ways from the chat. Just press the “Block + the number” link to block a particular number.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q3: How do I delete all contacts on a Skype list with one click?
 
 Every once in a while, you may find some contacts you no longer need in your Skype contacts – particularly after a quick call or a job interview. Generally, to delete a contact you’ll have to view the person’s profile details and then press the “Remove from contact list” option, but here I’ll be showing you a fairly easy and simple way to delete all your contacts at once.
@@ -146,16 +343,25 @@ To delete all your Skype contacts at once follow the steps:
 
 * 2\. In the settings go to the “Contacts” tab on the left sidebar. This will show all the settings for contacts, go to “Privacy” settings.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![contact tab](https://images.wondershare.com/filmora/article-images/contact-tab7.jpg)
 
 * 3\. In the Privacy settings, you will see all the other details. We need to go into the “View list” under the Profile section. This will reveal all your contacts in a list.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![view list](https://images.wondershare.com/filmora/article-images/view-list8.jpg)
 
 * 4\. In the list, you’ll be presented with all your contacts. Deleting them is very easy, just left-click each or dotted menu option and select “Delete contact”. This way you won’t have to go into each contact’s profile to delete the particular contact.
 
 ![delete contact](https://images.wondershare.com/filmora/article-images/delete-contact9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Skype group chats allow multiple people to communicate face-to-face through time, space, and culture. The group chat feature of Skype mimics the important characters of interpersonal communication and can help boost confidence and expedite effective communication for students and teams across the office. I showed you an efficient way to **make a group chat** using Skype to collaborate and share your time with loved ones, coworkers, friends, and anyone for that matter to share the stuff that appeals to the particular group of people.
@@ -204,6 +410,9 @@ To make a group chat on Skype using a Windows operating system you can get conne
 
 ![start group chat](https://images.wondershare.com/filmora/article-images/start-group-chat4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Start a Skype Group Chat on Mac
 
 Skype allows anyone to create a group chat on Mac. You can easily create and enjoy your Skype group chat with the simple steps below.
@@ -211,6 +420,9 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 * [**Download Skype**](https://www.skype.com/) on your Mac system and sign in with your Microsoft account.
 * On the home page of Skype, you need to press and open the drop-down menu right next to the “New Chat” notepad icon. From the list select the “New Group Chat” option to get started creating your Skype group chat.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![select new chat](https://images.wondershare.com/filmora/article-images/select-new-chat1.jpg)
 
 * A new window will pop up for you to determine the group name and picture. Choose a name that best describes the purpose of the group, as in our case it’s a dummy chat group, so I named it “Skype group chat”. Once you’ve done press the forward arrow button.
@@ -223,10 +435,25 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 
 * You will directly be taken to the newly created Skype group chat. where you can start chit chat with the group members.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get new group](https://images.wondershare.com/filmora/article-images/get-new-group4.jpg)
 
 * Now you can have a group video or audio call in real-time with members around the world. Talk and collaborate with coworkers, family, and friends while being able to send pictures, videos, and other files simultaneously.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Manage Your Skype Group Chat
 
 Skype gives you full control over the group chats you create on Windows, Mac, Linux, and other platforms. To manage your Skype group chats, you can keep the following:
@@ -242,6 +469,9 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 * **Change your group name**: Press the Edit (pencil) icon next to the group name to edit the name of your group.
 * **Share a link to join your group**: You can add virtually anyone to your Skype group by sending them this link even if they’re not using Skype.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![share group link](https://images.wondershare.com/filmora/article-images/share-group-link3.jpg)
 
 * **Send a message**: Press the “Send Message” button to send a message to the group.
@@ -257,10 +487,16 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 
 Have some questions about skype group video chat? Keep the following!
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q1: How many people can you have on a Skype group chat?
 
 Skype group video chat enables up to 50 people to meet and cooperate all at once. The group screen sharing option allows the presenter to share PowerPoint slides, video recordings of the skype meeting, and much more. Making long-distance learning a possible reality for students all around the world and enabling remote co-workers to work on projects efficiently. Assign project modules and discuss due dates with more productive face-to-face conversations via Skype group video calling.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q2: Is it no longer possible to block individual contacts on Skype?
 
 Skype enables you to block a contact to prevent them from sending you instant messages, calling you, and seeing your state on Skype, in effect blocking their access to your Skype profile. While the company also allows you to report the contact as abusive which can notify the company moderators to stop the spammers from an early stage and not allow them to torture other Skype users.
@@ -283,6 +519,9 @@ Tips:
 
 In case you receive an unwanted call from an unknown number, you have the privilege to block the number right ways from the chat. Just press the “Block + the number” link to block a particular number.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q3: How do I delete all contacts on a Skype list with one click?
 
 Every once in a while, you may find some contacts you no longer need in your Skype contacts – particularly after a quick call or a job interview. Generally, to delete a contact you’ll have to view the person’s profile details and then press the “Remove from contact list” option, but here I’ll be showing you a fairly easy and simple way to delete all your contacts at once.
@@ -291,6 +530,9 @@ To delete all your Skype contacts at once follow the steps:
 
 * 1\. Open Skype app and press the menu bar right next to your name. Select “Settings” to open the settings of Skype.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![skype settings](https://images.wondershare.com/filmora/article-images/skype-settings6.jpg)
 
 * 2\. In the settings go to the “Contacts” tab on the left sidebar. This will show all the settings for contacts, go to “Privacy” settings.
@@ -303,8 +545,14 @@ To delete all your Skype contacts at once follow the steps:
 
 * 4\. In the list, you’ll be presented with all your contacts. Deleting them is very easy, just left-click each or dotted menu option and select “Delete contact”. This way you won’t have to go into each contact’s profile to delete the particular contact.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![delete contact](https://images.wondershare.com/filmora/article-images/delete-contact9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Skype group chats allow multiple people to communicate face-to-face through time, space, and culture. The group chat feature of Skype mimics the important characters of interpersonal communication and can help boost confidence and expedite effective communication for students and teams across the office. I showed you an efficient way to **make a group chat** using Skype to collaborate and share your time with loved ones, coworkers, friends, and anyone for that matter to share the stuff that appeals to the particular group of people.
@@ -339,14 +587,24 @@ To make a group chat on Skype using a Windows operating system you can get conne
 * [**Download Skype**](https://www.skype.com/) on your Windows PC. You’ll need to sign in with a Microsoft account or sign up if you haven’t already had a Skype account.
 * Once you’ve logged in to Skype you’ll be presented with a similar interface with “Recent Chats” showing up in the left pane. To make a group chat click on the drop-down icon next to the “New Chat” button and select “New Group Chat” and your new Skype group chat is only a few clicks away.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![new group chat](https://images.wondershare.com/filmora/article-images/new-group-chat1.jpg)
 
 * A new window will appear in the Skype main screen. Here you’ll have to write the name of the group and select a picture for the group chat. The name should represent the purpose of the chat group to make sense to its participants, I’ve selected a figurative name for the sake of an example. After you’re done with the name and picture, press the ahead arrow.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![create group name](https://images.wondershare.com/filmora/article-images/create-group-name2.jpg)
 
 * Skype will take you to your contact list to choose the members for your new chat group. You can skimp through the whole list or search the name in the search bar to look for a particular person. Once you’re done selecting all your contacts press the “Done” button and Skype will create your new shiny group within a minute.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![finish create group](https://images.wondershare.com/filmora/article-images/finish-create-group3.jpg)
 
 * You’ll be taken directly to the new group chat you just created. Here you can chat with all the group members at the same time without any delay. Send pictures, videos, schedule a group call, add more people to the group, and many more features.
@@ -368,6 +626,9 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 
 * You’ll be taken to your “Contact List” to choose the contacts you want to add to the group. After selecting all the contacts press the “Done” button and Skype will make a group chat and notify all the members of their joining the group.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![contact list](https://images.wondershare.com/filmora/article-images/contact-list3.jpg)
 
 * You will directly be taken to the newly created Skype group chat. where you can start chit chat with the group members.
@@ -382,10 +643,16 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 
 * **Open the group settings**: right-click the group name under “Recent Chats”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![manage group](https://images.wondershare.com/filmora/article-images/manage-group1.jpg)
 
 * **Update or add a group picture**: Upload, view, or remove the group picture.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload group pic](https://images.wondershare.com/filmora/article-images/upload-group-pic2.jpg)
 
 * **Change your group name**: Press the Edit (pencil) icon next to the group name to edit the name of your group.
@@ -402,10 +669,16 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 
 ![group gallery](https://images.wondershare.com/filmora/article-images/group-gallery10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Q&A about Skype Group Chat
 
 Have some questions about skype group video chat? Keep the following!
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q1: How many people can you have on a Skype group chat?
 
 Skype group video chat enables up to 50 people to meet and cooperate all at once. The group screen sharing option allows the presenter to share PowerPoint slides, video recordings of the skype meeting, and much more. Making long-distance learning a possible reality for students all around the world and enabling remote co-workers to work on projects efficiently. Assign project modules and discuss due dates with more productive face-to-face conversations via Skype group video calling.
@@ -432,6 +705,9 @@ Tips:
 
 In case you receive an unwanted call from an unknown number, you have the privilege to block the number right ways from the chat. Just press the “Block + the number” link to block a particular number.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### Q3: How do I delete all contacts on a Skype list with one click?
 
 Every once in a while, you may find some contacts you no longer need in your Skype contacts – particularly after a quick call or a job interview. Generally, to delete a contact you’ll have to view the person’s profile details and then press the “Remove from contact list” option, but here I’ll be showing you a fairly easy and simple way to delete all your contacts at once.
@@ -440,175 +716,41 @@ To delete all your Skype contacts at once follow the steps:
 
 * 1\. Open Skype app and press the menu bar right next to your name. Select “Settings” to open the settings of Skype.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![skype settings](https://images.wondershare.com/filmora/article-images/skype-settings6.jpg)
 
 * 2\. In the settings go to the “Contacts” tab on the left sidebar. This will show all the settings for contacts, go to “Privacy” settings.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![contact tab](https://images.wondershare.com/filmora/article-images/contact-tab7.jpg)
 
 * 3\. In the Privacy settings, you will see all the other details. We need to go into the “View list” under the Profile section. This will reveal all your contacts in a list.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![view list](https://images.wondershare.com/filmora/article-images/view-list8.jpg)
 
 * 4\. In the list, you’ll be presented with all your contacts. Deleting them is very easy, just left-click each or dotted menu option and select “Delete contact”. This way you won’t have to go into each contact’s profile to delete the particular contact.
 
 ![delete contact](https://images.wondershare.com/filmora/article-images/delete-contact9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Skype group chats allow multiple people to communicate face-to-face through time, space, and culture. The group chat feature of Skype mimics the important characters of interpersonal communication and can help boost confidence and expedite effective communication for students and teams across the office. I showed you an efficient way to **make a group chat** using Skype to collaborate and share your time with loved ones, coworkers, friends, and anyone for that matter to share the stuff that appeals to the particular group of people.
 
 If you feel the same about the need for group chats like the one Skype offers, tell us about the applications you usually use for group chatting among your friends, family, and office staff in the comment section below.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-From the inventions of Alexander Graham Bell to today’s swift text messages, the mode of communication has changed throughout history. The workplace communication needs are evolving significantly and every one of us, individuals, companies, and organizations need to adapt promptly to the new ways of collaborating. Advanced technologies have now made it possible to **make a group chat** with family, friends, school, and coworkers to constantly stay updated with the latest family happenings or the progress of a particular project you’re working on. **Skype group chat** allows you to swiftly send messages, videos, pictures, etc. to multiple people at once while constantly apprising the group members of the latest events and developments. In this article, you will learn:
-
-* [**Part 1: Make a Skype Group Chat on Windows**](#part1)
-* [**Part 2: Start a Skype Group Chat on Mac**](#part2)
-* [**Part 3: Manage Your Skype Group Chat**](#part3)
-* [**Part 4: Q&A about Skype Group Chat**](#part4)
-
-## Part 1: Make a Skype Group Chat on Windows
-
-Communicating with multiple people simultaneously from different parts of the world in real-time couldn’t be thought of some years ago. However, today Skype group chat makes it possible for anyone to connect and collaborate with several people without any barriers and limitations.
-
-To make a group chat on Skype using a Windows operating system you can get connected with individuals from diverse localities of the world within a minute. To make a Skype group chat for yourself follow along with the steps below.
-
-* [**Download Skype**](https://www.skype.com/) on your Windows PC. You’ll need to sign in with a Microsoft account or sign up if you haven’t already had a Skype account.
-* Once you’ve logged in to Skype you’ll be presented with a similar interface with “Recent Chats” showing up in the left pane. To make a group chat click on the drop-down icon next to the “New Chat” button and select “New Group Chat” and your new Skype group chat is only a few clicks away.
-
-![new group chat](https://images.wondershare.com/filmora/article-images/new-group-chat1.jpg)
-
-* A new window will appear in the Skype main screen. Here you’ll have to write the name of the group and select a picture for the group chat. The name should represent the purpose of the chat group to make sense to its participants, I’ve selected a figurative name for the sake of an example. After you’re done with the name and picture, press the ahead arrow.
-
-![create group name](https://images.wondershare.com/filmora/article-images/create-group-name2.jpg)
-
-* Skype will take you to your contact list to choose the members for your new chat group. You can skimp through the whole list or search the name in the search bar to look for a particular person. Once you’re done selecting all your contacts press the “Done” button and Skype will create your new shiny group within a minute.
-
-![finish create group](https://images.wondershare.com/filmora/article-images/finish-create-group3.jpg)
-
-* You’ll be taken directly to the new group chat you just created. Here you can chat with all the group members at the same time without any delay. Send pictures, videos, schedule a group call, add more people to the group, and many more features.
-
-![start group chat](https://images.wondershare.com/filmora/article-images/start-group-chat4.jpg)
-
-## Part 2: Start a Skype Group Chat on Mac
-
-Skype allows anyone to create a group chat on Mac. You can easily create and enjoy your Skype group chat with the simple steps below.
-
-* [**Download Skype**](https://www.skype.com/) on your Mac system and sign in with your Microsoft account.
-* On the home page of Skype, you need to press and open the drop-down menu right next to the “New Chat” notepad icon. From the list select the “New Group Chat” option to get started creating your Skype group chat.
-
-![select new chat](https://images.wondershare.com/filmora/article-images/select-new-chat1.jpg)
-
-* A new window will pop up for you to determine the group name and picture. Choose a name that best describes the purpose of the group, as in our case it’s a dummy chat group, so I named it “Skype group chat”. Once you’ve done press the forward arrow button.
-
-![get group name](https://images.wondershare.com/filmora/article-images/get-group-name2.jpg)
-
-* You’ll be taken to your “Contact List” to choose the contacts you want to add to the group. After selecting all the contacts press the “Done” button and Skype will make a group chat and notify all the members of their joining the group.
-
-![contact list](https://images.wondershare.com/filmora/article-images/contact-list3.jpg)
-
-* You will directly be taken to the newly created Skype group chat. where you can start chit chat with the group members.
-
-![get new group](https://images.wondershare.com/filmora/article-images/get-new-group4.jpg)
-
-* Now you can have a group video or audio call in real-time with members around the world. Talk and collaborate with coworkers, family, and friends while being able to send pictures, videos, and other files simultaneously.
-
-## Part 3: Manage Your Skype Group Chat
-
-Skype gives you full control over the group chats you create on Windows, Mac, Linux, and other platforms. To manage your Skype group chats, you can keep the following:
-
-* **Open the group settings**: right-click the group name under “Recent Chats”.
-
-![manage group](https://images.wondershare.com/filmora/article-images/manage-group1.jpg)
-
-* **Update or add a group picture**: Upload, view, or remove the group picture.
-
-![upload group pic](https://images.wondershare.com/filmora/article-images/upload-group-pic2.jpg)
-
-* **Change your group name**: Press the Edit (pencil) icon next to the group name to edit the name of your group.
-* **Share a link to join your group**: You can add virtually anyone to your Skype group by sending them this link even if they’re not using Skype.
-
-![share group link](https://images.wondershare.com/filmora/article-images/share-group-link3.jpg)
-
-* **Send a message**: Press the “Send Message” button to send a message to the group.
-* **Start a video call**: Press the Start video call camera icon to start a video call with the whole group.
-* **Start a call**: Select Start call to begin an audio call with the group.
-* **Schedule a call**: Schedule a call with the group. All the group members will be invited.
-* **Add people**: You can add more participants to the group by pressing Add people and selecting from the contact list.
-* **Group gallery**: In Group Gallery you can view all the images, videos, links, and files that have been shared with this group chat.
-
-![group gallery](https://images.wondershare.com/filmora/article-images/group-gallery10.jpg)
-
-## Part 4: Q&A about Skype Group Chat
-
-Have some questions about skype group video chat? Keep the following!
-
-### Q1: How many people can you have on a Skype group chat?
-
-Skype group video chat enables up to 50 people to meet and cooperate all at once. The group screen sharing option allows the presenter to share PowerPoint slides, video recordings of the skype meeting, and much more. Making long-distance learning a possible reality for students all around the world and enabling remote co-workers to work on projects efficiently. Assign project modules and discuss due dates with more productive face-to-face conversations via Skype group video calling.
-
-### Q2: Is it no longer possible to block individual contacts on Skype?
-
-Skype enables you to block a contact to prevent them from sending you instant messages, calling you, and seeing your state on Skype, in effect blocking their access to your Skype profile. While the company also allows you to report the contact as abusive which can notify the company moderators to stop the spammers from an early stage and not allow them to torture other Skype users.
-
-You can in effect block a contact in Skype
-
-* 1\. Go to the “Recent Chats” or “Contacts” tab and select the contact you want to block.
-* 2\. Right-click the contact name and chose the “View profile” option from the menu.
-* 3\. In the profile of the contact, member scroll down to the bottom of the profile window and click the red colored “Block contact” option.
-
-![block contact](https://images.wondershare.com/filmora/article-images/block-contact4.jpg)
-
-* 4\. Skype will ask you to confirm if you want to block this particular contact and also if you want to report the abuse from this person by pressing the toggle button.
-
-![confirm block](https://images.wondershare.com/filmora/article-images/confirm-block5.jpg)
-
-* 5\. Press the “Block” button and the contact will effectively be blocked from your Skype account and removed from your contact list and chats.
-
-Tips:
-
-In case you receive an unwanted call from an unknown number, you have the privilege to block the number right ways from the chat. Just press the “Block + the number” link to block a particular number.
-
-### Q3: How do I delete all contacts on a Skype list with one click?
-
-Every once in a while, you may find some contacts you no longer need in your Skype contacts – particularly after a quick call or a job interview. Generally, to delete a contact you’ll have to view the person’s profile details and then press the “Remove from contact list” option, but here I’ll be showing you a fairly easy and simple way to delete all your contacts at once.
-
-To delete all your Skype contacts at once follow the steps:
-
-* 1\. Open Skype app and press the menu bar right next to your name. Select “Settings” to open the settings of Skype.
-
-![skype settings](https://images.wondershare.com/filmora/article-images/skype-settings6.jpg)
-
-* 2\. In the settings go to the “Contacts” tab on the left sidebar. This will show all the settings for contacts, go to “Privacy” settings.
-
-![contact tab](https://images.wondershare.com/filmora/article-images/contact-tab7.jpg)
-
-* 3\. In the Privacy settings, you will see all the other details. We need to go into the “View list” under the Profile section. This will reveal all your contacts in a list.
-
-![view list](https://images.wondershare.com/filmora/article-images/view-list8.jpg)
-
-* 4\. In the list, you’ll be presented with all your contacts. Deleting them is very easy, just left-click each or dotted menu option and select “Delete contact”. This way you won’t have to go into each contact’s profile to delete the particular contact.
-
-![delete contact](https://images.wondershare.com/filmora/article-images/delete-contact9.jpg)
-
-## Conclusion
-
-Skype group chats allow multiple people to communicate face-to-face through time, space, and culture. The group chat feature of Skype mimics the important characters of interpersonal communication and can help boost confidence and expedite effective communication for students and teams across the office. I showed you an efficient way to **make a group chat** using Skype to collaborate and share your time with loved ones, coworkers, friends, and anyone for that matter to share the stuff that appeals to the particular group of people.
-
-If you feel the same about the need for group chats like the one Skype offers, tell us about the applications you usually use for group chatting among your friends, family, and office staff in the comment section below.
-
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -642,3 +784,76 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-a-complete-list-of-creative-and-catchy-youtube-channel-titles-for-modern-blogging-maximum-length-156-characters/"><u>[New] 2024 Approved  A Complete List of Creative and Catchy YouTube Channel Titles for Modern Blogging (Maximum Length  156 Characters)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-next-level-screenshots-review-of-apowersofts-pc-recorder/"><u>[New] 2024 Approved  Next-Level Screenshots  Review of Apowersoft's PC Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-screenrec-made-simple-for-laptop-users/"><u>[New] 2024 Approved  ScreenRec Made Simple for Laptop Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-a-comprehensive-guide-to-capturing-your-hp-pcs-display/"><u>[New] A Comprehensive Guide to Capturing Your HP PC's Display</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-excellent-ears-in-scholarly-spaces/"><u>[New] Excellent Ears in Scholarly Spaces</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-expert-mobile-and-desktop-options-for-perfect-discord-recording-for-2024/"><u>[New] Expert Mobile & Desktop Options for Perfect Discord Recording for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>[New] Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-the-art-of-capturing-skype-calls-top-rated-techniques-windowsmac/"><u>[New] In 2024, Mastering the Art of Capturing Skype Calls  Top-Rated Techniques (Windows/Mac)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-streamlined-strategies-for-powerpoint-recordings/"><u>[New] In 2024, Streamlined Strategies for PowerPoint Recordings</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-discord-from-basics-to-advanced/"><u>[New] In 2024, The Ultimate Guide to Discord  From Basics to Advanced</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-10-invisible-observers-of-instagram-stories/"><u>[New] In 2024, Top 10 Invisible Observers of Instagram Stories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-depth-look-at-gecata-capture-tool/"><u>[New] In-Depth Look at Gecata Capture Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-instagrams-music-ownership-standards-for-2024/"><u>[New] Instagram's Music Ownership Standards for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-advertising-for-profit-the-ultimate-vimeo-guidebook-for-2024/"><u>[New] Mastering Advertising for Profit  The Ultimate Vimeo Guidebook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-merging-youtube-music-and-video-content-effectively/"><u>[New] Strategies for Merging YouTube Music & Video Content Effectively</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-top-vimeo-downloader-tools/"><u>[New] Top Vimeo Downloader Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-jumpstart-your-screen-recording-skills-expert-guide-to-aiseesoft/"><u>[Updated] 2024 Approved  Jumpstart Your Screen Recording Skills  Expert Guide to Aiseesoft</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-rapid-recording-audio-in-action/"><u>[Updated] 2024 Approved  Rapid Recording  Audio in Action</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-voice-storage-test-report/"><u>[Updated] 2024 Approved  Voice Storage Test Report</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-comprehensive-razer-video-feedback/"><u>[Updated] Comprehensive Razer Video Feedback</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-easy-iphonesideways-capturing-the-moment/"><u>[Updated] Easy iPhonesideways  Capturing the Moment</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-from-dungeons-to-depths-evolving-gameplay-styles/"><u>[Updated] From Dungeons to Depths  Evolving Gameplay Styles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-improve-your-channels-meta-description-powerfully/"><u>[Updated] Improve Your Channel's Meta Description Powerfully</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-gamers-guide-to-seamless-screen-recording/"><u>[Updated] In 2024, Gamers' Guide to Seamless Screen Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-professional-video-editors-showdown-filmora-versus-democracy-creator/"><u>[Updated] In 2024, Professional Video Editors Showdown  Filmora Versus Democracy Creator</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-superior-mac-gif-saving-the-ultimate-guide/"><u>[Updated] In 2024, Superior Mac GIF Saving  The Ultimate Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-art-of-capturing-sound-via-mac/"><u>[Updated] In 2024, The Art of Capturing Sound via Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-free-open-sources-20-best-pubg-shots/"><u>[Updated] In 2024, Ultimate Free, Open Sources  20 Best PUBG Shots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-web-surfing-on-film-the-best-screen-recording-apps-of-today/"><u>[Updated] In 2024, Web Surfing on Film  The Best Screen Recording Apps of Today</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-depth-look-top-6-screen-recording-software-reviewed/"><u>[Updated] In-Depth Look  Top 6 Screen Recording Software Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-magical-marketing-essential-terms-to-master/"><u>[Updated] Magical Marketing  Essential Terms to Master</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigate-meeting-arrangements-with-zoom-ease-for-2024/"><u>[Updated] Navigate Meeting Arrangements with Zoom Ease for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-guide-to-changing-photo-genders-from-theory-to-practice/"><u>[Updated] Step-by-Step Guide to Changing Photo Genders  From Theory to Practice</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamline-recorder-quality-test-for-2024/"><u>[Updated] StreamLine Recorder Quality Test for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-venture-made-easy-the-most-accessible-biz-channel-ideas-ranked/"><u>[Updated] YouTube Venture Made Easy  The Most Accessible Biz Channel Ideas Ranked</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-content-from-instagram-vids-to-crisp-mp4-files/"><u>2024 Approved  Elevate Your Content  From Instagram Vids to Crisp MP4 Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-steps-to-activate-auto-hdr-feature-in-windows-11/"><u>2024 Approved  Steps to Activate Auto-HDR Feature in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unveiling-time-saving-shortcuts-for-efficient-mac-screenshots/"><u>2024 Approved  Unveiling Time-Saving Shortcuts for Efficient Mac Screenshots</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-mobile-animation-made-easy-top-10-apps-for-android-and-ios/"><u>2024 Approved Mobile Animation Made Easy Top 10 Apps for Android and iOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/a-brief-guide-to-kickstarting-conversations-on-instagram-for-2024/"><u>A Brief Guide to Kickstarting Conversations on Instagram for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/advanced-terraria-modifications-guide-for-2024/"><u>Advanced Terraria Modifications Guide for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/audiophiles-guide-download-and-review-sound-files-for-2024/"><u>Audiophile's Guide  Download & Review Sound Files for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/compelling-choices-macs-excellent-snipping-tools/"><u>Compelling Choices  Mac's Excellent Snipping Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/comprehensive-analysis-of-frozen-treat-screen-capture-for-2024/"><u>Comprehensive Analysis of Frozen Treat Screen Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/digital-video-capture-a-new-eras-insight-for-2024/"><u>Digital Video Capture  A New Era's Insight for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-steps-to-personalize-google-meet-on-laptops-and-mobile-devices/"><u>Easy Steps to Personalize Google Meet on Laptops & Mobile Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/effective-techniques-for-screen-display-on-google-meet/"><u>Effective Techniques for Screen Display on Google Meet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/effortless-and-expert-use-of-obs-studio-with-android-devices-for-2024/"><u>Effortless and Expert Use of OBS Studio with Android Devices for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elevate-your-ppt-game-with-clear-concise-voiceover-techniques-for-2024/"><u>Elevate Your PPT Game with Clear, Concise Voiceover Techniques for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elite-10-add-ons-to-elevate-terria-for-2024/"><u>Elite 10 Add-Ons to Elevate Terria for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-techniques-for-color-enhancement-in-ps/"><u>Essential Techniques for Color Enhancement in PS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-15-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 15 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-capture-and-preserve-windows-11-screens/"><u>In 2024, Capture & Preserve Windows 11 Screens</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/initial-visual-journey-review-with-additional-paths/"><u>Initial Visual Journey Review with Additional Paths</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-cost-free-audio-enhancement-in-photos-for-android-and-windows-users-for-2024/"><u>New Cost-Free Audio Enhancement in Photos for Android and Windows Users for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-tips-for-enhancing-iphones-audio-experience-by-disabling-ducking/"><u>New In 2024, Tips for Enhancing iPhones Audio Experience by Disabling Ducking</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pros-and-cons-free2webcam-software-analysis/"><u>Pros & Cons  Free2WebCam Software Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/recapturing-moments-the-xiaomi-mi-11s-superior-screen-record/"><u>Recapturing Moments  The Xiaomi Mi 11'S Superior Screen Record</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/turn-your-youtube-tracks-into-mp3-with-macos-for-2024/"><u>Turn Your YouTube Tracks Into MP3 with MacOS for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creative-energy-video-creation-tips-on-the-latest-windows-10-edition-for-2024/"><u>Unleash Creative Energy  Video Creation Tips on the Latest Windows 10 Edition for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-master-the-process-of-installinguninstalling-audacity-on-your-chromebook/"><u>Updated Master the Process of Installing/Uninstalling Audacity on Your Chromebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/vdx-pro-video-capture-an-in-depth-analysis/"><u>VDX Pro Video Capture  An In-Depth Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-magic-6-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Magic 6 Pro? Here is How | Dr.fone</u></a></li>
+</ul></div>

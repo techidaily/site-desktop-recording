@@ -1,7 +1,7 @@
 ---
 title: "[New] Comprehensive Skype Screencasting with OBS for 2024"
-date: 2024-05-19T20:37:44.039Z
-updated: 2024-05-20T20:37:44.039Z
+date: 2024-07-19T12:58:44.516Z
+updated: 2024-07-20T12:58:44.516Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Comprehensive Skype Screencasting with OBS for 2024"
 excerpt: "This Article Describes [New] Comprehensive Skype Screencasting with OBS for 2024"
 keywords: "OBS Screencast Tips,Skype Screencast Guide,OBS for Skype Video,Master Skype Screencasts,Easy Skype Screencasting,OBS Integration with Skype,Skype Broadcasting Techniques"
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Comprehensive Skype Screencasting with OBS
@@ -21,6 +21,9 @@ Video interviews for remote jobs are quite common these days because of this qui
 
 So in this article I will discuss that how can you record your skype videos using OBS. Skype has been extensively used for quite a long time now and it hasn’t lost its edge over the years but has actually upgraded and improved its services with time. Coming to OBS which is an open-source software used widely for streaming purposes. It provides an incredible experience courtesy of its variety of editing and recording options. The audio can be recorded from the system and the microphone. And video can be fetched from the webcam. Along with the recording of specific section of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Part 1: Recording Skype Calls with OBS
 
 To begin with shedding some light on the OBS program:
@@ -35,8 +38,14 @@ Initially, you’ll be required to have skype installed on your desktop along wi
 
 After this you have to open the OBS program and set it up for skype calls, firs thing is to create a new scene, then you're going to hit the plus button and select the capture device. Now you can see yourself on camera and screen can easily be cropped, while holding ‘Alt’, on OBS so fix it according to your liking. Then press ‘lock’ using the NDI plug-in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs program set up for skype](https://images.wondershare.com/filmora/article-images/obs-program-set-up-for-skype.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs vlc videos source](https://images.wondershare.com/filmora/article-images/obs-vlc-videos-source.jpg)
 
 To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releases/tag/4.9.1> and check for the compatible version with your operating system. On this website the plugin is available for windows, mac and Linux.
@@ -49,6 +58,9 @@ And after addition of plug in you would want to click on ‘+’ again and selec
 
 And clicking on it will open a new window where you have to select the guest feed, which will be possible once the call has begun. The call connected will appear on the NDI plugin window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![obs new window select the guest feed](https://images.wondershare.com/filmora/article-images/obs-new-window-select-the-guest-feed.jpg)
 
 As you receive the call from the reciever you will see the incoming feed of him as shown in the figure.
@@ -57,10 +69,21 @@ As you receive the call from the reciever you will see the incoming feed of him 
 
 So you can just resize it similarly as you did yours earlier and pressing the lock icon will stop you from mistakenly modify or change the video screen settings. Now to record the video you have to click on record button and your desktop starts recording.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs resize it similarly](https://images.wondershare.com/filmora/article-images/obs-resize-it-similarly.jpg)
 
 ## Part 2: OBS Alternative to Record Skype
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Filmora
 
 Filmora is a very popular and perfect [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) and editor designed by Wondershare. Wondershare is software house created in 2003\. This software was designed by professional video makers. It has an easy to use and a friendly environment, and easy to understand commands. This software is available for free and compatible with windows and MAC both. This tool can help you connect in a better way with your audience since it allows a wide range of functions, varying from editing and cutting to screen detection, auto-crop and fisheye correction.
@@ -129,6 +152,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
@@ -180,6 +206,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
@@ -188,6 +217,9 @@ For macOS 10.12 or later
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
@@ -231,6 +263,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
@@ -239,6 +274,9 @@ For macOS 10.12 or later
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
@@ -299,3 +337,40 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-audio-enabled-mac-video-recorder/"><u>[New] 2024 Approved  Audio-Enabled Mac Video Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capture-life-in-motion-using-ipad-filming-techniques/"><u>[New] 2024 Approved  Capture Life in Motion Using iPad Filming Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-premium-screen-capturer-non-lagging-efficiency/"><u>[New] 2024 Approved  Premium Screen Capturer  Non-Lagging Efficiency</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-cutting-edge-capturing-10-apps-that-lead-the-web-video-recording-race-for-2024/"><u>[New] Cutting Edge Capturing  #10 Apps That Lead the Web Video Recording Race for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-expressive-leadership-examination-refined-no-8-for-2024/"><u>[New] Expressive Leadership Examination - Refined No. 8 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-androids-favorite-3ds-game-emulators-ranked/"><u>[New] In 2024, Android's Favorite 3DS Game Emulators Ranked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-easyrecorder-straightforward-windows-10-tool/"><u>[New] In 2024, EasyRecorder - Straightforward Windows 10 Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-navigating-frames-per-second-in-video-recording-the-3060-dilemma/"><u>[New] In 2024, Navigating Frames Per Second in Video Recording - The 30/60 Dilemma</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-screen-capture-on-apple-device/"><u>[New] In 2024, Step-by-Step  Screen Capture on Apple Device</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-response-etiquette-discord-messaging-guide/"><u>[New] Mastering Response Etiquette  Discord Messaging Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quickshot-flipslow-mpeg-for-2024/"><u>[New] QuickShot FlipSlow MPEG for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screen-stream-showdown-who-wins-obs-or-shadowgl-for-2024/"><u>[New] Screen Stream Showdown  Who Wins, OBS or ShadowGL for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-secure-your-video-conferences-recording-made-easy-for-2024/"><u>[New] Secure Your Video Conferences  Recording Made Easy for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-crafting-the-perfect-minecraft-archive-6-key-strategies/"><u>[Updated] 2024 Approved  Crafting the Perfect Minecraft Archive  6 Key Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pro-level-strategies-for-remote-audio-capture/"><u>[Updated] 2024 Approved  Pro-Level Strategies for Remote Audio Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-dive-into-screen-recording-expert-insights-on-top-obs-software-for-2024/"><u>[Updated] Dive Into Screen Recording  Expert Insights on Top OBS Software for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-fbx-methods-for-perfect-gaming-saves-for-2024/"><u>[Updated] FBX Methods for Perfect Gaming Saves for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-anonymizing-videos-tips-for-keeping-personal-data-hidden/"><u>[Updated] In 2024, Anonymizing Videos  Tips for Keeping Personal Data Hidden</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-latest-techniques-in-iphoneipad-screenshotting-2023-edition/"><u>[Updated] In 2024, Latest Techniques in iPhone/iPad Screenshotting - 2023 Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-most-utilized-firefox-screen-capturing-plugins/"><u>[Updated] In 2024, Most Utilized Firefox Screen Capturing Plugins</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-thriving-in-zoom-chats-key-techniques-for-engaging-online-conversations/"><u>[Updated] In 2024, Thriving in Zoom Chats  Key Techniques for Engaging Online Conversations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagram-storytelling-integrating-fun-custom-emojis/"><u>[Updated] Mastering Instagram Storytelling  Integrating Fun, Custom Emojis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglemaker-step-by-step-to-fun-videos/"><u>2024 Approved  GiggleMaker  Step-by-Step to Fun Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mac-users-adding-the-social-app-snapchat/"><u>2024 Approved  Mac Users  Adding the Social App Snapchat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-color-palette-with-luts-a-guide-to-premiere/"><u>2024 Approved  Optimizing Color Palette with LUTs  A Guide to Premiere</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-15-pro-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-tecno-camon-20-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Tecno Camon 20 Pro 5G Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme 12 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconciling-windows-game-bar-with-inferior-hardware/"><u>Reconciling Windows Game Bar with Inferior Hardware</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-m14-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy M14 5G Location | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-online-subtitle-makers-top-10-picks-for-video-captioning/"><u>Updated In 2024, Free Online Subtitle Makers Top 10 Picks for Video Captioning</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/windows-10s-prime-video-grabbing-solutions-ranked-for-2024/"><u>Windows 10'S Prime Video Grabbing Solutions Ranked for 2024</u></a></li>
+</ul></div>
