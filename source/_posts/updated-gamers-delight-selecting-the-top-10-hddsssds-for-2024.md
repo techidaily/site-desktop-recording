@@ -1,0 +1,208 @@
+---
+title: "\"[Updated] Gamer's Delight  Selecting the Top 10 HDDs/SSDs for 2024\""
+date: 2024-08-28T22:10:29.978Z
+updated: 2024-08-29T22:10:29.978Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [Updated] Gamer's Delight: Selecting the Top 10 HDDs/SSDs for 2024\""
+excerpt: "\"This Article Describes [Updated] Gamer's Delight: Selecting the Top 10 HDDs/SSDs for 2024\""
+keywords: "\"Gamer SSDs Guide,Best HDDs for Gamers,Top SSDs Rankings,Pro HDD/SSD Choices,High-Speed SSD Reviews,Ultimate HDD/SSD List,Premium Gamer Storage\""
+thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401ca2b8aa427adfd091e8a1d2a.jpg
+---
+
+## Gamer's Delight: Selecting the Top 10 HDDs/SSDs
+
+# Top 10 PS5 External Hard Drives in 2024
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Have you been on the search for the ideal PS5 external hard drive? Understand that having any of the top ten PS5 external hard drives will assist in solving any struggle you have ever had with storage. Bear in mind that PS5 has an internal SSD of 825GB. While you may think this is big enough, note that some games exceed over 100GB. If you cannot find the time to save all your games in the cloud, it is best to invest in an impressive PS5 external hard drive of 2024\.
+
+## **Latest PS5 Update**
+
+According to Sony, the owners of play station, the PS5 will expand the M.2 SSD storage in its console. The company made it known that users will be capable of storing PS5 games on any external hard drive of their choice. Although you cannot play any games off the hard drive, you can quickly move them to the external hard drive once you are done downloading. In simpler terms, this latest feature will allow users to transfer their PS5 games to a USB extended storage from their console’s internal storage. This is one of the most remarkable ways to extend your PS5 console’s storage abilities.
+
+If you never knew, it will give users a quicker time to reinstall their games from the extended storage than when they copy them from a disc or even re-download them.
+
+---
+
+**You might be interested in:**
+
+* [Top 5 HDMI 2.1 Monitors in 2024](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## **Top** **10 PS5 External Hard Drive Of 2024**
+
+Now that you are well aware of the latest update provided by Sony, the best PS5 external hard drive that you will find in 2024 are:
+
+#### 1. WD My Passport
+
+**_Price:_** [_Amazon_](https://www.amazon.com/Western-Digital-Passport-Portable-External/dp/B01LQQHI8I)
+
+![wd-my-passport-poster](https://images.wondershare.com/filmora/article-images/wd-my-passport-poster.jpg)
+
+The WD My Passport comes with a storage space of 4TB and a smart design. As one of the ps5 external hard drives to purchase in 2024, you will love that it is pretty affordable. Its shape is rectangular though it is pretty slow compared to others on this list. It is designed with the pedigree of all other WD accessories. And it is available in diverse colors.
+
+#### 2. Toshiba USB 3.0 Hard Drive
+
+**_Price:_** [_Amazon_](https://www.amazon.com/Toshiba-HDTB420XK3AA-Canvio-Portable-External/dp/B079D3D8NR)
+
+![toshiba-usb-30-hard-drive-poster](https://images.wondershare.com/filmora/article-images/toshiba-usb-30-hard-drive-poster.jpg)
+
+Since it is relatively cheap, you will love this ps5 external hard drive. Toshiba USB 3.0 comes with extraordinary ps4 games transfer times, and it is lightweight. The design is sleek, and its storage space is 1TB. Nevertheless, while it has a fantastic ps4 games transfer time, the ps5 transfer time is relatively slow. You can always download games faster with this ps5 external hard drive.
+
+#### 3. Crucial X6
+
+**_Price:_** [_Amazon_](https://www.amazon.com/Crucial-1TB-Portable-SSD-CT1000X6SSD9/dp/B08FSZT2J7)
+
+![crucial-x6-poster](https://images.wondershare.com/filmora/article-images/crucial-x6-poster.jpg)
+
+The ideal ps5 external hard drive for ps5 users on a strict budget is the Crucial X6 comes with a compact design. And, it is incredible for playing and storing your ps4 games. While you may not like its short cables and download time, you may look at a faster version, the Crucial X8\.
+
+#### 4\. Samsung portable SSD T5
+
+**_Price:_** [_Amazon_](https://www.amazon.com/Samsung-T5-Portable-SSD-MU-PA1T0B/dp/B073H552FJ)
+
+![samsung-portable-ssd-t5-poster](https://images.wondershare.com/filmora/article-images/samsung-portable-ssd-t5-poster.jpg)
+
+The first thing to know about this fantastic ps5 external hard drive is that it uses a compact yet sleek design. Interestingly, its transfer time is swift, and it is very affordable. The Samsung portable SSD T5 size is 1TB, and it takes just seven minutes to carry out a copy returnable to the drive.
+
+#### 5. G-Technology ArmorAtd
+
+**_Price:_** [_Amazon_](https://www.amazon.com/G-Technology-ArmorATD-All-Terrain-Portable-External/dp/B07QNRGD86)
+
+![g-technology-armoratd-poster](https://images.wondershare.com/filmora/article-images/g-technology-armoratd-poster.jpg)
+
+Have you been on the search for a tough and durable ps5 external hard drive? Look no further as the G-Technology ArmorAtd is all you need. You will love the fact that it can be connected through USB-C. The transfer speed is pretty decent. Users will love that it can withstand dust, water, and even shock—little wonder why we stated that it is a tough hard drive.
+
+#### 6. Seagate Last of Us II
+
+**_Price:_** [_Amazon_](https://www.amazon.com/Seagate-Game-Drive-External-Portable/dp/B08917YDHF)
+
+![seagate-last-of-us-2-poster](https://images.wondershare.com/filmora/article-images/seagate-last-of-us-2-poster.jpg)
+
+An intriguing reason to purchase this ps5 external hard drive centers around its fantastic design and fast ps4 transfer speeds. Its creators have designed the Seagate Last of Us II with PlayStation systems on their minds. Since Sony did not design any formal PS external drive, this one is the closest users can get. It provides a storage space of 2TB and a stylish design with a logo. Do not be surprised, as the logo makes up about ten or fifteen dollars in its pricing. The transfer speeds are pretty decent, and overall, it is an excellent ps5 external hard drive.
+
+#### 7\. Seagate Expansion
+
+**_Price:_** [_Amazon_](https://www.amazon.com/Seagate-Expansion-Portable-External-STEA2000400/dp/B00TKFEE5S)
+
+![seagate-expansion-poster](https://images.wondershare.com/filmora/article-images/seagate-expansion-poster.jpg)
+
+If there is no reason to buy this ps5 external hard drive, you will be drawn to it because of its plenty of storage space. It comes with long cables and a swift transfer speed. Though it is bulky and large, its storage space is 6TB. It will interest you to note that the Seagate Expansion requires its electrical outlet. This is simply because it is a great power hog for the regular USB connection. Seagate expansion can be used majorly for long-term storage.
+
+#### 8. SanDisk Extreme Portable SSD
+
+**_Price:_** [_Amazon_](https://www.amazon.com/SanDisk-Extreme-Portable-External-SDSSDE60-1T00-G25/dp/B078STRHBX)
+
+![sandisk-extreme-portable-ssd-poster](https://images.wondershare.com/filmora/article-images/sandisk-extreme-portable-ssd-poster.jpg)
+
+If you are working on a budget, this is the ideal ps5 external hard drive. The SanDisk Extreme Portable SSD comes with a small profile and swift transfer speeds. Surprisingly, it can be bought for less than one hundred dollars. It comes with a storage of 500GB, and though this is not much, you can get roughly ten bug games in it. More so, it takes approximately seven minutes and twelve seconds to move a game from the PS5\.
+
+#### 9\. WD Black P50
+
+**_Price:_** [_Amazon_](https://www.amazon.com/WD%5FBlack-Drive-Portable-External-Compatible/dp/B07YFGTDV4)
+
+![wd-black-p50-poster](https://images.wondershare.com/filmora/article-images/wd-black-p50-poster.jpg)
+
+One of the major reasons to purchase this ps5 external hard drive is its swift transfer speed though you will move its stylish design. Furthermore, it is known for loading ps4 games in no time. Western Digital designs WD Black P50\. This means that you are sure of getting one of the best PS5 external hard drives in 2024\. It comes with a storage space of 1TB, though it is quite expensive to purchase. Note that this hard drive was constructed with PCs in the minds of the WD designers. It means that you will receive outstanding performance when you hook it to a computer.
+
+#### 10. WD Black P10
+
+**_Price:_** [_Amazon_](https://www.amazon.com/WD%5FBlack-Drive-External-Compatible-WDBA2W0020BBK-WESN/dp/B07VMTNDMK)
+
+![wd-black-p10-poster](https://images.wondershare.com/filmora/article-images/wd-black-p10-poster.jpg)
+
+The WD Black P10 comes with plenty of space and a sturdy design. It is fixed at a reasonable price, unlike its expensive counterpart, the WD Black P50\. It has been rated as one of the best traditional HDDs for PS5 external storage. It has been able to strike the ideal balance between performance and pricing. The fact is that, even though it is not so cheap, it does not cost so much for its 5TB storage space. If you are not so big on speed, it takes some time with speed and not as fast as you may anticipate. Also, users may not be enthusiastic about playing PS4 games straight from the drive. This is an amazing ps5 external hard drive to purchase.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+On a general note, you should note that SSDs can transfer data more swiftly than HDD. Although, when thinking of the ideal ps5 external hard drive to purchase, you will need to consider if you want the SSD or HDD. In all, we have provided you with some of the best hard drives for your ps5\. It is up to you to make the choice that fits all your needs.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-capture-solutions-azs-reviews-and-backups/"><u>[New] 2024 Approved  Comprehensive Capture Solutions - AZ's Reviews & Backups</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-easyvidwin11-the-simplest-way-to-record-your-pc-screen/"><u>[New] 2024 Approved  EasyVidWin11  The Simplest Way to Record Your PC Screen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-humble-beginnings-jake-paul-on-youtube-triumph/"><u>[New] 2024 Approved  From Humble Beginnings  Jake Paul on YouTube Triumph</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-novice-necessities-the-ultimate-beginners-video-editor/"><u>[New] 2024 Approved  Novice Necessities  The Ultimate Beginner's Video Editor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-insiders-guide-to-excellent-ppt-video-creation/"><u>[New] 2024 Approved  The Insider's Guide to Excellent PPT Video Creation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-weaving-digital-tapestries-with-loom/"><u>[New] 2024 Approved  Weaving Digital Tapestries with Loom</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-best-recording-equipment-for-creating-youtube-masterpieces-for-2024/"><u>[New] Best Recording Equipment  For Creating YouTube Masterpieces for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-detailed-guide-to-free-screen-recorders/"><u>[New] Detailed Guide to Free Screen Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevating-your-professional-image-with-high-quality-ppt-recordings/"><u>[New] In 2024, Elevating Your Professional Image with High-Quality PPT Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-googles-speech-to-text-conversion-techniques/"><u>[New] In 2024, Mastering Google's Speech-to-Text Conversion Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-voyage-for-valuables-5-prime-map-expeditions/"><u>[New] In 2024, Voyage for Valuables  5 Prime Map Expeditions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-initiating-conversations-with-google-meet/"><u>[New] Initiating Conversations with Google Meet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-professional-recorder-capture-studio-win10-edition/"><u>[New] Professional Recorder  Capture Studio Win10 Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-quick-and-easy-twitter-to-snapchat-video-sharing-tips-for-2024/"><u>[New] Quick & Easy Twitter to Snapchat Video Sharing Tips for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-techbite-provision-recorder-assessment-for-2024/"><u>[New] TechBite ProVision Recorder Assessment for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-video-recording-rumble-obs-versus-shadowreplay/"><u>[New] Video Recording Rumble  OBS Versus ShadowReplay</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-your-guide-to-stellar-igtv-talent/"><u>[New] Your Guide to Stellar IGTV Talent</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficient-practices-archiving-google-voice-transcripts-for-2024/"><u>[Updated] Efficient Practices  Archiving Google Voice Transcripts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-elevate-your-ppt-shows-with-advanced-techniques-for-2024/"><u>[Updated] Elevate Your PPT Shows with Advanced Techniques for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-evaluating-the-functionality-of-vidma-screen-replayer/"><u>[Updated] Evaluating the Functionality of Vidma Screen Replayer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-for-enthusiasts-on-screenshotting-with-zd-software/"><u>[Updated] In 2024, The Ultimate Guide for Enthusiasts on Screenshotting with ZD Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-10-mobile-relaxation-renders-idle-games/"><u>[Updated] In 2024, Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-screen-recording-in-adobe-captivate-a-step-by-step-guide/"><u>[Updated] Mastering Screen Recording in Adobe Captivate  A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-visual-harmony-on-screen-mastering-zooms-edge-magic-for-2024/"><u>[Updated] Visual Harmony on Screen  Mastering Zoom's Edge Magic for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-encompass-entire-webpage-in-view/"><u>2024 Approved  Encompass Entire Webpage in View</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-pixelpilot-studio-plus-advanced-os-recorder/"><u>2024 Approved  PixelPilot Studio Plus  Advanced OS Recorder</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitters-favorites-top-10-tiktok-vids/"><u>2024 Approved  Twitter's Favorites  Top 10 TikTok Vids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/alter-default-location-for-mac-captured-images/"><u>Alter Default Location for Mac Captured Images</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/boost-your-farming-skills-with-stardews-top-7-mods/"><u>Boost Your Farming Skills with Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcasting-e-learning-sessions/"><u>Broadcasting E-Learning Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/dissecting-obs-technology-for-top-level-recording/"><u>Dissecting OBS Technology for Top-Level Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elegant-architecture-top-6-sleek-mc-houses-for-2024/"><u>Elegant Architecture  Top 6 Sleek MC Houses for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/from-pc-to-tablet-master-recording-hulu-across-all-platforms-for-2024/"><u>From PC to Tablet  Master Recording Hulu Across All Platforms for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-present-ppt-on-google-meet-laptop-and-mobile-devices/"><u>How to Present PPT on Google Meet? [Laptop and Mobile Devices]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-z50-ultra-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nubia Z50 Ultra Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-note-30-vip-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Note 30 VIP Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-trendsetting-sky-docks-for-android-users/"><u>In 2024, Trendsetting Sky Docks for Android Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-music-reactions-years-top-ten-showcase/"><u>In 2024, YouTube Music Reactions  Year's Top Ten Showcase</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-no-cost-solutions-for-modern-photography-enhancements-for-2024/"><u>Innovative No-Cost Solutions for Modern Photography Enhancements for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-repurpose-images-and-videos/"><u>Instagram  Repurpose Images & Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/live-sounds-made-simple-the-ultimate-guide-to-digital-recording/"><u>Live Sounds Made Simple  The Ultimate Guide to Digital Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-collection-top-10-audio-capturers-on-spotify/"><u>Premier Collection  Top 10 Audio Capturers on Spotify</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screenmaster-2023-your-guide-to-window-capturing-for-2024/"><u>ScreenMaster 2023  Your Guide to Window Capturing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/shotchrome-intrinsic-recorder-for-os-x/"><u>ShotChrome  Intrinsic Recorder for OS X</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-the-western-digital-ses-usb-drive-in-windows-post-2amo/"><u>Step-by-Step Guide: Installing the Western Digital SES USB Drive in Windows (Post-2amo)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-10-video-screenshot-tools-reviewed/"><u>Top 10 Video Screenshot Tools Reviewed</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
