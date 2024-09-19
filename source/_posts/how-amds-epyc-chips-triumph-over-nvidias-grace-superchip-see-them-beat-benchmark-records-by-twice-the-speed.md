@@ -1,7 +1,7 @@
 ---
 title: "How AMD's EPYC Chips Triumph Over Nvidia's Grace Superchip: See Them Beat Benchmark Records by Twice the Speed"
-date: 2024-09-06T20:30:53.223Z
-updated: 2024-09-13T16:27:54.300Z
+date: 2024-09-16T21:38:31.565Z
+updated: 2024-09-19T07:52:51.609Z
 tags:
   - desktop
 categories:
@@ -30,13 +30,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -67,15 +60,25 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-most-attractive-gaming-peripherals-for-under-100/"><u>[New] 2024 Approved The Most Attractive Gaming Peripherals for Under $100</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-incorporating-obs-setting-up-a-countdown-scheduler-for-2024/"><u>[New] Incorporating OBS Setting Up A Countdown Scheduler for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quick-and-easy-iphone-screen-recording-tutorial/"><u>[Updated] 2024 Approved Quick & Easy IPhone Screen Recording Tutorial</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-invaluable-resource-for-zero-cost-video-and-photo-providers/"><u>[Updated] Invaluable Resource for Zero-Cost Video and Photo Providers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-guidelines-registering-on-google-meet/"><u>2024 Approved Guidelines Registering on Google Meet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/email-service-face-off-outlookcom-versus-gmail-which-wins-the-battle/"><u>Email Service Face-Off: Outlook.com versus Gmail – Which Wins the Battle?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-narzo-n55-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme Narzo N55 Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-gt-5-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme GT 5 Pro Is Unlocked</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-master-your-remote-work-with-these-5-video-conference-recorders/"><u>In 2024, Master Your Remote Work with These 5 Video Conference Recorders</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/premium-startings-top-16-youtube-videos-that-thrive-in-popularity-for-2024/"><u>Premium Startings Top 16 YouTube Videos That Thrive in Popularity for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-free-secure-stylish-discover-the-top-10-premium-feeling-video-call-apps-for-smartphones/"><u>[New] Free, Secure, Stylish Discover the Top 10 Premium-Feeling Video Call Apps for Smartphones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-gold-glory-in-gameplay-5-prime-maps-for-riches-for-2024/"><u>[New] Gold Glory in Gameplay 5 Prime Maps for Riches for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-streamlined-strategies-for-powerpoint-recordings/"><u>[New] In 2024, Streamlined Strategies for PowerPoint Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-recording-your-iphoneipad-whats-new-for-2024/"><u>[New] Recording Your iPhone/iPad What's New for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-of-the-best-top-12-tycoon-games-for-epic-victories/"><u>[Updated] Best of the Best Top 12 Tycoon Games for Epic Victories</u></a></li>
+<li><a href="https://win11.techidaily.com/1726026454075-5/"><u>「あなたにぴったり! オンライン音声収録サイトベスト5選び方」</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-black-screen-in-windows-quick-fix-guide/"><u>Banish Black Screen in Windows - Quick Fix Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-ghostwire-tokyo-from-frequently-crashing-on-your-computer/"><u>How to Stop Ghostwire: Tokyo From Frequently Crashing on Your Computer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-recording-suite-azs-top-app-reviews-and-backups/"><u>In 2024, Ultimate Recording Suite - AZ's Top App Reviews & Backups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intrinsic-computation-how-devices-learn-independently/"><u>Intrinsic Computation: How Devices Learn Independently</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/squared-success-creating-compelling-video-posts-on-facebook-for-2024/"><u>Squared Success Creating Compelling Video Posts on Facebook for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-to-download-and-set-up-your-epson-et-4550-driver-for-windows-users/"><u>Step-by-Step Instructions to Download and Set Up Your Epson ET-4550 Driver for Windows Users</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
