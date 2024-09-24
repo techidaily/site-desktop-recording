@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ultimate Guide to Using FBX for Gamers"
-date: 2024-09-14T03:25:54.399Z
-updated: 2024-09-18T20:16:48.401Z
+date: 2024-09-22T16:07:00.317Z
+updated: 2024-09-23T18:20:43.645Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ However, FBX application is only available for Windows only. There is no FBX gam
 
 There are two types of Pro accounts available. The first option is to go for a lifetime license where you have to pay one-time fee for lifetime access. The second option is to go for annual subscription and you have to renew the subscription every year. With a Pro account, you can use the screen recorder on two PCs simultaneously.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to Use FBX Game Recorder
 
 FBX gameplay recorder comes with an intuitive and easy-to-use interface. Therefore, if you are using the software for the first time, it is not going to be a big deal for you. Along with recording the gameplay, you can record audio as well as webcam. Besides, you can set hotkeys to use during the recording to perform various operations. Here are the steps to record with FBX gameplay recorder.
@@ -66,6 +73,13 @@ Step 1: Download and install FBX game recorder from the official website.
 Step 2: After installation, launch the application. You will be asked to create an account. You can either create a Pro account or log in as a guest through your Facebook account.
 
 ![fbx home screen](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: After you have logged into the application, go to Settings tab and set up the Hotkeys.
 
@@ -125,9 +139,35 @@ Step 5: Click on Record button to start recording.
 
 ![record games filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6: Filmora gives a few buffer seconds for you to launch the game whose screen you want to record.
 
 To stop recording any time, hover on the top bar and click on Stop button. You will check Filmora folder to get the saved recordings.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -152,6 +192,13 @@ Here is the complete list of features you get on FBX recorder that makes it one 
 **Bandwidth Adjustment** \- FBX screen recorder can adjust to your available bandwidth so that there is no lag in live streaming. Besides, it saves the live stream sessions on your hard drive.
 
 Awesome Editor - You can add GIFs, stunning visual and sound effects, animated stickers, and customized captions for a professional yet fun video.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Technical Specifications
 
@@ -277,13 +324,6 @@ However, FBX application is only available for Windows only. There is no FBX gam
 
 There are two types of Pro accounts available. The first option is to go for a lifetime license where you have to pay one-time fee for lifetime access. The second option is to go for annual subscription and you have to renew the subscription every year. With a Pro account, you can use the screen recorder on two PCs simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. How to Use FBX Game Recorder
 
 FBX gameplay recorder comes with an intuitive and easy-to-use interface. Therefore, if you are using the software for the first time, it is not going to be a big deal for you. Along with recording the gameplay, you can record audio as well as webcam. Besides, you can set hotkeys to use during the recording to perform various operations. Here are the steps to record with FBX gameplay recorder.
@@ -301,13 +341,6 @@ For example, Ctrl + F12 hotkey is to start and stop recording while F8 hotkey is
 Step 5: Open the game that you want to record and you will see FBX logo at the top. To start recording, press Ctrl + F12 keys together. If you want to stop recording, press the same hotkeys.
 
 ![fbx capture mode](https://images.wondershare.com/filmora/article-images/fbx-capture-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 7: Once you are done playing, come back FBX application and you will find saved recording. You can edit the recording as per your requirements. Thereafter, you can export the file as MP4 or upload directly on YouTube.
 
@@ -346,6 +379,13 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Launch Filmora and go for New Project.
 
@@ -411,13 +451,6 @@ Step 2: After installation, launch the application. You will be asked to create 
 
 ![fbx home screen](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: After you have logged into the application, go to Settings tab and set up the Hotkeys.
 
 For example, Ctrl + F12 hotkey is to start and stop recording while F8 hotkey is to pause and resume recording as required. These are default hotkeys and you can change them if you want.
@@ -426,14 +459,14 @@ Step 5: Open the game that you want to record and you will see FBX logo at the t
 
 ![fbx capture mode](https://images.wondershare.com/filmora/article-images/fbx-capture-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 7: Once you are done playing, come back FBX application and you will find saved recording. You can edit the recording as per your requirements. Thereafter, you can export the file as MP4 or upload directly on YouTube.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Pros and Cons
 
@@ -484,10 +517,10 @@ Step 5: Click on Record button to start recording.
 ![record games filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 6: Filmora gives a few buffer seconds for you to launch the game whose screen you want to record.
@@ -522,13 +555,15 @@ If you are looking for a screen recorder that is specifically designed to captur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-uncovering-budget-friendly-video-conferencing-tools-for-all-systems/"><u>[New] 2024 Approved Uncovering Budget-Friendly Video Conferencing Tools for All Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-efficiently-record-on-xiaomi-mi-11-a-beginners-handbook/"><u>[New] In 2024, Efficiently Record on Xiaomi Mi 11 - A Beginner's Handbook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-ios-leaders-the-10-ultimate-video-apps-to-know/"><u>[New] IOS Leaders The 10 Ultimate Video Apps to Know</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-how-to-for-clearer-youtube-footage/"><u>[New] The Ultimate How-To for Clearer YouTube Footage</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-best-iphoneipad-apps-to-enjoy-your-favorite-psp-games/"><u>[Updated] Best iPhone/iPad Apps to Enjoy Your Favorite PSP Games</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/building-a-skype-group-discussion-in-windowsos-x/"><u>Building a Skype Group Discussion in Windows/OS X</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-most-popular-firefox-visual-recorders-for-2024/"><u>[New] Most Popular Firefox Visual Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transform-concepts-to-successful-youtube-titles/"><u>[New] Transform Concepts to Successful YouTube Titles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-choices-for-premium-video-calls-on-smartphones/"><u>[Updated] 2024 Approved Essential Choices for Premium Video Calls on Smartphones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-mac-speech-loggers-our-curated-5-pick-list/"><u>[Updated] Best Mac Speech Loggers Our Curated 5-Pick List</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-note-13-proplus-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi Note 13 Pro+ 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ace-windows-10-tricks-to-save-time-and-energy/"><u>In 2024, Ace Windows 10 Tricks to Save Time & Energy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inspirational-movies-fuel-for-the-soul-and-spirit/"><u>In 2024, Inspirational Movies Fuel for the Soul and Spirit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-player-guide-to-live-recording/"><u>In 2024, The Ultimate Player Guide to Live Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/no-limit-visual-capturer-device/"><u>No-Limit Visual Capturer Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premiere-ready-text-configurations/"><u>Premiere-Ready Text Configurations</u></a></li>
 </ul></div>
 

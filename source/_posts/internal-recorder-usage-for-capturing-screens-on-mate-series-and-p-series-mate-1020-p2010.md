@@ -1,7 +1,7 @@
 ---
 title: "Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)"
-date: 2024-09-17T19:03:15.723Z
-updated: 2024-09-19T10:19:37.435Z
+date: 2024-09-23T00:15:19.579Z
+updated: 2024-09-24T00:12:12.883Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ In case you were looking for a way to record a screen on a Huawei Smartphone, yo
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Capture Screen on a Huawei Smartphone
 
 With the built-in [screen record](https://tools.techidaily.com/wondershare/filmora/download/) features, you can start or stop recording sessions in three different ways on your Huawei P10/P20 or Mate10 screen. You can both enable the screen recording shortcut in the notification panel, and press the volume up button and the Power button at the same time. Besides, you can record your Huawei screen with knuckling gestures. Let’s check the detailed screen recording steps.
@@ -76,20 +83,33 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -98,10 +118,10 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,17 +139,25 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-non-game-console-apps-excelling-at-game-recordings/"><u>[New] In 2024, Non-Game Console Apps Excelling at Game Recordings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-platform-picks-for-prominent-content-creators/"><u>[New] In 2024, Platform Picks for Prominent Content Creators</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-interactive-inspection-kits-facebook-live-for-2024/"><u>[New] Interactive Inspection Kits Facebook Live for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-overcoming-handheld-vibration-secure-your-gopro-movies/"><u>[New] Overcoming Handheld Vibration Secure Your GoPro Movies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-classic-cinema-revisited-step-by-step-video-guide/"><u>[Updated] In 2024, Classic Cinema Revisited Step-by-Step Video Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-maximizing-learning-through-efficient-audio-capture-techniques-mac-for-2024/"><u>[Updated] Maximizing Learning Through Efficient Audio Capture Techniques (Mac) for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-new-wave-of-fbx-free-gaming-analysis-tools/"><u>[Updated] The New Wave of FBX-Free Gaming Analysis Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/essential-techniques-for-convenient-iphone-screen-recording/"><u>Essential Techniques for Convenient Iphone Screen Recording</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-itel-p55plus-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Itel P55+? Try These Fixes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-terras-treasures-selecting-the-top-mapping-games/"><u>In 2024, Terra's Treasures Selecting the Top Mapping Games</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-7-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 7® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-workplace-risks-the-consequences-of-using-chatgpt-a-closer-look-at-ten-scenarios/"><u>Navigating Workplace Risks: The Consequences of Using ChatGPT - A Closer Look at Ten Scenarios</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-audience-allure-video-marketing-strategies-for-youtube-trailers-via-filmora/"><u>[New] 2024 Approved Audience Allure Video Marketing Strategies for YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-legends-of-warfare-the-top-7-total-war-game-series/"><u>[New] 2024 Approved Legends of Warfare The Top 7 Total War Game Series</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-filming-in-circle-iphone-techniques-for-facebook-integration-for-2024/"><u>[New] Filming in Circle IPhone Techniques for Facebook Integration for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-tips-for-ios-screen-record-for-2024/"><u>[New] Quick Tips for iOS Screen Record for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-silent-steppes-righteous-quests-games-like-the-samurai-odyssey/"><u>[New] Silent Steppes, Righteous Quests Games Like the Samurai Odyssey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlined-visuals-for-google-meet-participants-on-devices/"><u>[New] Streamlined Visuals for Google Meet Participants on Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unleash-windowsmac-premium-pc-and-mac-screen-capture-tools-for-2024/"><u>[New] Unleash Windows/Mac Premium PC and MAC Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-iphone-screen-casts-with-ease/"><u>[Updated] In 2024, Mastering iPhone Screen Casts with Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lensflexmax-7-superior-image-enlargement-tool/"><u>[Updated] LensFlexMax 7 Superior Image Enlargement Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capture-your-gameplay-essential-webcams-for-twitch-enthusiasts/"><u>2024 Approved Capture Your Gameplay Essential Webcams For Twitch Enthusiasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-excellent-mac-bandicam-substitutes-5/"><u>2024 Approved Excellent Mac Bandicam Substitutes [#5]</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a78-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A78</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/acoustic-imprinting-pc-noises-logged-for-2024/"><u>Acoustic Imprinting PC Noises Logged for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/boosting-creativity-a-compreehensive-guide-to-enhanced-obs-edits-for-2024/"><u>Boosting Creativity A Compreehensive Guide to Enhanced OBS Edits for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-htc-u23-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-17-tech-tools-for-clearing-images-perimeters/"><u>In 2024, Ideal 17 Tech Tools for Clearing Images' Perimeters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-imagecheck-reviews-station/"><u>In 2024, ImageCheck Reviews Station</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reliable-pet-nutrition-on-schedule-with-the-petsafe-six-meal-autofeeder/"><u>Reliable Pet Nutrition on Schedule with the PetSafe Six-Meal AutoFeeder</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-compromised-windows-defender-in-windows-11/"><u>Resolve Compromised Windows Defender in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/swift-introduction-to-turkish-phonetics-and-script-basics/"><u>Swift Introduction to Turkish Phonetics and Script Basics</u></a></li>
 </ul></div>
 

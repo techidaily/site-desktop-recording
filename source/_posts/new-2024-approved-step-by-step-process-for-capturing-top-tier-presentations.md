@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Step-by-Step Process for Capturing Top-Tier Presentations\""
-date: 2024-09-15T18:51:26.315Z
-updated: 2024-09-19T00:19:09.719Z
+date: 2024-09-21T18:26:13.636Z
+updated: 2024-09-23T17:25:12.328Z
 tags: 
   - screen-recording
   - ai video
@@ -70,9 +70,23 @@ You can record video, audio, or just your slide show directly within the Microso
 
 ![select your audio and video sources](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you just want to record your slideshow without adding audio or video, you would select “Record Slide Show”. Choosing “Screen Recording” will let you capture your slideshow while at the same time recording audio from your computer and any video on your computer screen.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can start recording from the beginning or you choose a current slide to start recording from.
 
@@ -81,6 +95,13 @@ If you just want to record your slideshow without adding audio or video, you wou
 Choose “Screen Recording,” and you’ll be given the opportunity to select the area on your screen you want to capture. Adjust the red box to fit your Powerpoint presentation. Once you have the box where you want it, you’re ready to record!
 
 ![open your powerpoint slides and capture the screen](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4 Press Record And Start Presenting
 
@@ -162,18 +183,18 @@ After finishing the informational video's creation and editing, you may now save
 
 [You can watch it here to have a detailed understanding of how to use Filmora to record presentations with audio and video](https://www.youtube.com/watch?v=mV9u%5FGO3HDw).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Frequently Asked Questions
 
 ### 1\. Is the PowerPoint recording function only supported on desktops?
 
 No, you can also record PowerPoint presentations on smartphones, iPad, Macs, and tablets. The only difference between any of the aforementioned devices and a PPT presentation recording is perhaps in the convenience of recording and video quality.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How can I record PPT as video on an iPad or smartphone?
 
@@ -184,6 +205,19 @@ For Android phones: follow the steps below:
    * QuickOffice Pro (Free Google App with Google Drive Support)
    * Presentations Mobile (For Viewing PowerPoint Presentations with Animations)
 2. **_Launch Presentation Slide Show And Screen Recording App_** – in this next step, open a screen recording software for Android and play your presentation in slideshow mode. Try any screen recording app which supports recording screencasts on both rooted and unrooted Android smartphones to capture your video presentation. Since the majority of Android screen recording apps require root access, this software is especially helpful for those who have unrooted devices.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -200,10 +234,10 @@ Choose “Screen Recording,” and you’ll be given the opportunity to select t
 ![open your powerpoint slides and capture the screen](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step4 Press Record And Start Presenting
@@ -279,10 +313,10 @@ From video catching to video altering, this product from Wondershare is the hub 
 ![edit your presentation video](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step4 Exporting the Video
@@ -291,23 +325,22 @@ After finishing the informational video's creation and editing, you may now save
 
 ![exporting the video](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [You can watch it here to have a detailed understanding of how to use Filmora to record presentations with audio and video](https://www.youtube.com/watch?v=mV9u%5FGO3HDw).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Frequently Asked Questions
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Is the PowerPoint recording function only supported on desktops?
 
@@ -355,18 +388,16 @@ Directly recording a PowerPoint presentation is simple, although not all program
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/xpert-director-sound-and-picture-synthesis/"><u>[New] Expert Director Sound & Picture Synthesis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-from-setup-to-streaming-the-definitive-guide-for-live-tv-screen-sharing-on-windows-for-2024/"><u>[New] From Setup to Streaming The Definitive Guide for Live TV Screen-Sharing on Windows for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming/"><u>[New] In 2024, The Pro's Playbook Mastering the Art of Capturing PS4 Gaming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-video-sequencing-synergy-mastering-blend-modes-for-2024/"><u>[New] Video Sequencing Synergy Mastering Blend Modes for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-crafting-flawless-virtual-reality-gaming-archives/"><u>[Updated] 2024 Approved Crafting Flawless Virtual Reality Gaming Archives</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-examining-the-strengths-and-weaknesses-in-free2x-tools/"><u>[Updated] Examining the Strengths and Weaknesses in Free2X Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unveiling-yourself-instagram-live-basics/"><u>[Updated] In 2024, Unveiling Yourself Instagram Live Basics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-guide-to-camstudios-2023-screen-record-features/"><u>2024 Approved The Ultimate Guide to CamStudio's 2023 Screen Record Features</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-f04-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy F04 Fingerprint Lock</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/explore-garmins-latest-innovation-the-vivosmart-evolved-with-enhanced-battery-and-stress-metrics-tracking/"><u>Explore Garmin's Latest Innovation: The Vivosmart Evolved with Enhanced Battery and Stress Metrics Tracking</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-10-online-photo-editing-tools-to-unblur-photos/"><u>In 2024, 10 Online Photo Editing Tools to Unblur Photos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-zte-blade-a73-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from ZTE Blade A73 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/quick-start-guide-utilizing-aiseesoft-for-effortless-screen-recordings/"><u>Quick Start Guide Utilizing Aiseesoft for Effortless Screen Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-techbite-provision-recorder-assessment-for-2024/"><u>[New] TechBite ProVision Recorder Assessment for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficient-practices-archiving-google-voice-transcripts-for-2024/"><u>[Updated] Efficient Practices Archiving Google Voice Transcripts for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-diamond-wizard-backup-software-unleashed-in-depth-review-step-by-step-setup-instructions-and-current-active-link/"><u>1. Diamond Wizard Backup Software Unleashed - In-Depth Review, Step-by-Step Setup Instructions, and Current Active Link</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcasting-e-learning-sessions/"><u>Broadcasting E-Learning Sessions</u></a></li>
+<li><a href="https://windows11.techidaily.com/compreranble-windows-11-sticky-features-across-devices/"><u>Compreranble Windows 11 Sticky Features Across Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effortless-image-capturing-on-chrome-devices-method-4/"><u>Effortless Image Capturing on Chrome Devices (Method #4)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/from-pc-to-tablet-master-recording-hulu-across-all-platforms-for-2024/"><u>From PC to Tablet Master Recording Hulu Across All Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a25-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A25 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-online-partnerships-crafting-brand-joint-ventures-on-youtube/"><u>In 2024, Online Partnerships Crafting Brand Joint Ventures on YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-canon-mx340-driver-download-for-windows-users-11-8-and-7-edition/"><u>Latest Canon MX340 Driver Download for Windows Users - 11, 8, and 7 Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-collection-top-10-audio-capturers-on-spotify/"><u>Premier Collection Top 10 Audio Capturers on Spotify</u></a></li>
 </ul></div>
 

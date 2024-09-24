@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Anonymous Footage  Blurring Private Sections in Video\""
-date: 2024-09-16T16:05:42.396Z
-updated: 2024-09-18T20:09:48.273Z
+date: 2024-09-19T23:45:13.292Z
+updated: 2024-09-23T21:34:25.322Z
 tags: 
   - screen-recording
   - ai video
@@ -68,17 +68,38 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
 
 The original frame is shown below, and I want to blur and hide these two sensitive pictures (in red mark).
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-examples.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
 
@@ -87,6 +108,13 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
@@ -137,24 +165,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/hoosing-the-right-video-sharing-platform-tiktok-vs-youtubes-shorts-for-2024/"><u>[New] Choosing the Right Video Sharing Platform TikTok vs YouTubes' Shorts for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-crafting-engaging-sims-4-gameplay-videos/"><u>[New] Crafting Engaging Sims 4 Gameplay Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-mac-capturing-screens-with-record-feature/"><u>[Updated] In 2024, Mastering Mac Capturing Screens with Record Feature</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-prime-software-for-professional-4k-screen-capture/"><u>[Updated] In 2024, Prime Software for Professional 4K Screen Capture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-privacy-preservation-through-invisible-modifications/"><u>[Updated] Privacy Preservation Through Invisible Modifications</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-proven-strategies-to-record-clear-audio-without-a-mic-for-2024/"><u>[Updated] Proven Strategies to Record Clear Audio Without a Mic for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-dull-to-dynamic-top-11-techniques-for-improved-colors/"><u>2024 Approved From Dull to Dynamic Top 11 Techniques for Improved Colors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/become-a-cmd-guru-understand-these-20-crucial-commands/"><u>Become a CMD Guru: Understand These 20 Crucial Commands</u></a></li>
-<li><a href="https://win-blog.techidaily.com/get-unstuck-from-the-loading-loop-in-madden-nfl-22-with-these-easy-steps/"><u>Get Unstuck From the Loading Loop in Madden NFL 22 with These Easy Steps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-correct-the-black-ops-cold-wars-ui-issue-with-error-27711/"><u>Guide: Correct the Black Ops Cold War's UI Issue with Error #27711</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unify-your-visuals-a-beginners-guide-to-color-matching-in-final-cut-pro/"><u>New Unify Your Visuals A Beginners Guide to Color Matching in Final Cut Pro</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-audio-capture-on-screen/"><u>Ultimate Audio Capture on Screen</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-guide-to-excellence-with-zd-soft-screen-capture-for-2024/"><u>[New] A Guide to Excellence with ZD Soft Screen Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premier-low-carbon-screen-recording-solutions/"><u>[New] In 2024, Premier Low-Carbon Screen Recording Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-select-your-go-to-teacher-recording-software-now/"><u>[New] In 2024, Select Your Go-To Teacher Recording Software Now</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games/"><u>[Updated] Beyond the Screen Advanced Techniques in Logging Virtual Reality Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-choosing-the-finest-webcams-our-expert-guide/"><u>[Updated] Choosing the Finest Webcams - Our Expert Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-makeup-mavens-handbook-youtube-edition/"><u>[Updated] In 2024, The Makeup Maven’s Handbook YouTube Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mycam-recorder-review/"><u>[Updated] MyCam Recorder Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-saving-a-look-at-your-window/"><u>[Updated] Saving a Look at Your Window</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-voice-to-text-review/"><u>[Updated] Voice to Text Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ace-your-adventures-with-gopro-tips/"><u>2024 Approved Ace Your Adventures with GoPro Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pixelated-pastures-celebrating-rural-games/"><u>2024 Approved Pixelated Pastures Celebrating Rural Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-edit-text-in-image-photo-text-editor-online-and-app-for-2024/"><u>How to Edit Text in Image? [Photo Text Editor Online and App] for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/immediate-screen-shotter-for-chromes/"><u>Immediate Screen Shotter for Chromes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-exploring-the-depths-of-time-lapse-photography-with-gopro/"><u>In 2024, Exploring the Depths of Time-Lapse Photography with GoPro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-10-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 10 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-siege-showdowns-top-10-royale-arena-fighters/"><u>In 2024, Siege Showdowns Top 10 Royale Arena Fighters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-speedy-recording-tool-plus-guided-sound-guide-integration/"><u>In 2024, Speedy Recording Tool + Guided Sound Guide Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opening-doors-to-public-engagement-with-chatgpt/"><u>Opening Doors to Public Engagement with ChatGPT</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-create-stunning-animated-videos-with-these-12-online-makers-for-2024/"><u>Updated Create Stunning Animated Videos with These 12 Online Makers for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
