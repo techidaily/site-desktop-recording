@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Non-Disclosure in Videos  Tips for Masking Identifiable Details for 2024\""
-date: 2024-09-20T18:45:03.899Z
-updated: 2024-09-23T20:58:34.355Z
+date: 2024-09-27T18:50:49.831Z
+updated: 2024-09-29T19:01:35.138Z
 tags: 
   - screen-recording
   - ai video
@@ -54,13 +54,6 @@ For macOS 10.12 or later
 
 ![Filmora Scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Besides being one of the best screen capturing computer programs for beginners in the industry, Wondershare's Filmora Scrn also features a video editor that allows you to polish your videos immediately after the recording session without using third-party apps.
 
 #### 2. Record Everything on Desktop and Webcam
@@ -76,10 +69,10 @@ Recording voice-over during the recording session, adding markers, or using HotK
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
@@ -87,6 +80,19 @@ All files captured with the screen recorder are displayed in the software's vide
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
 
@@ -98,14 +104,14 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
 
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
@@ -116,13 +122,6 @@ Hiding the identity of the people in your videos and concealing private informat
 #### Step 1. Record a video or import a video file into the editor
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -137,6 +136,19 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 #### Step 3. Tweaking the Effect's Settings
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
@@ -163,5 +175,21 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-online-and-offline-photo-fusion-guide/"><u>[New] 2024 Approved Online and Offline Photo Fusion Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-8-top-video-screen-grabbers/"><u>[New] 8 Top Video Screen Grabbers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leading-5-digital-recording-devices/"><u>[Updated] 2024 Approved Leading 5 Digital Recording Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-add-on-effectiveness-implementing-end-cuts-on-vimeo-for-2024/"><u>[Updated] Add-On Effectiveness Implementing End Cuts on Vimeo for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-win11s-best-built-in-recording-software/"><u>2024 Approved Win11's Best Built-In Recording Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-infinix-smart-7-frp-bypass-by-drfone-android/"><u>About Infinix Smart 7 FRP Bypass</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transfer-and-revamp-your-videos-from-microsofts-moviemaker-to-apples-imovie/"><u>How to Transfer and Revamp Your Videos From Microsoft's Moviemaker to Apple's iMovie</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-7-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 7</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-optimal-environmental-film-tech-roundup/"><u>In 2024, Optimal Environmental Film Tech Roundup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pro-rated-apple-compreran-of-the-best-screen-recorders-for-2024/"><u>Pro-Rated Apple Compreran of the Best Screen Recorders for 2024</u></a></li>
+</ul></div>
 

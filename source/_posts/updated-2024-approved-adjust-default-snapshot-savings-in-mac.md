@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Adjust Default Snapshot Savings in Mac\""
-date: 2024-09-21T16:15:04.257Z
-updated: 2024-09-23T19:58:12.208Z
+date: 2024-09-23T17:06:46.189Z
+updated: 2024-09-29T18:01:37.959Z
 tags: 
   - screen-recording
   - ai video
@@ -49,16 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -66,6 +60,13 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -76,10 +77,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -91,19 +92,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -118,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -137,5 +125,24 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-10-innovative-screencasting-solutions-for-modern-teachers/"><u>[New] 2024 Approved 10 Innovative Screencasting Solutions for Modern Teachers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[New] In 2024, Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-creativity-with-iphone-shadow-photography/"><u>[New] Unleashing Creativity with iPhone Shadow Photography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-cross-platform-sync-made-simple-post-tiktok-vids-on-fb-for-2024/"><u>[Updated] Cross-Platform Sync Made Simple Post TikTok Vids on FB for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-leveraging-tools-for-seamless-powerpoint-transcription/"><u>[Updated] In 2024, Leveraging Tools for Seamless PowerPoint Transcription</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-most-engaging-history-youtube-creators-for-students/"><u>[Updated] The Most Engaging History YouTube Creators for Students</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-achieving-zen-in-meetings-how-to-disable-background-speech/"><u>2024 Approved Achieving Zen in Meetings How to Disable Background Speech</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-software-for-recording-educational-experiences/"><u>2024 Approved Essential Software for Recording Educational Experiences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>2024 Approved Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/decoding-high-performance-gadgets-an-in-depth-guide-by-toms-hardware/"><u>Decoding High-Performance Gadgets: An In-Depth Guide by Tom's Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-efficiency-to-new-heights-with-collective-windows-11-folder-creation/"><u>Drive Efficiency to New Heights with Collective Windows 11 Folder Creation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-c51-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme C51 FRP Locks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installing-and-running-chatgpt-on-a-linux-machine-made-simple/"><u>Installing and Running ChatGPT on a Linux Machine Made Simple</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-lenovo-perfecting-screen-capture-techniques-for-2024/"><u>Mastering Lenovo Perfecting Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/perfecting-instagram-livestreams-with-obs-technology/"><u>Perfecting Instagram Livestreams with OBS Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-converting-and-moving-your-files-with-winx-mediatrans/"><u>Step-by-Step Guide: Converting and Moving Your Files with WinX MediaTrans</u></a></li>
+</ul></div>
 

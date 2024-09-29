@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10)"
-date: 2024-09-19T16:49:58.535Z
-updated: 2024-09-23T20:11:03.741Z
+date: 2024-09-26T16:27:07.696Z
+updated: 2024-09-29T18:00:01.400Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ In case you were looking for a way to record a screen on a Huawei Smartphone, yo
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
@@ -66,6 +66,13 @@ With the built-in [screen record](https://tools.techidaily.com/wondershare/filmo
 Pull-down notification panel from the top, find the Screen Recorder shortcut icon, and tap it to enable the screen recording feature. A notification will appear on your screen asking you if you want to enable the phone's screencasting feature. Read the notification and instructions carefully and tap Agree to start the screen recording. To stop recording, just go to the notification panel again, and tap the screen recorder icon again and the screen recording will be stopped.
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2. Pressing Buttons to Record Huawei Screen
 
@@ -83,27 +90,20 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -112,10 +112,10 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -131,5 +131,20 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-ensure-flawless-slack-conversations-best-10-free-recorder-apps/"><u>[New] Ensure Flawless Slack Conversations Best 10 Free Recorder Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-showdown-of-projectors-and-tvs-in-a-4k-setting/"><u>[New] The Ultimate Showdown of Projectors & TVs in a 4K Setting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-virtualvista-viewers-verdict/"><u>[New] VirtualVista Viewer's Verdict</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-10-best-gba-emulators-for-android/"><u>[Updated] 2024 Approved The 10 Best GBA Emulators for Android</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-beginners-guide-to-easy-multi-snap-chat-videos-and-edits/"><u>[Updated] In 2024, The Beginner's Guide to Easy Multi-Snap Chat Videos & Edits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-leading-screen-recorders-for-effective-teaching-methods/"><u>[Updated] In 2024, The Leading Screen Recorders for Effective Teaching Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/driveease-expert-review/"><u>DriveEase Expert Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/from-capture-to-share-expert-insights-into-screen-recording-software-for-2024/"><u>From Capture to Share Expert Insights Into Screen Recording Software for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elite-e-learning-platforms-beyond-udemy-explored/"><u>In 2024, Elite E-Learning Platforms Beyond Udemy Explored</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-x5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco X5</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/selecting-your-next-laptop-insiders-list-of-top-e-places-to-shop/"><u>Selecting Your Next Laptop: Insider's List of Top E Places To Shop</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/smooth-streams-from-obs-to-insta-for-2024/"><u>Smooth Streams From OBS to Insta for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/video-sharing-warriors-which-fights-better-obs-or-twitch-studio-in-2024/"><u>Video Sharing Warriors Which Fights Better - OBS or Twitch Studio, In 2024</u></a></li>
+</ul></div>
 

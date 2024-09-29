@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Effortlessly Create a Cross-Platform Conversation Space on Skype  A Detailed Manual for Users of All OS Platforms\""
-date: 2024-09-19T17:12:24.323Z
-updated: 2024-09-24T00:01:52.361Z
+date: 2024-09-23T17:23:54.392Z
+updated: 2024-09-29T19:10:20.688Z
 tags: 
   - screen-recording
   - ai video
@@ -56,16 +56,10 @@ To make a group chat on Skype using a Windows operating system you can get conne
 ![start group chat](https://images.wondershare.com/filmora/article-images/start-group-chat4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Start a Skype Group Chat on Mac
@@ -77,28 +71,15 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 
 ![select new chat](https://images.wondershare.com/filmora/article-images/select-new-chat1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * A new window will pop up for you to determine the group name and picture. Choose a name that best describes the purpose of the group, as in our case it’s a dummy chat group, so I named it “Skype group chat”. Once you’ve done press the forward arrow button.
 
 ![get group name](https://images.wondershare.com/filmora/article-images/get-group-name2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * You’ll be taken to your “Contact List” to choose the contacts you want to add to the group. After selecting all the contacts press the “Done” button and Skype will make a group chat and notify all the members of their joining the group.
@@ -108,19 +89,6 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 * You will directly be taken to the newly created Skype group chat. where you can start chit chat with the group members.
 
 ![get new group](https://images.wondershare.com/filmora/article-images/get-new-group4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Now you can have a group video or audio call in real-time with members around the world. Talk and collaborate with coworkers, family, and friends while being able to send pictures, videos, and other files simultaneously.
 
@@ -133,15 +101,22 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 ![manage group](https://images.wondershare.com/filmora/article-images/manage-group1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **Update or add a group picture**: Upload, view, or remove the group picture.
 
 ![upload group pic](https://images.wondershare.com/filmora/article-images/upload-group-pic2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **Change your group name**: Press the Edit (pencil) icon next to the group name to edit the name of your group.
 * **Share a link to join your group**: You can add virtually anyone to your Skype group by sending them this link even if they’re not using Skype.
@@ -157,9 +132,23 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 
 ![group gallery](https://images.wondershare.com/filmora/article-images/group-gallery10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Q&A about Skype Group Chat
 
 Have some questions about skype group video chat? Keep the following!
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q1: How many people can you have on a Skype group chat?
 
@@ -176,13 +165,6 @@ You can in effect block a contact in Skype
 * 3\. In the profile of the contact, member scroll down to the bottom of the profile window and click the red colored “Block contact” option.
 
 ![block contact](https://images.wondershare.com/filmora/article-images/block-contact4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * 4\. Skype will ask you to confirm if you want to block this particular contact and also if you want to report the abuse from this person by pressing the toggle button.
 
@@ -204,19 +186,6 @@ To delete all your Skype contacts at once follow the steps:
 
 ![skype settings](https://images.wondershare.com/filmora/article-images/skype-settings6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * 2\. In the settings go to the “Contacts” tab on the left sidebar. This will show all the settings for contacts, go to “Privacy” settings.
 
 ![contact tab](https://images.wondershare.com/filmora/article-images/contact-tab7.jpg)
@@ -230,16 +199,10 @@ To delete all your Skype contacts at once follow the steps:
 ![delete contact](https://images.wondershare.com/filmora/article-images/delete-contact9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -249,6 +212,13 @@ Skype group chats allow multiple people to communicate face-to-face through time
 If you feel the same about the need for group chats like the one Skype offers, tell us about the applications you usually use for group chatting among your friends, family, and office staff in the comment section below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -263,5 +233,24 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-cam-functioning-post-fix-triumph-for-obs/"><u>[New] Cam Functioning Post-Fix Triumph for OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-how-to-utilize-obs-studio-android-solutions-effective-ways-for-2024/"><u>[New] How to Utilize OBS Studio Android Solutions [Effective Ways] for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-video-frame-ratio-classifications/"><u>[Updated] 2024 Approved FB Video Frame Ratio Classifications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premium-screen-recording-selections/"><u>[Updated] 2024 Approved Premium Screen Recording Selections</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-the-riches-of-stardews-ginger-isle-for-2024/"><u>[Updated] Navigating the Riches of Stardew’s Ginger Isle for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premier-free-android-recording-apps-no-ads/"><u>[Updated] Premier Free Android Recording Apps (No Ads)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pros-choice-top-15-luts-for-excellent-gopro-videos/"><u>[Updated] Pro's Choice Top 15 LUTs For Excellent GoPro Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-profiting-off-reddit-13-ways-here/"><u>[Updated] The Ultimate Guide to Profiting Off Reddit - 13 Ways Here</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-innovators-playbook-recording-shows-in-the-cloud/"><u>2024 Approved The Innovator’s Playbook Recording Shows in the Cloud</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-fbx-game-recorder-alternatives-for-2024/"><u>Best FBX Game Recorder Alternatives for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-crafting-multiples-with-canva-and-chatgpt/"><u>Efficiently Crafting Multiples with Canva & ChatGPT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-quick-filmmaking-tricks-save-time-and-money-at-home/"><u>In 2024, Quick Filmmaking Tricks Save Time & Money at Home</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-depth-look-top-6-screen-recording-software-reviewed/"><u>In-Depth Look Top 6 Screen Recording Software Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-windows-component-services-management-console/"><u>Mastery of Windows Component Services Management Console</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-components-toms-tech-selection/"><u>The Ultimate Resource for Computer Components - Tom's Tech Selection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-recording-guide-for-sims-enthusiasts/"><u>Ultimate Recording Guide for Sims Enthusiasts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-video-editing-solutions-for-32-bit-windows-users/"><u>Updated 2024 Approved Free Video Editing Solutions for 32-Bit Windows Users</u></a></li>
+</ul></div>
 

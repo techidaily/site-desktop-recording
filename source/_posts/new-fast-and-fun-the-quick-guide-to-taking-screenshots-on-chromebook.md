@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fast & Fun  The Quick Guide to Taking Screenshots on Chromebook\""
-date: 2024-09-19T20:26:09.556Z
-updated: 2024-09-23T19:50:39.156Z
+date: 2024-09-27T18:58:29.882Z
+updated: 2024-09-29T17:27:20.193Z
 tags: 
   - screen-recording
   - ai video
@@ -46,13 +46,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
 
 Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s PCs, or the Command + Control + Shift + 3 shortcut used on Mac devices, taking screenshots with the use of a keyboard on a Chromebook is equally as straight forward. To capture a screenshot of the entire screen, the process requires the use of the **Windows Switcher Key** (look for 3 layered rectangles that resemble open tabs/windows) – this is generally located above the number 6 and 7 keys and close to the screen-brightness toggles.
@@ -60,10 +53,10 @@ Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
@@ -71,10 +64,10 @@ The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Taking a Screenshot on a Chromebook with the Use of Side Buttons
@@ -86,6 +79,13 @@ Using your Chromebook in tablet mode? If so, then there’s also a handy way to 
 ## 3\. Taking a Screenshot on a Chromebook with the Use of a Stylus
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-stylus-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
 
@@ -104,10 +104,10 @@ With a number of simple yet effective editing features built-in, such as further
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-lightshot-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Available for both Chrome, Windows, and even Mac devices, this more in-depth extension is perfect for those looking to annotate, add layers to, or modify their screen captures to more advanced levels. Although it’s not possible to capture your entire webpage with this extension, LightShot boasts the ability to take screenshots of not only your desktop but also other desired applications with 2 simple clicks of a button. The simplistic desktop saving capability and the ability to upload it direct to the LightShot server makes this application attractive to those looking for a more professional editing tool.
@@ -147,5 +147,19 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-explore-the-top-5-snipping-utilities-for-chrome-os-users/"><u>[New] Explore The Top 5 Snipping Utilities For Chrome OS Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-inside-look-top-picks-for-live-webcam-capture/"><u>[New] Inside Look Top Picks for Live WebCam Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieve-flawless-network-livestream-mastering-vlc-techniques/"><u>[Updated] Achieve Flawless Network Livestream Mastering VLC Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>[Updated] In 2024, Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-olympic-ice-rush-speed-skaters-best-from-games/"><u>[Updated] Olympic Ice Rush Speed Skaters' Best From Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-resolving-fps-confusion-30vs60-for-high-quality-recordings/"><u>[Updated] Resolving FPS Confusion 30Vs.60 For High-Quality Recordings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-solutions-repairing-your-oculus-rift-s-headset-microphone-in-minutes-updated-guide/"><u>Fast Solutions: Repairing Your Oculus Rift S Headset Microphone in Minutes (Updated Guide )</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco Face Lock?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-lynel-combat-in-nintendos-zelda-adventure/"><u>Mastering the Art of Lynel Combat in Nintendo's Zelda Adventure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/obsessed-with-broadcasting-choose-between-xsplit-and-obs-for-2024/"><u>Obsessed with Broadcasting? Choose Between XSplit & OBS for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-unregistered-program-components-in-windows-11-a-step-by-step-tutorial/"><u>Solve Unregistered Program Components in Windows 11: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-discover-auditory-wolf-screams/"><u>Updated In 2024, Discover Auditory Wolf Screams</u></a></li>
+</ul></div>
 

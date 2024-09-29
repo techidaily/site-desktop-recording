@@ -1,7 +1,7 @@
 ---
 title: "\"RPG Origins Vs. Hybrid Designs  Evolution\""
-date: 2024-09-17T23:39:21.202Z
-updated: 2024-09-23T20:29:36.205Z
+date: 2024-09-27T18:34:45.950Z
+updated: 2024-09-29T17:28:18.925Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,10 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -59,17 +59,10 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -121,10 +114,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -145,24 +138,37 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -177,5 +183,22 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-premium-screen-capturer-non-lagging-efficiency/"><u>[New] 2024 Approved Premium Screen Capturer Non-Lagging Efficiency</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-curating-the-best-mac-snipping-software-compilation/"><u>[Updated] Curating the Best Mac Snipping Software Compilation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-infinite-playground-top-10-affordable-online-adventures/"><u>[Updated] In 2024, Infinite Playground Top 10 Affordable Online Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-precision-focused-speech-conversion-using-google-services/"><u>[Updated] Precision-Focused Speech Conversion Using Google Services</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-cutting-edge-techniques-in-logitech-webcam-filming-and-streaming-guide/"><u>2024 Approved Cutting-Edge Techniques in Logitech Webcam Filming and Streaming Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pocket-safari-androids-selection-of-best-simulators/"><u>2024 Approved Pocket Safari Android's Selection of Best Simulators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-steps-to-record-your-dell-laptops-display-for-2024/"><u>Easy Steps to Record Your Dell Laptop's Display for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/etiology-of-fetal-alcohol-syndrome-for-2024/"><u>Etiology of Fetal Alcohol Syndrome for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-webcam-showing-a-black-screen-on-windows/"><u>How to Fix Your Webcam Showing a Black Screen on Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-tech-whizs-playbook-how-to-nail-screen-recording-on-macos/"><u>In 2024, The Tech Whiz's Playbook How to Nail Screen Recording on macOS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/live-broadcast-showdown-obs-or-streamlabs-which-is-superior/"><u>Live Broadcast Showdown OBS or Streamlabs – Which Is Superior?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-settle-m-track-driver-problems/"><u>Swiftly Settle M-Track Driver Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-pantheon-of-popularity-reddits-top-10-posts-for-2024/"><u>The Pantheon of Popularity Reddit's Top 10 Posts for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/youtube-video-wizardry-top-conversion-techniques-to-mp4mpeg/"><u>YouTube Video Wizardry Top Conversion Techniques to MP4/MPEG</u></a></li>
+</ul></div>
 
