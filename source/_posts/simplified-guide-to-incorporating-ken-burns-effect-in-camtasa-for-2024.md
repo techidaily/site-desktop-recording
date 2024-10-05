@@ -1,7 +1,7 @@
 ---
 title: "Simplified Guide to Incorporating Ken Burns Effect in Camtasa for 2024"
-date: 2024-09-02T15:21:19.966Z
-updated: 2024-09-03T15:21:19.966Z
+date: 2024-10-03T03:56:04.037Z
+updated: 2024-10-04T23:17:27.856Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,20 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-customized-obs-guide-for-budget-builds-for-2024/"><u>[New] Customized OBS Guide for Budget Builds for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-tips-for-capturing-gaming-sessions-for-2024/"><u>[New] Quick Tips for Capturing Gaming Sessions for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screen-capture-showdown-is-obs-better-than-fraps-for-2024/"><u>[New] Screen Capture Showdown Is OBS Better Than Fraps for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-lore-masters-collective-essential-eight/"><u>[Updated] 2024 Approved Lore Masters Collective - Essential Eight</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/10-effective-methods-to-transform-your-dvd-into-mp4-format-on-windows-11-and-mac-os/"><u>10 Effective Methods to Transform Your DVD Into MP4 Format on Windows 11 & Mac OS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-your-screen-apoyser-amongst-top-software-competitors/"><u>2024 Approved Capturing Your Screen Apoyser Amongst Top Software Competitors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-zte-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on ZTE</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/becoming-proficient-in-ez-grabber-technology/"><u>Becoming Proficient in EZ Grabber Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-word-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a Word Using DigiSigner</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-techniques-for-high-quality-xbox-screenshots/"><u>In 2024, Expert Techniques for High-Quality Xbox Screenshots</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your ZTE Blade A73 5G | Dr.fone</u></a></li>
+</ul></div>
+

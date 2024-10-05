@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Anonymity in Video  Hiding Private Data\""
-date: 2024-09-26T18:16:16.132Z
-updated: 2024-09-29T18:53:19.433Z
+date: 2024-10-01T02:37:55.104Z
+updated: 2024-10-04T19:24:05.973Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Why Choose Filmora Scrn to Blur and Hide Private Information in a Video You Recorded?
 
 #### 1. One-Stop Service for Recording & Editing Videos
@@ -75,18 +68,18 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
 
@@ -94,11 +87,25 @@ The original frame is shown below, and I want to blur and hide these two sensiti
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-examples.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
@@ -109,6 +116,13 @@ Hiding the identity of the people in your videos and concealing private informat
 #### Step 1. Record a video or import a video file into the editor
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -124,13 +138,6 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -142,13 +149,6 @@ Finally, you can go ahead and click on the Export button if you're happy with th
 Ok, that's it. Hope you have hidden and blurred the private info in your recorded video. Leave a comment below and let us know if it works for you perfectly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -165,19 +165,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-selecting-premium-backgrounds-for-zoomgoogle-calls/"><u>[New] In 2024, Selecting Premium Backgrounds for Zoom/Google Calls</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-nocturnal-nuances-expert-insights-into-nighttime-photography/"><u>[Updated] 2024 Approved Nocturnal Nuances Expert Insights Into Nighttime Photography</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-screenflow-uncovered-mastering-video-editing-on-a-mac/"><u>[Updated] 2024 Approved ScreenFlow Uncovered Mastering Video Editing on a Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-effortless-capture-and-storage-pro-guide-to-digital-sound-recording/"><u>[Updated] Effortless Capture & Storage Pro Guide to Digital Sound Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-players-guide-best-of-terraria-mods-for-2024/"><u>[Updated] Ultimate Player's Guide Best of Terraria Mods for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-rapid-routines-for-presentation-saving/"><u>2024 Approved Rapid Routines for Presentation Saving</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/wmamkv-movavi/"><u>在線無價解碼WMA成MKV，如何使用 Movavi 導遊方法</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-instructions-on-how-to-fresh-install-driver-packs-for-the-hp-envy-laptop-gen89-models/"><u>Easy Instructions on How to Fresh Install Driver Packs for the HP ENVY Laptop Gen8/9 Models</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enjoy-a-seamless-streaming-experience-unveiling-the-potential-of-pip-on-netflix/"><u>Enjoy a Seamless Streaming Experience Unveiling the Potential of PIP on Netflix</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-jokesterjigsaw-toolkit/"><u>In 2024, JokesterJigsaw Toolkit</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-arma-3-disruptions-comprehensive-troubleshooting-tips-for-the-latest-updates/"><u>Stop Arma 3 Disruptions: Comprehensive Troubleshooting Tips for the Latest Updates</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-harmonizing-media-effective-techniques-to-combine-multiple-audio-files-in-videos/"><u>Updated In 2024, Harmonizing Media Effective Techniques to Combine Multiple Audio Files in Videos</u></a></li>
-<li><a href="https://win-top.techidaily.com/mkvvob-movavi/"><u>무료 인터넷 용 MKV/VOB 변환 기술: 원격 사용자가 쉽게 구현하기 위한 모바일 최고의 솔루션 - Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-guides-for-gathering-live-video-conversations/"><u>[New] In 2024, Guides for Gathering Live Video Conversations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-sprout-pro-in-depth-review-of-desktop-capturing-for-2024/"><u>[New] Sprout Pro In-Depth Review of Desktop Capturing for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-discreetly-explore-instagram-stories-with-us/"><u>[Updated] 2024 Approved Discreetly Explore Instagram Stories With Us</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-a-beginners-pathway-to-screen-casting-and-capturing-macos/"><u>[Updated] In 2024, A Beginner's Pathway to Screen Casting and Capturing macOS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-fast-loading-instagram-media-content/"><u>[Updated] Mastering Fast-Loading Instagram Media Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premium-virtual-playstation-simulators-for-modern-computers/"><u>[Updated] Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-22-efficient-ways-to-livestream-classes-without-paying/"><u>2024 Approved 22 Efficient Ways to Livestream Classes Without Paying</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-re-establishing-obs-audio-recording-capabilities/"><u>2024 Approved Re-Establishing OBS Audio Recording Capabilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unified-media-exchange-android-ios/"><u>2024 Approved Unified Media Exchange Android-iOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-optimal-audio-on-ios-the-essentials-of-podcasting/"><u>In 2024, Optimal Audio on iOS The Essentials of Podcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-13-mejores-aplicaciones-para-grabacion-y-visualizacion-de-webcams-en-windows-10-por-movavi/"><u>Los 13 Mejores Aplicaciones Para Grabación Y Visualización De Webcams en Windows 10, Por Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973825135-microsofts-latest-bluetooth-drivers-compatible-with-windows-10-11-8-and-7-download-update-now/"><u>Microsoft's Latest Bluetooth Drivers: Compatible with Windows 10, 11, 8 & 7 – Download Update Now</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/splitcam-review-does-it-reign-supreme-in-video-tech-for-2024/"><u>SplitCam Review Does It Reign Supreme in Video Tech for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-introduction-guide-2-approaches-explored-for-2024/"><u>YouTube Introduction Guide - 2 Approaches Explored for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] A Comprehensive Guide to Mac Audio Recording with Audacity for 2024"
-date: 2024-09-25T18:07:15.032Z
-updated: 2024-09-29T18:48:04.663Z
+date: 2024-10-04T02:05:35.540Z
+updated: 2024-10-04T20:40:02.849Z
 tags: 
   - screen-recording
   - ai video
@@ -57,15 +57,22 @@ Step 3: Go to Tracks menu option and go to Add New. Here, you have to select eit
 
 ![go to tracks menu](https://images.wondershare.com/filmora/article-images/go-to-tracks-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Now, you are ready to start recording your audio through microphone using Audacity. Click on Record button at the top bar. The recording will start immediately and you will see audiograph of your audio which shows that your voice is getting recorded.
 
 ![ready to start](https://images.wondershare.com/filmora/article-images/ready-to-start.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 5: When you are done, click on Stop button at the top bar.
@@ -104,31 +111,18 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -159,30 +153,30 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
-Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
-
 <!-- affiliate ads begin -->
-<span id="1977028">
+<span id="1977004">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
 ## Conclusion
 
@@ -207,10 +201,10 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
@@ -254,10 +248,10 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
@@ -294,22 +288,19 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-prevent-unwanted-video-captures-in-qt-player/"><u>[New] 2024 Approved Prevent Unwanted Video Captures in QT Player</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-sync-up-success-sharing-youtube-on-ig-stories/"><u>[New] In 2024, Sync Up Success Sharing YouTube on IG Stories</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-jotunheim-raid-the-war-of-the-worlds/"><u>[New] Jotunheim Raid The War of the Worlds</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1716069506470-updated-2024-approved-high-quality-video-calling-solutions-top-10-best-apps-ranked/"><u>[Updated] 2024 Approved High-Quality Video Calling Solutions Top 10 Best Apps Ranked!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-guide-to-saving-real-time-screen-chats/"><u>[Updated] Guide to Saving Real-Time Screen Chats</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-masterclass-emulation-best-ps3-clones-on-your-computer-for-2024/"><u>[Updated] Masterclass Emulation Best PS3 Clones on Your Computer for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mycam-in-action-a-detailed-review-of-its-recording-abilities-for-2024/"><u>[Updated] MyCam in Action A Detailed Review of Its Recording Abilities for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-next-gen-vr-engines-the-2023-rundown-for-2024/"><u>[Updated] Next-Gen VR Engines The 2023 Rundown for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-premium-vector-image-hubs-ranked-1-to-10-for-2024/"><u>[Updated] Premium Vector Image Hubs Ranked #1 to #10 for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-snapshotstop-screen-shot-on-demand-guide/"><u>[Updated] SnapshotStop Screen Shot on Demand Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-x-audio-workstation-for-home-computers/"><u>[Updated] X-Audio Workstation for Home Computers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-effortless-video-downloads-at-fingertips-select-from-these-top-chrome-plugins/"><u>2024 Approved Effortless Video Downloads at Fingertips Select From These Top Chrome Plugins</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-has-encountered-a-problem-by-stellar-guide/"><u>How to Fix Excel has Encountered a Problem</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-online-subtitles-our-choice-of-free-services-for-2024/"><u>Mastering Online Subtitles Our Choice of Free Services for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-from-zero-to-hero-top-10-cartoon-video-makers-for-beginners-for-2024/"><u>New From Zero to Hero Top 10 Cartoon Video Makers for Beginners for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715701063148-screenmasters-unite/"><u>ScreenMasters Unite!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-understanding-top-tech-by-toms-hardware/"><u>The Ultimate Resource for Understanding Top Tech by Tom's Hardware</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-instagram-live-anonymously-a-step-by-step-approach/"><u>[New] Navigating Instagram Live Anonymously A Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-win10s-video-call-ecosystem-a-guide-to-using-zoom/"><u>[New] Navigating Win10's Video Call Ecosystem A Guide to Using Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quick-click-quality-4-simple-steps-to-take-a-chromebook-screenshot/"><u>[Updated] In 2024, Quick Click Quality 4 Simple Steps to Take a Chromebook Screenshot</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-rapid-recording-the-5-second-lapses-pro/"><u>[Updated] Rapid Recording The 5-Second Lapses Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-strategies-to-combat-freezing-in-high-quality-mode/"><u>[Updated] Strategies to Combat Freezing in High Quality Mode</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exquisite-talent-in-vr-content-development/"><u>In 2024, Exquisite Talent in VR Content Development</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-navigating-the-shadows-an-overview-of-youtubes-unlisted-videos/"><u>In 2024, Navigating the Shadows An Overview of YouTube's Unlisted Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-analysis-the-finesse-of-obs-recording/"><u>In-Depth Analysis The Finesse of OBS Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/method-to-archive-webcam-discussions/"><u>Method to Archive Webcam Discussions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-rhythmic-revelation-an-online-journey-to-single-out-the-beat-for-2024/"><u>New Rhythmic Revelation An Online Journey to Single Out the Beat for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/taxi-or-uber-which-one-offers-better-savings-for-your-ride/"><u>Taxi or Uber – Which One Offers Better Savings for Your Ride?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-7-underrated-transition-sounds-for-enhanced-audio-experience-download-now-for-2024/"><u>Top 7 Underrated Transition Sounds for Enhanced Audio Experience (Download Now!) For 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-technique-for-downscaling-full-hd-1080p-footage-to-high-definition-720p-with-intact-visual-quality/"><u>Ultimate Technique for Downscaling Full HD (1080P) Footage to High Definition (720P) with Intact Visual Quality</u></a></li>
 </ul></div>
 

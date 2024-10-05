@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Essential Guide to Compositing Using Blending Modes"
-date: 2024-09-26T18:30:07.600Z
-updated: 2024-09-29T19:00:45.971Z
+date: 2024-09-30T03:24:57.262Z
+updated: 2024-10-04T17:09:09.179Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ The **Normal mode** is a part of the standard set of blending modes in almost al
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The **Screen Mode** is best used when you are working with dark monochrome backgrounds because it reduces the dark areas in the video thus enabling you to blend the top layer into the background seamlessly.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
@@ -68,13 +75,26 @@ The **Multiply Mode** is also one of the frequently used blending modes that **m
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Blending Modes?
@@ -86,19 +106,6 @@ Applying different blending modes and switching between them is easy, and it won
 In case you've used Filmora Scrn's screen recorder to capture your video, the video clip will be opened in the software's video editor and placed in the media bin, immediately after the recording session is over. However, the Wondershare's software also allows you to import the footage you've captured with a video camera or any other video recording software or device.
 
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
@@ -114,6 +121,13 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
 #### Step 3 - Export the video
@@ -122,25 +136,11 @@ Click on the Export button if you like the results and choose whether you want t
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Overlaying two video clips and blending them to each other can be an effective way to make your videos look more creative or more professional by adding logos and all other information you'd like the potential viewers of your videos to see. The blending modes Filmora Scrn offers can help you achieve the visual style you want to get in your videos, but it may take you some time to learn when is the best time to use a certain mode.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -157,22 +157,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-addressing-mute-problems-in-obs-live-recording/"><u>[New] 2024 Approved Addressing Mute Problems in OBS Live Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-screenshot-options-for-windows-users/"><u>[New] Advanced Screenshot Options for Windows Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-boost-your-cinematography-game-essential-iphone-gear-for-2024/"><u>[New] Boost Your Cinematography Game Essential iPhone Gear for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-freeze-the-frame-choose-the-best-9-gif-recipes-on-windows-systems-for-2024/"><u>[New] Freeze the Frame! Choose the Best 9 GIF Recipes on Windows Systems for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-navigating-zooms-share-functionality-for-2024/"><u>[New] Navigating Zoom's Share Functionality for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-high-speed-photo-inspector-for-windows-11/"><u>[Updated] 2024 Approved High-Speed Photo Inspector for Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-express-screen-snag-aural-elements/"><u>[Updated] Express Screen Snag Aural Elements</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-art-of-iphone-photography-top-10-visual-arrangement-tips-for-2024/"><u>[Updated] The Art of iPhone Photography Top 10 Visual Arrangement Tips for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-screencast-cheat-sheet-must-knows-for-2024/"><u>[Updated] The Complete Screencast Cheat Sheet Must-Knows for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/adept-methods-for-switching-file-types-in-windows/"><u>Adept Methods for Switching File Types in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-your-skills-elevating-performance-and-resolving-valorants-fps-problems-windows-edition/"><u>Boost Your Skills: Elevating Performance & Resolving Valorant's FPS Problems, Windows Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/immediate-pause-screen-capture-steps/"><u>Immediate Pause Screen Capture Steps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-efficient-broadcast-strategies-utilizing-obs-for-youtube-and-twitch-success/"><u>In 2024, Efficient Broadcast Strategies Utilizing OBS for YouTube & Twitch Success</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/premier-audio-archivers-for-teachings-for-2024/"><u>Premier Audio Archivers for Teachings for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/step-by-step-revenue-building-for-youtube-creators/"><u>Step-by-Step Revenue Building for YouTube Creators</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/zoom-meetings-made-simple-with-camera-snaps/"><u>Zoom Meetings Made Simple with Camera Snaps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-zero-cost-window-recording-techniques-3-methods/"><u>[New] Zero-Cost Window Recording Techniques 3 Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-10-superior-video-capture-software-in-windows-10/"><u>2024 Approved 10 Superior Video Capture Software in Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-step-by-step-approach-to-professional-ps4-gaming-recordings-for-2024/"><u>A Step-by-Step Approach to Professional PS4 Gaming Recordings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/basic-routines-for-recording-on-youtube-for-2024/"><u>Basic Routines for Recording on YouTube for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/combining-images-seamlessly-pc-edition-for-2024/"><u>Combining Images Seamlessly PC Edition for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-dacs-are-they-worth-investing-in-for-superior-sound-quality/"><u>Exploring the World of DACs – Are They Worth Investing in for Superior Sound Quality?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/gold-glory-in-gameplay-5-prime-maps-for-riches-for-2024/"><u>Gold Glory in Gameplay 5 Prime Maps for Riches for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-narzo-n53-phone-by-drfone-android/"><u>How to Reset a Locked Realme Narzo N53 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-nokia-g22-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Nokia G22 Phone that is Locked?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-c33-2023-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme C33 2023 Phone FRP Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-network-settings-in-windows-10-activate-and-deactivate-discovery/"><u>Mastering Network Settings in Windows 10: Activate and Deactivate Discovery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-essential-guide-to-win10s-video-grabbing-software-for-2024/"><u>The Essential Guide to Win10's Video Grabbing Software for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-for-effective-periscope-use-for-2024/"><u>The Ultimate Guide for Effective Periscope Use for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-mobile-charge-packs-to-save-the-day-2024/"><u>Top Mobile Charge Packs to Save the Day 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fast & Fun  The Quick Guide to Taking Screenshots on Chromebook\""
-date: 2024-09-27T18:58:29.882Z
-updated: 2024-09-29T17:27:20.193Z
+date: 2024-10-01T18:21:17.492Z
+updated: 2024-10-04T17:08:52.771Z
 tags: 
   - screen-recording
   - ai video
@@ -46,6 +46,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
 
 Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s PCs, or the Command + Control + Shift + 3 shortcut used on Mac devices, taking screenshots with the use of a keyboard on a Chromebook is equally as straight forward. To capture a screenshot of the entire screen, the process requires the use of the **Windows Switcher Key** (look for 3 layered rectangles that resemble open tabs/windows) – this is generally located above the number 6 and 7 keys and close to the screen-brightness toggles.
@@ -53,10 +60,10 @@ Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
@@ -64,10 +71,10 @@ The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Taking a Screenshot on a Chromebook with the Use of Side Buttons
@@ -79,13 +86,6 @@ Using your Chromebook in tablet mode? If so, then there’s also a handy way to 
 ## 3\. Taking a Screenshot on a Chromebook with the Use of a Stylus
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-stylus-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
 
@@ -102,13 +102,6 @@ With a number of simple yet effective editing features built-in, such as further
 #### 2. LightShot
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-lightshot-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Available for both Chrome, Windows, and even Mac devices, this more in-depth extension is perfect for those looking to annotate, add layers to, or modify their screen captures to more advanced levels. Although it’s not possible to capture your entire webpage with this extension, LightShot boasts the ability to take screenshots of not only your desktop but also other desired applications with 2 simple clicks of a button. The simplistic desktop saving capability and the ability to upload it direct to the LightShot server makes this application attractive to those looking for a more professional editing tool.
 
@@ -134,6 +127,13 @@ In summary, there are plenty of ways to successfully capture a screenshot whilst
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -149,17 +149,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-explore-the-top-5-snipping-utilities-for-chrome-os-users/"><u>[New] Explore The Top 5 Snipping Utilities For Chrome OS Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-inside-look-top-picks-for-live-webcam-capture/"><u>[New] Inside Look Top Picks for Live WebCam Capture</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-achieve-flawless-network-livestream-mastering-vlc-techniques/"><u>[Updated] Achieve Flawless Network Livestream Mastering VLC Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>[Updated] In 2024, Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-olympic-ice-rush-speed-skaters-best-from-games/"><u>[Updated] Olympic Ice Rush Speed Skaters' Best From Games</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-resolving-fps-confusion-30vs60-for-high-quality-recordings/"><u>[Updated] Resolving FPS Confusion 30Vs.60 For High-Quality Recordings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-solutions-repairing-your-oculus-rift-s-headset-microphone-in-minutes-updated-guide/"><u>Fast Solutions: Repairing Your Oculus Rift S Headset Microphone in Minutes (Updated Guide )</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco Face Lock?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-lynel-combat-in-nintendos-zelda-adventure/"><u>Mastering the Art of Lynel Combat in Nintendo's Zelda Adventure</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/obsessed-with-broadcasting-choose-between-xsplit-and-obs-for-2024/"><u>Obsessed with Broadcasting? Choose Between XSplit & OBS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-unregistered-program-components-in-windows-11-a-step-by-step-tutorial/"><u>Solve Unregistered Program Components in Windows 11: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-discover-auditory-wolf-screams/"><u>Updated In 2024, Discover Auditory Wolf Screams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-noise-control-for-filmmakers-basic-pro-methods-and-pricing/"><u>[New] 2024 Approved Noise Control for Filmmakers - Basic, Pro Methods & Pricing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-essential-mic-recommendations-for-professional-4k-recording/"><u>[New] In 2024, Essential Mic Recommendations for Professional 4K Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-pro-tips-to-perfectly-capture-your-mac-with-ease-and-speed/"><u>[New] In 2024, Pro Tips to Perfectly Capture Your Mac with Ease and Speed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[Updated] 2024 Approved Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-go-pro-capturing-ps4-games-in-hd-via-obs-studio-tutorial/"><u>[Updated] Go Pro Capturing PS4 Games in HD via OBS Studio Tutorial</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-is-splitcam-the-pinnacle-of-recording-capabilities/"><u>[Updated] Is SplitCam The Pinnacle of Recording Capabilities?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flac-m4a-movavi/"><u>在網路上無限制自由轉換 FLAC到 M4A - 使用 Movavi 編解碼器</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aumenta-il-fattore-di-impatto-del-tuo-contenuto-video-usando-winxvideo-ai-per-una-migliore-nitidezza-e-precisione/"><u>Aumenta Il Fattore Di Impatto Del Tuo Contenuto Video Usando Winxvideo AI per Una Migliore Nitidezza E Precisione</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/battery-powered-google-wireless-nest-doorbell-in-depth-review/"><u>Battery-Powered Google Wireless Nest Doorbell: In-Depth Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>Decoding Digital Dazzle An Initial Journey Into Video Standards</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/effortless-techniques-for-iphone-screen-recordings/"><u>Effortless Techniques for Iphone Screen Recordings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-soundscape-archives-collect-and-evaluate-recordings/"><u>In 2024, Soundscape Archives Collect & Evaluate Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/re-evaluating-video-streamers-for-maximum-impact/"><u>Re-Evaluating Video Streamers for Maximum Impact</u></a></li>
 </ul></div>
 
