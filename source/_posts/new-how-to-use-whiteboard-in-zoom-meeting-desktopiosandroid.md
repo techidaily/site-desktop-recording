@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]"
-date: 2024-09-02T15:13:16.758Z
-updated: 2024-09-03T15:13:16.758Z
+date: 2024-10-08T01:50:54.807Z
+updated: 2024-10-10T00:36:35.170Z
 tags: 
   - screen-recording
   - ai video
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2: Add Annotations
 
  Tap the **Edit**  icon from the bottom-left corner of the **Zoom whiteboard** , and pick your preferred tool from the expanded panel to annotate or draw your ideas as needed.
@@ -95,8 +102,12 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
 
  Along with Android, Zoom is available for iOS devices as well. However, at the time of this writing, the Whiteboard feature can only be used on iPads. So, if you’re running Zoom Cloud Meeting on your iPhone, you won’t see the Whiteboard option. Nevertheless, the interface and the options that the Zoom’s iOS variant has are almost identical, and so is the process of sharing **Zoom meeting whiteboard** .
@@ -114,13 +125,12 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -129,9 +139,6 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 2\. Why can’t I see the Annotation tools?
 
  If you have joined a meeting hosted by someone else, it is possible that the host has prohibited other participants from annotating. In this case, you can request the host to enable annotations for the other members.
@@ -149,15 +156,17 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -165,3 +174,27 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-direct-methods-for-documenting-virtual-meetings/"><u>[New] 2024 Approved Direct Methods for Documenting Virtual Meetings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expand-your-library-prime-10-ps5-extra-drives/"><u>[New] 2024 Approved Expand Your Library Prime 10 PS5 Extra-Drives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-record-gameplay-with-fbx-game-recorder/"><u>[New] In 2024, How To Record Gameplay With FBX Game Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-art-of-google-meet-modifications-using-masks-and-effects-for-2024/"><u>[New] The Art of Google Meet Modifications Using Masks & Effects for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-targeting-optimizing-ad-reach-on-snap-for-2024/"><u>[New] The Art of Targeting Optimizing Ad Reach on Snap for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-global-perspective-inclusive-technology-review-for-2024/"><u>[Updated] Global Perspective Inclusive Technology Review for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>[Updated] How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-live-gaming-shows-set-up-with-obs/"><u>[Updated] In 2024, Live Gaming Shows Set Up with OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/devices-to-device-guide-for-google-meet-participation/"><u>Devices to Device Guide for Google Meet Participation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-12-pro-max-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 12 Pro Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-perfectly-prepared-videos-a-guide-to-instagram-fitness/"><u>In 2024, Perfectly Prepared Videos A Guide to Instagram Fitness</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-pinnacle-mac-studio-for-unparalleled-video-and-audio-recording/"><u>In 2024, Pinnacle Mac Studio for Unparalleled Video & Audio Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-uncomplicated-steps-for-archiving-gotomeeting-dialogues/"><u>In 2024, Uncomplicated Steps for Archiving GoToMeeting Dialogues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-your-ultimate-youtube-to-avi-transformation-guidebook/"><u>In 2024, Your Ultimate YouTube-to-AVI Transformation Guidebook</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-pricey-and-practical-mophie-ac-charging-station-review/"><u>In-Depth Look at the Pricey & Practical Mophie AC Charging Station Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/learn-audio-recording-in-audacity-with-your-mac-for-2024/"><u>Learn Audio Recording in Audacity with Your Mac for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-free-ticking-counters/"><u>Premium Free Ticking Counters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-common-problems-with-the-battlenet-launcher-for-windows-users/"><u>Solving Common Problems with the Battle.net Launcher for Windows Users</u></a></li>
+</ul></div>
+

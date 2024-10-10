@@ -1,7 +1,7 @@
 ---
 title: "\"RPG Origins Vs. Hybrid Designs  Evolution\""
-date: 2024-09-28T01:28:19.371Z
-updated: 2024-10-04T23:32:09.982Z
+date: 2024-10-04T08:41:28.869Z
+updated: 2024-10-10T01:49:30.250Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,16 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -58,24 +64,31 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -113,13 +126,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Roguelite Games
@@ -131,6 +137,13 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -144,25 +157,18 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -179,19 +185,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-10-pro-tips-for-effortless-android-recording-for-2024/"><u>[Updated] 10 Pro Tips for Effortless Android Recording for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-masterful-screenshots-made-simple-top-10-free-mac-apps/"><u>[Updated] 2024 Approved Masterful Screenshots Made Simple – Top 10 FREE Mac Apps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-cutting-edge-extraction-the-top-10-sdk-powered-fb-video-downloads-on-android-for-2024/"><u>[Updated] Cutting-Edge Extraction The Top 10 SDK-Powered FB Video Downloads on Android for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-elevate-your-gameplay-with-the-12-unmatched-tycoon-experiences-for-2024/"><u>[Updated] Elevate Your Gameplay with the #12 Unmatched Tycoon Experiences for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>[Updated] Unleash Your Creativity in Full Rotation Best Practices for VR Video</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-premium-picks-best-win-11-webcams-for-clear-capture/"><u>2024 Approved Premium Picks Best Win 11 Webcams for Clear Capture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-quick-steps-for-capturing-cs-go-sessions/"><u>2024 Approved Quick Steps for Capturing CS GO Sessions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-scriptwriting-secrets-for-docu-films/"><u>2024 Approved Scriptwriting Secrets for Docu-Films</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-practices-to-personalize-snapchat-video-playback/"><u>2024 Approved Top Practices to Personalize Snapchat Video Playback</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994160862-ghostwire-tokyo-on-pc-say-goodbye-to-crashes-and-enjoy-seamless-gaming/"><u>Ghostwire: Tokyo on PC – Say Goodbye to Crashes and Enjoy Seamless Gaming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/optimal-cloud-audio-devices/"><u>Optimal Cloud Audio Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/tech-wisdom-unleashing-sticky-notes-on-win11/"><u>Tech Wisdom: Unleashing Sticky Notes on Win11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-elite-list-of-youtube-player-applications/"><u>The Elite List of YouTube Player Applications</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/transform-your-documents-scan-and-convert-iphone-photos-of-text-into-editable-pdf-with-ios-ocr-app/"><u>Transform Your Documents: Scan & Convert iPhone Photos of Text Into Editable PDF with iOS OCR App</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fb-stream-to-sound-an-audio-conversion-tool/"><u>[New] 2024 Approved FB Stream to Sound An Audio Conversion Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-threads-through-time-master-looms-screen-capture/"><u>[New] Threads Through Time Master Loom's Screen Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-fashioning-small-homes-with-eastern-aesthetics/"><u>[Updated] In 2024, Fashioning Small Homes with Eastern Aesthetics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-innovative-guide-to-efficient-and-effective-screen-recording/"><u>[Updated] In 2024, Innovative Guide to Efficient and Effective Screen Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-securing-your-online-sessions-pcmobile-recording/"><u>[Updated] In 2024, Securing Your Online Sessions PC/Mobile Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secrets-of-the-pros-screening-your-switch-games/"><u>[Updated] Secrets of the Pros Screening Your Switch Games</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-the-power-of-beginnings-with-imovies-creative-tools/"><u>[Updated] Unlock the Power of Beginnings with iMovie's Creative Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-14-plus-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 14 Plus Activation Lock</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elevating-your-speech-to-text-experience-using-googles-tools-for-2024/"><u>Elevating Your Speech to Text Experience Using Google's Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fixing-the-full-screen-freeze-in-obs-for-2024/"><u>Fixing the Full-Screen Freeze in OBS for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G73 5G</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-screen-capture-unveiled-with-irecorder/"><u>In 2024, Screen Capture Unveiled with iRecorder</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a24-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A24 Phone Hassle-Free</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-mobile-video-editors-for-portrait-mode-videos/"><u>In 2024, Top Mobile Video Editors for Portrait Mode Videos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/powerdirector-alternatives-for-mobile-top-rated-video-editors-for-2024/"><u>PowerDirector Alternatives for Mobile Top-Rated Video Editors for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ps3-gaming-reimagined-best-emulators-of-the-year-for-2024/"><u>PS3 Gaming Reimagined Best Emulators of the Year for 2024</u></a></li>
 </ul></div>
 
