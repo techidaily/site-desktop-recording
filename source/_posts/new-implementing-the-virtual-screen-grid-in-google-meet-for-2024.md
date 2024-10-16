@@ -1,7 +1,7 @@
 ---
 title: "[New] Implementing the Virtual Screen Grid in Google Meet for 2024"
-date: 2024-10-03T00:24:31.546Z
-updated: 2024-10-09T20:41:47.666Z
+date: 2024-10-15T18:30:26.166Z
+updated: 2024-10-16T16:50:01.432Z
 tags: 
   - screen-recording
   - ai video
@@ -59,13 +59,6 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Join Meeting through phone's browser
 
 **Step 1: Enable desktop site**
@@ -75,10 +68,10 @@ Click on the **three dots** and enable the **desktop site** option from the menu
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
@@ -88,16 +81,17 @@ Click on the **three dots** at the bottom right corner and select **change layou
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Ask someone else to share the screen
@@ -118,6 +112,13 @@ Tap **add an extension** in the pop-up confirmation message. The installed exten
 
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2 : Create or join a meeting room in a Google Meet**
 
 Open Google Meet and click **new meeting** or enter the invitation code. Wait for all participants to join the meeting.
@@ -129,13 +130,6 @@ Click on the **extension** at the top right of the screen corner and tick the **
 **Note:** You can configure the grid view setting and choose to tick any option you prefer. Options include only show participants with video, highlight speakers, etc.
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
@@ -160,16 +154,10 @@ Click **new meeting** in the Google Meet. **Tap enable grid view** when you want
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Frequently Asked Questions About See Everyone on Google Meet
@@ -207,22 +195,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-beginners-guide-to-youtube-shorts-nuances/"><u>[New] 2024 Approved A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-harmony-through-play-our-best-10-gems/"><u>[New] 2024 Approved Harmony Through Play Our Best 10 Gems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/"><u>[New] In 2024, Expert's Guide to the Best iPad Voice Recording Tools #3</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-nexus-of-delight-kid-focused-gaming-guide/"><u>[New] In 2024, Nexus of Delight Kid-Focused Gaming Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-pros-guide-to-iphone-voice-memos-and-more/"><u>[New] In 2024, The Pro's Guide to iPhone Voice Memos and More</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-proactive-planning-harnessing-the-power-of-slack-and-filmora-for-meetings/"><u>[New] Proactive Planning Harnessing the Power of Slack & Filmora For Meetings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-art-of-online-podcast-filming/"><u>2024 Approved The Art of Online Podcast Filming</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-s23-ultra-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy S23 Ultra Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/essential-tips-for-recording-ps4-games-with-obs/"><u>Essential Tips for Recording PS4 Games with OBS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-mastering-professional-grade-color-grading-techniques/"><u>Expert Tips: Mastering Professional-Grade Color Grading Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/flashlog-screen-grab-review-and-substitutes/"><u>FlashLog Screen Grab Review and Substitutes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-huawei-nova-y71-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Huawei Nova Y71 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-xiaomi-redmi-note-12-4g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Xiaomi Redmi Note 12 4G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-nord-ce-3-lite-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus Nord CE 3 Lite 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-album-arrangement-masterclass-achieving-systematic-order-and-cloud-sync/"><u>In 2024, IPhone Album Arrangement Masterclass Achieving Systematic Order & Cloud Sync</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speedy-winx-video-converter-plus-with-xvid-platinum-technology-convert-dvds-to-mp4-h264-quickly/"><u>Speedy WinX Video Converter Plus with XviD Platinum Technology – Convert DVDs to MP4 (H.264) Quickly!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-terraria-enhancements-list-for-2024/"><u>Ultimate Terraria Enhancements List for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-behind-the-scenes-mastering-the-craft-of-streaming-archiving-for-2024/"><u>[New] Behind the Scenes Mastering the Craft of Streaming Archiving for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-procedures-instilling-stopwatch-capabilities-in-broadcast-encoders/"><u>[New] Essential Procedures Instilling Stopwatch Capabilities in Broadcast Encoders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-strategies-for-youtube-and-twitch-via-obs-for-2024/"><u>[New] Essential Strategies for YouTube & Twitch via OBS for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-play-to-pixels-compreehensive-ps4-recording-with-obs-studio/"><u>[New] From Play to Pixels Compreehensive PS4 Recording with OBS Studio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mold-your-own-online-giggle-piece/"><u>[New] Mold Your Own Online Giggle Piece</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-premier-alternatives-exceeding-the-limits-of-twitter-for-2024/"><u>[New] Premier Alternatives Exceeding the Limits of Twitter for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-10-easy-to-use-gamers-edits-software/"><u>[Updated] 2024 Approved Top 10 Easy-to-Use Gamers' Edits Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-a-connected-collection-across-applications/"><u>[Updated] Crafting a Connected Collection Across Applications</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-groundbreaking-open-source-software-for-modern-video-conferencing/"><u>[Updated] Groundbreaking Open Source Software for Modern Video Conferencing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-high-definition-gameplay-capture-mastery/"><u>[Updated] High-Definition Gameplay Capture Mastery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-high-quality-videos-at-your-fingertesps-selecting-the-right-fps/"><u>[Updated] High-Quality Videos at Your Fingertesps Selecting the Right FPS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-comparing-the-leading-tunefab-screen-recorders/"><u>[Updated] In 2024, Comparing the Leading Tunefab Screen Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-ppt-transformers-to-vimeo/"><u>[Updated] In 2024, Expert PPT Transformers to Vimeo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-optimizing-footage-variety-in-your-video-production/"><u>[Updated] Optimizing Footage Variety in Your Video Production</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-groupwatcher-pro-hd-downloader/"><u>2024 Approved GroupWatcher Pro HD Downloader</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-troubleshooting-for-fixing-playstation-4s-wi-fi-connectivity-problems-guaranteed-solution/"><u>Step-by-Step Troubleshooting for Fixing PlayStation 4'S Wi-Fi Connectivity Problems [Guaranteed Solution]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ongoe-cycle-of-existence-key-takeaways-from-the-intriguing-black-survival/"><u>The Ongoe Cycle of Existence – Key Takeaways From the Intriguing 'Black Survival'</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Non-Disclosure in Videos  Tips for Masking Identifiable Details for 2024\""
-date: 2024-10-08T10:03:48.765Z
-updated: 2024-10-10T03:15:14.446Z
+date: 2024-10-14T18:08:35.185Z
+updated: 2024-10-16T16:27:53.019Z
 tags: 
   - screen-recording
   - ai video
@@ -60,13 +60,6 @@ Besides being one of the best screen capturing computer programs for beginners i
 
 ![Filmora Text Effects](https://images.wondershare.com/filmora/guide/setup-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Filmora Scrn is perfectly equipped for recording all types of PIP videos that need to capture desktop activities while also **recording the footage from a webcam**. YouTubers and all other users of this software can feature themselves in the video. Filmora Scrn lets you capture videos with **frame rates that go from 15 fps to 120 fps**, and it also enables users to **adjust the size of the screen** area they want to capture.
 
 Recording voice-over during the recording session, adding markers, or using HotKeys to start or pause recording sessions are just a few among the many amazing features Filmora Scrn offers.
@@ -75,24 +68,31 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
 
 The original frame is shown below, and I want to blur and hide these two sensitive pictures (in red mark).
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-examples.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
 
@@ -102,6 +102,13 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
 Hiding the identity of the people in your videos and concealing private information like bank account or telephone numbers is advised if you want to avoid any chance of misuse of these data.
@@ -109,19 +116,6 @@ Hiding the identity of the people in your videos and concealing private informat
 #### Step 1. Record a video or import a video file into the editor
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -137,13 +131,6 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -155,6 +142,13 @@ Finally, you can go ahead and click on the Export button if you're happy with th
 Ok, that's it. Hope you have hidden and blurred the private info in your recorded video. Leave a comment below and let us know if it works for you perfectly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -171,22 +165,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expert-recommendations-top-5-video-recording-software/"><u>[New] 2024 Approved Expert Recommendations Top 5 Video Recording Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-indispensable-sandbox-journeys-await/"><u>[New] 2024 Approved Indispensable Sandbox Journeys Await</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-six-winning-strategies-to-recording-and-saving-mov-on-windows-11/"><u>[New] 2024 Approved Six Winning Strategies to Recording and Saving .mov on Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-danger-of-censorship/"><u>[New] In 2024, The Danger of Censorship</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazon-primes-trending-series-twitters-choice-2023/"><u>[Updated] 2024 Approved Amazon Prime's Trending Series - Twitter's Choice, 2023</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortless-selfie-sending-learn-the-technique-now/"><u>[Updated] 2024 Approved Effortless Selfie Sending - Learn the Technique Now</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-comprehensive-guide-to-nvidia-screener-use/"><u>[Updated] Comprehensive Guide to NVIDIA Screener Use</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-your-personalized-top-10-playlist/"><u>[Updated] In 2024, Your Personalized Top 10 Playlist</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-role-playing-realms-vintage-versus-variant-forms/"><u>[Updated] Role-Playing Realms Vintage Versus Variant Forms</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-understanding-picture-in-picture-how-to-use-it-for-youtube-for-2024/"><u>[Updated] Understanding Picture In Picture How to Use It for YouTube for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-secrets-how-to-save-your-google-conversations/"><u>2024 Approved Unveiling Secrets How to Save Your GooGle Conversations</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-advanced-techniques-with-obs-studio-for-android/"><u>In 2024, Advanced Techniques with OBS Studio for Android</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-tinyvid-recorder-examination-and-reviews/"><u>In 2024, TinyVid Recorder Examination & Reviews</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/kickstart-your-ai-journey-with-insights-from-9-community-guides/"><u>Kickstart Your AI Journey with Insights From 9 Community Guides</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/supreme-seminar-strategist-summit/"><u>Supreme Seminar Strategist Summit</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-cutting-edge-hardware-discoveries-from-toms-hq/"><u>The Ultimate Resource for Cutting-Edge Hardware: Discoveries From Tom's HQ</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simplified-guide-to-mobile-video-capture-for-2024/"><u>[New] Simplified Guide to Mobile Video Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-digital-video-capturing-demystified-systematic-guide-for-2024/"><u>[Updated] Digital Video Capturing Demystified Systematic Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-art-of-animated-storytelling-tips-for-instagram-text/"><u>[Updated] In 2024, The Art of Animated Storytelling Tips for Instagram Text</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-protection-why-every-iphone-user-should-consider-a-case-especially-with-the-latest-iphone-16-zdnet/"><u>Essential Protection: Why Every iPhone User Should Consider a Case, Especially With the Latest iPhone 16 (ZDNet)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-motorola-edge-40-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Motorola Edge 40 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-twitch-broadcasts-recording-essentials/"><u>Mastering Twitch Broadcasts Recording Essentials</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-s24-ultra-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy S24 Ultra Screen | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/sonicscope-in-depth-auditory-evaluation-for-2024/"><u>SonicScope In-Depth Auditory Evaluation for 2024</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-installing-windows-10-via-usb-drive-with-illustrative-images/"><u>Step-by-Step Guide: Installing Windows 10 via USB Drive with Illustrative Images</u></a></li>
 </ul></div>
 
