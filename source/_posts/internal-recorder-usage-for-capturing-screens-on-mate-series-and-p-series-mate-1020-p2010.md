@@ -1,7 +1,7 @@
 ---
 title: "Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)"
-date: 2024-10-10T18:45:32.579Z
-updated: 2024-10-16T18:29:19.685Z
+date: 2024-10-21T04:28:57.097Z
+updated: 2024-10-22T04:03:20.998Z
 tags: 
   - screen-recording
   - ai video
@@ -50,13 +50,6 @@ In case you were looking for a way to record a screen on a Huawei Smartphone, yo
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Capture Screen on a Huawei Smartphone
 
 With the built-in [screen record](https://tools.techidaily.com/wondershare/filmora/download/) features, you can start or stop recording sessions in three different ways on your Huawei P10/P20 or Mate10 screen. You can both enable the screen recording shortcut in the notification panel, and press the volume up button and the Power button at the same time. Besides, you can record your Huawei screen with knuckling gestures. Let’s check the detailed screen recording steps.
@@ -66,6 +59,13 @@ With the built-in [screen record](https://tools.techidaily.com/wondershare/filmo
 Pull-down notification panel from the top, find the Screen Recorder shortcut icon, and tap it to enable the screen recording feature. A notification will appear on your screen asking you if you want to enable the phone's screencasting feature. Read the notification and instructions carefully and tap Agree to start the screen recording. To stop recording, just go to the notification panel again, and tap the screen recorder icon again and the screen recording will be stopped.
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2. Pressing Buttons to Record Huawei Screen
 
@@ -83,32 +83,26 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -118,10 +112,10 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -139,22 +133,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-elevate-your-zoom-experience-syncing-speakers-and-microphones/"><u>[New] Elevate Your Zoom Experience Syncing Speakers & Microphones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-high-definition-footage-leading-cameras-of-2024/"><u>[New] High Definition Footage Leading Cameras of 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ideal-blueprint-top-6-fresh-mojave-homes/"><u>[New] In 2024, Ideal Blueprint Top 6 Fresh Mojave Homes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-top-amazon-prime-tweets-favorites-galore/"><u>[New] Top Amazon Prime Tweets Favorites Galore</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-fix-low-quality-footage-on-different-devices/"><u>[Updated] 2024 Approved Fix Low-Quality Footage on Different Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-innovative-ways-to-capture-online-discussions/"><u>[Updated] 2024 Approved Innovative Ways to Capture Online Discussions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-picks-user-friendly-software-for-new-game-recorders-and-editors/"><u>[Updated] 2024 Approved Top Picks User-Friendly Software for New Game Recorders & Editors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-breakdown-the-broadcasting-barrier-easy-windows-pc-guide-to-live-tv-recording-for-2024/"><u>[Updated] Breakdown the Broadcasting Barrier Easy Windows PC Guide to Live TV Recording for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-capturing-live-streams-on-fb-top-techniques-revealed/"><u>[Updated] Capturing Live Streams on FB Top Techniques Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-best-video-capture-for-iphoneipad-users/"><u>[Updated] The Best Video Capture for iPhone/iPad Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-tips-for-aspiring-professionals-entering-the-field-of-prompt-engineering/"><u>Essential Tips for Aspiring Professionals Entering the Field of Prompt Engineering</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-motorola-moto-g84-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Motorola Moto G84 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oppo-f23-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo F23 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/optimal-voice-capture-systems-reviewed-top-7-2023/"><u>Optimal Voice Capture Systems Reviewed Top 7 2023</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/shift-your-screenscape-dynamic-windows-11-backgrounds/"><u>Shift Your Screenscape Dynamic Windows 11 Backgrounds</u></a></li>
-<li><a href="https://app-tips.techidaily.com/solving-idevice-software-challenges-tips-for-successful-ios-upgrades/"><u>Solving iDevice Software Challenges: Tips for Successful iOS Upgrades</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-5-xbox-external-hard-drive-you-can-find/"><u>Top 5 Xbox External Hard Drive You Can Find</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2023-play-facebook-videos-on-tv-for-2024/"><u>[New] 2023 | Play Facebook Videos on TV for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>[New] 2024 Approved The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-transform-ppt-content-into-digital-filmstrip/"><u>[New] 2024 Approved Transform PPT Content Into Digital Filmstrip</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-building-an-mc-village-housing-essentials-for-2024/"><u>[New] Building an MC Village Housing Essentials for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-import-music-to-inshot-app/"><u>[New] How to Import Music to Inshot App?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-resuscitating-dormant-connections-with-your-obs-cam/"><u>[New] In 2024, Resuscitating Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimal-techniques-for-capturing-ppt-sessions-for-2024/"><u>[New] Optimal Techniques for Capturing PPT Sessions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-slendersky-stash-affordable-capacious-clouds/"><u>[New] SlenderSky Stash Affordable, Capacious Clouds</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransformative-tactics-youtube-visibility-strategies/"><u>[New] Transformative Tactics YouTube Visibility Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vsi-vidrecorder-verdicts-in-depth-overview/"><u>[Updated] In 2024, VSI VidRecorder Verdicts In-Depth Overview</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premier-call-customization-and-editing-software-for-2024/"><u>[Updated] Premier Call Customization and Editing Software for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamlabs-rival-tools-unveiled/"><u>2024 Approved Streamlabs' Rival Tools Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-80240020-on-your-pc-heres-how-to-successfully-install-windows-10/"><u>Error 80240020 on Your PC? Here's How to Successfully Install Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-tablet-artistry-top-8-drawing-software-for-ipados/"><u>In 2024, Tablet Artistry Top 8 Drawing Software for iPadOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-driver-interrupts-reconciled/"><u>Keyboard Driver Interrupts Reconciled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-opening-rar-files-for-mac-enthusiasts/"><u>The Ultimate Guide to Opening RAR Files for Mac Enthusiasts</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1728490110608-windows/"><u>Windowsリソース保護の機能が動作中止 - 解決策と対策</u></a></li>
 </ul></div>
 

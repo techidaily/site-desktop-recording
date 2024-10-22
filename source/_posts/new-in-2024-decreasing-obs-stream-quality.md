@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Decreasing OBS Stream Quality"
-date: 2024-10-14T18:19:30.148Z
-updated: 2024-10-16T18:06:56.024Z
+date: 2024-10-19T21:24:55.996Z
+updated: 2024-10-22T08:46:16.037Z
 tags: 
   - screen-recording
   - ai video
@@ -49,20 +49,6 @@ Step 4: Click on Apply and Ok button to save the new setting. Restart your compu
 
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 3\. Change Encoder Preset
 
 By default, OBS uses x264 as encoder and the encoder preset is set to “veryfast”. This is generally the best and most balanced setting. However, if you are getting OBS high encoding warning, you have to change the encoder preset to reduce the CPU usage. Generally, the higher the preset, the lower is CPU usage. Therefore, you have to set the preset from “veryfast” to “ultrafast” and here are the steps.
@@ -80,10 +66,17 @@ Step 5: Click on Apply and Ok button. Restart your computer and perform your act
 ![obs change encoder preset](https://images.wondershare.com/filmora/article-images/obs-change-encoder-preset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 4\. Try Hardware Encoding
@@ -101,6 +94,13 @@ Step 4: Change the encoder from default x264 to any other hardware encoder avail
 Step 5: Click on Apply and Ok to save the settings. Restart your computer and perform your operation on OBS.
 
 ![obs restart your computer and perform your operation](https://images.wondershare.com/filmora/article-images/obs-restart-your-computer-and-perform-your-operation.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 5\. Change Some Advanced Settings
 
@@ -121,10 +121,10 @@ Step 6: Click on Apply and Ok button to save the changes. Restart your computer 
 ![obs open and go to settings](https://images.wondershare.com/filmora/article-images/obs-open-and-go-to-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 6\. Use OBS Alternative
@@ -149,25 +149,11 @@ Step 2: Select the recording screen size and the audio sources. If you want to c
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -181,16 +167,16 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
@@ -233,27 +219,35 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -283,22 +277,19 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-premier-recommendations-best-iphone-tones-designers/"><u>[New] 2024 Approved Premier Recommendations Best iPhone Tones Designers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-snapshot-survival-guide-top-recorders-evaluated/"><u>[New] 2024 Approved SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-tips-for-capturing-your-skype-conversations/"><u>[New] In 2024, Essential Tips for Capturing Your Skype Conversations</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-achieve-cinematic-quality-with-ipad-time-lapses/"><u>[Updated] 2024 Approved Achieve Cinematic Quality with iPad Time-Lapses</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-free-guide-to-capturing-windows-3-quick-steps-for-2024/"><u>[Updated] Free Guide to Capturing Windows (3 Quick Steps) for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-agrarian-adventures-unplugged-stardews-kin-titles/"><u>[Updated] In 2024, Agrarian Adventures Unplugged Stardew's Kin Titles</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-visual-vault-unrivaled-in-capturing-and-saving-tweets-as-animations/"><u>[Updated] In 2024, Visual Vault Unrivaled in Capturing & Saving Tweets as Animations</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-prime-zero-dollar-clip-maker-program/"><u>[Updated] Prime Zero-Dollar Clip Maker Program</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-recording-showdown-the-battle-for-the-best-screen-grabber-for-2024/"><u>[Updated] Recording Showdown The Battle for the Best Screen Grabber for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-reimagined-sony-bdp-s6700-experience/"><u>2024 Approved The Reimagined Sony BDP-S6700 Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-mov-files-to-mp4-free-online-supports-mac-and-windows-10/"><u>Convert MOV Files to MP4 Free Online - Supports MAC & WINDOWS 10</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/debating-the-need-for-itop-screencasting/"><u>Debating the Need for ITop Screencasting</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-epson-perfection-v600-driver/"><u>Download Epson Perfection V600 Driver</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-video-capture-a-deep-dive-into-tunefab-products/"><u>In 2024, Mastering Video Capture A Deep Dive Into Tunefab Products</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-dimming-audio-with-audacity/"><u>Mastering Dimming Audio with Audacity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mouse-double-click-3-essential-tips/"><u>Mastering Mouse Double-Click: 3 Essential Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nubia-red-magic-9-proplus-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nubia Red Magic 9 Pro+ Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mov-file-handling-best-practices-on-windows-10-systems/"><u>.mov File Handling Best Practices on Windows 10 Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-inexpensive-pcs-mastering-best-obs-arrangements/"><u>[New] Inexpensive PCs Mastering Best OBS Arrangements</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-secrets-to-preserving-online-broadcasts-professionally/"><u>[Updated] In 2024, Secrets to Preserving Online Broadcasts Professionally</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-innovative-and-user-friendly-voice-editing-apps-for-2024/"><u>[Updated] Innovative and User-Friendly Voice Editing Apps for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfect-your-igtv-shooting-skills-tips-for-smartphonedslr-cameras-for-2024/"><u>[Updated] Perfect Your IGTV Shooting Skills Tips for Smartphone/DSLR Cameras for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-endless-visual-streaming-services/"><u>2024 Approved Endless Visual Streaming Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-the-essential-audio-interface-for-your-podcaster/"><u>2024 Approved The Essential Audio Interface for Your Podcaster</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-instagram-videos-that-stand-out/"><u>Crafting Compelling Instagram Videos That Stand Out</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-oculus-link-6-swift-solutions-for-the-black-screen-issue/"><u>Fix Your Oculus Link: 6 Swift Solutions for the Black Screen Issue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/handhinas-and-lenses-for-journey-shots-for-2024/"><u>Handhinas and Lenses for Journey Shots for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/maximizing-your-videos-impact-with-expertly-recorded-voices/"><u>Maximizing Your Video's Impact with Expertly Recorded Voices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfect-your-verbal-direction-mastering-gpt-with-5-voice-based-strategies/"><u>Perfect Your Verbal Direction: Mastering GPT with 5 Voice-Based Strategies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/time-your-shots-perfectly-tips-for-instagrams-slow-motion-for-2024/"><u>Time Your Shots Perfectly Tips for Instagram’s Slow Motion for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Pop 8 | Dr.fone</u></a></li>
 </ul></div>
 

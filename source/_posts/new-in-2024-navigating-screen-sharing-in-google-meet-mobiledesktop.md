@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Navigating Screen Sharing in Google Meet Mobile/Desktop"
-date: 2024-10-11T16:13:25.613Z
-updated: 2024-10-16T19:21:11.029Z
+date: 2024-10-17T22:19:36.222Z
+updated: 2024-10-22T05:45:07.498Z
 tags: 
   - screen-recording
   - ai video
@@ -41,13 +41,6 @@ Alongside footage from your device's camera or webcam, Google Meet enables you t
 
 You can share your screen while presenting in Google Meet. Everything displayed on your screen will be shared with the meeting participants using the Google Meet share screen feature, from word documents and spreadsheets to PowerPoint slides. Want to know how to share the screen in Google Meet? It's just a matter of few simple steps. Let's take a look.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Join the Google Meet session
 
 Access Google Meet through the link <https://meet.google.com/> and click join the meeting.
@@ -62,13 +55,6 @@ Note: When Present Now is clicked, the menu will appear to ask you to select the
 
 ![   Google Meet Present Now  ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-share-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Confirm sharing window or screen
 
 Click on the **Share option** after selecting your preferred choice of screen sharing option in step 2.
@@ -80,6 +66,19 @@ Click on the **Share option** after selecting your preferred choice of screen sh
 ## Part 2: How to Share Your iPhone or iPad's Screen Using Google Meet?
 
 Perks of Google Meet are not limited to Windows users. So, you can also use Google Meet from your iPhone or iPad. Like all other features, iPhone and iPad users can use screen sharing features too. If you are thinking to inquire more about **how to share a screen on Google Meet** using iPhone or iPad, we have explained the simple steps below.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Launch the Google Meet application and Join a Meeting
 
@@ -97,25 +96,11 @@ A pop-up will appear. Start broadcast to share your screen with other participan
 
 ![  Share Screen on Google Meet iPhone](https://images.wondershare.com/filmora/article-images/google-meet-screen-broadcast-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** When you want to stop sharing your screen, you need first to stop the broadcast and then stop sharing the screen. You may also share your screen when someone else is already sharing the screen in Google Meet. In such a case, other participant's presentations will pause until you stop sharing your screen.
 
 ## Part 3: How to Share Your Android Device's Screen Using Google Meet?
 
 Most people participate in Google Meet sessions using their laptops or desktop computers. However, they may need to join a video conference while traveling and might not have access to a laptop at that time. Android phones are no less than a blessing in such a scenario. Luckily, you can also share your Android phone's screen with all the meeting participants. So, you don't need to miss an important meeting or a panel discussion. Here are steps to share the screen through your Android phone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Open up the Google Meet
 
@@ -134,10 +119,10 @@ Click **start sharing** from the pop-up message displayed on the screen.
 ![  Share Screen on Google Meet Android](https://images.wondershare.com/filmora/article-images/start-screen-sharing-google-meet-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Share Your Screen When Someone Else is Presenting?
@@ -163,26 +148,19 @@ Choose **the Share now** option when a pop-up notification appears, and then you
 ![  Share Screen on Google Meet when someone else is presenting](https://images.wondershare.com/filmora/article-images/share-screen-as-presenter-on-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** The other member presenting will find his presentation paused till you do not end your presentation and cancel screen sharing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How to Share Screen and Presentation without Participating?
 
@@ -202,15 +180,36 @@ Tap **Present** and select a preferred window to share. By default, the system a
 
 ![  Share Screen without join in Google Meet  ](https://images.wondershare.com/filmora/article-images/share-screen-on-google-meet-without-participating.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: When you are just sharing the screen with the microphone and camera disabled, other participants will not be able to hear your voice or see you. Similarly, you do not need to turn on the camera and microphone if you are using Google Meet on an Android device, as you can directly share the screen instead of joining a meeting on an Android device.
 
 ## Bonus: How to Share Your Screen Using a Browser Other than Chrome
 
 Chrome is not the only way to access video-conferencing tools. There is no exception for Google Meet. So, you can use all its features, and even access it through any other browser such as Internet Explorer or Firefox. Alongside joining Google Meet, you may also share your screen in Firefox and Internet explorer. Similarly, Opera mini can be used as well to take advantage of the screen sharing feature. Although the process is almost the same as in Google Chrome, users may find a slightly different interface when joining through other browsers. Let's summarize the procedure in simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Download the preferred browser
 
 Download and launch the browser by clicking on its icon on the desktop or toolbar
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Open Google Meet
 
@@ -218,24 +217,31 @@ Search for Google Meet and click **new meeting**.
 
 **Note:** Log in to your Gmail account first**.** You can also directly access Google Meet by entering its official web address. Moreover, if you are not a host, you need to join the meeting through an invite link or code.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Share screen
 
 Click the **Present now** option and choose the window area you want to share from the drop-down menu. Tap the '**allow'** button to start screen sharing.
 
 ![Share  Google Meet screen on Firefox  ](https://images.wondershare.com/filmora/article-images/share-screen-google-meet-firefox-browser.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Conclusion**
 
 By now, our step-by-step guide about how to share screen on Google Meet must have answered many questions you might have before reading the article. So, whether you are using a laptop or a phone, you can easily [record your Google Meet sessions](https://tools.techidaily.com/wondershare/filmora/download/) regardless of the operating system. To conclude, the Google Meet Screen sharing feature is of immense importance. So, if you want to maximize the benefits from this masterpiece creation of Google, you must excel in the art of screen sharing on all platforms and devices.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -252,20 +258,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-distance-to-face-to-face-laptop-techniques-for-whatsapp-calls/"><u>[New] 2024 Approved From Distance to Face-to-Face Laptop Techniques for WhatsApp Calls</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-full-screen-recorder-azs-complete-application-review/"><u>[New] 2024 Approved Full Screen Recorder - AZ's Complete Application Review</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-effective-techniques-for-crafting-and-changing-fb-video-covers/"><u>[New] In 2024, Effective Techniques for Crafting & Changing FB Video Covers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-speed-kings-guide-to-fast-frame-gathering/"><u>[New] Speed King's Guide to Fast Frame Gathering</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-strategic-dominance-unleashed-the-foremost-7-war-games/"><u>[New] Strategic Dominance Unleashed The Foremost 7 War Games</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-50-greatest-virtual-scenes-for-online-meetings-for-2024/"><u>[Updated] 50 Greatest Virtual Scenes for Online Meetings for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-10-expert-choices-for-terraria/"><u>[Updated] In 2024, Top 10 Expert Choices for Terraria</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-securely-capturing-your-zoom-sessions-for-2024/"><u>[Updated] Securely Capturing Your Zoom Sessions for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>[Updated] Step-by-Step Walkthrough Incorporating Subtitles in MP4s</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unleashing-the-power-of-whiteboards-on-zoom-platforms-across-multiple-devices/"><u>[Updated] Unleashing the Power of Whiteboards on Zoom Platforms Across Multiple Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/cosmic-crafter-navigating-novel-pc-choices/"><u>Cosmic Crafter: Navigating Novel PC Choices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-jpg-using-digisigner-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to Electronically Sign a JPG Using DigiSigner</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/iso-zu-dvd-konvertieren-mit-windows-1087-einfache-brennvorlagen-und-tipps-fur-anwender/"><u>ISO Zu DVD Konvertieren Mit Windows 10/8/7 - Einfache Brennvorlagen Und Tipps Für Anwender</u></a></li>
-<li><a href="https://fox-place.techidaily.com/onedrive-windows/"><u>OneDriveの自動更新とファイル同期 - Windows環境で</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/solving-the-issue-of-non-responsive-buttons-on-windows-11-proven-fixes/"><u>Solving the Issue of Non-Responsive Buttons on Windows 11: Proven Fixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-video-presentation-boost-adding-bb-and-lc-frameworks/"><u>[New] 2024 Approved Facebook Video Presentation Boost Adding BB and LC Frameworks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-amd-graphics-relic/"><u>[New] AMD Graphics Relic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-apeak-soft-recording-performance-and-reliability-assessed-for-2024/"><u>[New] Apeak Soft Recording Performance and Reliability Assessed for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-5-mac-cam-alternatives-to-elevate-your-digital-screens-for-2024/"><u>[New] Top 5 Mac Cam Alternatives to Elevate Your Digital Screens for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-loom-lens-illuminating-your-recording-journey/"><u>[Updated] In 2024, Loom Lens Illuminating Your Recording Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-master-list-of-10-best-video-chat-programs-today-for-2024/"><u>[Updated] Master List of 10 Best Video Chat Programs Today for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-twin-screens-archive-capture-for-2024/"><u>[Updated] Twin Screens Archive Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-visualloger-12-professional/"><u>[Updated] VisualLoger 12 Professional</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-brand-expression-made-simple-affordable-personalized-logo-templates-free/"><u>2024 Approved Brand Expression Made Simple Affordable Personalized Logo Templates (Free)</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-battle-of-bros-hero5-black-and-virb-ultra-face-off/"><u>In 2024, Battle of Bros Hero5 Black & VIRB Ultra Face Off</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-10-firefox-screen-recorders-and-add-ons/"><u>In 2024, Top 10 Firefox Screen Recorders and Add-Ons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-computing-experts-comprehensive-insights/"><u>Inside Tom's Computing Experts: Comprehensive Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/simple-systems-a-step-by-step-guide-to-documenting-google-hangoutsmeet/"><u>Simple Systems A Step-by-Step Guide to Documenting Google Hangouts/Meet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sync-your-ca-drivers-license-with-digital-wallets-integrating-id-cards-in-apple-and-google-systems-for-residents-of-california/"><u>Sync Your CA Driver’s License with Digital Wallets: Integrating ID Cards in Apple & Google Systems for Residents of California</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformer-facilement-un-fichier-ts-en-format-wav-gratuitement-avec-une-solution-en-ligne-movavi/"><u>Transformer Facilement Un Fichier TS en Format WAV Gratuitement Avec Une Solution en Ligne - Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-unconnected-nvidia-ports-with-proven-techniques/"><u>Troubleshoot Unconnected Nvidia Ports with Proven Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-power-of-connectivity-10-ways-to-solve-iphone-calling-difficulties/"><u>Unlock the Power of Connectivity: 10 Ways to Solve iPhone Calling Difficulties</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-on-the-fly-ai-with-agentgpt/"><u>Unlocking On-the-Fly AI with AgentGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Enhancing Your Videos  Step-by-Step for Ken Burns Effect in Camtasa\""
-date: 2024-08-28T22:10:23.184Z
-updated: 2024-08-29T22:10:23.184Z
+date: 2024-10-21T07:53:31.576Z
+updated: 2024-10-22T02:37:31.445Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-initiate-google-meet-using-your-gadget/"><u>[New] 2024 Approved Initiate Google Meet Using Your Gadget</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-optimizing-control-switch-pro-for-steam-gaming/"><u>[New] In 2024, Optimizing Control Switch Pro for Steam Gaming</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-proven-strategies-for-implementing-visual-enhancements-in-media/"><u>[New] Proven Strategies for Implementing Visual Enhancements in Media</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capturecore-an-exhaustive-look-at-new-recording-technology/"><u>[Updated] 'CaptureCore' An Exhaustive Look at New Recording Technology</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-complete-examination-of-camstudios-capturing-features-for-2024/"><u>[Updated] Complete Examination of CamStudio's Capturing Features for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-conquer-recording-challenges-using-ezvides-screencasting-for-2024/"><u>[Updated] Conquer Recording Challenges Using EZvide's Screencasting for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-alternate-functions-with-webcams-for-2024/"><u>[Updated] Exploring Alternate Functions with Webcams for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-watchlist-top-10-advanced-video-capture-programs/"><u>2024 Approved Elite Watchlist Top 10 Advanced Video Capture Programs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-understanding-the-difference-in-30-and-60-fps-videography/"><u>2024 Approved Understanding the Difference in 30 and 60 FPS Videography</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/enjoy-streaming-and-interactive-youtubing-on-the-go-optimized-for-samsungs-latest-galaxy-s21note-21-devices/"><u>Enjoy Streaming & Interactive YouTubing on the Go – Optimized for Samsung's Latest Galaxy S21/Note 21 Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/fast-track-installing-snapchat-on-your-mac-device-for-2024/"><u>Fast Track Installing Snapchat on Your Mac Device for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m34-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M34 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-innovative-recording-solutions-for-dynamic-ppts-webcam-edition/"><u>In 2024, Innovative Recording Solutions for Dynamic PPTs, Webcam Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-reno-8t-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo Reno 8T 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-c51-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme C51 Phone Pattern Lock</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-asus-rog-phone-8-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Asus ROG Phone 8 Pro? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

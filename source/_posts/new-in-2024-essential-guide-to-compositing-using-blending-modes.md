@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Essential Guide to Compositing Using Blending Modes"
-date: 2024-10-13T18:20:34.105Z
-updated: 2024-10-16T18:48:12.084Z
+date: 2024-10-16T04:27:11.474Z
+updated: 2024-10-21T18:06:34.132Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ The **Normal mode** is a part of the standard set of blending modes in almost al
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The **Screen Mode** is best used when you are working with dark monochrome backgrounds because it reduces the dark areas in the video thus enabling you to blend the top layer into the background seamlessly.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
@@ -71,10 +78,10 @@ The **Multiply Mode** is also one of the frequently used blending modes that **m
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Blending Modes?
@@ -86,13 +93,6 @@ Applying different blending modes and switching between them is easy, and it won
 In case you've used Filmora Scrn's screen recorder to capture your video, the video clip will be opened in the software's video editor and placed in the media bin, immediately after the recording session is over. However, the Wondershare's software also allows you to import the footage you've captured with a video camera or any other video recording software or device.
 
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
@@ -109,10 +109,10 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
@@ -130,16 +130,10 @@ Overlaying two video clips and blending them to each other can be an effective w
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -157,19 +151,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-farm-team-time-top-10-agricultural-games-to-share-and-compete-for-2024/"><u>[New] Farm Team Time Top 10 Agricultural Games to Share & Compete for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-tutorial-triumph-a-step-towards-a-million-view-goal/"><u>[New] Tutorial Triumph A Step Towards a Million View Goal</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-hassle-free-techniques-record-your-dell-screen-easily/"><u>[Updated] Hassle-Free Techniques Record Your Dell Screen Easily</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unexpected-10-best-kept-facebook-memes-for-2024/"><u>[Updated] Unexpected 10 Best-Kept Facebook Memes for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-text-motion-manuals/"><u>2024 Approved Premier Text Motion Manuals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/anthem-speed-enhancement-tips/"><u>Anthem Speed Enhancement Tips</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/extract-audio-from-mp4-top-rated-mp4-to-mp3-converters/"><u>Extract Audio From MP4 Top-Rated MP4 to MP3 Converters</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-g2-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo G2 Phone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-small-companies-guide-to-the-most-secure-video-tools/"><u>In 2024, Small Companies' Guide to the Most Secure Video Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-g310-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia G310 Phones</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/premium-online-audio-solutions-guide/"><u>Premium Online Audio Solutions Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/shoppers-ultimate-list-of-top-rated-webcams-for-2024/"><u>Shopper’s Ultimate List of Top-Rated Webcams for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-insta-twist-techniques-manual-flipping-photos-and-videos-for-social-media-success-for-2024/"><u>The Insta Twist Techniques Manual Flipping Photos and Videos for Social Media Success for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-guide-non-commercial-android-recorder-choice/"><u>[New] 2024 Approved Essential Guide Non-Commercial Android Recorder Choice</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-evaluating-streamlabs-vs-competitive-embedders/"><u>[New] Evaluating StreamLabs Vs. Competitive Embedders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-methods-for-streamlining-console-playback-pc-wise/"><u>[New] In 2024, Expert Methods for Streamlining Console Playback PC-Wise</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-minecraft-ultimate-recording-techniques/"><u>[New] In 2024, Mastering Minecraft Ultimate Recording Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-path-to-polished-photo-borders-in-instagram-for-2024/"><u>[New] The Path to Polished Photo Borders in Instagram for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-critically-acclaimed-phone-and-desktop-video-calls-list/"><u>[Updated] Critically Acclaimed Phone and Desktop Video Calls List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-obs-setup-for-skype-screenshots/"><u>[Updated] In 2024, Advanced OBS Setup for Skype Screenshots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-select-a-premium-360-camera-today/"><u>2024 Approved How to Select a Premium 360 Camera Today</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-maximizing-impact-best-practices-for-corporate-screencast-training/"><u>2024 Approved Maximizing Impact Best Practices for Corporate Screencast Training</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-tricking-out-genuine-from-fraudulent-instagram-pals/"><u>2024 Approved Tricking Out Genuine From Fraudulent Instagram Pals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-gamers-guides-essential-tips-for-recording-riveting-races/"><u>In 2024, Gamers' Guides Essential Tips for Recording Riveting Races</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/post-weld-treatments-can-alleviate-residual-stresses-but-are-not-a-guaranteed-solution-to-prevent-all-forms-of-deformation/"><u>Post-Weld Treatments Can Alleviate Residual Stresses but Are Not a Guaranteed Solution to Prevent All Forms of Deformation.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-moto-g-5g-2023-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Moto G 5G (2023) without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

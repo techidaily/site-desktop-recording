@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial\""
-date: 2024-08-28T22:07:32.504Z
-updated: 2024-08-29T22:07:32.504Z
+date: 2024-10-19T07:56:45.049Z
+updated: 2024-10-22T06:53:33.876Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,19 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +99,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +118,24 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-recording-gaming-with-fraps/"><u>[New] 2024 Approved The Ultimate Guide to Recording Gaming with Fraps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-androids-top-game-lineup-for-disconnected-device-enthusiasts/"><u>[Updated] Android's Top Game Lineup for Disconnected Device Enthusiasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-art-of-live-recording-sporting-events-on-screen/"><u>[Updated] In 2024, The Art of Live Recording Sporting Events on Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-inside-the-magic-of-io-screen-capture-technology/"><u>[Updated] Inside the Magic of IO Screen Capture Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-rss-files-for-impact-a-podcasters-blueprint/"><u>[Updated] Tailoring RSS Files for Impact A Podcaster's Blueprint</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-finest-9-cross-platform-video-conferencing-apps-for-iphonestablets/"><u>[Updated] The Finest 9 Cross-Platform Video Conferencing Apps for iPhones/Tablets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-take-on-magix-video-pro-x/"><u>2024 Approved Expert's Take on Magix Video Pro X</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-streamers-to-millionaires-the-monetization-blueprint/"><u>2024 Approved From Streamers to Millionaires The Monetization Blueprint</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-6-best-8k-cameras/"><u>2024 Approved Top 6 Best 8K Cameras</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-comprehensive-guide-to-high-quality-laptop-recordings/"><u>A Comprehensive Guide to High-Quality Laptop Recordings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-note-30-vip-racing-edition-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Note 30 VIP Racing Edition to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/protokoll-zur-wiederherstellung-geloschter-ordnern-auf-dem-weg-mit-onedrive/"><u>Protokoll Zur Wiederherstellung Gelöschter Ordnern Auf Dem Weg Mit OneDrive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-guide-step-by-step-process-to-install-exodus-add-on-in-kodi/"><u>Simple Guide: Step-by-Step Process to Install Exodus Add-On in Kodi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/testing-the-capabilities-of-magix-image-viewer/"><u>Testing the Capabilities of MAGIX Image Viewer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-zoom-recorders-handbook-from-basics-to-expertise/"><u>The Zoom Recorder's Handbook From Basics to Expertise</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-note-30-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix Note 30 FRP Bypass</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Take Fullscreen Digital Canvas"
-date: 2024-10-07T04:09:45.179Z
-updated: 2024-10-10T13:20:51.808Z
+date: 2024-10-21T13:45:46.196Z
+updated: 2024-10-22T05:52:18.960Z
 tags: 
   - screen-recording
   - ai video
@@ -54,20 +54,27 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
-Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
@@ -84,16 +91,10 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
@@ -118,18 +119,18 @@ Install the extension in your browser and then click on its icon in the Extensio
 
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4: Using Online Tools for Full Page Screenshots
 
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
@@ -138,13 +139,6 @@ Stand-alone software products that enable its users to take screenshots of entir
 Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
 
@@ -173,18 +167,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-androids-heartfelt-selection-of-3d-empathy-players/"><u>[New] Android's Heartfelt Selection of 3D Empathy Players</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-brilliant-filters-to-illuminate-videography/"><u>[New] In 2024, Brilliant Filters to Illuminate Videography</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-stream-and-share-successfully-with-fb-integration/"><u>[New] In 2024, Stream & Share Successfully with FB Integration</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-ultimate-facebook-playbook-for-business-growth-30-key-points/"><u>[Updated] The Ultimate Facebook Playbook for Business Growth (30 Key Points)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-asmrs-health-perks-a-guide/"><u>[Updated] Unlocking ASMR's Health Perks A Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-spatial-symphony-with-mac-recording/"><u>2024 Approved Spatial Symphony with Mac Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>2024 Approved Uniting Your Network with Cross-Platform Skype Chat Groups A How-To Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-apps-cutting-edge-software-for-webcam-edits/"><u>Best Apps Cutting-Edge Software for Webcam Edits</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/classifications-of-unmanned-aircraft-for-2024/"><u>Classifications of Unmanned Aircraft for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-13-pro-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 13 Pro Without Previous Owner?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-master-class-in-meeting-transcripts-zooms-software-showdown/"><u>In 2024, Master Class in Meeting Transcripts Zoom's Software Showdown</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/stealthy-strategies-for-eliminating-hashtags-for-2024/"><u>Stealthy Strategies for Eliminating Hashtags for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-obs-youtube-live-streaming-guide/"><u>[New] 2024 Approved Easy OBS YouTube Live Streaming Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-obs-recording-tech-breakdown-comparing-leading-screen-recorders/"><u>[New] 2024 Approved OBS Recording Tech Breakdown Comparing Leading Screen Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-where-custom-visuals-for-youtube-live-and-breathe/"><u>[New] 2024 Approved Where Custom Visuals for YouTube Live and Breathe</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-conquer-the-controller-xbox-one-screenshot-basics-for-2024/"><u>[New] Conquer the Controller Xbox One Screenshot Basics for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-expert-tips-iphones-secrets-to-perfect-movement-capture/"><u>[New] Expert Tips IPhone's Secrets to Perfect Movement Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-most-reliable-external-hdds-for-xbox-users-for-2024/"><u>[Updated] Most Reliable External HDDs for Xbox Users for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-iphone-7-display-a-comprehensive-guide-for-2024/"><u>[Updated] Recording iPhone 7 Display A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-breakdown-of-using-screencastify-for-video-capture-for-2024/"><u>[Updated] The Complete Breakdown of Using Screencastify for Video Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-guide-8-budget-friendly-video-calls-on-windows-and-mac/"><u>[Updated] Ultimate Guide 8 Budget-Friendly Video Calls on Windows & Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-walkthrough-how-to-disable-cortanacopilot-on-windows-11-systems/"><u>Complete Walkthrough: How To Disable Cortana/Copilot on Windows 11 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-x9b-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor X9b Phone Screen?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/methods-for-making-meetings-memorable-for-2024/"><u>Methods for Making Meetings Memorable for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-disconnected-secondary-monitor-on-pc/"><u>Tackling Disconnected Secondary Monitor on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/vidma-to-go-screen-record-and-beyond-alternatives-for-2024/"><u>Vidma to Go Screen Record and Beyond Alternatives for 2024</u></a></li>
 </ul></div>
 
