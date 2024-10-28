@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Switching File Extensions for Your Mac Snapshots\""
-date: 2024-08-23T23:31:09.266Z
-updated: 2024-08-24T23:31:09.266Z
+date: 2024-10-21T05:19:02.722Z
+updated: 2024-10-27T17:42:14.683Z
 tags: 
   - screen-recording
   - ai video
@@ -48,15 +48,19 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Screenshot Format Should You Use?
 
 Each image file format Mac computer support is designed for different purposes, which is the reason why you should choose the screenshot graphics format that best fits the context in which the file is going to be used. Converting PNG files to some popular file format is almost always necessary, so if you want to avoid having to go through the file conversion process every time you take a screenshot just to be able to edit it, our advice is to set the JPEG as the default screenshot file format on your Mac.
@@ -64,15 +68,23 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Change Screenshot Formats?
 
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
 When the Terminal window appears on the screen you will have to insert the following command:
@@ -110,15 +122,17 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -126,3 +140,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-game-capture-without-xboxs-intrusive-game-bar/"><u>[New] 2024 Approved Game Capture without Xbox’s Intrusive Game Bar</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716069010887-new-2024-approved-top-sandbox-adventures-not-to-skip/"><u>[New] 2024 Approved Top Sandbox Adventures Not To Skip!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-achieving-professional-streams-with-obs-android-style-for-2024/"><u>[New] Achieving Professional Streams with OBS, Android Style for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-current-lighting-infrastructure/"><u>[New] Current Lighting Infrastructure</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-essential-insights-for-integrating-hashtags-into-game-focused-yt-content/"><u>[New] Essential Insights for Integrating Hashtags Into Game-Focused YT Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-farm-frenzy-the-ultimate-group-game-guide-for-farms/"><u>[New] Farm Frenzy The Ultimate Group Game Guide for Farms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-crafting-the-perfect-minecraft-archive-6-key-strategies/"><u>[New] In 2024, Crafting the Perfect Minecraft Archive 6 Key Strategies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlock-the-potential-of-your-video-platform-growth-for-2024/"><u>[New] Unlock the Potential of Your Video Platform Growth for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-banishing-bogus-followers-from-instagram-landscape/"><u>[Updated] In 2024, Banishing Bogus Followers From Instagram Landscape</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-rapid-renders-of-powerpoint-plays/"><u>[Updated] Rapid Renders of PowerPoint Plays</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-conclusion-to-your-youtube-journey/"><u>[Updated] The Ultimate Conclusion to Your YouTube Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-launching-live-recordings-on-hp-computers/"><u>2024 Approved Launching Live Recordings on HP Computers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-color-correction-techniques/"><u>2024 Approved Mastering Color Correction Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-launches-nationwide-ai-powered-shopbot-rufus-just-before-prime-day-comprehensive-coverage-by-zdnet/"><u>Amazon Launches Nationwide AI-Powered Shopbot 'Rufus' Just Before Prime Day - Comprehensive Coverage by ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/frontline-contenders-top-7-action-fps-games-for-2024/"><u>Frontline Contenders Top 7 Action FPS Games for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-data.techidaily.com/how-to-clear-disk-space-safely-on-windows-10-8-and-7-avoid-data-loss/"><u>How to Clear Disk Space Safely on Windows 10, 8 and 7: Avoid Data Loss</u></a></li>
+</ul></div>
+

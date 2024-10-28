@@ -1,7 +1,7 @@
 ---
 title: "\"Mastery in Mac  Screen Capture Format Conversion\""
-date: 2024-10-19T00:28:00.850Z
-updated: 2024-10-21T21:27:00.538Z
+date: 2024-10-23T03:11:41.927Z
+updated: 2024-10-28T06:40:50.391Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,16 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Supported Image Formats on Mac
@@ -68,10 +74,10 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
@@ -79,10 +85,10 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -122,10 +128,10 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -143,22 +149,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-full-spectrum-analysis-the-logitech-4k-pro-webcam/"><u>[New] 2024 Approved Full Spectrum Analysis The Logitech 4K Pro Webcam</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-screen-capture-via-screencastify/"><u>[New] In 2024, The Ultimate Guide to Screen Capture via Screencastify</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-level-up-your-screen-shots-the-experts-approach-to-ps4-capture/"><u>[New] Level Up Your Screen Shots The Expert's Approach to PS4 Capture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-vcs-quickcapture-critique-full-review-and-guide/"><u>[New] VCS QuickCapture Critique Full Review & Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-x-sonic-recorder-desktop-format/"><u>[Updated] 2024 Approved X-Sonic Recorder Desktop Format</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-how-to-maximize-impact-with-onestreams-streaming-solutions/"><u>[Updated] In 2024, How to Maximize Impact with OneStream's Streaming Solutions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-screenflow-uncovered-mastering-video-editing-on-a-mac-for-2024/"><u>[Updated] ScreenFlow Uncovered Mastering Video Editing on a Mac for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-video-editor-selection-guide-understanding-filmora-and-democracy-creator/"><u>[Updated] Video Editor Selection Guide Understanding Filmora and Democracy Creator</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/cam-crossover-showdown-sj6-power-meets-yis-four-k-kickstart/"><u>Cam Crossover Showdown SJ6 Power Meets Yi’s Four-K Kickstart</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elevating-effects-a-tiktok-guide/"><u>Elevating Effects A TikTok Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminating-sound-crackling-errors-in-cyberpunk-2077-easy-solutions-revealed/"><u>Eliminating Sound Crackling Errors in Cyberpunk 2077 – Easy Solutions Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>In 2024, Capturing Slide Decks via Webcam A Step-by-Step Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-electorate-enthrallment-best-politic-based-game-reviews/"><u>In 2024, Electorate Enthrallment Best Politic-Based Game Reviews</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/setting-up-auto-play-youtube-content-on-facebook-platform-for-2024/"><u>Setting Up Auto-Play YouTube Content on Facebook Platform for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-regain-lost-connection-on-pcs-running-windows/"><u>Strategies to Regain Lost Connection on PCs Running Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y100i-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y100i Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-detailed-survey-gecatas-game-capture-utility/"><u>[New] Detailed Survey Gecata's Game Capture Utility</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-exclusive-selection-of-elite-race-games/"><u>[New] Exclusive Selection of Elite Race Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-live-streaming-capture-services/"><u>[New] In 2024, Live-Streaming Capture Services</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-introduction/"><u>[New] Introduction</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-street-smart-showdown-top-hand-to-hand-video-games/"><u>[Updated] 2024 Approved Street Smart Showdown Top Hand-to-Hand Video Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-superior-5-digital-capture-devices/"><u>[Updated] 2024 Approved Superior 5 Digital Capture Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-magix-acid-pro-evaluation-with-equivalent-software/"><u>[Updated] Magix ACID Pro Evaluation with Equivalent Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-melodic-mosaic-sites-for-classic-phone-chimes/"><u>[Updated] Melodic Mosaic Sites for Classic Phone Chimes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-preparing-to-engage-in-googles-video-meetings/"><u>[Updated] Preparing to Engage in Google's Video Meetings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-roadmap-to-wealth-sourav-joshi-and-youtube-earning/"><u>[Updated] The Roadmap to Wealth Sourav Joshi and YouTube Earning</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-your-video-to-life-with-cropping-adding-and-tweaking-audio-in-canva-for-2024/"><u>Bring Your Video to Life with Cropping, Adding, & Tweaking Audio in Canva for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-screen-record-on-lenovo-laptop/"><u>How to Screen Record on Lenovo Laptop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-perfect-silence-swaps-with-reaper/"><u>In 2024, Achieving Perfect Silence Swaps with Reaper</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-innovative-8-android-video-chat-apps-beyond-duostrios/"><u>In 2024, Innovative 8 Android Video Chat Apps Beyond Duos/Trios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-soft-ending-sounds-in-premiere-pro/"><u>In 2024, The Art of Soft-Ending Sounds in Premiere Pro</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-realme-narzo-60-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Realme Narzo 60 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-combining-your-fortnite-profiles-seamlessly/"><u>Ultimate Guide: Combining Your Fortnite Profiles Seamlessly</u></a></li>
 </ul></div>
 
