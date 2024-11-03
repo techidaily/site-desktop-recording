@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unveiling the Secrets of Ken Burns Motion in Camtasa\""
-date: 2024-08-23T23:25:12.915Z
-updated: 2024-08-24T23:25:12.915Z
+date: 2024-10-30T18:29:43.406Z
+updated: 2024-11-02T20:35:43.741Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,19 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +67,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +99,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +118,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-auto-arcade-adventures-for-kids/"><u>[New] 2024 Approved Auto Arcade Adventures for Kids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-complete-minecraft-filming-guidebook/"><u>[New] 2024 Approved Complete Minecraft Filming Guidebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-behind-the-scenes-discord-streaming-basics/"><u>[New] In 2024, Behind-the-Scenes Discord Streaming Basics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-techs-elite-selection-the-top-10-video-recorders-online-for-2024/"><u>[New] Tech's Elite Selection The Top 10 Video Recorders Online for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-advanced-techniques-in-fbx-game-filming/"><u>[Updated] Advanced Techniques in FBX Game Filming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speedy-conversion-techniques-for-your-srt-to-txt-tasks/"><u>[Updated] Speedy Conversion Techniques for Your SRT to TXT Tasks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-thriving-as-a-novice-youtuber-sidestep-these-8-crucial-pitfalls/"><u>2024 Approved Thriving as a Novice YouTuber? Sidestep These 8 Crucial Pitfalls!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/4-unlocking-the-secrets-of-avchd-to-mp4-conversion-on-windows-10-your-free-step-by-step-blueprint/"><u>4. Unlocking the Secrets of AVCHD-to-MP4 Conversion on Windows 10 – Your Free Step-by-Step Blueprint</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/breaking-down-the-image-quality-of-google-pixel-6-in-this-complete-review/"><u>Breaking Down the Image Quality of Google Pixel 6 in This Complete Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capture-every-pixel-of-pc-gaming-bliss-6-ways-for-2024/"><u>Capture Every Pixel of PC Gaming Bliss (6 Ways) for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-superior-fb-videograbber-bundle-high-quality-downloads/"><u>In 2024, Superior FB Videograbber Bundle - High-Quality Downloads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-problem-troubleshooting-your-malfunctioning-corsair-hs70-microphone/"><u>Resolving the Problem: Troubleshooting Your Malfunctioning Corsair HS70 Microphone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-now-instantly-enhance-your-system-with-the-nahimic-sound-card/"><u>Update Now: Instantly Enhance Your System with the Nahimic Sound Card</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi 14 Pro? | Dr.fone</u></a></li>
+</ul></div>
+

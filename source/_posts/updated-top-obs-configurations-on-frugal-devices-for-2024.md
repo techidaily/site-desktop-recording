@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top OBS Configurations on Frugal Devices for 2024"
-date: 2024-08-23T23:20:26.275Z
-updated: 2024-08-24T23:20:26.275Z
+date: 2024-10-31T17:10:57.479Z
+updated: 2024-11-02T18:28:24.797Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,13 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Settings That You Should Keep
 
 Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
@@ -41,6 +48,13 @@ Output tab, which is the resolution of the video that the people will watch. For
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Output Settings
 
 Once you are done with the general video settings now it's time you should come to the output settings. For that, you will need to choose the output from the main vertical tab as shown in the figure below in 1\. You will see a new window appears with a variety of settings. Now it's time to choose the advanced setting as shown in 2 in the figure to see all settings to be edited.
@@ -48,8 +62,12 @@ Once you are done with the general video settings now it's time you should come 
 ![obs output settings edited](https://images.wondershare.com/filmora/article-images/obs-output-settings-edited.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Let's move towards the detail settings for the output video for your audience it's best to choose the settings shown in the figure and below for lag-free and jitter-free video.
 
 **Encoder:**
@@ -78,34 +96,26 @@ By default, the profile option is disabled and you should keep these settings as
 
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1: Output Audio
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Step 2: Audio Tab Settings
 
 ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 
@@ -127,12 +137,22 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Stream Tab
 
@@ -140,9 +160,6 @@ The streaming tab can be accessed from the main vertical tab. After going to the
 
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Streaming Settings
 
 **Service:**
@@ -152,6 +169,13 @@ Here you have to choose the platform on which you are going to stream your video
 **Server:**
 
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Best Alternative to OBS
 
@@ -217,4 +241,20 @@ There may be a lot of other software which serve the same purpose but the best o
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-operational-update-troubled-obs-camera/"><u>[Updated] 2024 Approved Operational Update Troubled OBS Camera</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-resolve-hdr-video-issue-clearing-blank-display/"><u>[Updated] 2024 Approved Resolve HDR Video Issue Clearing Blank Display</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-openvidview-a-2024-innovation-no-price-tag/"><u>[Updated] OpenVidView A 2024 Innovation, No Price Tag</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-simplifying-the-process-of-capturing-and-fine-tuning-videos-in-adobe-connect-for-2024/"><u>[Updated] Simplifying the Process of Capturing and Fine-Tuning Videos in Adobe Connect for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/20plus-cool-metaverse-memes-a-deep-dive-guide-for-2024/"><u>20+ Cool Metaverse Memes A Deep Dive Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-decoding-the-essentials-of-your-youtube-tv-experience/"><u>2024 Approved Decoding the Essentials of Your YouTube TV Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-recording-techniques-for-stellar-voice-over-audio/"><u>2024 Approved Recording Techniques for Stellar Voice-Over Audio</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/automatic-file-backup-on-usb-stick-with-windows-11-when-inserted/"><u>Automatic File Backup on USB Stick with Windows 11 when Inserted</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-all-in-one-laptop-asus-vivobook-11-small-and-inexpensive-edition/"><u>Comprehensive Review of The All-in-One Laptop - Asus VivoBook 11: Small and Inexpensive Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/disrupting-tradition-the-emerging-fb-ad-practices/"><u>Disrupting Tradition The Emerging FB Ad Practices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/re-youtube-the-best-5-alternative-editors-await-for-2024/"><u>No More Youtube? The Best 5 Alternative Editors Await for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-complete-lowdown-on-using-showmores-recorder-for-2024/"><u>The Complete Lowdown on Using ShowMore's Recorder for 2024</u></a></li>
+</ul></div>
 

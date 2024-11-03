@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ultimate Guide to Achieving Cinematic Motion with Camtasia"
-date: 2024-08-23T23:22:04.070Z
-updated: 2024-08-24T23:22:04.070Z
+date: 2024-11-01T20:03:04.345Z
+updated: 2024-11-02T17:48:10.894Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,21 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-streamlining-your-live-events-merging-obs-and-zoom/"><u>[New] 2024 Approved Streamlining Your Live Events Merging OBS and Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-proper-mac-photo-tips-identifying-and-comparing-the-top-5-techniques-for-2024/"><u>[New] Proper Mac Photo Tips Identifying and Comparing The Top 5 Techniques for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-practical-approach-to-zoom-meetings/"><u>[Updated] A Practical Approach to Zoom Meetings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-efficiently-incorporate-media-in-your-tweets/"><u>[Updated] Efficiently Incorporate Media in Your Tweets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-foreground-emphasis-tips-for-logitech-video-recordings/"><u>[Updated] Foreground Emphasis Tips for Logitech Video Recordings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-legal-music-archives-top-10-websites-for-game-playlists/"><u>[Updated] Legal Music Archives Top 10 Websites for Game Playlists</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-perfecting-online-presentations-with-googles-whiteboard-tools-on-multiple-platforms/"><u>[Updated] Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pro-level-7-dslrs-that-transform-your-digital-storytelling-for-2024/"><u>[Updated] Pro-Level 7 DSLRs That Transform Your Digital Storytelling for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-solved-camera-hurdle-detailed-fixes-for-error-code-0xa00f4292-on-your-pc/"><u>Bypass the [Solved] Camera Hurdle: Detailed Fixes for Error Code 0Xa00f4292 on Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enter-the-ai-realm-easily-accessible-knowledge-in-our-9-communities/"><u>Enter the AI Realm: Easily Accessible Knowledge in Our 9 Communities</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-samsung-galaxy-m54-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Samsung Galaxy M54 5G Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-social-media-fame-on-instagram/"><u>Mastering Social Media Fame on Instagram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/modern-measures-of-machine-minds-after-the-turing-test/"><u>Modern Measures of Machine Minds: After The Turing Test</u></a></li>
+</ul></div>
+

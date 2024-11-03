@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capture Screens in Windows 8  4 Methods\""
-date: 2024-08-23T23:22:31.086Z
-updated: 2024-08-24T23:22:31.086Z
+date: 2024-10-26T23:18:59.888Z
+updated: 2024-11-03T01:27:09.324Z
 tags: 
   - screen-recording
   - ai video
@@ -62,12 +62,22 @@ If you don't want to download any software, the build-in Step Recorder is a tool
 
 ![step recorder](https://images.wondershare.com/filmora/article-images/record-steps-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Use Free Chrome Extension
 
 [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) is a service that works via Google Chrome and is very much one of the top rated screen capture & image annotation tools available to the public.
@@ -78,9 +88,6 @@ Due to the fact that it is a Google Chrome extension it is for capturing web pag
 
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Steps to download and use it to record computer screen:
 
  **Step 1:**  Download and Install Awesome Screen Shot from the Chrome store
@@ -92,9 +99,12 @@ Steps to download and use it to record computer screen:
  **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: Use Free Recording Software
 
 Ezvid Free Screen Recorders (<https://www.ezvid.com/>) is one of the best free screen recording software on Windows 8\. Ezvid records computer screens but not just websites but games and everything else you may want to record. It has very many features that include a facecam, voice synthesis and screen drawing.
@@ -109,17 +119,10 @@ Here's the stpes:
 
 ![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
 
  **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 These are just a few extensions and software that can be used to record computer screens for your Windows 8 device. They are also the highest voted recording softwares in their fields. Those being chrome extension, free downloadable software, advanced software and build-in tool. Recording your screen on a Windows 8 device need not be complicated and depending on your personal needs one of these three could really help you.
@@ -127,15 +130,17 @@ These are just a few extensions and software that can be used to record computer
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,3 +148,20 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-techniques-for-proximity-viewing-in-roblox/"><u>[New] Advanced Techniques for Proximity Viewing in Roblox</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-cinema-at-a-new-frontier-the-in-depth-look-at-the-lg-display-model-31mu97-b/"><u>[New] Cinema at a New Frontier The In-Depth Look at the LG Display, Model 31MU97-B</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-secrets-to-preserving-online-broadcasts-professionally-for-2024/"><u>[New] Secrets to Preserving Online Broadcasts Professionally for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capture-live-camera-feed-in-vlc-media-player/"><u>[Updated] 2024 Approved Capture Live Camera Feed in VLC Media Player</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-how-to-edit-the-length-of-a-video-on-youtube/"><u>[Updated] In 2024, How to Edit the Length of a Video on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-ignite-your-passion-launching-an-epic-youtube-game-streaming-venture/"><u>2024 Approved Ignite Your Passion Launching an Epic YouTube Game-Streaming Venture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-techniques-for-immaculate-vr-gaming-footage/"><u>2024 Approved Techniques for Immaculate VR Gaming Footage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-concealed-context-commands-windows-edition/"><u>Crafting Concealed Context Commands, Windows Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/explore-the-most-effective-zoom-screen-recorders/"><u>Explore the Most Effective Zoom Screen Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/eyedome-xtreme-ultimate-os-video-snapper/"><u>EyeDome Xtreme Ultimate OS Video Snapper</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a1x-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A1x 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-coredll-files-on-your-pc-effective-solutions/"><u>Troubleshooting Missing Core.dll Files on Your PC - Effective Solutions</u></a></li>
+</ul></div>
+

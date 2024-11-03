@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Essential Guide to Compositing Using Blending Modes"
-date: 2024-10-23T03:11:18.021Z
-updated: 2024-10-27T18:44:50.158Z
+date: 2024-10-30T21:47:00.135Z
+updated: 2024-11-02T20:43:40.961Z
 tags: 
   - screen-recording
   - ai video
@@ -49,16 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are Blending Modes in Filmora?
@@ -71,6 +65,13 @@ The **Normal mode** is a part of the standard set of blending modes in almost al
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The **Screen Mode** is best used when you are working with dark monochrome backgrounds because it reduces the dark areas in the video thus enabling you to blend the top layer into the background seamlessly.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
@@ -81,13 +82,20 @@ The **Multiply Mode** is also one of the frequently used blending modes that **m
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Blending Modes?
@@ -114,13 +122,6 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
 #### Step 3 - Export the video
@@ -128,13 +129,6 @@ Changing the Opacity value will enable you to reduce the transparency level of a
 Click on the Export button if you like the results and choose whether you want to save the file on your hard-disc or upload it to YouTube, Facebook or Vimeo directly from Filmora Scrn.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -157,18 +151,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>[New] Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-premium-hd-video-replay-devices-for-2024/"><u>[New] Premium HD Video Replay Devices for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-tailored-visual-representation-free-logo-base-for-personal-touches/"><u>[New] Tailored Visual Representation Free Logo Base for Personal Touches</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-discover-the-best-4k-capture-software-for-live-recording/"><u>[Updated] Discover the Best 4K Capture Software for Live Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-guide-to-top-6-apps-for-mac-video-snagging-for-2024/"><u>[Updated] Essential Guide to Top 6 Apps for Mac Video Snagging for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-customizing-your-watch-the-art-of-altering-youtube-video-pace/"><u>[Updated] In 2024, Customizing Your Watch The Art of Altering YouTube Video Pace</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-7-audio-capturers-2023-edition/"><u>[Updated] In 2024, Top 7 Audio Capturers 2023 Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/"><u>2024 Approved Shadowed Swords & Honored Combatants Must-Try Titles Inspired by Ghost of Tsushi</u></a></li>
-<li><a href="https://discover-data.techidaily.com/advanced-material-ui-dashboard-pro-v2-with-laravel-livewire-integration-created-by-creative-tim-and-updivision/"><u>Advanced Material UI Dashboard Pro v2 with Laravel Livewire Integration | Created by Creative Tim and Updivision</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-oppo-reno-10-pro-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-tecno-pova-5-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Tecno Pova 5 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-lava-agni-2-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Agni 2 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-a-stuck-or-unresponsive-media-player-on-win11/"><u>Troubleshooting a Stuck or Unresponsive Media Player on Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-deep-dive-into-sharex-feedback-and-substitutes/"><u>[New] 2024 Approved Deep Dive Into ShareX Feedback & Substitutes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-future-of-fb-ads-whats-a-must-try/"><u>[New] 2024 Approved Future of FB Ads – What’s a Must-Try?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-recording-rapture-screensavers-review-march-2023/"><u>[New] 2024 Approved Recording Rapture ScreenSavers Review – March 2023</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-fbx-filming-made-simple-a-step-by-step-approach-for-2024/"><u>[New] FBX Filming Made Simple A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-compelling-youtube-content-through-split-screens/"><u>[New] In 2024, Crafting Compelling YouTube Content Through Split-Screens</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nderstanding-youtubes-mechanism-to-foster-creative-video-content-creators-for-2024/"><u>[New] Understanding YouTube’s Mechanism to Foster Creative Video Content Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-effortless-strategies-for-facebook-stories-seamless-uploads/"><u>[Updated] 2024 Approved Effortless Strategies for Facebook Stories' Seamless Uploads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-navigate-must-try-world-building-games/"><u>[Updated] 2024 Approved Navigate Must-Try World Building Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-visionary-selection-best-10-audio-plugins-for-spotify/"><u>[Updated] 2024 Approved Visionary Selection Best 10 Audio Plugins for Spotify</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-download-verbatim-excerpt/"><u>[Updated] Download Verbatim Excerpt</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unpacking-sharex-evaluation-and-replacements/"><u>[Updated] In 2024, Unpacking ShareX Evaluation & Replacements</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-perfect-focus-in-teams-meetings-mastering-background-blur/"><u>[Updated] Perfect Focus in Teams Meetings Mastering Background Blur</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-online-presence-choosing-the-right-webcam-for-2024/"><u>Elevate Your Online Presence Choosing the Right Webcam for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-permanent-deactivation-the-ultimate-guide-to-youtube-shorts/"><u>In 2024, Permanent Deactivation The Ultimate Guide to YouTube Shorts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/obscure-audio-alchemists-top-6-android-and-ios-recording-tools-for-2024/"><u>Obscure Audio Alchemists Top 6 Android & iOS Recording Tools for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-online-galleries-of-premium-vectors/"><u>Premier Online Galleries of Premium Vectors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-unknown-usb-device-detected-error-a-comprehensive-guide-for-windows-11-users/"><u>Solving the 'Unknown USB Device Detected' Error: A Comprehensive Guide for Windows 11 Users</u></a></li>
 </ul></div>
 

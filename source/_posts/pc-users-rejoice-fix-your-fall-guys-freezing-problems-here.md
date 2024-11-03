@@ -1,7 +1,7 @@
 ---
 title: PC Users Rejoice - Fix Your Fall Guys Freezing Problems Here!
-date: 2024-08-23T23:19:50.945Z
-updated: 2024-08-24T23:19:50.945Z
+date: 2024-10-30T16:24:00.625Z
+updated: 2024-11-02T22:03:15.715Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ Now you can try to launch Hitman 3 using the Epic Games launcher.
 
  If verifying game files doesn’t help, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run Epic Games as administrator
 
  If there’s nothing wrong with your game files, the next thing you should do is check for permission issues. Granting the Epic Games launcher the administrator access could be a potential fix in this regard.
@@ -54,30 +51,32 @@ Here’s how:
 1. On your keyboard, press Win (the Windows logo key) and type Epic Games. In the search results, select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
+
 ### Fix 3: Launch Hitman 3 from game folder
 
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
 
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  It’s also very likely that the issue is driver-related, which means**a faulty or outdated GPU driver crashes your game** the second you start it. If you haven’t checked for graphics driver updates, definitely do it now as it could save you tons of trouble.
@@ -104,11 +103,23 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your GPU driver, you can check if Hitman 3 is working now.
@@ -124,11 +135,16 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
@@ -136,6 +152,13 @@ Here’s how you can check for updates manually:
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Check if it’s a server issue
 
@@ -151,8 +174,6 @@ Here’s how you can check for updates manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +181,20 @@ Here’s how you can check for updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ideal-video-editing-software-enhance-your-webcam-content/"><u>[New] 2024 Approved Ideal Video Editing Software Enhance Your Webcam Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-secrets-to-successful-mov-file-recording-in-windows-10/"><u>[New] 2024 Approved Secrets to Successful MOV File Recording in Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-screenshot-and-recorder-software-for-professors/"><u>[Updated] In 2024, Best Screenshot and Recorder Software for Professors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-expert-tips-for-seamless-instagram-streaming-using-obs/"><u>[Updated] In 2024, Expert Tips for Seamless Instagram Streaming Using OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expertly-capture-your-macs-display-with-no-cost/"><u>[Updated] In 2024, Expertly Capture Your Mac's Display with No Cost</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-10-steadicam-choices-for-drone-cinematography-pros/"><u>[Updated] Top 10 Steadicam Choices for Drone Cinematography Pros</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/accurate-speech-to-text-googles-breakthrough-approach-for-2024/"><u>Accurate Speech-to-Text Google's Breakthrough Approach for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-expert-selections-unveiling-the-top-5-professional-drones/"><u>In 2024, Expert Selections Unveiling the Top 5 Professional Drones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-exploring-distortion-effects-on-photographic-text/"><u>In 2024, Exploring Distortion Effects on Photographic Text</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/instructions-on-capturing-streamed-dialogues-for-2024/"><u>Instructions on Capturing Streamed Dialogues for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/minimugger-report-onscreen-snaps-reviewed/"><u>MiniMugger Report - Onscreen Snaps Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-labeling-images-adding-captions-to-photos-in-the-microsoft-suite-for-2024/"><u>The Art of Labeling Images Adding Captions to Photos in the Microsoft Suite for 2024</u></a></li>
+</ul></div>
 

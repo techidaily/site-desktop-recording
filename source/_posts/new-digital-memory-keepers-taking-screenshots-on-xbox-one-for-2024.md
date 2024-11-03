@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Digital Memory Keepers  Taking Screenshots on Xbox One for 2024\""
-date: 2024-08-23T23:27:26.598Z
-updated: 2024-08-24T23:27:26.598Z
+date: 2024-11-01T21:12:40.423Z
+updated: 2024-11-02T18:29:17.969Z
 tags: 
   - screen-recording
   - ai video
@@ -65,15 +65,23 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
 You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cortana motion sensor. However, in order to be able to issue voice commands, you must first activate this option. Head over to the Xbox One's Settings menu and locate the All Settings option. Click on System and switch on the AI Companion feature.
@@ -81,8 +89,12 @@ You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cort
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Manage and Share Screenshots on Xbox One?
 
 Capturing screenshots of the epic moments in an Xbox One video game and sharing those images with your friends is equally simple. You can either share the images directly from the device or you can download them to your Windows 10 PC and share them from the computer.
@@ -94,8 +106,12 @@ The console you're using features the Upload app, so in order to access it, you 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
 
 The [Xbox app](https://www.xbox.com/en-US/xbox-app) enables you to download and save screenshots to your computer's hard drive. The process is straightforward and it includes only a few simple steps. After you've installed the Xbox app on your Windows 10 PC you should open it and then you should click on the Game DVR option. Select the Xbox live feature from the DVR menu and proceed to choose the screenshots and videos you'd like to save on your PC. Click Download to complete the process.
@@ -110,16 +126,11 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -127,3 +138,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-exploring-apowersofts-pc-screen-snap-recorder/"><u>[New] 2024 Approved Exploring Apowersoft's PC Screen Snap Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-revolutionize-your-console-proven-strategies-for-clear-gaming-recordings/"><u>[New] 2024 Approved Revolutionize Your Console Proven Strategies for Clear Gaming Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-4-effective-ways-to-snip-screens-on-chromebook/"><u>[New] In 2024, 4 Effective Ways to Snip Screens On Chromebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-keeping-track-of-itunes-audio-visual-files-for-2024/"><u>[New] Keeping Track of iTunes Audio-Visual Files for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-obs-vs-streamlabs-which-is-better/"><u>[New] OBS vs Streamlabs Which Is Better?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-insiders-secrets-of-screencastify-recording-for-2024/"><u>[New] The Insider’s Secrets of Screencastify Recording for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-minecraft-enthusiasts-blueprint-6-essential-recordings-strategies/"><u>[New] The Minecraft Enthusiast's Blueprint 6 Essential Recordings Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-elevating-gameplay-preservation-in-windows-11/"><u>[Updated] Elevating Gameplay Preservation in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-complete-guide-to-steam-switch-controller-use/"><u>[Updated] In 2024, A Complete Guide to Steam Switch Controller Use</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-capture-computer-screens-and-webcam-video-simultaneously-on-windows10/"><u>2024 Approved How to Capture Computer Screens and Webcam Video Simultaneously on Windows10?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/becoming-a-final-cut-pro-expert-your-quick-reference-for-2024/"><u>Becoming a Final Cut Pro Expert – Your Quick Reference for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tial-tips-sharing-your-apple-devices-screen-with-youtube/"><u>Essential Tips Sharing Your Apple Devices Screen with YouTube</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-s-top-free-mkv-splitters-trim-and-edit-with-ease/"><u>In 2024, S Top Free MKV Splitters Trim and Edit with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-playback-with-windows-media-player-guide/"><u>Initiating Playback with Windows Media Player Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/puppy-party-games-fun-for-everyone/"><u>Puppy Party Games: Fun for Everyone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/smartphone-and-tablet-companion-best-gba-simulators-for-2024/"><u>Smartphone & Tablet Companion Best GBA Simulators for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-rapid-plus-tct-202-new-releases-in-3d-printers-filaments-and-beyond/"><u>The Ultimate Guide to Rapid + TCT 202ˈ: New Releases in 3D Printers, Filaments, and Beyond</u></a></li>
+<li><a href="https://win11.techidaily.com/which-windows-11-services-are-safe-to-disable/"><u>Which Windows 11 Services Are Safe to Disable?</u></a></li>
+</ul></div>
+

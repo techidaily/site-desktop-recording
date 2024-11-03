@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Keeping Secrets on Screen  Tips for Private Content Reduction\""
-date: 2024-08-23T23:27:11.505Z
-updated: 2024-08-24T23:27:11.505Z
+date: 2024-10-27T23:07:16.903Z
+updated: 2024-11-03T01:26:18.903Z
 tags: 
   - screen-recording
   - ai video
@@ -68,11 +68,25 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
 
@@ -89,8 +103,12 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
 Hiding the identity of the people in your videos and concealing private information like bank account or telephone numbers is advised if you want to avoid any chance of misuse of these data.
@@ -99,9 +117,6 @@ Hiding the identity of the people in your videos and concealing private informat
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
 Filmora Scrn's video editor supports most video file formats, including AVI, MP4, or MOV files. If you want to add blur effects to videos that weren't captured with Filmora Scrn, click on the Add Files icon in the editor's Media Bin, find the video file you'd like to work on and click Open. The file you imported will be displayed in the Media Bin, so to start editing it, drag and drop it to the timeline.
@@ -117,9 +132,12 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -132,25 +150,11 @@ Ok, that's it. Hope you have hidden and blurred the private info in your recorde
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -158,3 +162,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-the-art-of-audio-with-zoom-your-complete-guidebook/"><u>[New] 2024 Approved Mastering the Art of Audio with Zoom Your Complete Guidebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-frugal-hardware-efficient-obs-arrangements/"><u>[New] Frugal Hardware Efficient OBS Arrangements</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-eloquent-enhancements-bringing-text-to-life-on-insta-stories/"><u>[New] In 2024, Eloquent Enhancements Bringing Text to Life on Insta Stories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-optimizing-your-rl-gameplay-videos/"><u>[New] In 2024, Optimizing Your RL Gameplay Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unlocking-potential-crafting-dynamic-images-with-your-ipad/"><u>[New] Unlocking Potential Crafting Dynamic Images with Your iPad</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-androids-free-video-chat-alternatives-top-list/"><u>[Updated] Android's Free Video Chat Alternatives Top List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-compact-cinematic-story-guide/"><u>[Updated] Compact Cinematic Story Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-master-levels-enhancing-steam-gameplay-videos/"><u>[Updated] In 2024, Master Levels Enhancing Steam Gameplay Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chime-chronicles-mastering-the-art-of-tamil-ringtones/"><u>2024 Approved Chime Chronicles Mastering the Art of Tamil Ringtones</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728474609506-usb/"><u>易用指南：如何使用特定軟件在USB隨身碟上復原已删除檔案</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-social-interactions-xbox-one-zoom-techniques/"><u>Elevate Your Social Interactions Xbox One Zoom Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-l2540dw-windows-printer-driver-software-and-easy-installation-steps/"><u>Get the Latest Brother L2540DW Windows Printer Driver Software & Easy Installation Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-entertainment-easy-tutorial-on-how-to-hook-up-your-laptop-to-the-television-with-hdmi/"><u>Maximize Entertainment: Easy Tutorial on How to Hook Up Your Laptop to the Television with HDMI</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-windows-11-hurdles-for-a-functional-corsair-icue-experience/"><u>Overcoming Windows 11 Hurdles for a Functional Corsair iCUE Experience</u></a></li>
+</ul></div>
+

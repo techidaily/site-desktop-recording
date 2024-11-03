@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)\""
-date: 2024-08-23T23:22:52.683Z
-updated: 2024-08-24T23:22:52.683Z
+date: 2024-10-26T20:36:11.459Z
+updated: 2024-11-02T22:40:02.558Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ Pull-down notification panel from the top, find the Screen Recorder shortcut ico
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2. Pressing Buttons to Record Huawei Screen
 
 Besides enabling the screen recording feature from the shortcut menu, you can also use buttons to capture your screen on Huawei smartphone quickly. Just hold the Volume Up and Power buttons that are located on the right side of your device to activate the screen recording feature.
@@ -76,21 +83,34 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 Capturing your phone's screen can help you entertain your friends and followers on social media or to share valuable information with your business associates. Huawei's Smartphones enable you to accomplish both of these tasks in just a few simple steps. However, the built-in Screen Recorder on Huawei's Mate 10, 20 P20 or P10 Android devices doesn't allow you to specify the region of the screen you want to capture or select the frame rate, so if you want to gain access to more powerful screen recording tools you should install an app such as AZ Screen Recorder or DU Recorder from the Google Play Store, but you can also record the screen on the computer with some desktop screen recorders. Let's know how you [record your screen on Android](https://tools.techidaily.com/wondershare/filmora/download/) in the comments below.
@@ -98,15 +118,17 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -114,3 +136,18 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-change-saving-spot-for-macs-photos/"><u>[Updated] 2024 Approved Change Saving Spot for Mac's Photos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-crafting-success-tips-from-ginger-islet/"><u>[Updated] 2024 Approved Crafting Success Tips From Ginger Islet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-cut-down-on-hassle-with-easy-ipad-recording-methods/"><u>[Updated] Cut Down On Hassle With Easy iPad Recording Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamlining-in-game-video-production-a-complete-guide/"><u>[Updated] Streamlining In-Game Video Production A Complete Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-entry-editor-for-seamless-edits-across-all-platforms/"><u>[Updated] Top Entry Editor for Seamless Edits Across All Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-get-hooked-on-ez-grabber-a-step-by-step-downloading-guide/"><u>2024 Approved Get Hooked on EZ Grabber A Step-by-Step Downloading Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-step-by-step-tiktok-usage-for-mac-and-pc-users/"><u>2024 Approved Step-by-Step TikTok Usage for Mac and PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/exclusive-guide-fix-your-voicemod-opening-woes-with-latest-solutions/"><u>Exclusive Guide: Fix Your Voicemod Opening Woes with Latest Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/transform-your-tech-skills-mastering-screen-capture-in-macos-for-2024/"><u>Transform Your Tech Skills Mastering Screen Capture in macOS for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Optimal Sustainable Screen Capture Tools  Usage Strategies\""
-date: 2024-10-26T19:42:45.176Z
-updated: 2024-10-28T06:20:57.765Z
+date: 2024-11-01T01:23:53.731Z
+updated: 2024-11-02T22:39:30.890Z
 tags: 
   - screen-recording
   - ai video
@@ -63,13 +63,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Screencast-o-Matic
 
 In Screencast-O-Matic, you may quickly replace your backdrop using green screen technology. Using these two Screencast-O-Matic capabilities, you may improve your films in a variety of ways. Simply bring your imagination to the surface, and you'll be making incredible films in no time!
@@ -77,6 +70,13 @@ In Screencast-O-Matic, you may quickly replace your backdrop using green screen 
 On Screencast-O-Matic, there are two methods for using a green screen. You may remove the green backdrop using the green screen recorder or video editing software. Here's how to use Screencast-O-green Matic's screen software. We've included several chroma-keying tools to aid you with your video production.
 
 ![screencast o matic](https://images.wondershare.com/filmora/article-images/running-screen-o-matic-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **How to use it?**
 
@@ -144,6 +144,13 @@ Attracting the attention of a viewer always necessitates the use of visual eleme
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Screencast-o-Matic
 
 In Screencast-O-Matic, you may quickly replace your backdrop using green screen technology. Using these two Screencast-O-Matic capabilities, you may improve your films in a variety of ways. Simply bring your imagination to the surface, and you'll be making incredible films in no time!
@@ -179,10 +186,10 @@ Step 3\. Click on the button and then on the backdrop of the video on the previe
 Step 4\. Once you begin recording, you will be able to see your face in the video footage.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. veed.io
@@ -217,13 +224,6 @@ Step 2\. Select the colour from your scene that you wish to delete. This is gene
 
 Step 3\. Change the picture or backdrop in your scene to the film, background, or image you choose. In Camtasia, you can quickly scale your picture by rotating it in the properties window and utilising the rotation tools to make the image seem more significant.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Attracting the attention of a viewer always necessitates the use of visual elements like a green screen. To stand out in the vast internet market, a videographer does not always have the luxury of filming in the ideal setting. Using software-based simulation, which replaces the actual video backdrop with the required one chroma-keying, is a simple solution to this problem. Remove the video's backdrop using one of three methods available to you.
@@ -256,6 +256,13 @@ You can easily create a Chroma Key movie while capturing your PC screen using Ba
 
 ![bandicam screen recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **How to use it?**
 
 Step 1\. Install screen-recording software that is compatible with Chroma Key.
@@ -274,6 +281,13 @@ You may then change it with a custom background picture. Within VEED, you may al
 
 ![veed recorder](https://images.wondershare.com/filmora/article-images/1-veed-mp3-to-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **How to use it?**
 
 Step 1\. Select the video you shot with a green screen backdrop by clicking the 'Choose Video' button. You may also drop it into the editor by dragging and dropping it.
@@ -281,13 +295,6 @@ Step 1\. Select the video you shot with a green screen backdrop by clicking the 
 Step 2\. Toggle on the 'Chroma Key' option after selecting the video on the timeline. Select the green screen using the eyedropper tool. It will vanish, and you may choose another picture to replace it with.
 
 Step 3\. When you're satisfied with your video modifications, simply click 'Export' to have your video downloaded to your smartphone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Camtasia
 
@@ -297,55 +304,41 @@ It's a multi-purpose video editing programme perfect for beginning editors who a
 
 ![camtasia screen recorder](https://images.wondershare.com/filmora/article-images/camtasia-main-website-interface.jpg)
 
+**How to use it?**
+
+Step 1\. In Camtasia, go to the visual effects menu and choose the "delete a colour" tool. To complete the process, just drag and drop the clip onto your computer screen. That's it!
+
+Step 2\. Select the colour from your scene that you wish to delete. This is generally most effective when the colour green or blue is present in your scenario. Green and blue are two of the most often utilised colours to change the backdrop in movies because of their versatility.
+
+Step 3\. Change the picture or backdrop in your scene to the film, background, or image you choose. In Camtasia, you can quickly scale your picture by rotating it in the properties window and utilising the rotation tools to make the image seem more significant.
+
+## Conclusion
+
+Attracting the attention of a viewer always necessitates the use of visual elements like a green screen. To stand out in the vast internet market, a videographer does not always have the luxury of filming in the ideal setting. Using software-based simulation, which replaces the actual video backdrop with the required one chroma-keying, is a simple solution to this problem. Remove the video's backdrop using one of three methods available to you.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+### 2\. Screencast-o-Matic
+
+In Screencast-O-Matic, you may quickly replace your backdrop using green screen technology. Using these two Screencast-O-Matic capabilities, you may improve your films in a variety of ways. Simply bring your imagination to the surface, and you'll be making incredible films in no time!
+
+On Screencast-O-Matic, there are two methods for using a green screen. You may remove the green backdrop using the green screen recorder or video editing software. Here's how to use Screencast-O-green Matic's screen software. We've included several chroma-keying tools to aid you with your video production.
+
+![screencast o matic](https://images.wondershare.com/filmora/article-images/running-screen-o-matic-screen-recorder.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-**How to use it?**
-
-Step 1\. In Camtasia, go to the visual effects menu and choose the "delete a colour" tool. To complete the process, just drag and drop the clip onto your computer screen. That's it!
-
-Step 2\. Select the colour from your scene that you wish to delete. This is generally most effective when the colour green or blue is present in your scenario. Green and blue are two of the most often utilised colours to change the backdrop in movies because of their versatility.
-
-Step 3\. Change the picture or backdrop in your scene to the film, background, or image you choose. In Camtasia, you can quickly scale your picture by rotating it in the properties window and utilising the rotation tools to make the image seem more significant.
-
-## Conclusion
-
-Attracting the attention of a viewer always necessitates the use of visual elements like a green screen. To stand out in the vast internet market, a videographer does not always have the luxury of filming in the ideal setting. Using software-based simulation, which replaces the actual video backdrop with the required one chroma-keying, is a simple solution to this problem. Remove the video's backdrop using one of three methods available to you.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 2\. Screencast-o-Matic
-
-In Screencast-O-Matic, you may quickly replace your backdrop using green screen technology. Using these two Screencast-O-Matic capabilities, you may improve your films in a variety of ways. Simply bring your imagination to the surface, and you'll be making incredible films in no time!
-
-On Screencast-O-Matic, there are two methods for using a green screen. You may remove the green backdrop using the green screen recorder or video editing software. Here's how to use Screencast-O-green Matic's screen software. We've included several chroma-keying tools to aid you with your video production.
-
-![screencast o matic](https://images.wondershare.com/filmora/article-images/running-screen-o-matic-screen-recorder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **How to use it?**
@@ -364,6 +357,13 @@ You can easily create a Chroma Key movie while capturing your PC screen using Ba
 
 ![bandicam screen recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **How to use it?**
 
 Step 1\. Install screen-recording software that is compatible with Chroma Key.
@@ -381,6 +381,13 @@ Green screen backdrop removal is a breeze using VEED's online chroma key editor.
 You may then change it with a custom background picture. Within VEED, you may also utilise your camera to capture a video of yourself against a green screen backdrop. It doesn't need the usage of a third-party app. Use VEED's webcam recorder to create a video, edit it and save it to your device.
 
 ![veed recorder](https://images.wondershare.com/filmora/article-images/1-veed-mp3-to-text.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **How to use it?**
 
@@ -405,19 +412,6 @@ Step 1\. In Camtasia, go to the visual effects menu and choose the "delete a col
 Step 2\. Select the colour from your scene that you wish to delete. This is generally most effective when the colour green or blue is present in your scenario. Green and blue are two of the most often utilised colours to change the backdrop in movies because of their versatility.
 
 Step 3\. Change the picture or backdrop in your scene to the film, background, or image you choose. In Camtasia, you can quickly scale your picture by rotating it in the properties window and utilising the rotation tools to make the image seem more significant.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -447,21 +441,18 @@ Attracting the attention of a viewer always necessitates the use of visual eleme
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-discover-the-perfect-tunefab-recorder-for-your-needs/"><u>[New] In 2024, Discover the Perfect Tunefab Recorder for Your Needs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-budget-headphones-to-enhance-game-sounds/"><u>[New] In 2024, Ultimate Budget Headphones to Enhance Game Sounds</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-a-comprehensive-review-of-next-gen-camera-systems/"><u>[Updated] 2024 Approved A Comprehensive Review of Next-Gen Camera Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-expert-configuration-clock-integration-for-streaming-software-for-2024/"><u>[Updated] Expert Configuration Clock Integration for Streaming Software for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-master-screen-capture-detailed-tutorial-walkthrough/"><u>[Updated] Master Screen Capture Detailed Tutorial Walkthrough</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-step-up-video-standards-choose-among-top-9-webcam-filters-for-2024/"><u>[Updated] Step Up Video Standards Choose Among Top 9 Webcam Filters for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-8-best-fbx-game-recorder-alternatives-for-2024/"><u>[Updated] Top 8 Best FBX Game Recorder Alternatives for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-understanding-and-adhering-to-soundtracks-legal-requirements-on-instagram/"><u>2024 Approved Understanding and Adhering to Soundtracks' Legal Requirements on Instagram</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-mp3-and-mp4-music-players-reviewed-find-your-perfect-device-with-free-trials/"><u>Best MP3 and MP4 Music Players Reviewed - Find Your Perfect Device with Free Trials!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-videoshow-app-a-complete-guide-for-24/"><u>In 2024, Mastering VideoShow App - A Complete Guide for '24</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-speedy-tactics-for-disorganized-youtube-song-listings/"><u>In 2024, Speedy Tactics for Disorganized YouTube Song Listings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-googles-gemini-how-does-it-stack-up-against-chatgpt/"><u>Introducing Google's Gemini: How Does It Stack Up Against ChatGPT?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-livestran-interactions-with-these-ten-backtrack-techniques/"><u>Mastering Livestran Interactions with These Ten Backtrack Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/obs-studio-streamlining-your-professional-skype-broadcasts-for-2024/"><u>OBS Studio Streamlining Your Professional Skype Broadcasts for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-showdown-intel-core-i7-2580m-vs-amd-ryzen-phoenix-bapco-benchmark-revelations/"><u>Ultimate Showdown: Intel Core I7-2580M vs AMD Ryzen Phoenix - BAPCO Benchmark Revelations</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win7s-easy-route-to-perfected-hp-graphics-display/"><u>Win7's Easy Route to Perfected HP Graphics Display</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-ultimate-camera-picks-for-aspiring-youtubers/"><u>[New] 2024 Approved Ultimate Camera Picks for Aspiring YouTubers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capturing-moments-on-facebook-beyond-the-screen/"><u>[Updated] In 2024, Capturing Moments on Facebook Beyond the Screen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-video-insights-the-essentials/"><u>[Updated] Quick Video Insights The Essentials</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-time-lapse-video-techniques-for-ipad-users/"><u>2024 Approved Time-Lapse Video Techniques for iPad Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-guide-to-documenting-your-ps4-journey/"><u>2024 Approved Ultimate Guide to Documenting Your PS4 Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-best-tips-for-enhancing-obs-studio-edits/"><u>5 Best Tips for Enhancing OBS Studio Edits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/advanced-mac-screenshots-a-deep-dive-into-five-efficient-methods/"><u>Advanced Mac Screenshots A Deep Dive Into Five Efficient Methods</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/complete-step-by-step-tutorial-transferring-images-from-your-iphone-to-a-pc-or-mac/"><u>Complete Step-by-Step Tutorial: Transferring Images From Your iPhone to a PC or Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-command-prompt-removing-files-and-directories-on-windows-11/"><u>Mastering the Command Prompt: Removing Files and Directories on Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/tailoring-your-videos-for-impact-on-instagram-feed/"><u>Tailoring Your Videos for Impact on Instagram Feed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ugreen-nexode-pro-65w-pd-charger-test-and-analysis-the-definitive-guide-for-high-power-usb-c-adapters/"><u>Ugreen Nexode Pro 65W PD Charger Test and Analysis: The Definitive Guide for High-Power USB-C Adapters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unraveling-the-secrets-of-inshot-editing-excellence-for-2024/"><u>Unraveling the Secrets of InShot Editing Excellence for 2024</u></a></li>
 </ul></div>
 

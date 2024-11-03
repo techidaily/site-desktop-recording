@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Secure Surveillance Skills  Redacting and Obscuring Personal Information\""
-date: 2024-08-23T23:27:21.448Z
-updated: 2024-08-24T23:27:21.448Z
+date: 2024-10-28T19:08:04.461Z
+updated: 2024-11-02T17:04:04.930Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ Besides being one of the best screen capturing computer programs for beginners i
 
 ![Filmora Text Effects](https://images.wondershare.com/filmora/guide/setup-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Filmora Scrn is perfectly equipped for recording all types of PIP videos that need to capture desktop activities while also **recording the footage from a webcam**. YouTubers and all other users of this software can feature themselves in the video. Filmora Scrn lets you capture videos with **frame rates that go from 15 fps to 120 fps**, and it also enables users to **adjust the size of the screen** area they want to capture.
 
 Recording voice-over during the recording session, adding markers, or using HotKeys to start or pause recording sessions are just a few among the many amazing features Filmora Scrn offers.
@@ -80,21 +87,35 @@ The original frame is shown below, and I want to blur and hide these two sensiti
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-examples.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
 Hiding the identity of the people in your videos and concealing private information like bank account or telephone numbers is advised if you want to avoid any chance of misuse of these data.
@@ -103,9 +124,6 @@ Hiding the identity of the people in your videos and concealing private informat
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
 Filmora Scrn's video editor supports most video file formats, including AVI, MP4, or MOV files. If you want to add blur effects to videos that weren't captured with Filmora Scrn, click on the Add Files icon in the editor's Media Bin, find the video file you'd like to work on and click Open. The file you imported will be displayed in the Media Bin, so to start editing it, drag and drop it to the timeline.
@@ -120,9 +138,6 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -135,16 +150,11 @@ Ok, that's it. Hope you have hidden and blurred the private info in your recorde
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -152,3 +162,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-insider-tips-thriving-in-ginger-islet/"><u>[New] 2024 Approved Insider Tips Thriving in Ginger Islet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-arena-aces-unbeatable-10-royale-games-for-2024/"><u>[New] Arena Aces Unbeatable 10 Royale Games for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-next-level-recording-discover-budget-friendly-choices/"><u>[New] In 2024, Next-Level Recording Discover Budget-Friendly Choices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-cutting-edge-tips-best-practices-in-digital-sound-recording/"><u>[Updated] 2024 Approved Cutting-Edge Tips Best Practices in Digital Sound Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-free-money-tips-for-reddit-novices-13-best-ways/"><u>[Updated] Free Money Tips for Reddit Novices (13 Best Ways!)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-bandicam-in-depth-review-for-the-modern-user/"><u>[Updated] In 2024, Bandicam In Depth Review for the Modern User</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-obs-repair-camera-functioning-now/"><u>[Updated] In 2024, OBS Repair Camera Functioning Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-world-of-funimate-gamers/"><u>[Updated] Inside the World of Funimate Gamers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ers-guide-to-twisting-videos-on-youtube-2e-for-2024/"><u>A Gamer's Guide to Twisting Videos on YouTube (2E) for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ades-across-platforms-for-video-creators-for-2024/"><u>Accolades Across Platforms for Video Creators for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-tp-link-re2nac750-wireless-repeater-detailed-product-analysis/"><u>Affordable TP-Link RE2nAC750 Wireless Repeater - Detailed Product Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-guide-easy-to-install-vrecorder-for-2024/"><u>Essential Guide Easy-to-Install VRecorder for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-google-gemini/"><u>How to Use Google Gemini</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-social-sanctuary-secure-access-restored/"><u>In 2024, Social Sanctuary Secure Access Restored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-eco-conscious-cinematography-setups-guide/"><u>In 2024, Ultimate Eco-Conscious Cinematography Setups Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/zero-cost-strategies-for-altering-game-characters-vocal-presence-in-free-fire/"><u>Zero-Cost Strategies for Altering Game Characters' Vocal Presence in Free Fire</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/zte-axon-40-lite-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>ZTE Axon 40 Lite ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+</ul></div>
+

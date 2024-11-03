@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Record Panel-Wide Digital View\""
-date: 2024-10-22T19:29:12.211Z
-updated: 2024-10-27T17:34:37.383Z
+date: 2024-11-01T19:45:45.693Z
+updated: 2024-11-02T19:32:10.592Z
 tags: 
   - screen-recording
   - ai video
@@ -62,6 +62,13 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
@@ -69,10 +76,10 @@ If you'd like to avoid producing several screenshots that you'll later have to c
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
@@ -84,10 +91,10 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
@@ -112,13 +119,6 @@ Install the extension in your browser and then click on its icon in the Extensio
 
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4: Using Online Tools for Full Page Screenshots
 
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
@@ -133,6 +133,13 @@ Taking full page screenshots on a Mac computer is made much simpler by [Paparazz
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
 
 Afterward, you should click on one of the yellow arrows to select the direction in which you'd like to scroll and Snagit will do the rest for you. The final result will be a single image you can later edit, share via Email or on social networks. This software also enables you to create a scrolling capture preset, so you can take screenshots of web pages and documents within seconds.
@@ -144,13 +151,6 @@ Regardless of the method you use to create a full page screenshot, one thing is 
 Leave a comment below and let us know which method of capturing full page screenshots you like to use the most.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -167,22 +167,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-calm-clicks-the-ideal-screen-free-puzzles/"><u>[New] Calm Clicks The Ideal Screen-Free Puzzles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-delving-into-vlc-screenshot-technology-for-2024/"><u>[New] Delving Into VLC Screenshot Technology for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-streamlining-the-recording-process-in-virtual-gatherings-for-2024/"><u>[New] Streamlining the Recording Process in Virtual Gatherings for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-spectacular-mini-houses-you-cant-miss-in-mc/"><u>[Updated] 2024 Approved Spectacular Mini-Houses You Can't Miss in MC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-top-10-essential-gratuitous-lut-downloads-of-the-year/"><u>[Updated] 2024 Approved Top 10 Essential, Gratuitous LUT Downloads of the Year</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-key-screenshot-utilities-1-8/"><u>[Updated] In 2024, Key Screenshot Utilities #1-8</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlock-advanced-capturing-a-guide-to-aiseesoft-screen-recorder-use/"><u>[Updated] In 2024, Unlock Advanced Capturing A Guide to Aiseesoft Screen Recorder Use</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-ioss-leading-edge-the-top-5-emulators-for-psp-games-for-2024/"><u>[Updated] IOS's Leading Edge The Top 5 Emulators for PSP Games for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-skyrocket-your-streaming-status-three-winning-techniques-for-newbies/"><u>[Updated] Skyrocket Your Streaming Status Three Winning Techniques for Newbies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-win10-video-capture-pro-professional-edition-for-2024/"><u>[Updated] Win10 Video Capture Pro - Professional Edition for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-flawless-video-calls-from-laptop-using-the-desktop-whatsapp-browser/"><u>2024 Approved Flawless Video Calls From Laptop Using the Desktop WhatsApp Browser</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-shedding-light-on-luts-impact-on-image-quality/"><u>2024 Approved Shedding Light on LUTs' Impact on Image Quality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/high-speed-home-ethernet-or-poorly-crafted-device-discover-the-tp-link-av2000s-true-nature/"><u>High-Speed Home Ethernet or Poorly Crafted Device? Discover the TP-Link AV2000's True Nature</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/stealthy-surveillance-erasing-sensitive-elements-from-footage-for-2024/"><u>Stealthy Surveillance Erasing Sensitive Elements From Footage for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-detailed-guide-on-computer-components/"><u>Tom's Tech Review: Detailed Guide on Computer Components</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-hot-40-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Hot 40 Pro Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comparing-video-tools-bandicam-and-camtasia-explored/"><u>[New] 2024 Approved Comparing Video Tools Bandicam & Camtasia Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-explore-the-top-5-snipping-utilities-for-chrome-os-users/"><u>[New] 2024 Approved Explore The Top 5 Snipping Utilities For Chrome OS Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-secure-survival-housing-in-minecraft/"><u>[New] 2024 Approved Secure Survival Housing in Minecraft</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-precision-at-zero-price-best-free-video-recorder-software/"><u>[New] In 2024, Precision at Zero Price Best Free Video Recorder Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unleash-retro-game-delights-with-the-leading-android-tools-for-ps2-titles-for-2024/"><u>[New] Unleash Retro Game Delights with the Leading Android Tools for PS2 Titles for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unlocking-the-power-of-capturing-facetime-calls-for-2024/"><u>[New] Unlocking the Power of Capturing FaceTime Calls for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-from-play-to-view-a-guide-to-recording-overwatch-games-for-2024/"><u>[Updated] From Play to View A Guide to Recording Overwatch Games for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-digital-arena-100plus-titles-for-the-true-gamer/"><u>[Updated] In 2024, Digital Arena 100+ Titles for the True Gamer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earnings-breakdown-one-million-glances-at-youtube/"><u>[Updated] In 2024, Earnings Breakdown One Million Glances at Youtube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>[Updated] In 2024, The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-silence-by-design-techniques-for-gradually-dimming-soundtracks-in-premiere-pro/"><u>[Updated] Silence by Design Techniques for Gradually Dimming Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcasting-conferences-with-no-expense-account-for-2024/"><u>Broadcasting Conferences with No Expense Account for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-windows-update-search-failures/"><u>Expert Advice: Overcoming Windows Update Search Failures</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-premium-noiseless-audio-to-text-applications/"><u>In 2024, Premium Noiseless Audio-To-Text Applications</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ating-the-360-streaming-landscape-with-ease-on-youtube-for-2024/"><u>Navigating the 360° Streaming Landscape with Ease on Youtube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ps1-gaming-delighted-top-5-emulators-for-2024/"><u>PS1 Gaming Delighted? Top 5 Emulators for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722989720721-resolve-your-game-crash-issues-in-fm2019-with-these-simple-fixes/"><u>Resolve Your Game Crash Issues in FM2019 with These Simple Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-intersection-of-friendship-and-commerce-facebooks-new-feature/"><u>The Intersection of Friendship and Commerce: Facebook’s New Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-winning-package-tool-for-you-a-choco-vs-wm-quest/"><u>The Winning Package Tool for You: A Choco VS. WM Quest</u></a></li>
 </ul></div>
 

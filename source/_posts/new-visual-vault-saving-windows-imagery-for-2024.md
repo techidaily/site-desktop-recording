@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Visual Vault  Saving Windows Imagery for 2024\""
-date: 2024-09-28T19:16:41.566Z
-updated: 2024-09-29T18:14:36.490Z
+date: 2024-10-29T00:43:22.752Z
+updated: 2024-11-02T16:23:29.425Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ You can either double-click on the app's desktop icon or you can launch it from 
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
@@ -74,13 +81,6 @@ You can add annotations to the screenshots, by clicking on the bullet point pen,
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3. Saving and Exporting Screenshots
 
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
@@ -88,20 +88,13 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-saving.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
@@ -113,6 +106,13 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
@@ -120,10 +120,10 @@ This popular app for taking screenshots has been bundled with all versions of th
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
@@ -134,13 +134,6 @@ You can launch the app from the Start menu or by typing its name in the Search C
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
 #### Step 2: Annotating and Saving the Screenshots
@@ -148,6 +141,13 @@ Afterward, you can just hold the left mouse button and drag the mouse to select 
 Once you've taken the screenshot you can use the Pen and Highlighter features to add annotations, while the Eraser tool will enable you to easily correct all mistakes you make during this process.
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
@@ -164,13 +164,6 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
 
@@ -206,6 +199,13 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -221,14 +221,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-e-lecture-documentation/"><u>[New] In 2024, E-Lecture Documentation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-exclusive-selection-of-the-top-4k-capture-apps/"><u>[New] In 2024, Exclusive Selection of the Top 4K Capture Apps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-5-mid-range-gaming-keyboards-costing-99plus/"><u>[New] Top 5 Mid-Range Gaming Keyboards Costing $99+</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-comprehensive-guide-to-showmores-efficient-recording-tools/"><u>[Updated] Comprehensive Guide to ShowMore's Efficient Recording Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cracking-the-code-to-youtube-income-through-views/"><u>[Updated] In 2024, Cracking the Code to YouTube Income Through Views</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-x100-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo X100 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-to-creating-virtual-space-with-iphone/"><u>In 2024, Step-by-Step Guide to Creating Virtual Space with iPhone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-night-photos-checklist-dos-and-donts/"><u>In 2024, The Ultimate Night Photos Checklist Do's and Don'ts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-rm-files-a-comprehensive-guide-on-format-and-playback/"><u>Understanding RM Files: A Comprehensive Guide on Format and Playback</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-step-by-step-guide-to-instagram-livestreaming-using-obs/"><u>[Updated] Step-by-Step Guide to Instagram Livestreaming Using OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ispring-review-a-deep-dive-into-screen-capture/"><u>2024 Approved ISpring Review A Deep Dive Into Screen Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-save-your-screencasts-on-pc-with-free-tools/"><u>2024 Approved Save Your Screencasts on PC with Free Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamline-your-twitch-live-recordings-today/"><u>2024 Approved Streamline Your Twitch Live Recordings Today</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-streamlining-media-transfer-twitter-content-on-snapchat/"><u>2024 Approved Streamlining Media Transfer Twitter Content on Snapchat</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-webinar-recording-tactics-zero-price-strategy/"><u>2024 Approved Webinar Recording Tactics Zero Price Strategy</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/conveniently-record-and-preserve-your-online-gatherings-for-2024/"><u>Conveniently Record and Preserve Your Online Gatherings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/election-enthusiasts-essentials-quintessential-voting-games-for-2024/"><u>Election Enthusiasts' Essentials Quintessential Voting Games for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-adding-timers-utilizing-obs-for-countdown-features/"><u>In 2024, Adding Timers Utilizing OBS for Countdown Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-online-echo-chambers/"><u>In 2024, Best Online Echo Chambers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-apps-17-ways-to-remove-picture-frames/"><u>In 2024, Leading Apps 17 Ways to Remove Picture Frames</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-xs-max-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone XS Max on MetroPCS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-depth-examination-the-dji-phantom-3-experience-for-2024/"><u>In-Depth Examination The DJI Phantom 3 Experience for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mastering-social-connectivity-from-instagram-to-tiktoks-playground-for-2024/"><u>Mastering Social Connectivity From Instagram to TikTok's Playground for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stream-your-favorite-films-at-no-cost-using-top-rated-phone-applications/"><u>Stream Your Favorite Films at No Cost Using Top Rated Phone Applications</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-11-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone 11 Is Unlocked</u></a></li>
 </ul></div>
 

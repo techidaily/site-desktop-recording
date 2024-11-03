@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Adjust Default Snapshot Savings in Mac\""
-date: 2024-09-23T17:06:46.189Z
-updated: 2024-09-29T18:01:37.959Z
+date: 2024-10-27T17:21:25.302Z
+updated: 2024-11-02T16:33:20.687Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -77,10 +77,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,22 +127,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-10-innovative-screencasting-solutions-for-modern-teachers/"><u>[New] 2024 Approved 10 Innovative Screencasting Solutions for Modern Teachers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[New] In 2024, Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleashing-creativity-with-iphone-shadow-photography/"><u>[New] Unleashing Creativity with iPhone Shadow Photography</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-cross-platform-sync-made-simple-post-tiktok-vids-on-fb-for-2024/"><u>[Updated] Cross-Platform Sync Made Simple Post TikTok Vids on FB for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-leveraging-tools-for-seamless-powerpoint-transcription/"><u>[Updated] In 2024, Leveraging Tools for Seamless PowerPoint Transcription</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-most-engaging-history-youtube-creators-for-students/"><u>[Updated] The Most Engaging History YouTube Creators for Students</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-achieving-zen-in-meetings-how-to-disable-background-speech/"><u>2024 Approved Achieving Zen in Meetings How to Disable Background Speech</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-software-for-recording-educational-experiences/"><u>2024 Approved Essential Software for Recording Educational Experiences</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>2024 Approved Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/decoding-high-performance-gadgets-an-in-depth-guide-by-toms-hardware/"><u>Decoding High-Performance Gadgets: An In-Depth Guide by Tom's Hardware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/drive-efficiency-to-new-heights-with-collective-windows-11-folder-creation/"><u>Drive Efficiency to New Heights with Collective Windows 11 Folder Creation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-c51-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme C51 FRP Locks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/installing-and-running-chatgpt-on-a-linux-machine-made-simple/"><u>Installing and Running ChatGPT on a Linux Machine Made Simple</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mastering-lenovo-perfecting-screen-capture-techniques-for-2024/"><u>Mastering Lenovo Perfecting Screen Capture Techniques for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/perfecting-instagram-livestreams-with-obs-technology/"><u>Perfecting Instagram Livestreams with OBS Technology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-converting-and-moving-your-files-with-winx-mediatrans/"><u>Step-by-Step Guide: Converting and Moving Your Files with WinX MediaTrans</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-greatest-action-packed-gaming-escapades-top-10/"><u>2024 Approved Greatest Action-Packed Gaming Escapades (Top 10)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-navigating-small-group-setups-in-zoom/"><u>2024 Approved Navigating Small Group Setups in Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-salt-and-surge-2023s-best-surf-cam-tech-review/"><u>2024 Approved Salt & Surge 2023'S Best Surf Cam Tech Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-screenrecorder-comprehensive-step-by-step-guide/"><u>2024 Approved Ultimate ScreenRecorder Comprehensive, Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-6-rise-of-creative-tools/"><u>Artificial Intelligence: 6 Rise of Creative Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-bugs-ensuring-a-smooth-start-up-of-football-manager-2023-gameplay/"><u>Beat the Bugs: Ensuring a Smooth Start-Up of Football Manager 2023 Gameplay</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/chromebook-and-hp-efficient-webcam-recording-tips/"><u>Chromebook & HP Efficient Webcam Recording Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/exclusive-reviews-top-5-external-hdds-for-xbox-gamers/"><u>Exclusive Reviews Top 5 External HDDs for Xbox Gamers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-poco-x6-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Poco X6 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-a-deeper-dive-into-ios-visual-data-repository/"><u>In 2024, A Deeper Dive Into IO's Visual Data Repository</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-in-a-sea-of-silence-the-perils-of-pretense-in-profiles/"><u>In 2024, In a Sea of Silence The Perils of Pretense in Profiles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/insights-on-engaging-top-tier-visual-storytellers-for-2024/"><u>Insights on Engaging Top-Tier Visual Storytellers for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-effortless-mkv-trimming-on-mac-the-best-tools/"><u>New In 2024, Effortless MKV Trimming on Mac The Best Tools</u></a></li>
 </ul></div>
 

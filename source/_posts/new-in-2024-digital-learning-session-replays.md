@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Digital Learning Session Replays"
-date: 2024-08-23T23:21:49.302Z
-updated: 2024-08-24T23:21:49.302Z
+date: 2024-11-01T00:20:24.521Z
+updated: 2024-11-02T22:05:46.025Z
 tags: 
   - screen-recording
   - ai video
@@ -62,9 +62,23 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
@@ -73,6 +87,13 @@ The Audio option contains Microphone and Computer audio options that can be used
 #### 3. Recording a webinar
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
@@ -93,8 +114,12 @@ Following these simple steps will help you produce insightful and well-rounded w
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -103,16 +128,11 @@ Making sure that all the settings are adjusted properly and that the amount of b
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,3 +140,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-first-time-filmmakers-guide-to-gear-selection/"><u>[New] 2024 Approved The First-Time Filmmaker's Guide to Gear Selection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-fixing-non-appearing-thumbnails-in-youtube-shorts/"><u>[New] Fixing Non-Appearing Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-beat-batch-downloads-and-review-rhythmical-sounds/"><u>[New] In 2024, Beat Batch Downloads & Review Rhythmical Sounds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-5-best-gaming-keyboards-under-100/"><u>[New] In 2024, The 5 Best Gaming Keyboards Under 100$</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avor-success-ideas-to-bolster-cookery-channel-brands/"><u>[New] Savor Success Ideas to Bolster Cookery Channel Brands</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-razer-kiyo-webcam-review/"><u>[Updated] 2024 Approved Razer Kiyo Webcam Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-deciphering-complete-fbm-call-transcripts-guide-for-2024/"><u>[Updated] Deciphering Complete FBM Call Transcripts Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-fbx-methods-for-perfect-gaming-saves-for-2024/"><u>[Updated] FBX Methods for Perfect Gaming Saves for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-leveraging-phone-capabilities-for-efficient-video-recording/"><u>[Updated] Leveraging Phone Capabilities for Efficient Video Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-peak-performance-in-live-recording-software/"><u>[Updated] Peak Performance in Live Recording Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-list-of-ae-title-enhancement-methods-for-2024/"><u>[Updated] Ultimate List of AE Title Enhancement Methods for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/complete-tutorial-on-extracting-unprocessed-data-from-external-hdds/"><u>Complete Tutorial on Extracting Unprocessed Data From External HDDs</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-correcting-orglwjgllwjglexception-for-accelerated-pixels-formats/"><u>Error Resolved: Correcting Org.LWJGL.LWJGLException for Accelerated Pixels Formats</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-up-space-how-to-convert-your-dvds-to-digital-video-files/"><u>Free Up Space How to Convert Your DVDs to Digital Video Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-errors-on-your-geforce-experience-tips-for-a-smooth-gaming-setup/"><u>How to Fix Errors on Your GeForce Experience: Tips for a Smooth Gaming Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-farm-fanatics-forecast-future-of-virtual-harvesting/"><u>In 2024, Farm Fanatics’ Forecast Future of Virtual Harvesting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-live-streaming-duel-pitting-obs-against-shadowgl/"><u>In 2024, Live Streaming Duel Pitting OBS Against ShadowGL</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-guide-for-fixing-wow-not-launching-on-desktop/"><u>Resolved: Troubleshooting Guide for Fixing WoW Not Launching on Desktop</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps-for-2024/"><u>Updated Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps for 2024</u></a></li>
+</ul></div>
+

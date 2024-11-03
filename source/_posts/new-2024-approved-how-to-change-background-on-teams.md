@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Change Background on Teams\""
-date: 2024-08-23T23:21:03.388Z
-updated: 2024-08-24T23:21:03.388Z
+date: 2024-10-30T19:37:28.683Z
+updated: 2024-11-02T18:08:49.139Z
 tags: 
   - screen-recording
   - ai video
@@ -35,9 +35,23 @@ Teams enables you to use a virtual background before you start or join a meeting
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Why your video editing isn't good enough? How about some creative inspo?
 
@@ -62,6 +76,13 @@ Launch Microsoft Teams on your laptop (a Windows 10 PC is used here for demonstr
 
 ![Start video call on teams](https://images.wondershare.com/filmora/article-images/start-video-call-teams.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Open the Background settings Pane**
 
 On the **Meeting with** box, turn on the **Video** and **Audio** switches if they are not already enabled, and then click the **Background effects** icon from under the preview window.
@@ -73,8 +94,18 @@ From the images available in the **Background settings** pane on the right, clic
 ![change background on teams before meeting](https://images.wondershare.com/filmora/article-images/change-background-in-teams-before-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change Your Microsoft Teams Background During a Meeting on Laptop?
 
 Microsoft Teams also allows you to switch to a different, more professional-looking background during an ongoing meeting session. The steps that are given below explain **how to change background in Microsoft Teams** in such scenarios:
@@ -91,6 +122,13 @@ While in an ongoing meeting session, click the **More actions** icon from the to
 
 ![apply background on Teams meeting](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Change the Background**
 
 From the images available in the **Background settings** pane on the right, click to select the one that you want to use as a new background, and click **Apply** from the bottom to save the changes.
@@ -98,11 +136,12 @@ From the images available in the **Background settings** pane on the right, clic
 ![change background on Teams ](https://images.wondershare.com/filmora/article-images/change-backgrounds-in-teams.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 3: How to Upload a Custom Background in Microsoft Teams?
 
 In addition to switching to a built-in background, Microsoft Teams even lets you upload and use a custom image for the purpose. The process on **how to add custom background to Microsoft Teams** is explained below:
@@ -117,18 +156,12 @@ Click **Add new** from the top of the **Background settings** pane, and pick you
 
 ![add new background on Teams ](https://images.wondershare.com/filmora/article-images/add-new-background-in-teams.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3: Remove an Uploaded Background**
 
 Click to select any other background from the **Background settings** pane, locate the custom image that you uploaded, click the **More** icon from the top-right of the tile, and click **Remove** to get rid of the custom background.
 
 ![add new custom background on Teams ](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Part 4: How to Change Your Background Before/After a Meeting Starts on Mobile Devices?
 
 Even the mobile versions of Microsoft Teams let you change the background. However, the restriction is, you must start or join a meeting before the **More actions** icon appears at the bottom of the screen. To learn **how to change background in Microsoft Teams mobile app**, you can follow the step-by-step instructions that are given below:
@@ -145,9 +178,6 @@ Once the meeting starts, tap the **More actions** icon from the bottom of the sc
 
 ![Teams background effects on iPhone ](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3: Change the Background**
 
 ![change background  on Teams mobile ](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
@@ -175,8 +205,12 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQs About Changing Background in Microsoft Teams Meeting
 
 **Q1) Can I add a video as background in Teams?**
@@ -200,16 +234,11 @@ You can find more details on this (<https://answers.microsoft.com/en-us/msteams/
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -217,3 +246,27 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-instant-improvement-in-visuals-the-canva-technique-for-borderless-images/"><u>[New] Instant Improvement in Visuals The Canva Technique for Borderless Images</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-masterclasses-in-livestreaming-and-recording-sport-views/"><u>[Updated] 2024 Approved Masterclasses in Livestreaming and Recording Sport Views</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-build-a-fortified-mc-base-plan-6-10/"><u>[Updated] Build a Fortified MC Base Plan #6-10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-tiktok-audio-transform-into-phone-ringtones/"><u>[Updated] In 2024, Mastering TikTok Audio Transform Into Phone Ringtones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-resolved-faulty-obs-camera/"><u>[Updated] In 2024, Resolved Faulty OBS Camera</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premier-microphones-for-university-podcasts/"><u>[Updated] Premier Microphones for University Podcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>[Updated] Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-eight-in-one-recorders-free-fast-and-flexible-for-android-users/"><u>2024 Approved Eight-in-One Recorders Free, Fast, and Flexible for Android Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722887623163-apples-latest-gadget-leak-pricing-release-schedule-and-features-of-the-new-domestic-helper-bot-revealed/"><u>Apple's Latest Gadget Leak: Pricing, Release Schedule & Features of the New Domestic Helper Bot Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/demystifying-apples-glitches-fixing-error-14-for-a-smooth-iphone-experience/"><u>Demystifying Apple’s Glitches: Fixing Error 14 for a Smooth iPhone Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-asus-2024-rog-zephyrus-g14-with-oled-display-and-nvidias-rtx-4060-at-a-discounted-price-save-300-now/"><u>Get the Asus 2024 ROG Zephyrus G14 with OLED Display and NVIDIA's RTX 4060 at a Discounted Price - Save $300 Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x5-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X5 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715860405019-in-2024-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>In 2024, Embedded Recorder Usage in Huawei's Mate Series and the P Lineup.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-in-depth-look-at-obs-studios-full-screen-recorder-tools/"><u>In 2024, In-Depth Look at OBS Studio's Full Screen Recorder Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-superior-sound-collector-top-10-tools-on-spotify/"><u>In 2024, Superior Sound Collector Top 10 Tools on Spotify</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/non-disclosure-in-videos-tips-for-masking-identifiable-details/"><u>Non-Disclosure in Videos Tips for Masking Identifiable Details</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pro-tips-for-crafting-and-sharing-content-on-reddit/"><u>Pro Tips for Crafting & Sharing Content on Reddit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-complete-guide-to-iphone-voice-memos-setup-for-2024/"><u>The Complete Guide to iPhone Voice Memos Setup for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-the-power-of-pixels-master-color-correction-techniques-11-steps/"><u>Unlock the Power of Pixels - Master Color Correction Techniques (11 Steps)</u></a></li>
+</ul></div>
+

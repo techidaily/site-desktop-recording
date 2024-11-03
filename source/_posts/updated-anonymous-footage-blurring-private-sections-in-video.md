@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Anonymous Footage  Blurring Private Sections in Video\""
-date: 2024-10-27T05:06:59.105Z
-updated: 2024-10-27T16:57:02.445Z
+date: 2024-11-01T00:29:19.671Z
+updated: 2024-11-03T01:16:13.012Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,19 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
@@ -87,20 +100,13 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
@@ -111,16 +117,10 @@ Hiding the identity of the people in your videos and concealing private informat
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
@@ -138,16 +138,10 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
@@ -177,18 +171,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-comprehensive-app-insights-with-az-recorders/"><u>[New] 2024 Approved Comprehensive App Insights with AZ Recorders</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility/"><u>[New] 2024 Approved Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-perfect-your-videos-captions-with-10plus-top-free-converters/"><u>[New] 2024 Approved Perfect Your Videos' Captions with 10+ Top FREE Converters</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-iphones-visual-upgrades-in-ios-11-explored/"><u>[New] IPhone's Visual Upgrades in iOS 11 Explored</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-masterclass-in-screenshotting-professional-level-techniques-using-mobizen/"><u>[New] Masterclass in Screenshotting Professional-Level Techniques Using Mobizen</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-broadcasting-made-simple-directly-stream-google-meet-to-youtube-for-2024/"><u>[Updated] Broadcasting Made Simple Directly Stream Google Meet to YouTube for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/alternate-avenues-a-compilation-of-non-gta-games/"><u>Alternate Avenues A Compilation of Non-GTA Games</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/discover-key-methods-to-store-discord-livestream-videos-efficiently/"><u>Discover Key Methods to Store Discord Livestream Videos Efficiently</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/facebook-ads-transformed-predicting-the-trends-for-next-year-for-2024/"><u>Facebook Ads Transformed Predicting the Trends for Next Year for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-13c-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi 13C Device</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/innovation-showcase-leading-4k-recorders-of-the-year/"><u>Innovation Showcase Leading 4K Recorders of the Year</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/obs-issue-resolved-camera-fix-for-2024/"><u>OBS Issue Resolved - Camera Fix for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-ubiquitous-blue-screen-enigma/"><u>Overcoming the Ubiquitous Blue Screen Enigma</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-essential-tips-for-the-steam-switch-pro-controller/"><u>[New] 2024 Approved Essential Tips for the Steam Switch Pro Controller</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-harmony-hunters-dive-into-free-online-beat-tracker/"><u>[Updated] 2024 Approved Harmony Hunters Dive Into Free, Online Beat Tracker</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-gentle-art-of-stepping-back-from-discords/"><u>[Updated] In 2024, The Gentle Art of Stepping Back From Discords</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unlock-efficiency-screen-recording-on-mac-via-keyboard-shortcuts-for-2024/"><u>[Updated] Unlock Efficiency Screen Recording on Mac via Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/10-leading-free-online-recording-tools-expert-opinions/"><u>10 Leading Free Online Recording Tools - Expert Opinions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-navigating-recordings-in-windows-11-a-compreayers-guide/"><u>2024 Approved Navigating Recordings in Windows 11 A Compreayer's Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-6-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 6 Plus Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/detailed-process-of-saving-movies-on-various-os/"><u>Detailed Process of Saving Movies on Various OS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elevate-your-video-workflow-capturing-mov-files-on-windows-10-for-2024/"><u>Elevate Your Video Workflow Capturing MOV Files on Windows 10 for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-srt-demystified-in-depth-analysis-and-tips/"><u>In 2024, SRT Demystified In-Depth Analysis and Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-windows-11-screen-recorder-guide/"><u>In 2024, Ultimate Windows 11 Screen Recorder Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-windows-identifying-top-5-cutting-tools/"><u>Mastering Windows Identifying Top 5 Cutting Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-msdns-operating-system-drive-performance/"><u>Optimizing MSDN's Operating System Drive Performance</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/rapid-results-elevate-images-on-windows-11-for-2024/"><u>Rapid Results Elevate Images on Windows 11 for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Infinix Note 30 VIP? | Dr.fone</u></a></li>
 </ul></div>
 

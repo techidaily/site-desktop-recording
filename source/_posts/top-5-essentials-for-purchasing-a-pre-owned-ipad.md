@@ -1,7 +1,7 @@
 ---
 title: Top 5 Essentials for Purchasing a Pre-Owned iPad
-date: 2024-10-22T00:23:48.672Z
-updated: 2024-10-27T17:53:17.411Z
+date: 2024-10-27T17:28:25.417Z
+updated: 2024-11-03T01:10:47.274Z
 categories:
   - BestProducts
 description: This Article Describes Top 5 Essentials for Purchasing a Pre-Owned iPad
@@ -37,6 +37,19 @@ Lifewire / Gannon Burgett
 
 4.2
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MAXOAK 185Wh/50000mAh External Battery Power Bank
 
 ![Max Oak](https://www.lifewire.com/thmb/0sYGw-7sF6j5aqPA13sWjU-Y2b4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_5WebHero-5c8ff106c9e77c0001a926f8.jpg)
@@ -63,13 +76,6 @@ Lifewire / Gannon Burgett
 
  While there's no shortage of options on the market, there aren’t many that can keep you going for days. That’s not the case with the MaxOak 50000mAh, an absolutely massive and robust charger that attempts to be the jack of all when it comes to charging gadgets on the go. It’s power comes at the cost of massive size and the charging ports aren’t too fast, but if you need tons of power, this is the battery pack to get.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Bulky for travelers**
 
  First and foremost, this thing is a tank. At 2.77 pounds, it weighs many times more than most smartphones and nearly as much as most compact laptops. It also measures in at 8.1 x 5.3 x 1.3 inches (HWD), making it quite the behemoth to lug around. A small detail regarding the weight of the MaxOak is that it isn't balanced. The side without the ports holds a fair bit more weight than the side with the various ports. It's not a significant detail, but one you might notice with time.
@@ -87,10 +93,10 @@ Lifewire / Gannon Burgett
  Charging the device is done via a small 16.8-volt 2.5A plug-in style port on the opposite side of the power button. Overall, the design is roughly what you'd expect from a 50000mAh laptop battery charger. Yes, it's heavy, yes it's quite beefy in size, but it comes with the territory.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Simple to start, but yet another adapter to carry around**
@@ -99,6 +105,13 @@ Lifewire / Gannon Burgett
 
  The point of a charger is to have extra battery power on hand when needed so you don't have to carry around unnecessary cables when traveling. Unfortunately, the MaxOak battery pack doesn't use any kind of USB or standardized port. Rather than charging it with a[USB Type-C](https://www.lifewire.com/usb-c-4149490) or even a micro-USB port, the MaxOak battery pack relies on its own proprietary power supply that's nearly as large as most laptop chargers. Sure, the 50000mAh onboard is likely enough that you could leave both the battery pack charger and your laptop charger behind for most events, but eventually you'll run out of juice and rather than reaching for a cable you would probably already have in your bag, you're stuck bringing along a proprietary charger.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Charging Speed and Battery: Slow and steady wins this race**
 
  The MaxOak 50000mAh manages to charge at a decent rate considering its capacity, but we would’ve liked to see more high-powered ports for speedier charging. We charged and fully drained the MaxOak power bank five times and charging took roughly six to eight hours per recharge with an average of seven hours and fifteen minutes.
@@ -106,16 +119,16 @@ Lifewire / Gannon Burgett
 ![Max Oak](https://www.lifewire.com/thmb/FlP4JZUVLoJ3DjKoSRUIFuf1peY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_6Web-5c8ff3e6c9e77c0001a926ff.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
@@ -129,13 +142,6 @@ Lifewire / Gannon Burgett
  The MaxOak power bank charged the Samsung Galaxy S8 Active just shy of twelve times from 0% to 100%. This aligns almost exactly with the 50000mAh capacity of the MaxOak power divided by the 4,000mAh capacity of the Samsung Galaxy S8 Active. We experienced similar results with the iPhone XS. While Apple doesn't specifically mention the battery capacity of the iPhone XS, third parties have reported it to be approximately 2,700mAh, which would equate to roughly 18.5 full charges. In our tests, we were able to get 17.5 charges from the MaxOak power bank.
 
  Moving onto laptops, our ASUS X555LA was able to be charged four and a half times from 0% with the MaxOak power bank, with an average charge time of three hours or so. The ASUS X555LA has a relatively small battery compared to most laptops, which means it falls in line with MaxOak’s claims that its power bank can charge a laptop two times over give or take a little.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Right down the middle**
 
@@ -193,21 +199,19 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-recordingquality-analysis/"><u>[New] 2024 Approved RecordingQuality Analysis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-explore-cheap-video-call-alternatives-compatible-with-windows-and-mac/"><u>[New] In 2024, Explore Cheap Video Call Alternatives Compatible With Windows & Mac</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outube-audio-made-simple-for-imovie-editors/"><u>[New] YouTube Audio, Made Simple for iMovie Editors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-a-critical-look-at-the-latest-camera-recording-systems/"><u>[Updated] 2024 Approved A Critical Look at the Latest Camera Recording Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pro-gamers-guide-to-superior-webcam-gameplay-capturing/"><u>[Updated] In 2024, Pro Gamer's Guide to Superior WebCam Gameplay Capturing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-terror-in-town-a-list-of-intense-zombie-games-for-2024/"><u>[Updated] Terror in Town A List of Intense Zombie Games for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-process-recording-youtube-livestream-on-multiple-platforms-for-2024/"><u>[Updated] The Complete Process Recording YouTube Livestream on Multiple Platforms for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-steps-to-modify-playback-rate-of-songs-in-spotify/"><u>2024 Approved Prime Steps to Modify Playback Rate of Songs in Spotify</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/enlightening-your-youtube-footage-with-proper-lighting/"><u>Enlightening Your YouTube Footage with Proper Lighting</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-rgb-to-srgb-understanding-color-transition-for-2024/"><u>From Rgb to Srgb Understanding Color Transition for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratis-online-converter-de-ape-para-mp3-com-o-movavi-facil-utilizacao/"><u>Gratis Online Converter De APE Para MP3 Com O Movavi - Fácil Utilização</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-detailed-guide-to-free-screen-recorders/"><u>In 2024, Detailed Guide to Free Screen Recorders</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/meet-the-gem12-pro-powerful-performance-with-upgraded-ryzen-processor-built-in-screen-and-enhanced-overclocking-connectivity/"><u>Meet the Gem12 Pro – Powerful Performance with Upgraded Ryzen Processor, Built-In Screen, and Enhanced Overclocking Connectivity</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/sync-fenster-nicht-zwischen-iphone-und-ipad-auf-ios-16-schliessen/"><u>Sync-Fenster Nicht Zwischen iPhone Und iPad Auf iOS 16 Schließen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x50-gt-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Honor X50 GT Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-resolving-issues-with-your-zoom-camera/"><u>Troubleshooting Steps for Resolving Issues with Your Zoom Camera</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-androids-top-12-virtual-creature-experiences-for-2024/"><u>[New] Android's Top 12 Virtual Creature Experiences for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-flashy-feeds-to-fm-sounds-the-instagram-to-mp3-methodology/"><u>[New] In 2024, From Flashy Feeds to FM Sounds The Instagram-to-Mp3 Methodology</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-perfecting-the-art-of-whatsapp-call-logging/"><u>[New] In 2024, Perfecting the Art of WhatsApp Call Logging</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-voice-recording-for-powerpoint-visuals/"><u>[New] In 2024, Voice Recording for PowerPoint Visuals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-split-screen-audio-logging-for-2024/"><u>[New] Split Screen Audio Logging for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-innovative-metaverse-memes-a-beginners-roadmap/"><u>[Updated] Exploring Innovative Metaverse Memes A Beginner's Roadmap</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-delving-into-active-presenters-record-capabilities/"><u>[Updated] In 2024, Delving Into Active Presenter's Record Capabilities</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-high-def-odyssey-of-youtubes-twitter-vids/"><u>[Updated] In 2024, The High-Def Odyssey of YouTube's Twitter Vids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-secret-sonic-snatchers-6-in-the-shadows-voice-recording-apps/"><u>2024 Approved Secret Sonic Snatchers 6 In-the-Shadows Voice Recording Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-apps-to-master-sound-transformation/"><u>2024 Approved Unveiling the Best Apps to Master Sound Transformation</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-techniques-to-improve-frame-rates-and-reduce-lag-in-siftu-for-pc-players/"><u>DIY Techniques to Improve Frame Rates and Reduce Lag in SIFTU for PC Players</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-efficiently-archive-social-media-videos-with-top-5-pick/"><u>In 2024, Efficiently Archive Social Media Videos with Top 5 Pick</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/your-speech-any-sound-discover-the-best-vocal-transformation-tools-on-android-for-2024/"><u>Your Speech, Any Sound Discover the Best Vocal Transformation Tools on Android for 2024</u></a></li>
 </ul></div>
 
