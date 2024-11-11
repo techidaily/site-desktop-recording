@@ -1,7 +1,7 @@
 ---
 title: "Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)"
-date: 2024-10-28T22:31:40.858Z
-updated: 2024-11-02T23:52:05.169Z
+date: 2024-11-05T08:07:41.250Z
+updated: 2024-11-10T22:36:18.722Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ In case you were looking for a way to record a screen on a Huawei Smartphone, yo
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
@@ -68,10 +68,16 @@ Pull-down notification panel from the top, find the Screen Recorder shortcut ico
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2. Pressing Buttons to Record Huawei Screen
@@ -90,33 +96,33 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -139,19 +145,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-art-of-slow-motion-in-instagram-reels/"><u>[New] 2024 Approved The Art of Slow Motion in Instagram Reels</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-integrating-zoom-and-fb-live-effortlessly/"><u>[New] Integrating ZOOM and FB Live Effortlessly</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-definitive-guide-to-post-production-perfection-on-instagram-for-2024/"><u>[New] The Definitive Guide to Post-Production Perfection on Instagram for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capturing-both-webcam-and-monitor-live-feed/"><u>[Updated] 2024 Approved Capturing Both Webcam & Monitor Live Feed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-seamless-integration-using-your-switch-pro-controller-to-dominate-on-steam/"><u>[Updated] 2024 Approved Seamless Integration Using Your Switch Pro Controller to Dominate on Steam</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-explore-the-9-best-iphone-watermarking-solutions-for-2024/"><u>[Updated] Explore the 9 Best iPhone Watermarking Solutions for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-maximizing-fun-in-the-stardew-ginger-region-for-2024/"><u>[Updated] Maximizing Fun in the Stardew Ginger Region for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-modern-vr-equipment-overview/"><u>[Updated] Modern VR Equipment Overview</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-12-screen-capture-tools-unlimited-recording/"><u>2024 Approved Ultimate 12 Screen Capture Tools (Unlimited Recording)</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-tech-savvy-ways-to-record-mac-lectures/"><u>In 2024, Tech-Savvy Ways to Record Mac Lectures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-ai-assistant-chatgpt-with-voice-command-for-your-benz/"><u>Introducing AI Assistant: ChatGPT with Voice Command for Your Benz</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unmissable-streaming-games-await-for-2024/"><u>Unmissable Streaming Games Await for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722208025719-unveiling-the-ios-app-of-chatgpt-discover-how-it-works/"><u>Unveiling the iOS App of ChatGPT – Discover How It Works!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ideal-strategies-for-recording-app-activity/"><u>[New] Ideal Strategies for Recording App Activity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-crafting-dynamic-luts/"><u>[New] The Art of Crafting Dynamic LUTs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-10-best-free-online-screen-recorders-for-2024/"><u>[New] Top 10 Best Free Online Screen Recorders for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-easygamerecording-by-nvidia/"><u>[Updated] 2024 Approved EasyGameRecording by NVIDIA</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-group-chat-options-for-virtual-gatherings/"><u>[Updated] 2024 Approved Expert Group Chat Options for Virtual Gatherings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-idea-to-execution-creating-youtube-trailers-in-filmora/"><u>[Updated] 2024 Approved From Idea to Execution Creating YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-fast-and-efficient-image-captures-pcs-top-snipping-software-ranked/"><u>[Updated] Fast & Efficient Image Captures PC's Top Snipping Software Ranked</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-instagram-to-tik-tok-a-social-pivot-blueprint/"><u>[Updated] Instagram to Tik Tok - A Social Pivot Blueprint</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mkv-movies-on-edge-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Failed to play MKV movies on Edge 2023</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-10-famous-movies-made-by-final-cut-pro/"><u>In 2024, Top 10 Famous Movies Made By Final Cut Pro</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-transform-your-wv-files-into-high-quality-wav-audio/"><u>Quick Guide: Transform Your WV Files Into High-Quality WAV Audio</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-7-cost-free-virtual-fax-platforms/"><u>The Ultimate Guide to 7 Cost-Free Virtual Fax Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-techniques-for-webcam-integration-in-game-recording/"><u>Top Techniques for WebCam Integration in Game Recording</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphone-phone-calls-discover-these-10-fixes/"><u>Unstick Your iPhone Phone Calls – Discover These 10 Fixes</u></a></li>
 </ul></div>
 
