@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Instant Video Link-Up  Using WhatsApp Desktop for PC Calls\""
-date: 2024-11-08T10:23:33.628Z
-updated: 2024-11-11T00:22:40.577Z
+date: 2024-11-16T00:22:05.738Z
+updated: 2024-11-20T23:24:15.847Z
 tags: 
   - screen-recording
   - ai video
@@ -39,13 +39,6 @@ Unfortunately, you can’t use WhatsApp on the desktop to make video calls direc
 
 Anyone asking, “how can I make a video call on WhatsApp Web?” is in the right place.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Make Video Call from WhatsApp Web in Laptop
 
 Everyone who has done a little research will see that you can use WhatsApp Web to make calls and send messages. At first glance, it appears as though the controls are the same, but you are more limited in options because you can’t, seemingly, make video calls.
@@ -62,25 +55,24 @@ In a few easy steps:
 
 ![set Bluestacks account](https://images.wondershare.com/filmora/article-images/set-bluestacks-account.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    1. Find WhatsApp in the Play or Apple store and download it.
 
 ![download WhatsApp](https://images.wondershare.com/filmora/article-images/download-whatsapp-in-bluestacks.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    1. Open it through the Bluestacks and set the WhatsApp with the same account on your phone.
 
 ![log in whatsapp](https://images.wondershare.com/filmora/article-images/install-whatsapp-in-desktop.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Now you can see all your contacts on WhatsApp, and you can also add more people here.
@@ -92,13 +84,6 @@ Your WhatsApp download will run from here, giving you the answer to how to make 
 
 There are 3 WhatsApp Web Alternatives that we can think of, off the top of our heads.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. [Skype Online](https://www.skype.com/en/features/skype-web/)
 
 Skype is one of the longest-running video calling and web calling apps. It gives you a local international ID to make long-distance calls for free, and much easier. It also has some great functions if you need to work from home or video conference. Skype has excellent customer support and some wonderful add-ons to make the experience more accessible. When it comes to a tailored, professional finish, then Skype has the most experience. You can also [record Skype video call](https://tools.techidaily.com/wondershare/filmora/download/) easily.
@@ -106,16 +91,11 @@ Skype is one of the longest-running video calling and web calling apps. It gives
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. [Google Duo](https://duo.google.com/about/)
@@ -129,13 +109,6 @@ If you can’t figure out how to make video calls on WhatsApp Web on laptops, th
 If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
 
 ![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Rounding Up
 
@@ -158,22 +131,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-coded-chronicles-top-10-roguelike-journeys-for-2024/"><u>[New] Coded Chronicles Top 10 Roguelike Journeys for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-iphone-7-screen-save-made-simple-for-2024/"><u>[New] IPhone 7 Screen Save Made Simple for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-transforming-smartphones-into-portable-cameras-for-2024/"><u>[New] Transforming Smartphones Into Portable Cameras for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-troubleshooting-a-non-functional-obs-capture-device/"><u>[New] Troubleshooting a Non-Functional OBS Capture Device</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-clearing-your-name-after-a-youtube-copyright-strike-notice/"><u>[Updated] Clearing Your Name After a YouTube Copyright Strike Notice</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-zoom-techniques-for-captivating-audio-in-podcast-production-for-2024/"><u>[Updated] Essential Zoom Techniques for Captivating Audio in Podcast Production for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-free-digital-asset-valuation-tools/"><u>[Updated] Free Digital Asset Valuation Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-users-guide-for-navigating-durecorder-world/"><u>[Updated] In 2024, The Ultimate User’s Guide for Navigating DuRecorder World</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-voice-makeover-masters-the-7-leading-recording-changer-apps/"><u>[Updated] In 2024, Voice Makeover Masters The 7 Leading Recording Changer Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fix-lonely-beats-airpod-solution/"><u>2024 Approved Fix Lonely Beats Airpod Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/educate-yourself-learn-about-the-signs-of-drug-and-alcohol-use-as-well-as-the-types-of-substances-that-might-be-accessible-to-teenagers-in-your-area-this-kn80/"><u>Educate Yourself: Learn About the Signs of Drug and Alcohol Use, as Well as the Types of Substances that Might Be Accessible to Teenagers in Your Area. This Knowledge Can Help You Spot Potential Red Flags More Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-11-pro-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 11 Pro If Youve Tried Everything</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-no-charge-subtitle-makers-srt-for-2024/"><u>The Ultimate Guide to No-Charge Subtitle Makers (SRT) for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/troubleshooting-the-asus-chromebooks-dilemma-overcoming-white-display-hiccups-and-unresponsive-power-startup/"><u>Troubleshooting the ASUS Chromebook's Dilemma - Overcoming White Display Hiccups and Unresponsive Power Startup</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unveiling-the-secrets-to-flawless-lenovo-screen-recordings/"><u>Unveiling the Secrets to Flawless Lenovo Screen Recordings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-block-spontaneous-youtube-video-triggers/"><u>[New] 2024 Approved Block Spontaneous YouTube Video Triggers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-mpeg-4-to-multifarious-formats-a-guide-using-vlc/"><u>[New] From MPEG-4 to Multifarious Formats A Guide Using VLC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-virtual-speaker-to-reel-showman-fb-live-recording-tactics-for-2024/"><u>[New] From Virtual Speaker to Reel Showman FB Live Recording Tactics for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-macbook-airs-hidden-potential-expertise-in-screen-capturing/"><u>[New] In 2024, MacBook Air's Hidden Potential Expertise in Screen Capturing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-nintendo-switch-pugilists-the-ultimate-10-game-guidebook/"><u>[Updated] 2024 Approved Nintendo Switch Pugilists The Ultimate 10-Game Guidebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-fast-and-flawless-screen-shots-for-chromebookers/"><u>[Updated] Fast and Flawless Screen Shots for Chromebookers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-gif-basics-crafting-your-first-animated-image/"><u>[Updated] GIF Basics Crafting Your First Animated Image</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-visionsnap-tech-your-guide-to-the-best-of-2023/"><u>[Updated] VisionSnap Tech – Your Guide to the Best of 2023</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-productivity-in-microsoft-teams-with-cutting-edge-ai-assistant-copilot/"><u>Boosting Productivity in Microsoft Teams with Cutting-Edge AI Assistant Copilot</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-download-of-acer-bluetooth-drivers-simple-steps-and-guide/"><u>Fast Download of Acer Bluetooth Drivers: Simple Steps and Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966486511-fixing-network-issues-install-the-latest-broadcom-ethernet-driver-on-your-windows-solved-machine/"><u>Fixing Network Issues? Install the Latest Broadcom Ethernet Driver on Your Windows ^[SOLVED]^ Machine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-play-8t-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor Play 8T?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-rated-free-video-editing-apps-with-special-effects-for-mobile/"><u>Updated 2024 Approved Top-Rated Free Video Editing Apps with Special Effects for Mobile</u></a></li>
 </ul></div>
 

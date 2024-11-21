@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Stealth and Honor  Find Your Favorite Games Like Tsushi\""
-date: 2024-11-08T06:34:24.152Z
-updated: 2024-11-10T22:24:32.277Z
+date: 2024-11-17T22:13:23.861Z
+updated: 2024-11-21T01:04:30.887Z
 tags: 
   - screen-recording
   - ai video
@@ -135,13 +135,25 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 These games like Ghost of Tsushima are unique and different in their own way but all these games revolve around the same combat system. Choose any of these games depending upon your preference and choice. These games will provide you with the same experience and thrill as Ghost of Tsushima. You will not get bored while playing the above games. Choose a game and start the thrill of fighting melee combats and intense battle fights.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -158,24 +170,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-elevate-your-canva-video-game-editing-and-mixing-soundtracks/"><u>[New] In 2024, Elevate Your Canva Video Game Editing & Mixing Soundtracks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-set-up-efficient-live-conversations-on-pc-via-whatsapp-web/"><u>[New] In 2024, Set Up Efficient Live Conversations on PC via WhatsApp Web</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-save-and-stream-gotomeet-on-desktops-and-phones-for-2024/"><u>[New] Save and Stream GoToMeet on Desktops & Phones for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-capture-and-save-memories-webcam-recordings-in-vlc-format/"><u>[Updated] Capture & Save Memories Webcam Recordings in VLC Format</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-polished-perfection-an-essential-youtube-video-editing-guide-for-2024/"><u>[Updated] From Raw Footage to Polished Perfection An Essential Youtube Video Editing Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-how-to-launch-your-first-session-with-vrecorder-for-2024/"><u>[Updated] How to Launch Your First Session with VRecorder for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-windowsmac-tutorials-for-skype-audio-and-video-archive/"><u>[Updated] Windows/Mac Tutorials for Skype Audio & Video Archive</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-prime-methods-for-quiet-videography/"><u>2024 Approved Prime Methods for Quiet Videography</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-how-to-reset-the-dns-resolver-configuration-on-macos/"><u>Expert Tips: How to Reset the DNS Resolver Configuration on macOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-connect-arduino-to-windows-using-proper-drivers/"><u>How To Easily Connect Arduino to Windows Using Proper Drivers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-epicurean-epiphanies-filming-feast-creation/"><u>In 2024, Epicurean Epiphanies Filming Feast Creation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/quick-setup-for-flawless-time-lapses-on-ipad/"><u>Quick Setup for Flawless Time-Lapses on iPad</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-customize-spotify-turn-off-suggested-podcast-additions/"><u>[New] 2024 Approved Customize Spotify Turn Off Suggested Podcast Additions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-elite-hd-visuals-selecting-top-quality-recorders-for-2024/"><u>[New] Elite HD Visuals Selecting Top Quality Recorders for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-creative-uses-for-home-webcams/"><u>[New] In 2024, Creative Uses for Home Webcams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-footage-select-best-gimbals-and-handhelds-guide-for-2024/"><u>[New] Mastering Footage Select Best Gimbals & Handhelds Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-picks-premium-costless-screencasting-apps-reviewed/"><u>[Updated] 2024 Approved Expert Picks Premium, Costless Screencasting Apps Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-10-premier-android-and-ios-video-chat-tools/"><u>[Updated] 2024 Approved Top 10 Premier Android & iOS Video Chat Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficient-techniques-for-capturing-macos-content/"><u>[Updated] Efficient Techniques for Capturing macOS Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-fundamentals-of-vimeo-video-logging/"><u>[Updated] In 2024, The Fundamentals of Vimeo Video Logging</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-game-console-deals-under-100/"><u>[Updated] Ultimate Game Console Deals Under 100$</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-zoom-savvy-key-techniques-for-clear-and-confident-remote-conversations-for-2024/"><u>[Updated] Zoom Savvy Key Techniques for Clear and Confident Remote Conversations for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-goovision-9000-ultimate-os-snapshotter/"><u>2024 Approved GooVision 9000 Ultimate OS Snapshotter</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-essential-guide-for-every-aspiring-snapchat-editor/"><u>2024 Approved The Essential Guide for Every Aspiring Snapchat Editor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960211798-effortless-download-hp-officejet-5740-printer-drivers-available-now/"><u>Effortless Download: HP OfficeJet 5740 Printer Drivers Available Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-enhance-your-systems-graphics-speed-upgrade-intel-drivers-in-windows/"><u>Effortlessly Enhance Your System's Graphics Speed, Upgrade Intel Drivers in WIndows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-social-crosslink-instagram-and-tiktok-guide-for-2024/"><u>Mastering Social Crosslink Instagram & TikTok Guide for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/obtain-latest-version-of-toshibam-bluetooth-drivers/"><u>Obtain Latest Version of Toshibam Bluetooth Drivers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unleash-your-inner-editor-with-these-premium-androidpc-apps/"><u>Unleash Your Inner Editor with These Premium Android/PC Apps</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

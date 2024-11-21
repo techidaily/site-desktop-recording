@@ -1,7 +1,7 @@
 ---
 title: "How AMD's EPYC Chips Triumph Over Nvidia's Grace Superchip: See Them Beat Benchmark Records by Twice the Speed"
-date: 2024-11-07T01:21:18.620Z
-updated: 2024-11-11T10:13:13.107Z
+date: 2024-11-20T01:49:22.330Z
+updated: 2024-11-20T19:50:56.265Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -60,28 +64,22 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-simple-steps-for-android-voice-recording-no-root/"><u>[New] 2024 Approved Simple Steps for Android Voice Recording (No Root)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-androids-budget-friendly-video-call-leaders-for-2024/"><u>[New] Android's Budget-Friendly Video Call Leaders for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-art-of-audio-mastery-with-iphones-voice-recording/"><u>[New] In 2024, The Art of Audio Mastery with iPhone's Voice Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-a-new-era-in-iptv-recording-technology-exploration/"><u>[Updated] A New Era in IPTV Recording Technology Exploration</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-effortless-group-chats-joining-zoom-on-your-android/"><u>[Updated] Effortless Group Chats Joining Zoom on Your Android</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-step-up-to-stardom-10-pro-tips-for-pixlr-excellence/"><u>2024 Approved Step up to Stardom 10 Pro Tips for Pixlr Excellence</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streaming-success-updated-youtube-revenue-policies/"><u>2024 Approved Streaming Success Updated YouTube Revenue Policies</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-9-powerful-applications-for-saving-youtube-content-on-android/"><u>In 2024, 9 Powerful Applications for Saving YouTube Content on Android</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-captivates-potential-for-video-creation/"><u>In 2024, Unlocking Captivate's Potential for Video Creation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-tips-and-reviews-by-tom/"><u>Navigating the World of Electronics: Tips and Reviews by Tom</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stylish-and-secure-iphone-se-2022-case-selection-find-your-perfect-match-android-authority/"><u>Stylish & Secure iPhone SE 2022 Case Selection: Find Your Perfect Match | Android Authority</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-io-scanner-insiders-handbook-for-2024/"><u>The Ultimate IO Scanner Insider's Handbook for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-13-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 13 Pro Max? 5 Tips You Must Know</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-lava-storm-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Lava Storm 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-of-pubg-sound-personalization-for-2024/"><u>Unlocking the Secrets of PUBG Sound Personalization for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-transform-ppt-content-into-digital-filmstrip/"><u>[New] 2024 Approved Transform PPT Content Into Digital Filmstrip</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-optimizing-obs-video-compression/"><u>[New] In 2024, Optimizing OBS Video Compression</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quickscreen-recorder-plus-guided-soundtrack-companion/"><u>[New] In 2024, QuickScreen Recorder + Guided Soundtrack Companion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimal-techniques-for-capturing-ppt-sessions-for-2024/"><u>[New] Optimal Techniques for Capturing PPT Sessions for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimizing-your-youtube-video-preservation-for-2024/"><u>[New] Optimizing Your YouTube Video Preservation for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-revolutionize-your-pc-captures-with-these-top-tools/"><u>[New] Revolutionize Your PC Captures with These Top Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-exploring-manycams-latest-video-capture-innovations/"><u>[Updated] 2024 Approved Exploring ManyCam's Latest Video Capture Innovations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-set-new-directory-for-mac-image-backups/"><u>[Updated] 2024 Approved Set New Directory for Mac Image Backups</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads/"><u>[Updated] Cutting-Edge Techniques A Guide to Next-Level Effectiveness in Your YouTube Ads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-perfect-your-windowsmac-call-records-with-15plus-tips-for-skype-users/"><u>[Updated] In 2024, Perfect Your Windows/Mac Call Records with 15+ Tips for Skype Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-soundscape-sanctuary-free-high-resolution-dj-videos-available-for-2024/"><u>[Updated] Soundscape Sanctuary Free High-Resolution DJ Videos Available for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-sans-frais-de-bmp-en-jpeg-en-ligne-rapide-avec-movavi/"><u>Conversion Sans Frais De BMP en JPEG en Ligne Rapide Avec Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shot-perfecting-made-simple-the-best-cinematic-practices/"><u>In 2024, Shot Perfecting Made Simple The Best Cinematic Practices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-strategy-for-professional-srt-production/"><u>In 2024, Ultimate Strategy for Professional SRT Production</u></a></li>
+<li><a href="https://facebook.techidaily.com/optimize-your-fb-experience-best-mobile-settings/"><u>Optimize Your FB Experience: Best Mobile Settings</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/unleash-the-power-of-chicken8-content-seamless-video-collection-awaits-at-your-fingertips/"><u>Unleash the Power of Chicken8 Content: Seamless Video Collection Awaits at Your Fingertips!</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y78-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
