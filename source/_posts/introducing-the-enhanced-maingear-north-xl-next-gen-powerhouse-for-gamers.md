@@ -1,7 +1,7 @@
 ---
 title: Introducing the Enhanced Maingear North XL - Next-Gen Powerhouse for Gamers
-date: 2024-08-10T06:17:17.432Z
-updated: 2024-08-11T06:17:17.432Z
+date: 2024-11-18T05:23:23.145Z
+updated: 2024-11-20T18:02:57.659Z
 tags:
   - desktop
 categories:
@@ -17,9 +17,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  The AGP interface is newer and, thus, likely faster than the PCI interface on the motherboard, so using the first adapter is highly questionable; however, the user probably didn't have a PCI to PCIe adaptor handy. The GPU is ultimately listed in an included AIDA64 screenshot, showing that it is functional. The user didn't share performance benchmarks, but this setup may be enough for Crysis.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.](https://cdn.mos.cms.futurecdn.net/QYgYq7hUqARXB4fFQkNQ84-320-80.png)
 
  Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.  (Image credit: Christian Rudewig on FB (via @tercio\_miranda on Twitter))
@@ -35,8 +32,9 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,14 +49,11 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  As you can see, the modding community is still hard at work wringing more functionality out of old gear, either for entertainment or out of necessity.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -67,4 +62,26 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-full-review-of-the-latest-powerdirector-app-24/"><u>[New] 2024 Approved Full Review of the Latest PowerDirector App - '24</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-splitcam-verdict-unrivaled-camera-quality-or-not-for-2024/"><u>[New] SplitCam Verdict Unrivaled Camera Quality or Not for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-best-5-digital-recorder-selects/"><u>[Updated] 2024 Approved Best 5 Digital Recorder Selects</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-innovative-solutions-for-storing-mov-files-in-windows-10/"><u>[Updated] 2024 Approved Innovative Solutions for Storing Mov Files in Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-uncomplicated-walkthrough-of-easy-iphone-screen-capture/"><u>[Updated] 2024 Approved Uncomplicated Walkthrough of Easy iPhone Screen Capture</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-a-glimpse-into-virtual-frontiers-with-jaunt-vr/"><u>[Updated] A Glimpse Into Virtual Frontiers with Jaunt VR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comparing-apples-with-oranges-not-when-it-comes-to-m1-pro-and-m1-max/"><u>[Updated] Comparing Apples with Oranges? Not When It Comes to M1 Pro & M1 Max</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-free-extension-software-leaders-in-chromebook-video-recording-for-2024/"><u>[Updated] Free Extension Software Leaders in Chromebook Video Recording for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capture-the-thrill-mastering-4-techniques-of-xbox-screen-recording/"><u>[Updated] In 2024, Capture the Thrill Mastering 4 Techniques of Xbox Screen-Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-get-the-most-out-of-your-streamlabs-obs-setup/"><u>[Updated] In 2024, How to Get the Most Out of Your Streamlabs OBS Setup</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-superior-selection-ultimate-cloud-storage-picks/"><u>[Updated] Superior Selection Ultimate Cloud Storage Picks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-your-quick-guide-to-successful-online-television-archiving/"><u>[Updated] Your Quick Guide to Successful Online Television Archiving</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ranking-the-best-ios-videography-tech/"><u>2024 Approved Ranking the Best iOS Videography Tech</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortlessly-install-intels-latest-wireless-ac-3160-driver-quick-tips/"><u>Effortlessly Install Intel's Latest Wireless AC 3160 Driver - Quick Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-se-2020ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone SE (2020)/iPad | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-soundscape-scrutiny-listening-insights/"><u>In 2024, Soundscape Scrutiny Listening Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-repair-windows-11-bluetooth-connection-issues/"><u>Solution Guide: How to Repair Windows 11 Bluetooth Connection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-class-not-found-problems-in-windows-11/"><u>Troubleshooting and Solving 'Class Not Found' Problems in Windows 11</u></a></li>
+</ul></div>
 

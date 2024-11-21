@@ -1,7 +1,7 @@
 ---
 title: "\"RPG Origins Vs. Hybrid Designs  Evolution\""
-date: 2024-11-15T01:06:46.810Z
-updated: 2024-11-20T23:52:58.928Z
+date: 2024-11-13T22:55:34.135Z
+updated: 2024-11-21T05:34:19.828Z
 tags: 
   - screen-recording
   - ai video
@@ -46,11 +46,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -60,7 +56,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -68,6 +64,10 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -123,15 +123,15 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Hades
 
@@ -139,13 +139,13 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -164,18 +164,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-directscreencapture-simple-and-swift-recordings/"><u>[New] DirectScreenCapture Simple & Swift Recordings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-epic-browser-recording-tools-for-the-ultimate-surfers-dream-for-2024/"><u>[New] Epic Browser Recording Tools for the Ultimate Surfer's Dream for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-streamlined-recording-of-virtual-gatherings/"><u>[Updated] 2024 Approved The Ultimate Checklist for Streamlined Recording of Virtual Gatherings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-7-best-fmovie-alternatieves/"><u>[Updated] Top 7 Best Fmovie Alternatieves</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-vcs-quickcapture-critique-full-review-and-guide/"><u>[Updated] VCS QuickCapture Critique Full Review & Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>2024 Approved The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211253082-9781999514327-adrenal-fatigue/"><u>Adrenal Fatigue | Free Book</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/armies-united-exploring-the-ultimate-7-strategy-wars/"><u>Armies United Exploring the Ultimate 7 Strategy Wars</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chuckle-chamber-fast-track-to-funny-memes/"><u>Chuckle Chamber Fast Track to Funny Memes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-a05s-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy A05s? Try These Fixes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income/"><u>In 2024, From Views to Revenue Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/rx-heritage-bundle/"><u>RX Heritage Bundle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-free-video-clipper-tools-for-windows-and-mac-remove-unwanted-footage-with-ease/"><u>Top FREE Video Clipper Tools for Windows & Mac - Remove Unwanted Footage with Ease</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ios-compatible-psp-games-the-five-finest-for-2024/"><u>[New] IOS Compatible PSP Games The Five Finest for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-modulate-your-message-a-top-tier-list-of-voice-change-mobile-apps-for-2024/"><u>[Updated] Modulate Your Message A Top-Tier List of Voice Change Mobile Apps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/cutting-edge-ps2-games-simulation-for-ios-users/"><u>Cutting-Edge PS2 Games Simulation for iOS Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-se-2022-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone SE (2022) Activation Lock</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-complete-guide-to-camstudio-screencap-mastery/"><u>In 2024, Complete Guide to CamStudio Screencap Mastery</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-a05s-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel A05s to New Android? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-intuitive-methods-to-log-your-google-voice-conversations/"><u>In 2024, Intuitive Methods to Log Your Google Voice Conversations</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pioneering-success-innovative-youtube-strategies/"><u>Pioneering Success Innovative YouTube Strategies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/um-7-vlog-cameras-boosting-audience-engagement-and-retention-for-2024/"><u>Premium 7 Vlog Cameras Boosting Audience Engagement & Retention for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/ripara-iphone-bloccato-durante-la-migrazione-dei-dati-guida-completa-per-risolvere-i-problemi-di-trasferimento-su-iphone-13141516/"><u>Ripara iPhone Bloccato Durante La Migrazione Dei Dati: Guida Completa per Risolvere I Problemi Di Trasferimento Su iPhone 13/14/15/16</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-benefits-of-apple-pay-for-shoppers-expert-tips-on-how-and-why-to-use-it-both-offline-and-online/"><u>The Ultimate Benefits of Apple Pay for Shoppers: Expert Tips on How and Why to Use It Both Offline and Online</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-analysis-xbox-one-x-leading-the-charge-in-gaming-consoles/"><u>Ultimate Analysis: Xbox One X - Leading the Charge in Gaming Consoles</u></a></li>
 </ul></div>
 

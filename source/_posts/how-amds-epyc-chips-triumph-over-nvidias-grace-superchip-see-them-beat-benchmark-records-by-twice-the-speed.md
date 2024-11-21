@@ -1,7 +1,7 @@
 ---
 title: "How AMD's EPYC Chips Triumph Over Nvidia's Grace Superchip: See Them Beat Benchmark Records by Twice the Speed"
-date: 2024-11-20T01:49:22.330Z
-updated: 2024-11-20T19:50:56.265Z
+date: 2024-11-17T02:36:21.931Z
+updated: 2024-11-21T01:42:47.726Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,22 +64,22 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-transform-ppt-content-into-digital-filmstrip/"><u>[New] 2024 Approved Transform PPT Content Into Digital Filmstrip</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-optimizing-obs-video-compression/"><u>[New] In 2024, Optimizing OBS Video Compression</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quickscreen-recorder-plus-guided-soundtrack-companion/"><u>[New] In 2024, QuickScreen Recorder + Guided Soundtrack Companion</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-optimal-techniques-for-capturing-ppt-sessions-for-2024/"><u>[New] Optimal Techniques for Capturing PPT Sessions for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-optimizing-your-youtube-video-preservation-for-2024/"><u>[New] Optimizing Your YouTube Video Preservation for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-revolutionize-your-pc-captures-with-these-top-tools/"><u>[New] Revolutionize Your PC Captures with These Top Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-exploring-manycams-latest-video-capture-innovations/"><u>[Updated] 2024 Approved Exploring ManyCam's Latest Video Capture Innovations</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-set-new-directory-for-mac-image-backups/"><u>[Updated] 2024 Approved Set New Directory for Mac Image Backups</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads/"><u>[Updated] Cutting-Edge Techniques A Guide to Next-Level Effectiveness in Your YouTube Ads</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-perfect-your-windowsmac-call-records-with-15plus-tips-for-skype-users/"><u>[Updated] In 2024, Perfect Your Windows/Mac Call Records with 15+ Tips for Skype Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-soundscape-sanctuary-free-high-resolution-dj-videos-available-for-2024/"><u>[Updated] Soundscape Sanctuary Free High-Resolution DJ Videos Available for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conversion-sans-frais-de-bmp-en-jpeg-en-ligne-rapide-avec-movavi/"><u>Conversion Sans Frais De BMP en JPEG en Ligne Rapide Avec Movavi</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-shot-perfecting-made-simple-the-best-cinematic-practices/"><u>In 2024, Shot Perfecting Made Simple The Best Cinematic Practices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-strategy-for-professional-srt-production/"><u>In 2024, Ultimate Strategy for Professional SRT Production</u></a></li>
-<li><a href="https://facebook.techidaily.com/optimize-your-fb-experience-best-mobile-settings/"><u>Optimize Your FB Experience: Best Mobile Settings</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/unleash-the-power-of-chicken8-content-seamless-video-collection-awaits-at-your-fingertips/"><u>Unleash the Power of Chicken8 Content: Seamless Video Collection Awaits at Your Fingertips!</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y78-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-terror-in-town-a-list-of-intense-zombie-games/"><u>[New] 2024 Approved Terror in Town A List of Intense Zombie Games</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xpert-speaker-change-devices-for-youtube-gurus/"><u>[New] Expert Speaker Change Devices for YouTube Gurus</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-live-stream-xbox-to-facebook-live/"><u>[New] How to Live Stream Xbox to Facebook Live</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-boost-your-workflow-with-these-8-best-facebook-timers/"><u>[New] In 2024, Boost Your Workflow with These 8 Best Facebook Timers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-experience-ultra-clarity-in-xiaomis-screen-capture-technology/"><u>[New] In 2024, Experience Ultra Clarity in Xiaomi's Screen Capture Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-undead-uprising-your-essential-compilation-of-zombie-gaming/"><u>[New] In 2024, Undead Uprising Your Essential Compilation of Zombie Gaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-groundbreaking-filmmakers-first-work-insight-and-alternate-films/"><u>[Updated] Groundbreaking Filmmaker's First Work Insight & Alternate Films</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-step-by-step-perfectly-sharing-your-photography-on-youtube/"><u>[Updated] In 2024, Step-by-Step Perfectly Sharing Your Photography on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-art-of-live-action-sims-4-playback/"><u>[Updated] In 2024, The Art of Live-Action Sims 4 Playback</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/advanced-tips-for-capturing-iphone-7-content/"><u>Advanced Tips for Capturing iPhone 7 Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/avoiding-common-pitfalls-in-your-search-for-spectacular-pexels-photos/"><u>Avoiding Common Pitfalls in Your Search for Spectacular Pexels Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuitamente-converti-file-flv-in-formato-m4a-con-movavi/"><u>Gratuitamente Converti File FLV in Formato M4A Con Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oneplus-open-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on OnePlus Open Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-synth-symphony-selecting-superior-dj-templates-for-download/"><u>In 2024, Synth Symphony Selecting Superior DJ Templates for Download</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-video-record-with-vlc/"><u>Mastering Video Record with VLC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/multi-screen-recording-setup/"><u>Multi-Screen Recording Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/practical-ways-to-archive-online-discussions-for-2024/"><u>Practical Ways to Archive Online Discussions for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Top Gaming Spaces for Solo Play in Apex Legends"
-date: 2024-08-10T06:15:33.614Z
-updated: 2024-08-11T06:15:33.614Z
+date: 2024-11-19T20:42:36.842Z
+updated: 2024-11-20T22:14:29.458Z
 tags: 
   - screen-recording
   - ai video
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -68,10 +65,6 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
@@ -94,32 +87,20 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Xbox Series X and S**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
 
 **PC**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -155,9 +136,6 @@ Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wo
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -166,11 +144,37 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-record-video-with-logitech-webcam-guide/"><u>[New] 2024 Approved Record Video with Logitech Webcam [Guide]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-live-broadcast-battlefield-obs-versus-shadowplay/"><u>[New] Live Broadcast Battlefield OBS Versus ShadowPlay</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-precision-viewing-top-5-gaming-displays-with-hdmi-21-support-ps5/"><u>[New] Precision Viewing Top 5 Gaming Displays with HDMI 2.1 Support [PS5]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-tips-for-seamless-embedding-of-youtube-playlists-on-a-website/"><u>[New] Quick Tips for Seamless Embedding of YouTube Playlists on a Website</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-immersion-guide-to-lgs-360-vr-headset/"><u>[New] The Ultimate Immersion Guide to LG's 360 VR Headset</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-video-capture-crusade-obs-vs-shadowcast/"><u>[New] Video Capture Crusade OBS Vs ShadowCast</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-post-processing-colors/"><u>[Updated] 2024 Approved A Comprehensive Guide to Post-Processing Colors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-easy-steps-for-sharing-your-xbox-playtime/"><u>[Updated] Easy Steps for Sharing Your Xbox Playtime</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-eyefirefox-capture-extensions/"><u>[Updated] In 2024, EyeFirefox Capture Extensions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-discourse-on-flaws-the-top-8-concerns-in-gpt-dialogue/"><u>A Discourse on Flaws: The Top 8 Concerns in GPT Dialogue</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-not-detected-solve-code-24-mishap-on-windows-10-8-and-7-systems/"><u>Device Not Detected? Solve Code #24 Mishap on Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/frequency-capture-digital-sound-files-for-2024/"><u>Frequency Capture Digital Sound Files for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-crossing-into-a-shared-tiktok-space-easy-ways/"><u>In 2024, Crossing Into a Shared TikTok Space Easy Ways</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-record-screen-and-video-on-android/"><u>In 2024, How to Record Screen and Video on Android?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-daily-output-with-these-7-astonishing-uses-for-chatgpt-at-work/"><u>Maximize Daily Output with These 7 Astonishing Uses for ChatGPT at Work</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-essential-toolkit-how-to-use-obs-for-youtube-and-twitch-streaming/"><u>The Essential Toolkit How to Use OBS for YouTube & Twitch Streaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-resolving-your-iphones-silent-mode-issue/"><u>Troubleshooting Steps: Resolving Your iPhone's Silent Mode Issue</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
