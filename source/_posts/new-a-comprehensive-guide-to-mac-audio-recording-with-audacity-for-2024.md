@@ -1,7 +1,7 @@
 ---
 title: "[New] A Comprehensive Guide to Mac Audio Recording with Audacity for 2024"
-date: 2024-11-16T19:49:07.989Z
-updated: 2024-11-20T23:57:43.588Z
+date: 2024-11-23T00:19:22.342Z
+updated: 2024-11-29T22:54:44.961Z
 tags: 
   - screen-recording
   - ai video
@@ -33,23 +33,19 @@ Step 1: Visit [Audacity Download](https://www.audacityteam.org/download/mac/) pa
 
 ![step2 dmg file](https://images.wondershare.com/filmora/article-images/step2-dmg-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Alternatively, you can go to FossHub and search for Audacity and download the latest Audacity macOS DMG file.
 
 ![fosshub](https://images.wondershare.com/filmora/article-images/fosshub.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Once the downloading of the file is complete, double-click on the downloaded “Audacity macOS DMG” file to start installing the file. You can also find the file under Downloads from Finder.
 
 Step 4: Follow the on-screen instructions to complete the installation process.
 
 Step 5: Go to Applications and launch Audacity. In case it does not open from Applications, you can go to the location where Audacity is installed and open directly from there.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to record audio with Audacity on Mac?
 
@@ -69,10 +65,14 @@ Step 4: Now, you are ready to start recording your audio through microphone usin
 
 ![ready to start](https://images.wondershare.com/filmora/article-images/ready-to-start.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: When you are done, click on Stop button at the top bar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Alternative way to record sound on Mac
@@ -103,23 +103,19 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: From Recording window, set the video recording screen size as per your requirement.
 
 Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
 
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
@@ -152,17 +148,21 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -193,13 +193,13 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
@@ -265,24 +265,22 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-pixelpatch-artisan-online-design-symphony/"><u>[New] 2024 Approved PixelPatch Artisan Online Design Symphony</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-capture-and-share-your-digital-world-effortlessly-for-2024/"><u>[New] Capture and Share Your Digital World Effortlessly for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-obs-video-magic-top-5-editing-secrets-revealed/"><u>[New] OBS Video Magic Top 5 Editing Secrets Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-stop-quittime-video-capture-procedures-for-2024/"><u>[New] Stop QuitTime Video Capture Procedures for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-perfecting-the-art-of-filming-and-post-production-with-adobe-connects-features/"><u>[Updated] 2024 Approved Perfecting the Art of Filming & Post-Production with Adobe Connect's Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-everything-you-need-to-know-about-io-screen-recorder-for-2024/"><u>[Updated] Everything You Need to Know About IO Screen Recorder for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-a-step-by-step-guide-to-mastering-morphvox-modifications/"><u>[Updated] In 2024, A Step-by-Step Guide to Mastering MorphVOX Modifications</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-master-the-art-of-video-annotation-using-markers-with-ease/"><u>[Updated] Master the Art of Video Annotation Using Markers with Ease</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-discovering-8-prime-video-advancement-aids/"><u>2024 Approved Discovering 8 Prime Video Advancement Aids</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-audio-capture-guide-best-ten-for-spotify-enthusiasts/"><u>2024 Approved Ultimate Audio Capture Guide Best Ten for Spotify Enthusiasts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/guide-how-to-set-bookmarks-in-videos-and-capture-key-moments-efficiently/"><u>Guide: How to Set Bookmarks in Videos and Capture Key Moments Efficiently</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/key-players-transforming-vr-landscape/"><u>Key Players Transforming VR Landscape</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/navigating-slack-filmo-coordination-for-seamless-meetings-for-2024/"><u>Navigating Slack-Filmo Coordination for Seamless Meetings for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/skypes-sound-solution-purifying-your-talks-for-2024/"><u>Skype's Sound Solution Purifying Your Talks for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-v29e-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo V29e Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-angle-alchemists-guide-to-transforming-your-videos-youtube-edition-for-2024/"><u>The Angle Alchemist's Guide to Transforming Your Videos (YouTube Edition) for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unreliable-flaws-in-zerogpt-and-similar-tech-detectors/"><u>Unreliable: Flaws in ZeroGPT & Similar Tech Detectors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-list-of-coolest-mc-homes-designed-for-2024/"><u>[New] The Ultimate List of Coolest MC Homes Designed for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-advanced-methods-for-creating-quick-quality-thumbnails/"><u>[Updated] Advanced Methods for Creating Quick, Quality Thumbnails</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-arena-aces-unbeatable-10-royale-games/"><u>[Updated] Arena Aces Unbeatable 10 Royale Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-flawless-approach-securing-gotomeeting-recordings-for-2024/"><u>[Updated] Flawless Approach Securing GoToMeeting Recordings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-bring-your-ideas-to-life-a-practical-guide-to-screen-recording-on-macos/"><u>2024 Approved Bring Your Ideas to Life A Practical Guide to Screen Recording on MacOS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-tools-to-replay-ps3-classics-on-pc/"><u>2024 Approved Essential Tools to Replay PS3 Classics on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-into-every-detailed-detail-expert-strategies-to-record-immersive-sims-4-adventures/"><u>2024 Approved Into Every Detailed Detail Expert Strategies to Record Immersive Sims 4 Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-minimalist-obs-adjustments-for-under-500-pcs/"><u>2024 Approved Minimalist OBS Adjustments for Under-$500 PCs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-10-aerial-cameras-unleashing-creative-potential/"><u>2024 Approved Top 10 Aerial Cameras Unleashing Creative Potential</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/4-best-full-screen-recorder-for-pc-and-mac-for-2024/"><u>4 Best Full Screen Recorder for PC and Mac for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-screen-replay-applications-for-windowsmacos/"><u>Best Screen Replay Applications for Windows/macOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-screen-definition-and-precision/"><u>Boosting Screen Definition and Precision</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-techniques-for-gameplay-recordings-via-obs-for-2024/"><u>Expert Techniques for Gameplay Recordings via OBS for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/guia-paso-a-paso-para-restaurar-la-configuracion-de-tu-cuenta-de-correo-en-microsoft-outlook-2010/"><u>Guía Paso a Paso Para Restaurar La Configuración De Tu Cuenta De Correo en Microsoft Outlook 2010</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-start-a-game-of-evil-genius-2-after-initial-issues/"><u>How to Successfully Start a Game of Evil Genius 2 After Initial Issues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ideal-audio-recording-equipment-for-idevices-enthusiasts/"><u>Ideal Audio Recording Equipment for iDevices Enthusiasts</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-scheduler-wipes-on-macos-secure-and-systematic-filefolder-elimination-software-solution/"><u>Stellar Scheduler Wipes on macOS: Secure and Systematic File/Folder Elimination Software Solution</u></a></li>
 </ul></div>
 

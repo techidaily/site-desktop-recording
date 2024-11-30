@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Proficiently Use a Switch Pro Controller on Steam"
-date: 2024-08-10T06:10:40.302Z
-updated: 2024-08-11T06:10:40.302Z
+date: 2024-11-29T00:54:47.098Z
+updated: 2024-11-29T19:12:32.543Z
 tags: 
   - screen-recording
   - ai video
@@ -50,12 +50,17 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 **Step2:** Connect the other end of the cable to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
@@ -63,9 +68,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 * Once you have charged the Pro Controller, you can press and hold the Sync button on the top of the controller for a few seconds until the indicator lights begin to flash.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
 * Right-click the Bluetooth icon in the system tray.
@@ -74,9 +76,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
@@ -87,11 +86,16 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Once Steam is set up, you can begin using it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -103,18 +107,10 @@ You should use the gamepad to navigate Big Picture if you have the Pro Controlle
 
 When configured through Steam, you should use the Pro Controller with any Steam game similar to an Xbox gamepad. Vibration can be enabled or disabled by selecting a controller from the "Detected Controllers" list in the same setup screen as before. It is possible to calibrate the analog sticks by clicking the Calibrate button manually. Also, the controller can be set to disconnect after a specified amount of time before going to sleep.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -126,8 +122,9 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
@@ -140,8 +137,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -149,5 +144,17 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-clip-perfection-achieved-through-blended-methodologies/"><u>[New] 2024 Approved Clip Perfection Achieved Through Blended Methodologies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-gopro-spectrum-an-intensive-feature-by-feature-comparison/"><u>[New] 2024 Approved GoPro Spectrum An Intensive Feature-By-Feature Comparison</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-detailed-study-of-frozen-delights-playback-gadgets/"><u>[New] In 2024, Detailed Study of Frozen Delights Playback Gadgets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-streamline-color-correction-with-easy-techniques-for-2024/"><u>[New] Streamline Color Correction with Easy Techniques for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-critical-approaches-to-documenting-youtube-live-video/"><u>[Updated] 2024 Approved Critical Approaches to Documenting Youtube LIVE Video</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-simplified-steps-for-snapchat-lens-design/"><u>[Updated] 2024 Approved Simplified Steps for Snapchat Lens Design</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-video-sharing-understanding-vimeo-membership-plans/"><u>2024 Approved Mastering Video Sharing Understanding Vimeo Membership Plans</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/brain-eaters-unleashed-a-compelling-list-for-2024/"><u>Brain-Eaters Unleashed A Compelling List for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-fcpx-on-a-budget-top-10-free-plugins-for-video-creators-for-2024/"><u>Updated FCPX on a Budget Top 10 Free Plugins for Video Creators for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-breaking-down-your-footage-how-to-split-videos-into-smaller-clips-in-windows-live-movie-maker/"><u>Updated In 2024, Breaking Down Your Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker</u></a></li>
+</ul></div>
 

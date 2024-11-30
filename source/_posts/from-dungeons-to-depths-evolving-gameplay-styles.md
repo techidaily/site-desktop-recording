@@ -1,7 +1,7 @@
 ---
 title: "\"From Dungeons to Depths  Evolving Gameplay Styles\""
-date: 2024-08-16T19:36:02.484Z
-updated: 2024-08-17T19:36:02.484Z
+date: 2024-11-25T21:41:42.587Z
+updated: 2024-11-29T17:18:54.943Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 # Roguelike vs. Roguelite: Debates and History Explained With Game Examples
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -30,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 Game developers and designers have experimented with a variety of video game genres across the years. None, however, have been stretched as far as roguelikes and roguelites. You've probably heard these terms used to describe recent hit games such as _Hades_, _Dead Cells,_ and _Binding of Isaac_ and have wondered if there's a difference. While both of these game types share a lot of common elements and the lines between them are seemingly blurred, there is a clear distinction between roguelikes and roguelites.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![isaac-poster](https://images.wondershare.com/filmora/article-images/isaac-poster.jpg)
 
 ---
@@ -45,14 +39,19 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -60,9 +59,6 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
@@ -93,6 +89,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -113,9 +113,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -138,16 +135,18 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -156,8 +155,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -165,5 +162,23 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturecraft-in-depth-analysis-of-screen-capture-tech/"><u>[New] 2024 Approved CaptureCraft In-Depth Analysis of Screen Capture Tech</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-enhance-your-digital-diaries-for-free-extensions-and-mobile-edition/"><u>[New] Enhance Your Digital Diaries for Free – Extensions & Mobile Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-streamline-filming-borders-on-instagram-videos-for-2024/"><u>[New] Streamline Filming Borders on Instagram Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-techno-conductors-playbook-mastering-windows-pc-for-capturing-live-broadcasts/"><u>[New] The Techno Conductor's Playbook Mastering Windows PC for Capturing Live Broadcasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-frame-your-filmmaking-the-3-secrets-to-instagram-borders-for-2024/"><u>[Updated] Frame Your Filmmaking The 3 Secrets to Instagram Borders for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-become-a-pro-at-sims-4-video-sessions/"><u>[Updated] In 2024, Become a Pro at Sims 4 Video Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-scaling-down-obs-video-quality-for-2024/"><u>[Updated] Scaling Down OBS Video Quality for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-rpg-legacy-meets-innovation-written-by-time/"><u>2024 Approved RPG Legacy Meets Innovation' Written by Time</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stabilized-snapshots-best-tripods-for-iphonesandroids/"><u>In 2024, Stabilized Snapshots Best Tripods for iPhones/Androids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/offline-android-delights-the-ultimate-free-game-list/"><u>Offline Android Delights The Ultimate Free Game List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-programs-to-transform-webcam-footage/"><u>Premier Programs to Transform Webcam Footage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-gaming-in-the-latest-new-world-patch-say-goodbye-to-freezes/"><u>Smooth Gaming in the Latest New World Patch – Say Goodbye to Freezes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ming-success-story-which-video-site-tops-others-vimeo-youtube/"><u>Streaming Success Story Which Video Site Tops Others – Vimeo, YouTube?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tips-to-effortlessly-insert-music-into-video-editing-sessions-for-2024/"><u>Tips to Effortlessly Insert Music Into Video Editing Sessions for 2024</u></a></li>
+</ul></div>
 

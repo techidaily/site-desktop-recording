@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Essential OBS Setup for Underperforming PCs"
-date: 2024-08-10T06:11:12.179Z
-updated: 2024-08-11T06:11:12.179Z
+date: 2024-11-28T22:33:00.307Z
+updated: 2024-11-29T21:21:51.172Z
 tags: 
   - screen-recording
   - ai video
@@ -29,11 +29,15 @@ Since we are concerned about the streaming of video. It is important to know how
 
 First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Settings That You Should Keep
 
@@ -41,9 +45,6 @@ Starting with base resolution, it is the video resolution that we are going to s
 
 Output tab, which is the resolution of the video that the people will watch. For fast and lag-free streaming it's best to keep both the output and base resolution the same to avoid any conversion between the resolution by CPU. So click on output resolution and choose **1280\*720** again. If you noticed your computer is still lagging then it's best to change to 480p but below this, it's not recommended.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
@@ -52,18 +53,6 @@ After that, it comes to the filter option. There are multiple filter options in 
 
 Once you are done with the general video settings now it's time you should come to the output settings. For that, you will need to choose the output from the main vertical tab as shown in the figure below in 1\. You will see a new window appears with a variety of settings. Now it's time to choose the advanced setting as shown in 2 in the figure to see all settings to be edited.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![obs output settings edited](https://images.wondershare.com/filmora/article-images/obs-output-settings-edited.jpg)
 
 Let's move towards the detail settings for the output video for your audience it's best to choose the settings shown in the figure and below for lag-free and jitter-free video.
@@ -95,23 +84,22 @@ By default, the profile option is disabled and you should keep these settings as
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Output Audio
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Audio Tab Settings
 
@@ -137,13 +125,14 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Stream Tab
 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
@@ -160,13 +149,14 @@ Here you have to choose the platform on which you are going to stream your video
 
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Best Alternative to OBS
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -227,8 +217,26 @@ There may be a lot of other software which serve the same purpose but the best o
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-10-best-free-video-conferencing-tools-for-business-and-education/"><u>[New] 2024 Approved 10 Best Free Video Conferencing Tools for Business and Education</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-accurate-and-automatic-video-recording-on-diverse-computing-systems/"><u>[New] 2024 Approved Accurate and Automatic Video Recording on Diverse Computing Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-essential-android-mobas-the-ultimate-list/"><u>[New] 2024 Approved Essential Android MOBAs The Ultimate List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-chaos-to-clarity-mastering-xiaomis-screen-recording/"><u>[New] From Chaos to Clarity Mastering Xiaomi's Screen Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-itop-review-necessary-for-quality-recordings/"><u>[New] In 2024, ITop Review Necessary for Quality Recordings?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-smart-recorder-solutions-for-lecturers/"><u>[New] In 2024, Smart Recorder Solutions for Lecturers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-counteract-bot-visitors-for-real-audience-growth/"><u>[Updated] Counteract Bot Visitors for Real Audience Growth</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-easy-iphonesideways-capturing-the-moment/"><u>[Updated] Easy iPhonesideways Capturing the Moment</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quick-and-easy-way-to-record-iphone-screens/"><u>[Updated] In 2024, Quick & Easy Way to Record iPhone Screens</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-guide-selecting-the-top-7-youtube-live-streaming-apps-for-iosandroid-users/"><u>[Updated] In 2024, The Ultimate Guide Selecting the Top 7 YouTube Live Streaming Apps for iOS/Android Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-galore-top-10-virtual-reality-for-phones/"><u>2024 Approved Gaming Galore Top 10 Virtual Reality for Phones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpt-predict-your-future-better-than-a-magazine-horoscope/"><u>Can ChatGPT Predict Your Future Better Than a Magazine Horoscope?</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-transform-your-acsm-file-into-an-epub-book-comprehensive-steps-and-tips/"><u>How to Transform Your ACSM File Into an EPUB Book: Comprehensive Steps and Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-becoming-an-expert-at-obs-studio-android-focus/"><u>In 2024, Becoming an Expert at OBS Studio Android Focus</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixels-of-hilarity-with-adobe-tools/"><u>In 2024, Pixels of Hilarity with Adobe Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rescuing-your-phones-sound-quality-getting-rid-of-moisture-in-iphone-speakers/"><u>Rescuing Your Phone's Sound Quality: Getting Rid of Moisture in iPhone Speakers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-best-lgbtqplus-series-streaming-on-netflix-in-july-2024/"><u>Top Picks: Best LGBTQ+ Series Streaming on Netflix in July 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-the-ghost-runner-critical-failure-issue-in-windows-11/"><u>Troubleshooting: Fixing the 'Ghost Runner' Critical Failure Issue in Windows 11</u></a></li>
+</ul></div>
 

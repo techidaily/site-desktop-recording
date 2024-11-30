@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Elite D-Class Dungeons  Topping the List\""
-date: 2024-08-10T06:12:29.241Z
-updated: 2024-08-11T06:12:29.241Z
+date: 2024-11-25T00:28:56.801Z
+updated: 2024-11-29T22:50:12.532Z
 tags: 
   - screen-recording
   - ai video
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ## Elite D-Class Dungeons: Topping the List
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 # Top 10 Roguelike or Roguelite Games ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -42,6 +39,10 @@ In roguelikes, players' progress is usually lost if they die, while in roguelite
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Roguelike or Roguelite Games in 2021**
 
 After careful analysis and in-depth research, we have prepared a list for you in which we will tell you which roguelikes are currently the most favorite in the market these days.
@@ -62,8 +63,9 @@ We will discuss every game one by one in detail to give you an idea about their 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **1. Darkest Dungeon
 
 **_Platform:_** _PS4, Xbox One, Switch, PC, iOS_
@@ -73,6 +75,10 @@ We will discuss every game one by one in detail to give you an idea about their 
 In Darkest Dungeon, your misery is manifest all around you. The oppressive visuals, brutal difficulty, and extreme bleakness make the game feel so oppressive in the extreme. With its dungeons and scavenger hunts, it keeps you on the edge of your seat, looking for treasure and gold.
 
 ![darkest-dungeon](https://images.wondershare.com/filmora/article-images/darkest-dungeon.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It's one thing to defeat each dungeon's horrifying inhabitants in turn-based combat, but your party members should also be more than meat shields. Your expeditions will inevitably take a toll on your body and mind, and this is the main reason that makes Darkest Dungeon so challenging.
 
@@ -86,12 +92,13 @@ Your tactical instincts will be put to the test when it comes to teamwork and re
 
 Only a couple of minutes to complete each run, this roguelike takes us on an adventure on the inside. As you dive deeper into an endless well filled with dangerous creatures, you are only protected by a pair of deadly gumboots that kill enemies, slowing down your fall for a moment.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![downwell](https://images.wondershare.com/filmora/article-images/downwell.png)
 
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3\. Dungeon Crawl Stone Soup
 
@@ -113,16 +120,10 @@ Each item, class, spell, and trait in this community-developed game has hundreds
 
 Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Your character is Hades' son, Zagreus, trying to escape from the Underworld and make his way to Mount Olympus. Hades' cyclical narrative is presented through its procedural runs and a compelling story and evocative cast of characters.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hades](https://images.wondershare.com/filmora/article-images/hades.png)
 
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **5\. Into the Breach
 
 **_Platforms:_** _Switch, PC_
@@ -131,14 +132,19 @@ Many blessings have been given to you by the gods of Olympus, but your quest is 
 
 This is the second title developed and published by Subset Games. Their first title was FTL: **_Faster Than Light_** in 2012\. FTL could have taken this spot, but Into the Breach's design and hidden depth make it stand out among the competition. It's a game of turn-based tactics where your team is faced with an army of monsters known as the Vek.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![into-the-breach](https://images.wondershare.com/filmora/article-images/into-the-breach.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There's only one way to hold off their attack, and that is to enlist some giant mechs. But you'll have to agonize over every decision if you intend to keep your team intact. The more you progress through the game's islands, the more advanced equipment you'll find, so you can turn the tide of war and save humankind.
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **6\. Slay the Spire
 
@@ -150,11 +156,12 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **7\. Crypt of the Necrodancer
 
 **_Platforms:_** _PlayStation 4, Nintendo Switch, iOS, Microsoft Windows, Linux, Classic Mac OS, PlayStation Vita, Xbox One_
@@ -165,9 +172,6 @@ This rhythm-based roguelike game hits a sweet spot combining two niche genres. T
 
 This game deviates from roguelike conventions, forcing players to arrive at snappy judgments quickly. While quick decision-making and foresight are required in the genre, the escalating rhythm forces players to maintain a higher tempo to maintain a strong combo, and all you know is, you can't lose the combo. If you haven't tried this game yet, then it's worth your time and money.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **8\. Dead Cells
 
 **_Platforms:_** _Platforms: PS4, Xbox One, Switch, PC, iOS, Android_
@@ -188,17 +192,14 @@ Various upgrades can be carried over between runs, generating a constant sense o
 
 An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Binding of Isaac is an action-packed adventure game. With its action-adventure elements fused with shooters, the game is an outright sick action-adventure with an acquired taste that has become cult.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![binding-of-issac](https://images.wondershare.com/filmora/article-images/the-binding-of-isaac.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **10\. Otherworld Legends
 
 **_Platforms:_** _Android, iOS_
@@ -227,8 +228,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -236,5 +235,22 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-digital-dive-essential-recording-tactics-for-shows/"><u>[New] Digital Dive Essential Recording Tactics for Shows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-simplifying-video-preservation-with-3-key-practices/"><u>[New] In 2024, Simplifying Video Preservation with 3 Key Practices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-tactical-transformations-in-small-business-videography/"><u>[New] Tactical Transformations in Small Business Videography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-transform-slideshow-into-video/"><u>[Updated] In 2024, Transform Slideshow Into Video</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-benqs-visionary-approach-to-4k-monitors-unraveled-by-the-bl2711u-review/"><u>2024 Approved BenQ's Visionary Approach to 4K Monitors, Unraveled by the BL2711U Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/advanced-techniques-for-screen-recorders-in-video-games-for-2024/"><u>Advanced Techniques for Screen Recorders in Video Games for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/beat-the-purchase-free-fb-playlists-download-for-2024/"><u>Beat the Purchase Free FB Playlists Download for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevating-user-experience-with-cookiebots-innovative-data-collection-tools/"><u>Elevating User Experience with Cookiebot's Innovative Data Collection Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fix-slowly-loading-youtube-content-on-mobile-for-2024/"><u>Fix Slowly Loading YouTube Content on Mobile for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparative-analysis-of-best-win-driven-art-tools/"><u>In 2024, Comparative Analysis of Best Win-Driven Art Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-sharpsnap-recorder-for-windows-10/"><u>In 2024, SharpSnap Recorder for Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-strategy-for-fixing-conflict-zones-problematic-error-103003/"><u>In-Depth Strategy for Fixing Conflict Zone's Problematic Error 103003</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/innovative-game-capturing-unlocking-the-6-key-approaches-in-minecraft/"><u>Innovative Game Capturing Unlocking the 6 Key Approaches in Minecraft</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pioneers-of-haptic-technology-unveiled-for-2024/"><u>Pioneers of Haptic Technology Unveiled for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-10-no-cost-high-quality-digital-recorder-apps-for-2024/"><u>Top 10 No-Cost, High-Quality Digital Recorder Apps for 2024</u></a></li>
+</ul></div>
 

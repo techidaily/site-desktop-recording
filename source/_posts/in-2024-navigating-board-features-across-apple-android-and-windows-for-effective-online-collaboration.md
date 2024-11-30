@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Board Features Across Apple, Android & Windows for Effective Online Collaboration"
-date: 2024-08-10T06:09:54.708Z
-updated: 2024-08-11T06:09:54.708Z
+date: 2024-11-27T17:08:07.979Z
+updated: 2024-11-29T17:19:17.691Z
 tags: 
   - screen-recording
   - ai video
@@ -19,14 +19,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
 # How to Use a Whiteboard in Google Meet
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -45,9 +37,17 @@ If you are interested in using this fantastic tool, the following article will c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
 
@@ -63,9 +63,6 @@ Open Google Meet and click **new meeting** to host a meeting.
 
 Click on the **three dots** at the bottom of your screen and select **the whiteboard** at the top of the menu list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
 **Step 3: Create Whiteboard**
@@ -74,14 +71,12 @@ Click on the **start a new whiteboard** option**.**
 
 **Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
 Unfortunately, you cannot access the **Google Meet Whiteboarding** feature when using Google Meet through its website on your smartphone. Thus, it is recommended to use third-party tools for using the whiteboard feature. In this case, you have to share your screen in the Google Meet session and then navigate to the third-party app having a built-in whiteboard. However, the participants will not be able to make any changes on the whiteboard, and they can only watch the visuals of your screen. Are you an iPhone user and want to use whiteboard apps? If yes, the following step-by-step guide will help you.
@@ -116,15 +111,12 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
 Once you end up in a meeting, the Jamboard activity can be shared in a PDF file. This can help you recall the discussion during a class or seminar. Similarly, the saved Jams can also help you narrow down random ideas generated after brainstorming. Sounds Interesting? Learn to save and send Jams as PDF by following the easy steps.
@@ -145,6 +137,10 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Conclusion**
 
 Google Meet allows its users to enjoy the vast collection of built-in tools. **Google Meet whiteboarding** is another helpful feature that makes brainstorming and visual illustration easy and efficient. The maximum utility of this feature is when you use it on your desktop or laptop. This gives all attendees whiteboard editing access. However, for mobile phone users, editing access is only for using an external whiteboard app. This article covered all dimensions, including setting up, using, and sharing whiteboards on Google Meet. So, no matter which device you are using, take advantage of the whiteboard feature to make your virtual meetings more interactive and interesting.
@@ -157,12 +153,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-budget-calculation-for-shooting-a-music-video/"><u>[New] 2024 Approved Budget Calculation for Shooting a Music Video</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-low-cost-android-calls-highest-ranking-options/"><u>[New] 2024 Approved Low-Cost Android Calls Highest Ranking Options</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-best-match-image-taking-and-music-merging-technology/"><u>[New] Best Match Image Taking & Music Merging Technology</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-digital-splendor-on-youtube-the-hue-harmonization-way/"><u>[New] In 2024, Digital Splendor on YouTube The Hue Harmonization Way</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-perfectly-filled-no-ad-android-screen-recording/"><u>[New] In 2024, Perfectly Filled No-Ad Android Screen Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-screen-savers-ideal-meet-backgrounds-list/"><u>[Updated] Top Screen Savers Ideal Meet Backgrounds List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-best-firefox-screencasting-extensions/"><u>2024 Approved Best FireFox Screencasting Extensions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-the-immersive-world-tips-for-recording-vr-games/"><u>2024 Approved Capturing the Immersive World Tips for Recording VR Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/immersive-windows-display-snapshots/"><u>Immersive Windows Display Snapshots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-ultimate-checklist-lipo-batteries-for-drone-excellence/"><u>In 2024, The Ultimate Checklist LiPo Batteries for Drone Excellence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premium-choices-in-video-calling-platforms-for-tech-users/"><u>Premium Choices in Video Calling Platforms for Tech Users</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y100-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y100 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-in-it-for-a-million-youtube-viewers-for-2024/"><u>What’s in It for a Million YouTube Viewers for 2024</u></a></li>
+</ul></div>
 

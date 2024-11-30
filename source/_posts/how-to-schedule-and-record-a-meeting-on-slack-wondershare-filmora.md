@@ -1,7 +1,7 @@
 ---
 title: "\"How to Schedule and Record a Meeting on Slack-Wondershare Filmora\""
-date: 2024-08-10T06:13:02.596Z
-updated: 2024-08-11T06:13:02.596Z
+date: 2024-11-25T20:31:27.163Z
+updated: 2024-11-29T20:17:56.131Z
 tags: 
   - screen-recording
   - ai video
@@ -49,14 +49,15 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 2.Scroll down to find the option of **Create Event** (To schedule a meeting this way, you must first install the Outlook Calendar or Google Calendar)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create Slack Event](https://images.wondershare.com/filmora/article-images/create-slack-event.jpg)
 
 3.Enter the details to schedule Slack meeting, including the date, duration, timing, etc. If you want to view the recommended Slack meeting timings, the guests must be connected to the Outlook calendar. Click on **Create**.
 
 ![Schedule Slack Meeting](https://images.wondershare.com/filmora/article-images/schedule-slack-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4.The Slack meeting will be displayed in the chat instantly. You can click on the **Share** icon.
 
@@ -65,6 +66,10 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 5.Choose a channel to share the Slack meeting or copy the link to paste in other workspaces.
 
 ![Choose Slack Channel](https://images.wondershare.com/filmora/article-images/choose-slack-channel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Record Slack Meetings
 
@@ -86,41 +91,46 @@ Here is how you can record Slack meeting.
 
 ![Add To Slack](https://images.wondershare.com/filmora/article-images/add-to-slack.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4.**Allow**Zoom to access your data and enable the app.
 
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Slack Zoom Chatbox](https://images.wondershare.com/filmora/article-images/slack-zoom-chatbox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6.Click on **Authorize** **Zoom** and adjust the settings.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Authorize Zoom On Slack](https://images.wondershare.com/filmora/article-images/authorize-zoom-on-slack.jpg)
 
 7.Click on **Join** to start the meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Join Slack Meeting](https://images.wondershare.com/filmora/article-images/join-slack-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8.Finally, tap on the **Record**icon to record Slack meeting. You can click on the **Pause** button or **Stop** to finish recording. Once the recording finishes, it will be automatically sent to your public or private channel(depending on the type of Slack meeting you scheduled).
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Record Slack Meeting](https://images.wondershare.com/filmora/article-images/record-slack-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Slack Video Call Settings
 
 Slack allows users to schedule a meeting with third-party apps or in Slack itself. You can just as easily have a Slack meeting using the in-built video call option.
@@ -133,23 +143,14 @@ The settings tab in the video call enables you to create a name for the video ca
 
 Moreover, if you wish to stay on mute and still engage with the speaker, just click on the emoji on the screen. Select from a variety of reactions or type a text message right on the video screen.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 Slack is dedicated to making virtual communication and workflow seamless. This versatile app has now made it simpler to schedule a meeting in a few taps. Saving precious time, Slack meeting is shifting the norm. By using Slack, you can now schedule a meeting easily and circulate the meeting timings and inform all the team members. And if you want to save the meetings for later use, you can also record Slack meeting using an app like Zoom.
 
 With this powerful tool and our guide at hand, you can transform your work life and be more productive. Whether you want to start an audio or video meeting, Slack has got you covered. Collaborate and coordinate quickly using a Slack meeting. So, schedule a meeting on Slack and communicate seamlessly.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -158,8 +159,6 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,5 +166,17 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pixelated-palace-beginner-friendly-home-design-guide/"><u>[New] 2024 Approved Pixelated Palace Beginner-Friendly Home Design Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-resounding-beats-audio-studio-mac/"><u>[New] 2024 Approved Resounding Beats Audio Studio Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-dead-walkers-dominance-leading-zombie-video-game-ranks-for-2024/"><u>[New] Dead Walkers Dominance Leading Zombie Video Game Ranks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-practical-steps-for-saving-real-time-chat-sessions/"><u>[New] Practical Steps for Saving Real-Time Chat Sessions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-best-3d-software-perfect-for-youtube-openers/"><u>[Updated] The Best 3D Software Perfect for YouTube Openers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-best-5-minute-timelapse-video-maker-top/"><u>2024 Approved Best 5-Minute Timelapse Video Maker #Top</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-logitechs-g-hub-software-glitches-on-the-windows-operating-system/"><u>Fixing Logitech's G Hub Software Glitches on the Windows Operating System</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/surface-duo-reviewed-a-high-cost-buggy-tablet-that-falls-short-of-expectations/"><u>Surface Duo Reviewed: A High-Cost, Buggy Tablet That Falls Short of Expectations</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719154685992-take-your-fb-content-global-upload-and-transfer-to-major-websites-now/"><u>Take Your Fb Content Global: Upload and Transfer to Major Websites Now</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-free-video-editors-compatible-with-32-bit-windows-for-2024/"><u>Updated Top Free Video Editors Compatible with 32-Bit Windows for 2024</u></a></li>
+</ul></div>
 

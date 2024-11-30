@@ -1,7 +1,7 @@
 ---
 title: "Freeze Entire Browser Display for 2024"
-date: 2024-08-16T19:35:28.841Z
-updated: 2024-08-17T19:35:28.841Z
+date: 2024-11-23T23:27:11.052Z
+updated: 2024-11-29T16:24:54.795Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
 # Full Page Screen Capture: How to Capture Screenshots of a Full Page?
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -57,13 +54,14 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
@@ -75,17 +73,15 @@ If you'd like to avoid producing several screenshots that you'll later have to c
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Capturing Screenshots With Browser Extensions
 
 Built-in screen capturing options on Windows and Mac offer only a limited amount of features and for that reason installing the browser extensions that enable you to capture scroll web pages may be a better option. Here are some of the best extensions for taking screenshots of full pages.
 
 #### 1\. [Nimbus Screenshot](https://nimbusweb.me/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
@@ -93,6 +89,10 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -111,8 +111,9 @@ Install the extension in your browser and then click on its icon in the Extensio
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Using Online Tools for Full Page Screenshots
 
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
@@ -125,10 +126,11 @@ Stand-alone software products that enable its users to take screenshots of entir
 
 Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
 
@@ -148,8 +150,6 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,5 +157,22 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-efficient-steps-for-capturing-iphone-screens/"><u>[New] 2024 Approved Efficient Steps for Capturing iPhone Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-leading-tools-to-monitor-hashtags-on-fb-twitter-and-instagram/"><u>[New] In 2024, Leading Tools to Monitor Hashtags on FB, Twitter & Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-next-gen-options-to-record-high-quality-gaming-footage/"><u>[New] Next Gen Options to Record High-Quality Gaming Footage</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-facebook-call-recording-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Facebook Call Recording A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-skype-recorders-for-quality-compiled/"><u>[Updated] Best Skype Recorders for Quality Compiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-boosting-stability-and-speed-more-ram-for-minecraft-for-2024/"><u>[Updated] Boosting Stability & Speed More RAM for Minecraft for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-video-grabber-software-in-windows-11/"><u>[Updated] In 2024, Mastering Video Grabber Software in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-complete-iphone-7-screen-capture-manual-for-2024/"><u>[Updated] The Complete iPhone 7 Screen Capture Manual for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unlock-screen-saving-potential-on-android-devices/"><u>[Updated] Unlock Screen Saving Potential on Android Devices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-mastering-the-art-of-frames-with-top-rated-tools-24/"><u>In 2024, Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-vlc-a-guide-to-streaming-videos-on-apple-tv/"><u>Mastering VLC: A Guide to Streaming Videos on Apple TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-feature-alert-apple-podcasts-now-includes-automated-subtitles-similar-to-closed-captions-learn-how/"><u>New Feature Alert: Apple Podcasts Now Includes Automated Subtitles Similar to Closed Captions - Learn How!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/number-1-in-the-8th-digital-image-blend-platform-for-2024/"><u>Number 1 in the 8Th Digital Image Blend Platform for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-to-prevent-cs2-from-exiting-unexpectedly-on-your-computer/"><u>Troubleshooting Tips to Prevent CS2 From Exiting Unexpectedly on Your Computer</u></a></li>
+</ul></div>
 
