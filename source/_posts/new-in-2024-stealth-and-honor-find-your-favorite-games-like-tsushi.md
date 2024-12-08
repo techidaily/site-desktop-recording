@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Stealth and Honor  Find Your Favorite Games Like Tsushi\""
-date: 2024-11-23T21:53:16.786Z
-updated: 2024-11-30T02:35:50.211Z
+date: 2024-12-07T08:57:30.723Z
+updated: 2024-12-08T03:35:10.892Z
 tags: 
   - screen-recording
   - ai video
@@ -136,7 +136,7 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +146,13 @@ These games like Ghost of Tsushima are unique and different in their own way but
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -170,18 +170,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-maximizing-your-youtube-earnings-with-smart-tactics/"><u>[New] In 2024, Maximizing Your YouTube Earnings with Smart Tactics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streamline-your-mac-audio-experience-with-audacity/"><u>[New] Streamline Your Mac Audio Experience with Audacity</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-ultimate-guide-to-best-youtube-banner-size-and-channel-art-dimension/"><u>[New] Ultimate Guide to Best YouTube Banner Size and Channel Art Dimension</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-essential-guide-8-excellent-priceless-3d-video-experience/"><u>[Updated] Essential Guide 8 Excellent, Priceless 3D Video Experience</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-optimizing-footage-variety-in-your-video-production/"><u>[Updated] Optimizing Footage Variety in Your Video Production</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-tips-and-techniques-for-obs-setup-use-on-a-mac/"><u>2024 Approved Essential Tips & Techniques for OBS Setup, Use, on a Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-viewsplit-diagnostics/"><u>2024 Approved ViewSplit Diagnostics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/a-comprehensive-look-at-vr-video-recording-systems/"><u>A Comprehensive Look at VR Video Recording Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/achieve-high-quality-streams-youtube-and-twitch-via-obs-for-2024/"><u>Achieve High-Quality Streams YouTube & Twitch via OBS for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/detailed-methodology-to-masterboard-use-in-desktopiosandroid-zoom-sessions-for-2024/"><u>Detailed Methodology to Masterboard Use in Desktop/iOS/Android Zoom Sessions for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-strategic-measures-efficiently-accessing-premium-banner-imagery/"><u>In 2024, Strategic Measures Efficiently Accessing Premium Banner Imagery</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-13c-5g-messages-recovery-recover-deleted-messages-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-messages/"><u>Xiaomi Redmi 13C 5G Messages Recovery - Recover Deleted Messages from Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-quintessential-guide-to-selecting-video-apps-for-reels/"><u>[New] 2024 Approved The Quintessential Guide to Selecting Video Apps for Reels</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-discover-the-leading-screen-recorder-tools-for-mac-creatives/"><u>[New] In 2024, Discover the Leading Screen Recorder Tools for Mac Creatives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-fastest-time-lapse-capturing-system-5/"><u>[New] In 2024, Fastest Time-Lapse Capturing System #5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-windows-11-movie-maker-a-step-by-step-guide/"><u>[New] Mastering Windows 11 Movie Maker A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-leading-edge-in-creating-stunning-facebook-cover-photos-top-11-sites-reviewed/"><u>[New] The Leading Edge in Creating Stunning Facebook Cover Photos - Top 11 Sites Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-journey-through-depths-with-premium-underwater-cameras-2023/"><u>[Updated] 2024 Approved Journey Through Depths with Premium Underwater Cameras 2023</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-masterful-presentations-in-google-meet-with-new-backdrops/"><u>[Updated] 2024 Approved Masterful Presentations in Google Meet with New Backdrops</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-review-of-manycams-game-changing-recorder-tech/"><u>In-Depth Review of ManyCam's Game-Changing Recorder Tech</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-shaky-no-more-a-step-by-step-guide-to-video-stabilization-for-2024/"><u>New Shaky No More A Step-by-Step Guide to Video Stabilization for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/no-cost-online-file-transformation-change-asf-into-swf-using-movavi-tool/"><u>No-Cost Online File Transformation - Change ASF Into SWF Using Movavi Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screen-recording-showdown-go-with-obs-studio-or-bandicam/"><u>Screen Recording Showdown Go with OBS Studio or Bandicam</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-oppo-find-n3-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo Find N3 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-guide-to-budget-friendly-phone-video-conferencing-iphone-and-android-for-2024/"><u>Ultimate Guide to Budget-Friendly Phone Video Conferencing (iPhone & Android) for 2024</u></a></li>
 </ul></div>
 

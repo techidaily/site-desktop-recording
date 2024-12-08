@@ -1,7 +1,7 @@
 ---
 title: "How AMD's EPYC Chips Triumph Over Nvidia's Grace Superchip: See Them Beat Benchmark Records by Twice the Speed"
-date: 2024-11-28T18:53:38.960Z
-updated: 2024-11-29T17:40:34.315Z
+date: 2024-12-05T08:48:42.552Z
+updated: 2024-12-08T07:17:01.384Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,22 +64,18 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-video-capture-tools-for-windows-10-users/"><u>[New] 2024 Approved Essential Video Capture Tools for Windows 10 Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-5-cost-effective-video-editing-software-for-gamers/"><u>[New] 2024 Approved Top 5 Cost-Effective Video Editing Software (For Gamers)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-exclusive-7-secure-download-services/"><u>2024 Approved Exclusive 7 Secure Download Services</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-in-depth-exploration-of-durecorder-features/"><u>2024 Approved In-Depth Exploration of DuRecorder Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-perfecting-the-art-of-ppt-video-creation/"><u>2024 Approved Perfecting the Art of PPT Video Creation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/complete-look-into-razers-streaming-hardware-for-2024/"><u>Complete Look Into Razer's Streaming Hardware for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/essential-guide-to-documenting-macs-roblox-playthroughs/"><u>Essential Guide to Documenting Mac's Roblox Playthroughs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/free-web-meeting-applications-your-ultimate-guide-to-cloud-collaboration/"><u>Free Web Meeting Applications Your Ultimate Guide to Cloud Collaboration</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2022-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2022) System? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-crafting-compelling-video-narratives-using-captivate/"><u>In 2024, Crafting Compelling Video Narratives Using Captivate</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-crafting-quality-captures-the-ultimate-guide-to-recording-roblox-on-a-macbook/"><u>In 2024, Crafting Quality Captures The Ultimate Guide to Recording Roblox on a MacBook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-cutting-edge-screencasting-harness-the-power-of-visual-storytelling/"><u>In 2024, Cutting Edge Screencasting Harness the Power of Visual Storytelling</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-effortlessly-migrate-to-macos-sierra-version/"><u>In 2024, How-To Effortlessly Migrate to macOS Sierra Version</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-iphone-sound-capturing-101-voice-memo-processing/"><u>In 2024, IPhone Sound Capturing 101 – Voice Memo Processing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-lecturers-guide-to-efficient-classroom-sound-archiving-on-macs/"><u>In 2024, Lecturer's Guide to Efficient Classroom Sound Archiving on Macs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-photo-editing-removing-backdrops-with-picsart/"><u>Mastering Photo Editing Removing Backdrops with Picsart</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-techniques-from-video-to-audio-downloads-on-pinterest-for-2024/"><u>Ultimate Techniques From Video to Audio Downloads on Pinterest for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-8-elite-applications-to-extract-mp3-audio/"><u>[New] 2024 Approved 8 Elite Applications to Extract MP3 Audio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-breaking-the-mold-unique-post-vidcon-events/"><u>[New] 2024 Approved Breaking the Mold Unique Post-VidCon Events</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ride-innovatively-pioneering-helmet-cams-for-the-adventurous-rider-23-edition/"><u>[New] 2024 Approved Ride Innovatively – Pioneering Helmet Cams for the Adventurous Rider, '23 Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-dangerous-depths-top-10-roguelite-showdowns/"><u>[New] In 2024, Dangerous Depths Top 10 Roguelite Showdowns</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-schematic-designing-stopwatches-for-streaming-software/"><u>[New] In 2024, Expert Schematic Designing Stopwatches for Streaming Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-art-of-transformation-in-tiktok-videos-via-background-shifts/"><u>[New] In 2024, The Art of Transformation in TikTok Videos via Background Shifts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-rpg-origins-vs-hybrid-designs-evolution/"><u>[Updated] 2024 Approved RPG Origins Vs. Hybrid Designs Evolution</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-offline-android-delights-top-screen-free-game-list-you-must-play-in-2024/"><u>[Updated] Offline Android Delights Top Screen-Free Game List You Must Play, In 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ve-10-free-tools-for-thumbnail-extraction-for-2024/"><u>Achieve 10 Free Tools for Thumbnail Extraction for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revert-windows-11s-search-bar-to-a-search-icon/"><u>How to Revert Windows 11'S Search Bar to a Search Icon</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-reversing-live-on-twitch-a-top-ten-guide/"><u>In 2024, Reversing Live on Twitch A Top Ten Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/tech-titans-select-top-10-video-capture-apps-for-2024/"><u>Tech Titans Select Top 10 Video Capture Apps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/visualcapture-master-all-in-one-windows-and-mac-image-tool-for-2024/"><u>VisualCapture Master All-in-One Windows & Mac Image Tool for 2024</u></a></li>
 </ul></div>
 

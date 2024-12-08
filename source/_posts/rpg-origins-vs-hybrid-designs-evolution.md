@@ -1,7 +1,7 @@
 ---
 title: "\"RPG Origins Vs. Hybrid Designs  Evolution\""
-date: 2024-11-26T01:55:53.273Z
-updated: 2024-11-30T01:16:18.230Z
+date: 2024-12-01T10:16:49.899Z
+updated: 2024-12-08T08:43:01.309Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
@@ -46,7 +50,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -67,10 +71,6 @@ It's roguelites that are also usually a mix of different genres with _Rogue_ sty
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A Clear Distinction
 
 Regardless of where you stand on what defines a faithful roguelike, the distinction between it and roguelites is quite straightforward. You know you are playing a roguelike when dying means you **lose it all**. No matter how far into the game you've progressed, one misstep means all of the time and work you put into your progress has come to an end. Roguelites, on the other hand, prefer to give you **some sense of progression**, making them **friendlier** for players who don't want to play with the stress of potentially losing everything.
@@ -90,7 +90,7 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelike Games
@@ -112,7 +112,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -139,15 +139,15 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,22 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-golden-threshold-of-youtubes-monetization/"><u>[New] The Golden Threshold of YouTube's Monetization</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-elite-race-sims-ultimate-selection-for-2024/"><u>[Updated] Elite Race Sims Ultimate Selection for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-effortless-guide-how-to-automate-recording-of-your-google-gatherings/"><u>2024 Approved Effortless Guide How to Automate Recording of Your Google Gatherings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-enhancing-gaming-experience-with-steam-switch-control/"><u>2024 Approved Enhancing Gaming Experience with Steam Switch Control</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-everlasting-screen-saving-utility/"><u>2024 Approved Everlasting Screen Saving Utility</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-step-by-step-hp-laptop-screen-recording-explained/"><u>2024 Approved Step-by-Step HP Laptop Screen Recording Explained</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-joy-junction-for-tiny-gamers/"><u>2024 Approved The Joy Junction for Tiny Gamers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/chatgpt-ownership-unraveled-the-tech-giant-steering-the-conversation-microsoft/"><u>ChatGPT Ownership Unraveled: The Tech Giant Steering the Conversation, Microsoft</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/comment-copier-facilement-votre-systeme-dexploitation-windows-11-sur-un-ssd-ou-hdd-avec-clonezilla/"><u>Comment Copier Facilement Votre Système D'Exploitation Windows 11 Sur Un SSD Ou HDD Avec Clonezilla</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-to-implement-fixes-for-common-issues-faced-by-apple-pay-users/"><u>Easy-to-Implement Fixes for Common Issues Faced by Apple Pay Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-clear-and-concise-guide-to-easy-screen-capture-techniques/"><u>In 2024, Clear & Concise Guide to Easy Screen Capture Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-discover-the-10-best-cookie-places-in-town-with-unbeatable-taste/"><u>In 2024, Discover the 10 Best Cookie Places in Town with Unbeatable Taste</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-find-n3-flip-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Find N3 Flip FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-exhaustive-review-of-razers-kiyo-cam/"><u>In 2024, Exhaustive Review of Razer's Kiyo Cam</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revamped-bioshock-2-a-high-definition-visual-upgrade/"><u>Revamped BioShock 2: A High-Definition Visual Upgrade!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-best-editing-software-for-professional-dji-videos-for-2024/"><u>The Best Editing Software for Professional DJi Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-innovating-conference-calls-with-google-meet-backdrop-shuffling-for-2024/"><u>[New] Innovating Conference Calls with Google Meet Backdrop Shuffling for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-complete-nvidia-screenshot-user-manual/"><u>[New] The Complete NVIDIA Screenshot User Manual</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-undead-universe-discover-the-top-8-zombie-games-for-2024/"><u>[New] Undead Universe Discover the Top 8 Zombie Games for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-from-roots-to-refined-rogues-journey-through-genres/"><u>[Updated] 2024 Approved From Roots to Refined Rogue's Journey Through Genres</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-decoding-the-art-of-capturing-live-streaming-windowsmaciosandroid/"><u>[Updated] Decoding the Art of Capturing Live Streaming - Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-detailed-walkthrough-timer-creation-in-obs-broadcasts/"><u>[Updated] Detailed Walkthrough Timer Creation in OBS Broadcasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dive-into-high-definition-fb-streaming-in-1080p/"><u>[Updated] Dive Into High Definition FB Streaming in 1080P</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-first-steps-in-gamified-editing-software-selection-for-2024/"><u>[Updated] First Steps in Gamified Editing Software Selection for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-grappling-glory-selecting-the-ultimate-fight-simulator/"><u>[Updated] Grappling Glory Selecting the Ultimate Fight Simulator</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-radiance-routines-pro-tips-for-video-illumination-for-2024/"><u>[Updated] Radiance Routines Pro Tips for Video Illumination for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-retro-to-modern-radeon-transition/"><u>[Updated] Retro to Modern Radeon Transition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-screen-recorder-showdown-experts-take-on-popular-tools/"><u>[Updated] The Screen Recorder Showdown Experts' Take on Popular Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211400637-9798894581354-dating/"><u>Dating | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-a59-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo A59 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-polaroid-revelation-elevating-live-action-video-recording/"><u>In 2024, A Polaroid Revelation Elevating Live-Action Video Recording</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-choices-high-quality-free-screen-recorder-software-for-2024/"><u>Premier Choices High-Quality Free Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-3d-text-effects-in-photos-for-2024/"><u>Step-by-Step Guide to 3D Text Effects in PHOTOS for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-potential-a-thorough-examination-of-the-netgear-c3000-dual-modem-router-in-todays-market/"><u>Unveiling the Potential: A Thorough Examination of the Netgear C3000 Dual Modem Router in Today's Market</u></a></li>
 </ul></div>
 
