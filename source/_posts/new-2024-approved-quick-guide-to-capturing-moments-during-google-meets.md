@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Quick Guide to Capturing Moments During Google Meets\""
-date: 2024-12-05T00:33:48.635Z
-updated: 2024-12-07T17:00:59.970Z
+date: 2024-12-09T07:59:38.756Z
+updated: 2024-12-14T07:23:36.939Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ _If you’re using the Zoom app to have a video conference, you can also use Sna
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Download and Set up Snap Camera with Google Meet?
 
 The first thing you’ll need to do is download and install the Snap Camera. It’s a very easy process. Visit the [Snap Camera website](https://snapcamera.snapchat.com/) and click the Download button to start. Please note you’ll need a Windows 10 (64 bit) or newer; or a macOS 10.13 or newer to be able to download and install the Snap Camera.
@@ -48,6 +44,10 @@ The first thing you’ll need to do is download and install the Snap Camera. It�
 Once downloaded, find the file on your desktop and double click to install. On the mac, you’ll need to drag the icon to the applications file (when you click the downloaded file it usually automatically shows you what to do).
 
 Open the snap camera and you’ll be able to see your face on the screen. That’s it, you’ve downloaded the Snap Camera. Select the preferred filters and lens from the below list and check the result in the video stream window. Now onto the next step, which is configuring the Snap Camera to work with Google Meet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Use Snap Camera on Google Meet?
 
@@ -59,19 +59,23 @@ There are two different ways of using the snap camera on Google Meet - the first
 
 ![Google Meet  Options](https://images.wondershare.com/filmora/article-images/gmail-meet-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Select “New Meeting” and then choose to send an invitation link or start right now. Here, let’s click on Start now and a Google Meet pop-up will tell you what the default video source is.
 
 ![Google Meeting ](https://images.wondershare.com/filmora/article-images/google-meet-interface.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4:** Click on the three dots on the preview screen and click on settings.
 
 **Step 5:** Inside the settings option, switch to the Video option and then you will see the first option that you get is “Camera”.
 
 ![Set Snap Camera as Google Meet Camera ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6:** Click on the options under the camera selection and select the Snap Camera.
 
@@ -87,10 +91,6 @@ That’s it! Now you’ll be able to use Snap Camera for your Google Meet commun
 
 ![ Google Meet Website Options ](https://images.wondershare.com/filmora/article-images/google-meet-website-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** To set up your Snap Camera and use it as a part of your Google Meet session, follow the steps below.
 
 * _Float your mouse over the bottom of the window to make the menu appear (find the microphone, hang up, and camera button), then click the three dotes positioned on the far right of the screen._
@@ -99,6 +99,10 @@ That’s it! Now you’ll be able to use Snap Camera for your Google Meet commun
 * _Set the resolution to 720p or whatever the highest option is._
 
 ![ Google Meet  Camera Settings ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Use Snap Cam with Google Meet using Third-Party Inputs
 
@@ -117,7 +121,7 @@ It is also possible to use Google Meet and Snap Camera with third-party inputs s
 To use third-party inputs like Iruin webcam, Epic cam, or Canon Webcam Utility, you’ll need to select the Snap Cam as the input in the meet settings. Your input will be passed through Snap Cam via webcam utility or another application using your phone or your DSLR, then passed through to Google Meet. You’ll be able to use the filters with far better resolution on Google Meet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Add Filters to Google Meet Without Snap Camera on Mobile
@@ -139,10 +143,6 @@ Currently, Snap Camera is available for Windows and Mac computers, which means y
 Google Meet recently added new filters, effects, and AR (augmented reality) masks for calls on iOS and Android. On July 7th, Google tweeted that the new features would be available: “cats, astronauts, jellyfish and more”... Sounds exciting! Here’s how to add them to your Google Meet calls.
 
 ![ Google Meet AR Stickers](https://images.wondershare.com/filmora/article-images/google-new-ar-stickers-news-on-twitter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 1:** If you haven’t yet, download Google Meet for Android or iOS and then open it.
 
@@ -173,22 +173,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-androids-budget-friendly-video-call-leaders-for-2024/"><u>[New] Android's Budget-Friendly Video Call Leaders for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-guide-effortless-iphone-screen-recordings/"><u>[New] In 2024, Step-by-Step Guide Effortless Iphone Screen Recordings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-art-of-audio-mastery-with-iphones-voice-recording/"><u>[New] In 2024, The Art of Audio Mastery with iPhone's Voice Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-sharex-exploration-reviews-and-contenders/"><u>[New] In 2024, The ShareX Exploration Reviews & Contenders</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tep-by-step-instructions-producing-alluring-video-thumbnails-on-youtube-for-2024/"><u>[New] Step-by-Step Instructions Producing Alluring Video Thumbnails on YouTube for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-perfect-tape-mac-based-recording/"><u>[Updated] 2024 Approved Perfect Tape Mac-Based Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-effortless-group-chats-joining-zoom-on-your-android/"><u>[Updated] Effortless Group Chats Joining Zoom on Your Android</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-essential-10-creative-igtv-tactics-for-brands-to-embrace-for-2024/"><u>[Updated] Essential 10 Creative IGTV Tactics for Brands to Embrace for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-step-into-the-world-of-manga-and-anime-with-a-tap-on-snapchat/"><u>[Updated] Step Into the World of Manga & Anime with a Tap on Snapchat</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-dynamic-image-ensembles-with-precision/"><u>2024 Approved Crafting Dynamic Image Ensembles with Precision</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-proactive-techniques-for-seamless-zoom-usage-on-a-chromebook/"><u>2024 Approved Proactive Techniques for Seamless Zoom Usage on a Chromebook</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazfit-gts-showdown-where-style-collides-with-sporty-performance/"><u>Amazfit GTS Showdown: Where Style Collides with Sporty Performance</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-bringing-your-outdoor-experiences-home-gopro-livestreams-on-facebookperiscope/"><u>In 2024, Bringing Your Outdoor Experiences Home GoPro Livestreams on Facebook/Periscope</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-magic-v2-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor Magic V2 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-process-of-finding-iphone-owners-location-respectfully/"><u>Navigating the Process of Finding iPhone Owner’s Location Respectfully</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/reestablishing-connection-with-dormant-obs-camera-for-2024/"><u>Reestablishing Connection with Dormant OBS Camera for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-io-scanner-insiders-handbook-for-2024/"><u>The Ultimate IO Scanner Insider's Handbook for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-exhaustive-review-of-razers-kiyo-cam/"><u>[New] Exhaustive Review of Razer's Kiyo Cam</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-royale-champions-the-defining-battle-royale-titles/"><u>[New] In 2024, Royale Champions The Defining Battle Royale Titles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-8-best-video-grabbers-for-windows-11/"><u>[New] In 2024, Top 8 Best Video Grabbers for Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-2-video-editing-apps-compared-filmora-and-democracy-creator/"><u>[Updated] 2024 Approved Top 2 Video Editing Apps Compared Filmora & Democracy Creator</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-lenovos-screen-recording-an-in-depth-user-manual/"><u>[Updated] In 2024, Lenovo’s Screen Recording – An In-Depth User Manual</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehvew-of-best-practices-in-maintaining-a-clean-and-hygienic-mechanical-keyboard/"><u>Comprehvew of Best Practices in Maintaining a Clean and Hygienic Mechanical Keyboard</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enjoyable-footage-recorder-test/"><u>Enjoyable Footage Recorder Test</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-14-pro-max-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 14 Pro Max and iPad</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-prime-day-savings-alert-find-the-best-deals-on-autonomous-vacuums-from-leading-brands-like-roomba-and-roborock-techsavvyguru/"><u>Ultimate Prime Day Savings Alert: Find the Best Deals on Autonomous Vacuums From Leading Brands Like Roomba and Roborock | TechSavvyGuru</u></a></li>
 </ul></div>
 

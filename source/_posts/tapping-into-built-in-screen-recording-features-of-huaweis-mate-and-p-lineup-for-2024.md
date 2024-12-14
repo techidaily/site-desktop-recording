@@ -1,7 +1,7 @@
 ---
 title: "\"Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup for 2024\""
-date: 2024-12-04T02:59:23.756Z
-updated: 2024-12-08T05:41:47.137Z
+date: 2024-12-09T19:47:46.548Z
+updated: 2024-12-14T08:44:39.004Z
 tags: 
   - screen-recording
   - ai video
@@ -29,10 +29,6 @@ Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidail
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -51,12 +47,20 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
 
@@ -69,7 +73,7 @@ Pull-down notification panel from the top, find the Screen Recorder shortcut ico
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2. Pressing Buttons to Record Huawei Screen
@@ -88,13 +92,13 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Where to Find the Recorded Videos
 
@@ -105,10 +109,6 @@ All screen recordings you create will be displayed in the phone's **Gallery** ap
 Capturing your phone's screen can help you entertain your friends and followers on social media or to share valuable information with your business associates. Huawei's Smartphones enable you to accomplish both of these tasks in just a few simple steps. However, the built-in Screen Recorder on Huawei's Mate 10, 20 P20 or P10 Android devices doesn't allow you to specify the region of the screen you want to capture or select the frame rate, so if you want to gain access to more powerful screen recording tools you should install an app such as AZ Screen Recorder or DU Recorder from the Google Play Store, but you can also record the screen on the computer with some desktop screen recorders. Let's know how you [record your screen on Android](https://tools.techidaily.com/wondershare/filmora/download/) in the comments below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -125,17 +125,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-audiophiles-windows-companion/"><u>[New] 2024 Approved Audiophile’s Windows Companion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-resolving-iphone-shot-unfocus-issues-quickly/"><u>[New] 2024 Approved Resolving iPhone Shot Unfocus Issues Quickly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-capturing-moons-a-guide-to-proper-night-photography-techniques/"><u>[New] Capturing Moons A Guide to Proper Night Photography Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-evaluating-sns-hdrs-value-and-alternatives-for-hdr-editing/"><u>[New] Evaluating SNS HDR's Value & Alternatives for HDR Editing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-integrating-snaps-smoothly-into-your-zoom-schedule/"><u>[Updated] 2024 Approved Integrating Snaps Smoothly Into Your Zoom Schedule</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-blueprint-for-broadcasting-logging-roblox-games-via-your-mac-hardware-for-2024/"><u>[Updated] Blueprint for Broadcasting Logging Roblox Games via Your Mac Hardware for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-secure-survival-housing-in-minecraft/"><u>[Updated] Secure Survival Housing in Minecraft</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-olympic-ice-sprints-the-best-of-short-track-skating/"><u>2024 Approved Olympic Ice Sprints The Best of Short-Track Skating</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v30-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/loom-lens-view-unveiling-screen-record-magic-for-2024/"><u>Loom Lens View Unveiling Screen Record Magic for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1728479999724-pc/"><u>PCで「原神」ストレージ不足対策 - 最新ガイド</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-pushing-boundaries-in-sound-design-top-5-innovative-audio-distortion-applications/"><u>Updated 2024 Approved Pushing Boundaries in Sound Design Top 5 Innovative Audio Distortion Applications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-audiovisual-elevation-leading-high-definition-hdmi-21-displays/"><u>[New] Audiovisual Elevation Leading High-Definition (HDMI 2.1) Displays</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-beat-batch-downloads-and-review-rhythmical-sounds-for-2024/"><u>[New] Beat Batch Downloads & Review Rhythmical Sounds for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-zoom-webinars-for-newbies-a-practical-starter-manual/"><u>[Updated] In 2024, Zoom Webinars for Newbies A Practical Starter Manual</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unlock-superior-mac-gif-capture-with-these-apps/"><u>[Updated] Unlock Superior Mac GIF Capture with These Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia/"><u>2024 Approved Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hit-the-right-note-easy-steps-to-snag-a-spotify-subscription-at-student-prices/"><u>Hit the Right Note: Easy Steps to Snag a Spotify Subscription at Student Prices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-poco-m6-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Poco M6 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterpiece-on-your-iphone-ranking-of-best-free-image-assemblers/"><u>Masterpiece on Your iPhone Ranking of Best FREE Image Assemblers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/perceiving-beyond-understanding-ars-impact-for-2024/"><u>Perceiving Beyond Understanding AR's Impact for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/universalaccess-tv-diverse-channels-with-a-local-twist-for-2024/"><u>UniversalAccess TV Diverse Channels with a Local Twist for 2024</u></a></li>
 </ul></div>
 

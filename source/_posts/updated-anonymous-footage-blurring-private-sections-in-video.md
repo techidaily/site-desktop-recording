@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Anonymous Footage  Blurring Private Sections in Video\""
-date: 2024-12-07T05:53:45.303Z
-updated: 2024-12-07T17:47:17.667Z
+date: 2024-12-12T21:33:16.153Z
+updated: 2024-12-14T11:04:05.114Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ This article will take you through all the steps you need to take to hide privat
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -64,6 +64,10 @@ Besides being one of the best screen capturing computer programs for beginners i
 
 ![Filmora Text Effects](https://images.wondershare.com/filmora/guide/setup-camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Filmora Scrn is perfectly equipped for recording all types of PIP videos that need to capture desktop activities while also **recording the footage from a webcam**. YouTubers and all other users of this software can feature themselves in the video. Filmora Scrn lets you capture videos with **frame rates that go from 15 fps to 120 fps**, and it also enables users to **adjust the size of the screen** area they want to capture.
 
 Recording voice-over during the recording session, adding markers, or using HotKeys to start or pause recording sessions are just a few among the many amazing features Filmora Scrn offers.
@@ -72,29 +76,17 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
 
 The original frame is shown below, and I want to blur and hide these two sensitive pictures (in red mark).
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-examples.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
 
@@ -112,6 +104,10 @@ Hiding the identity of the people in your videos and concealing private informat
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
 Filmora Scrn's video editor supports most video file formats, including AVI, MP4, or MOV files. If you want to add blur effects to videos that weren't captured with Filmora Scrn, click on the Add Files icon in the editor's Media Bin, find the video file you'd like to work on and click Open. The file you imported will be displayed in the Media Bin, so to start editing it, drag and drop it to the timeline.
@@ -127,7 +123,7 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
@@ -141,6 +137,10 @@ Finally, you can go ahead and click on the Export button if you're happy with th
 Ok, that's it. Hope you have hidden and blurred the private info in your recorded video. Leave a comment below and let us know if it works for you perfectly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -157,21 +157,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-warranty-and-lifespan-higher-quality-led-systems-may-come-with-a-higher-upfront-price-but-can-offer-longer-lifespans-and-better-performance-which-should/"><u>[New] __Warranty and Lifespan Higher Quality LED Systems May Come with a Higher Upfront Price but Can Offer Longer Lifespans and Better Performance, Which Should Be Considered in the Overall Cost Evaluation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-symphony-space-recordings-downloads-for-study/"><u>[New] 2024 Approved Symphony Space Recordings, Downloads for Study</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-advanced-techniques-in-fbx-game-filming/"><u>[New] Advanced Techniques in FBX Game Filming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-alternative-to-cyberlink-a-comparative-study-of-recording-software/"><u>[New] Alternative to Cyberlink A Comparative Study of Recording Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevating-your-android-experience-through-recording/"><u>[New] In 2024, Elevating Your Android Experience Through Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-screen-recording-face-off-bandicam-vs-camtasias-features/"><u>[New] In 2024, Screen Recording Face-Off Bandicam vs Camtasia's Features</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-influencers-secrets-top-10-video-editing-apps-for-ig-success/"><u>[New] Influencers' Secrets Top 10 Video Editing Apps for IG Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-seamless-obs-broadcast-setup-on-fb/"><u>[New] Seamless OBS Broadcast Setup on FB</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-discover-top-emulated-psp-classics-on-ios/"><u>[Updated] 2024 Approved Discover Top Emulated PSP Classics on iOS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-capturing-the-ultimate-xbox-experience-a-screen-recorders-manual-for-2024/"><u>[Updated] Capturing the Ultimate Xbox Experience A Screen Recorder's Manual for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-horizon-hurdlers-celebrating-the-most-staying-power-drones-for-2024/"><u>[Updated] Horizon Hurdlers Celebrating the Most Staying Power Drones for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disable-integrated-graphics-on-windows-and-when-you-should/"><u>How to Disable Integrated Graphics on Windows (and When You Should)</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-humor-galore-iphone-edition/"><u>In 2024, Humor Galore IPhone Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-auditory-performances/"><u>Ultimate Auditory Performances</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/ultimate-guide-converting-videos-to-mp4-format-with-vlc-tips-and-solutions/"><u>Ultimate Guide: Converting Videos to MP4 Format with VLC – Tips and Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-advanced-tips-for-ps4-screen-capture/"><u>[New] 2024 Approved Advanced Tips for PS4 Screen Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-vrecorder-guide-downloading-and-setting-up-instantly/"><u>[New] 2024 Approved VRecorder Guide Downloading & Setting Up Instantly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/arning-through-youtube-partnerships/"><u>[New] Earning Through YouTube Partnerships</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-advice-on-virtual-dialogue-how-to-excel-in-remote-conversations/"><u>[New] In 2024, Expert Advice on Virtual Dialogue How to Excel in Remote Conversations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-wide-angle-postings-integrating-360-photos-on-mobile-apps/"><u>[New] In 2024, Mastering Wide Angle Postings Integrating 360 Photos on Mobile Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-non-competitive-front-row-fun-ranking-the-top-ten/"><u>[New] Non-Competitive Front Row Fun Ranking the Top Ten</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-bandicam-in-depth-review-for-the-modern-user/"><u>[Updated] 2024 Approved Bandicam In Depth Review for the Modern User</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-az-screen-recorder-comprehensive-app-review-and-alternative/"><u>[Updated] In 2024, AZ Screen Recorder | Comprehensive App Review & Alternative</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-game-capture-without-xboxs-intrusive-game-bar/"><u>[Updated] In 2024, Game Capture without Xbox’s Intrusive Game Bar</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-investigating-prominently-displayed-youtube-comments-for-2024/"><u>[Updated] Investigating Prominently Displayed YouTube Comments for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-vocalists-choice-the-finest-9-online-mic-recorders-for-2024/"><u>[Updated] Vocalist's Choice The Finest 9 Online Mic Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-young-prodigys-riches-soar-in-digital-world-fame/"><u>[Updated] Young Prodigy's Riches Soar in Digital World Fame</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-your-gameplay-our-archive-top-6-minecraft-recording-tactics/"><u>[Updated] Your Gameplay, Our Archive Top 6 Minecraft Recording Tactics</u></a></li>
+<li><a href="https://discover-best.techidaily.com/effortless-dvd-conversion-for-mobile-users-use-winx-dvd-ripper-free-to-transform-dvds-into-iphones-ipads-and-android-friendly-files/"><u>Effortless DVD Conversion for Mobile Users: Use WinX DVD Ripper (Free) to Transform DVDs Into iPhones, iPads, and Android-Friendly Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-color-correction-for-film-and-video-professionals/"><u>Final Cut Pro Color Correction for Film and Video Professionals</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-x50i-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor X50i Phone Now with These Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-turning-gaming-moments-into-legacy-proven-methods-for-documenting-your-sims-journey-in-sims-4/"><u>In 2024, Turning Gaming Moments Into Legacy Proven Methods for Documenting Your Sims' Journey in Sims 4</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-evolution-journey-of-virtual-private-networks/"><u>The Evolution Journey of Virtual Private Networks</u></a></li>
+<li><a href="https://win-data.techidaily.com/tutto-quello-che-devi-sapere-per-pianificare-e-automatizzare-i-tuoi-back-up-di-windows-nella-versione-11-esplora-le-opzioni-con-un-approccio-a-quattro-vie.m10/"><u>Tutto Quello Che Devi Sapere per Pianificare E Automatizzare I Tuoi Back-Up Di Windows Nella Versione 11 - Esplora Le Opzioni Con Un Approccio a Quattro Vie</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Adjust Default Snapshot Savings in Mac\""
-date: 2024-10-27T17:21:25.302Z
-updated: 2024-11-02T16:33:20.687Z
+date: 2024-12-06T16:51:43.576Z
+updated: 2024-12-13T16:38:46.913Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -60,13 +61,6 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -77,10 +71,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -92,6 +83,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -106,10 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,18 +119,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-greatest-action-packed-gaming-escapades-top-10/"><u>2024 Approved Greatest Action-Packed Gaming Escapades (Top 10)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-navigating-small-group-setups-in-zoom/"><u>2024 Approved Navigating Small Group Setups in Zoom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-salt-and-surge-2023s-best-surf-cam-tech-review/"><u>2024 Approved Salt & Surge 2023'S Best Surf Cam Tech Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-screenrecorder-comprehensive-step-by-step-guide/"><u>2024 Approved Ultimate ScreenRecorder Comprehensive, Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-6-rise-of-creative-tools/"><u>Artificial Intelligence: 6 Rise of Creative Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-bugs-ensuring-a-smooth-start-up-of-football-manager-2023-gameplay/"><u>Beat the Bugs: Ensuring a Smooth Start-Up of Football Manager 2023 Gameplay</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/chromebook-and-hp-efficient-webcam-recording-tips/"><u>Chromebook & HP Efficient Webcam Recording Tips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/exclusive-reviews-top-5-external-hdds-for-xbox-gamers/"><u>Exclusive Reviews Top 5 External HDDs for Xbox Gamers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-poco-x6-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Poco X6 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-a-deeper-dive-into-ios-visual-data-repository/"><u>In 2024, A Deeper Dive Into IO's Visual Data Repository</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-in-a-sea-of-silence-the-perils-of-pretense-in-profiles/"><u>In 2024, In a Sea of Silence The Perils of Pretense in Profiles</u></a></li>
-<li><a href="https://article-posts.techidaily.com/insights-on-engaging-top-tier-visual-storytellers-for-2024/"><u>Insights on Engaging Top-Tier Visual Storytellers for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-effortless-mkv-trimming-on-mac-the-best-tools/"><u>New In 2024, Effortless MKV Trimming on Mac The Best Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-screen-recorder-showcase-apowersofts-place-in-the-market/"><u>[New] 2024 Approved Screen Recorder Showcase Apowersoft's Place in the Market</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-snappy-screens-the-windows-way/"><u>[New] 2024 Approved Snappy Screens The Windows Way</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-all-about-farming-on-ginger-isle/"><u>[New] In 2024, All About Farming on Ginger Isle</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-digital-recorder-hits-the-ultimate-list/"><u>[New] In 2024, Digital Recorder Hits The Ultimate List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-high-quality-capture-the-best-applications-reviewed/"><u>[New] In 2024, High-Quality Capture The Best Applications Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-compreranly-approach-to-high-quality-ps3-video-capture-for-2024/"><u>[Updated] A Compreranly Approach to High-Quality PS3 Video Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-do-voiceover-on-powerpoint/"><u>[Updated] In 2024, How to Do Voiceover on PowerPoint</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-navigating-board-usage-a-universal-guide-for-ios-android-and-windows-platforms/"><u>[Updated] In 2024, Navigating Board Usage A Universal Guide for iOS, Android & Windows Platforms</u></a></li>
+<li><a href="https://facebook.techidaily.com/discreetly-indulge-hidden-interactions-online/"><u>Discreetly Indulge: Hidden Interactions Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-the-dji-mavic-2-pro-why-its-the-ultimate-choice-for-professional-photographers/"><u>Expert Analysis of the DJI Mavic 2 Pro: Why It's the Ultimate Choice for Professional Photographers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-gta-v-crashes-a-comprehensive-guide/"><u>Fixing GTA V Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-correcting-a-dysfunctional-delete-key/"><u>Methods for Correcting a Dysfunctional Delete Key</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-risks-why-choosing-alternatives-over-mac-app-stores-chatgpt-is-smarter/"><u>Navigating Risks: Why Choosing Alternatives Over Mac App Store's ChatGPT Is Smarter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10s-update-mishap-error-0xc19n0208-solution-explained/"><u>Resolving Windows 10'S Update Mishap - Error 0Xc19n0208 Solution Explained</u></a></li>
+<li><a href="https://win-top.techidaily.com/restoring-specific-notes-from-your-iphone-backup-made-easy/"><u>Restoring Specific Notes From Your iPhone Backup Made Easy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-usb-headphones-on-your-windows-7-pc-proven-fixes-and-tips/"><u>Solving Silent USB Headphones on Your Windows 7 PC - Proven Fixes and Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/stay-ahead-of-the-game-with-w11-pro-special-deals/"><u>Stay Ahead of the Game with W11 Pro Special Deals</u></a></li>
 </ul></div>
 
