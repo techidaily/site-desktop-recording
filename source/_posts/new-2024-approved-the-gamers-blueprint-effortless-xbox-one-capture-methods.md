@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Gamer's Blueprint  Effortless Xbox One Capture Methods\""
-date: 2024-09-22T16:48:32.331Z
-updated: 2024-09-29T17:22:59.814Z
+date: 2024-12-16T22:17:32.668Z
+updated: 2024-12-23T00:17:37.951Z
 tags: 
   - screen-recording
   - ai video
@@ -52,18 +52,19 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
@@ -72,22 +73,12 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
@@ -96,10 +87,7 @@ You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cort
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
@@ -111,6 +99,10 @@ Capturing screenshots of the epic moments in an Xbox One video game and sharing 
 The console you're using features the Upload app, so in order to access it, you should simply tap on the right bumper on the controller while you are in the Xbox One's home screen. Repeat this action until you are able to see the content feed your friends shared with you. Locate the screenshot you'd like to share and press the Menu button on the controller. A new window will emerge on the screen and you should simply select the Share option and then proceed to choose whether you want to send the screenshot as a private message, upload it to OneDrive or post it to Twitter.
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
 
@@ -141,24 +133,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-10-best-no-cost-videocalling-tools-with-shared-display-for-2024/"><u>[New] 10 Best No-Cost Videocalling Tools with Shared Display for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-effective-screen-recording-with-a-focus-on-usability/"><u>[New] Effective Screen Recording with a Focus on Usability</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-prime-7-video-software-for-mac/"><u>[New] In 2024, Prime 7 Video Software for Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-precision-play-mastering-steams-switch-controllers/"><u>[Updated] 2024 Approved Precision Play Mastering Steam's Switch Controllers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-prime-emulation-tools-sonys-ps1-classics-at-the-fingertips/"><u>[Updated] In 2024, Prime Emulation Tools Sony's PS1 Classics at the Fingertips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-metaverse-passage-premier-vr-equipment-showcase/"><u>[Updated] Metaverse Passage Premier VR Equipment Showcase</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-podcasting-tech-updates-unveiled/"><u>[Updated] Podcasting Tech Updates Unveiled</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-visionsnap-tech-your-guide-to-the-best-of-2023-for-2024/"><u>[Updated] VisionSnap Tech – Your Guide to the Best of 2023 for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-zero-price-audio-excellence-ranking-of-top-10-desktop-tools/"><u>[Updated] Zero-Price Audio Excellence Ranking of Top 10 Desktop Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-rewind-with-ease-iphone-video-restoration-methods/"><u>2024 Approved Rewind with Ease IPhone Video Restoration Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-affordable-video-enhancement-websites/"><u>A Comprehensive Guide to Affordable Video Enhancement Websites</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/bandicam-vs-camtasia-which-is-better-for-2024/"><u>Bandicam vs Camtasia, Which Is Better for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/game-on-securing-your-playthroughs-in-win10-for-2024/"><u>Game On Securing Your Playthroughs in Win10 for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-steady-as-a-rock-how-to-stabilize-your-video-in-fcpx/"><u>In 2024, Steady as a Rock How to Stabilize Your Video in FCPX</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lava-blaze-pro-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Lava Blaze Pro 5G Phones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/itunes-mp3/"><u>ITunes MP3ファイル変換方法とトラブルシューティングのコツ</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/premium-chromebook-capture-app-for-2024/"><u>Premium Chromebook Capture App for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-essential-guide-to-cooler-mini-house-creations/"><u>The Essential Guide to Cooler Mini-House Creations</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-best-audio-editors-to-remove-background-noise-from-audio-for-2024/"><u>Updated Best Audio Editors to Remove Background Noise From Audio for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-symphony-of-selection-assembling-your-best-music-choices-on-youtube/"><u>[New] 2024 Approved A Symphony of Selection Assembling Your Best Music Choices on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-skills-androids-screen-recording-functionality/"><u>[New] 2024 Approved Essential Skills Android's Screen Recording Functionality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-novice-to-pro-elevating-your-ps4-gameplay-screenshot-skills/"><u>[New] 2024 Approved From Novice to Pro Elevating Your PS4 Gameplay Screenshot Skills</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/xplore-sony-vegas-for-high-impact-video-editing-on-youtube-for-2024/"><u>[New] Explore Sony Vegas for High-Impact Video Editing on YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premium-online-meeting-applications-no-zoom/"><u>[New] In 2024, Premium Online Meeting Applications (No Zoom)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-complete-breakdown-of-color-tuning-methods/"><u>[Updated] A Complete Breakdown of Color Tuning Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-effective-strategies-to-document-competitive-play-for-2024/"><u>[Updated] Effective Strategies to Document Competitive Play for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-tiktok-profile-updates-with-linktree-integration/"><u>[Updated] Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-12-clicker-games-on-pc-for-2024/"><u>[Updated] Top 12 Clicker Games on PC for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/diypc/"><u>DIY方法：新PCへ完全データ転送テクニック</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-11-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 11 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-prevention-of-fetal-alcohol-syndrome/"><u>In 2024, Prevention of Fetal Alcohol Syndrome</u></a></li>
 </ul></div>
 

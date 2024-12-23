@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Blur and Hide Private Information in Recorded Video\""
-date: 2024-12-10T10:39:39.101Z
-updated: 2024-12-13T21:38:59.586Z
+date: 2024-12-16T17:20:20.692Z
+updated: 2024-12-23T05:19:19.370Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ This article will take you through all the steps you need to take to hide privat
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,7 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why Choose Filmora Scrn to Blur and Hide Private Information in a Video You Recorded?
@@ -64,6 +68,10 @@ Besides being one of the best screen capturing computer programs for beginners i
 
 ![Filmora Text Effects](https://images.wondershare.com/filmora/guide/setup-camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Filmora Scrn is perfectly equipped for recording all types of PIP videos that need to capture desktop activities while also **recording the footage from a webcam**. YouTubers and all other users of this software can feature themselves in the video. Filmora Scrn lets you capture videos with **frame rates that go from 15 fps to 120 fps**, and it also enables users to **adjust the size of the screen** area they want to capture.
 
 Recording voice-over during the recording session, adding markers, or using HotKeys to start or pause recording sessions are just a few among the many amazing features Filmora Scrn offers.
@@ -72,15 +80,15 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
 
@@ -97,7 +105,7 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
@@ -122,10 +130,6 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -137,10 +141,6 @@ Finally, you can go ahead and click on the Export button if you're happy with th
 Ok, that's it. Hope you have hidden and blurred the private info in your recorded video. Leave a comment below and let us know if it works for you perfectly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -157,18 +157,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-ceasing-noise-during-obs-recordings-for-2024/"><u>[New] Ceasing Noise During OBS Recordings for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-redirect-macs-image-backup-to-new-folder/"><u>[Updated] 2024 Approved Redirect Mac's Image Backup to New Folder</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-straightforward-steps-upside-down-video-rotation-using-vlc/"><u>[Updated] 2024 Approved Straightforward Steps Upside-Down Video Rotation Using VLC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unexpected-angle-alterations-in-instagram-video-posts/"><u>[Updated] Unexpected Angle Alterations in Instagram Video Posts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-gamer-perks-lowest-priced-monitors-and-keyboards/"><u>2024 Approved Essential Gamer Perks Lowest Priced Monitors & Keyboards</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-mkv-trimmers-for-mac/"><u>Expert-Approved MKV Trimmers for Mac</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/guida-rapida-al-riconversione-di-video-avchd-m2ts-a-formato-mp4-senza-compromettere-la-qualita-i-metodi-piu-efficienti/"><u>Guida Rapida Al Riconversione Di Video AVCHD M2TS a Formato MP4 Senza Compromettere La Qualità: I Metodi Più Efficienti</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-sharpen-your-gpt-interactions-without-mistakes/"><u>How to Sharpen Your GPT Interactions Without Mistakes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-elevate-your-brand-discovering-the-essential-5-youtube-strategies/"><u>In 2024, Elevate Your Brand Discovering the Essential 5 YouTube Strategies</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-note-50-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme Note 50 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/step-by-step-guide-to-upgrading-windows-nstallation-from-hdd-to-ssd-with-drive-cloning/"><u>Step-by-Step Guide to Upgrading Windows Nstallation From HDD to SSD with Drive Cloning</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-fujitsus-high-performance-scansnap-ix1600-for-office-use/"><u>The Ultimate Review of Fujitsu's High-Performance ScanSnap iX1600 for Office Use</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-digital-dialogue-preservation-guide/"><u>[New] Digital Dialogue Preservation Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-streaming-success-recorded-google-chats/"><u>[New] In 2024, Streaming Success Recorded Google Chats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-securing-continuous-frame-playback-in-live-broadcasts/"><u>[New] Securing Continuous Frame Playback in Live Broadcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-your-ae-leading-text-plugins-reviewed/"><u>2024 Approved Maximizing Your AE Leading Text Plugins Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-devices-to-elevate-your-mobile-video-skills/"><u>2024 Approved Premium Devices to Elevate Your Mobile Video Skills</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/close-up-control-zooming-into-team-meetings-with-msteams-for-2024/"><u>Close-Up Control Zooming Into Team Meetings with MSTEAMS for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/crafting-virtual-laughter-the-metaverse-meme-journey-for-2024/"><u>Crafting Virtual Laughter The Metaverse Meme Journey for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-allocate-more-ram-to-minecraft/"><u>In 2024, How to Allocate More Ram to Minecraft</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-professional-gopro-filming-techniques-uncovered/"><u>In 2024, Professional GoPro Filming Techniques Uncovered</u></a></li>
 </ul></div>
 

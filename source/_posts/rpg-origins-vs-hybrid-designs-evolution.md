@@ -1,7 +1,7 @@
 ---
 title: "\"RPG Origins Vs. Hybrid Designs  Evolution\""
-date: 2024-12-09T08:13:43.381Z
-updated: 2024-12-14T05:36:09.636Z
+date: 2024-12-17T05:08:22.037Z
+updated: 2024-12-22T17:39:08.017Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
@@ -46,7 +50,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -55,25 +59,21 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -111,14 +111,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelite Games
@@ -147,6 +143,10 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -164,18 +164,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-aesir-clash-dawn-of-the-gods/"><u>[New] In 2024, Aesir Clash Dawn of the Gods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-resolved-faulty-obs-camera/"><u>[New] Resolved Faulty OBS Camera</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-get-both-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective/"><u>[Updated] Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/deep-review-scoops-of-chilled-treats-on-your-pc-for-2024/"><u>Deep Review Scoops of Chilled Treats on Your PC for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-elevate-pre-windows-upgrade-machines-into-win11/"><u>How to Elevate Pre-Windows Upgrade Machines Into Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-microsoft-flight-simulator-2020-from-continuously-crashing/"><u>How to Stop Microsoft Flight Simulator 2020 From Continuously Crashing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/illuminate-your-world-top-iphone-lights-techniques/"><u>Illuminate Your World Top iPhone Lights Techniques</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/obs-vs-shadowplay-which-recording-tool-takes-the-prize-in-2024/"><u>OBS Vs ShadowPlay Which Recording Tool Takes the Prize, In 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-twitch-enthusiasts-recording-guidebook-for-2024/"><u>The Twitch Enthusiast's Recording Guidebook for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-reno-9a-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo Reno 9A</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-freefire-techniques-for-gaming-vloggers/"><u>Top 5 FreeFire Techniques for Gaming Vloggers</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-load-caused-by-the-windows-1011-desktop-window-manager/"><u>Top 5 Solutions for Reducing GPU Load Caused by the Windows 10/11 Desktop Window Manager</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-engaging-video-audiences-choosing-impactful-youtube-images/"><u>[New] In 2024, Engaging Video Audiences Choosing Impactful YouTube Images</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-5-budget-friendly-chromebook-recorders/"><u>[New] In 2024, Top 5 Budget-Friendly Chromebook Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-securing-visuals-the-method-of-concealing-details/"><u>[New] Securing Visuals The Method of Concealing Details</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-8-techniques-for-capturing-pc-audio-and-mic-sounds-for-2024/"><u>[New] Top 8 Techniques for Capturing PC Audio & Mic Sounds for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-tips-for-operating-ez-grabber/"><u>[Updated] 2024 Approved Essential Tips for Operating EZ Grabber</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-discover-the-safest-video-call-options-for-your-smartphone-or-tablet/"><u>[Updated] Discover the Safest Video Call Options for Your Smartphone or Tablet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-screen-capture-in-linux-with-these-tools-for-2024/"><u>[Updated] Mastering Screen Capture in Linux with These Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-optimize-your-streams-with-advanced-obs-techniques-android/"><u>[Updated] Optimize Your Streams with Advanced OBS Techniques, Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-8-flawless-recorder-picks/"><u>2024 Approved Leading 8 Flawless Recorder Picks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-a34-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy A34 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-a34-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy A34 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/guida-passo-passo-per-eseguire-il-backup-delle-cartelle-modificati-frequentemente-su-windows-10/"><u>Guida Passo-Passo per Eseguire Il Backup Delle Cartelle Modificati Frequentemente Su Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-free-ad-free-tools-for-android-screen-recording/"><u>In 2024, Top Free, Ad-Free Tools for Android Screen Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hing-a-sports-vlog-on-apple-computers/"><u>Launching a Sports Vlog on Apple Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722968655190-quick-download-get-your-lexar-usb-drivers-instantly/"><u>Quick Download: Get Your Lexar USB Drivers Instantly!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-creating-a-bootable-windows-11-installation-drive-from-an-iso-file/"><u>Step-by-Step Guide: Creating a Bootable Windows 11 Installation Drive From an ISO File</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/synchronize-your-videos-on-vlc-media-player-by-correcting-audio-lag-expert-tips-and-tricks/"><u>Synchronize Your Videos on VLC Media Player by Correcting Audio Lag – Expert Tips & Tricks</u></a></li>
 </ul></div>
 

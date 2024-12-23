@@ -1,7 +1,7 @@
 ---
 title: "How AMD's EPYC Chips Triumph Over Nvidia's Grace Superchip: See Them Beat Benchmark Records by Twice the Speed"
-date: 2024-12-10T17:38:40.659Z
-updated: 2024-12-14T05:12:48.804Z
+date: 2024-12-18T21:14:00.146Z
+updated: 2024-12-23T04:06:45.356Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,18 +64,22 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-decibel-documentation-system-and-speech/"><u>[New] 2024 Approved Decibel Documentation System and Speech</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-securing-visuals-the-method-of-concealing-details/"><u>[New] In 2024, Securing Visuals The Method of Concealing Details</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-smooth-transitions-and-precision-capture-analyzing-top-obs-recorders/"><u>[Updated] 2024 Approved Smooth Transitions & Precision Capture Analyzing Top OBS Recorders</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unveiling-the-art-of-smoothing-zoom-screenshots/"><u>[Updated] 2024 Approved Unveiling the Art of Smoothing Zoom Screenshots</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-amplifying-your-videos-music-integration-on-win11/"><u>[Updated] Amplifying Your Videos Music Integration on Win11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-expert-insights-into-mov-file-recording-on-latest-win-11-edition/"><u>[Updated] Expert Insights Into .MOV File Recording on Latest Win 11 Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/"><u>[Updated] The Art of Recording Fun 6 Techniques to Document Minecraft for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-insight-on-the-luxury-ambient-weather-ws-1002-wifi-device-stellar-quality-at-a-high-expense/"><u>Expert Insight on the Luxury Ambient Weather WS-1002 WiFi Device: Stellar Quality at a High Expense</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a23-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A23 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-troubleshoot-minecraft-crashes-on-windows-and-macs/"><u>How to Troubleshoot Minecraft Crashes on Windows and Macs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/panne-de-sauvegarde-du-systeme-windows-server-201-weiterleitung-kathedrale-von-ripatransone/"><u>Panne De Sauvegarde Du Système Windows Server 201 #WEITERLEITUNG Kathedrale Von Ripatransone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unleashing-potential-top-10-strategies-for-instagram-video-ads-for-2024/"><u>Unleashing Potential Top 10 Strategies for Instagram Video Ads for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-fraps-for-gamers-a-screen-record-review/"><u>[New] 2024 Approved Fraps for Gamers A Screen Record Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-screen-record-on-mac/"><u>[New] 2024 Approved How to Screen Record on Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-shortcut-knowledge-for-flawless-mac-recordings-for-2024/"><u>[New] Essential Shortcut Knowledge for Flawless Mac Recordings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-beam-your-ideas-master-screencast-with-ezvide-video-maker/"><u>[New] In 2024, Beam Your Ideas Master Screencast with EZvide Video Maker</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-fantasy-villas-with-oriental-elegance-mc-edition/"><u>[New] In 2024, Fantasy Villas with Oriental Elegance, MC Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-professional-screen-capture-tools-reviewed-bandicam-and-camtasia/"><u>[New] In 2024, Professional Screen Capture Tools Reviewed Bandicam & Camtasia</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-linux-screenshot-the-most-acclaimed-applications-for-2024/"><u>[New] Linux Screenshot The Most Acclaimed Applications for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-inside-look-key-aspects-of-srt-mastery/"><u>[Updated] 2024 Approved Inside Look Key Aspects of SRT Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-gaming-monitors-for-xbox-series-x-a-buyers-guide-for-2024/"><u>[Updated] Top Gaming Monitors for Xbox Series X - A Buyer's Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-analyses-by-toms-hardware-hub/"><u>Advanced Gadget Analyses by Tom’s Hardware Hub</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/android-gaming-elevated-in-depth-look-at-the-breakthrough-app-kinemaster-for-2024/"><u>Android Gaming Elevated - In-Depth Look at the Breakthrough App, KineMaster for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-s23-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy S23</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deploying-artifice-intelligence-agents-via-browser-using-agentgpt/"><u>Deploying Artifice Intelligence Agents via Browser Using AgentGPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-logitech-c920-driver-download-for-new-windows-11-pc/"><u>Latest Logitech C920 Driver Download for New Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-bluetooth-fix-music-only-no-inputoutput/"><u>Mastering Windows Bluetooth Fix: Music Only, No Input/Output</u></a></li>
+<li><a href="https://techidaily.com/meet-the-upgraded-bing-chatbot-advanced-search-features-and-elevated-usage-restrictions-now-available/"><u>Meet the Upgraded Bing Chatbot: Advanced Search Features & Elevated Usage Restrictions Now Available</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/multi-view-magic-is-splitcam-prime-in-2024/"><u>Multi-View Magic Is SplitCam Prime, In 2024</u></a></li>
 </ul></div>
 

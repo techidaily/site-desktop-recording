@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Stealth and Honor  Find Your Favorite Games Like Tsushi\""
-date: 2024-12-11T23:25:54.342Z
-updated: 2024-12-14T11:08:41.201Z
+date: 2024-12-19T12:23:20.702Z
+updated: 2024-12-22T21:03:25.394Z
 tags: 
   - screen-recording
   - ai video
@@ -136,7 +136,7 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +146,13 @@ These games like Ghost of Tsushima are unique and different in their own way but
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -170,18 +170,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-streamlined-steps-to-record-on-your-ipad-screen/"><u>[New] In 2024, Streamlined Steps to Record on Your iPad Screen</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-steps-to-document-lol-encounters/"><u>[New] Ultimate Steps to Document LOL Encounters</u></a></li>
-<li><a href="https://windows11.techidaily.com/1-intelligent-workspace-companion-how-stardock-desktopgpt-surges-past-traditional-copilots/"><u>1. Intelligent Workspace Companion: How Stardock DesktopGPT Surges Past Traditional Copilots</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-comprehensive-capture-solutions-azs-reviews-and-backups/"><u>2024 Approved Comprehensive Capture Solutions - AZ's Reviews & Backups</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unlocking-recmasters-potential-in-screen-capture/"><u>2024 Approved Unlocking Recmaster's Potential in Screen Capture</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-fbx-techniques-for-capturing-games/"><u>Essential FBX Techniques for Capturing Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-definitivo-para-compactar-video-em-formato-mpeg-4-com-o-programa-movavi/"><u>Guia Definitivo Para Compactar Video Em Formato MPEG-4 Com O Programa Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-infinix-hot-40i-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Infinix Hot 40i.</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-navigating-through-the-best-10-free-video-chat-options-for-business-and-education-sectors/"><u>In 2024, Navigating Through the Best 10 Free Video Chat Options for Business and Education Sectors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/jubilant-join-and-disconnect-protocols/"><u>Jubilant Join & Disconnect Protocols</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210692767-9781685708726-my-damascus-road-experience/"><u>My Damascus Road Experience | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-battle-of-apple-titans-is-the-new-m2-in-mac-studio-superior-to-the-classic-m1-of-mac-mini/"><u>The Battle of Apple Titans: Is the New M2 in Mac Studio Superior to the Classic M1 of Mac Mini?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-prime-day-deal-top-performing-non-thinkpad-non-macbook-laptop-steals-the-show-with-30-discount/"><u>Unbeatable Prime Day Deal: Top-Performing Non-ThinkPad, Non-MacBook Laptop Steals the Show with 30% Discount!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-harmony-hub-tech-evolution/"><u>[New] 2024 Approved Harmony Hub Tech Evolution</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-transformative-strategies-for-podcast-rankings-and-visibility/"><u>[New] In 2024, Transformative Strategies for Podcast Rankings and Visibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-guide-to-using-google-docs-for-speech-recognition/"><u>[Updated] Complete Guide to Using Google Docs for Speech Recognition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-best-aviation-start-syma-x5c-reviewed-for-droning-beginners/"><u>[Updated] In 2024, The Best Aviation Start Syma X5C Reviewed for Droning Beginners</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-affordable-hardware-excellent-obs-setup/"><u>2024 Approved Affordable Hardware Excellent OBS Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-tricks-to-document-league-of-legends-games-efficiently/"><u>2024 Approved Top Tricks to Document League of Legends Games Efficiently</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-vision-quest-movies-in-augmented-reality/"><u>2024 Approved Vision Quest Movies in Augmented Reality</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/exploring-sparrows-and-cryonics-in-the-context-of-progressive-rock-an-insightful-guide-on-email-newsletter-creation-with-massmail-solutions/"><u>Exploring Sparrows & Cryonics in the Context of Progressive Rock – An Insightful Guide on Email Newsletter Creation with MassMail Solutions</u></a></li>
+<li><a href="https://win-best.techidaily.com/free-storage-duplication-on-ssdhdd-with-easy-setup-for-windows-7/"><u>Free Storage Duplication on SSD/HDD with Easy Setup for Windows 7</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-experts-guide-to-xbox-one-screen-captures/"><u>The Expert's Guide to Xbox One Screen Captures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tune-the-frame-diy-music-video-production-with-iphone/"><u>Tune the Frame DIY Music Video Production with iPhone</u></a></li>
 </ul></div>
 
