@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Complete Guide to Virtual Whiteboard Excellence for Zoom Sessions (Desktop/iOS/Android)\""
-date: 2024-12-21T22:59:52.895Z
-updated: 2024-12-23T03:44:01.591Z
+date: 2024-12-22T19:58:33.463Z
+updated: 2024-12-28T17:00:39.143Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
  Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
 
  Since Zoom shares almost identical interface on both Mac and Windows platforms, understanding any one would automatically educate you about the other. For this demonstration, a computer running Windows 10 is used.
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 ![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 4: Zoom Annotation Settings
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
  If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
 
 ![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Add Annotations
 
  Tap the **Edit**  icon from the bottom-left corner of the **Zoom whiteboard** , and pick your preferred tool from the expanded panel to annotate or draw your ideas as needed.
@@ -103,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
@@ -131,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -150,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -169,24 +169,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-elevate-your-video-calling-game-with-skype-and-obs/"><u>[New] Elevate Your Video Calling Game with Skype & OBS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-hangout-history-capture-and-keep/"><u>[New] Hangout History Capture & Keep</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-basics-of-capturing-switch-gaming-moments/"><u>[Updated] 2024 Approved The Basics of Capturing Switch Gaming Moments</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-voice-logging-access-and-evaluation/"><u>[Updated] 2024 Approved Voice Logging Access & Evaluation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-find-your-perfect-game-recorder-top-10-free-apps-for-2024/"><u>[Updated] Find Your Perfect Game Recorder Top 10 Free Apps for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-in-depth-look-at-samsungutation-studio-features/"><u>[Updated] In 2024, In-Depth Look at Samsung'utation Studio Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-reviewing-multiple-cameras-are-there-upgrades/"><u>[Updated] Reviewing Multiple Cameras Are There Upgrades?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-settle-down-with-our-best-10-chill-titles/"><u>[Updated] Settle Down with Our Best 10 Chill Titles</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-effective-social-crossposting-from-twitch-to-fb/"><u>2024 Approved Effective Social Crossposting From Twitch to FB</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-immortalize-your-playthrough-xbox-one-screen-capture-tips/"><u>2024 Approved Immortalize Your Playthrough Xbox One Screen Capture Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862864407-affordable-powerful-motherboards-featuring-longsun-cpus-now-delivering-to-america-starting-at-only-383/"><u>Affordable, Powerful Motherboards Featuring Longsun CPUs Now Delivering to America - Starting at Only $383</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/expressive-mac-screenshot-recorder-with-soundtrack-for-2024/"><u>Expressive Mac Screenshot Recorder with Soundtrack for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/hasten-recovering-deleted-snaps-for-2024/"><u>Hasten Recovering Deleted Snaps for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unveiling-top-rated-video-recorders-for-windows/"><u>In 2024, Unveiling Top-Rated Video Recorders for Windows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-the-art-of-making-dormant-facebook-vids-pop-up-again-for-2024/"><u>Mastering the Art of Making Dormant Facebook Vids Pop Up Again for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-fixing-persistent-minecraft-dungeon-pc-glitches/"><u>No More Interruptions: Fixing Persistent Minecraft Dungeon PC Glitches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-big-savings-immersive-34-curved-asus-tuf-gaming-screen-on-sale-for-just-249/"><u>Score Big Savings: Immersive 34 Curved ASUS TUF Gaming Screen on Sale for Just $249!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-photographers-list-of-top-10-lenses/"><u>The Photographer's List of Top 10 Lenses</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unveiling-the-prospects-of-splitcam-for-videographers-for-2024/"><u>Unveiling the Prospects of SplitCam for Videographers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-hangout-history-capture-and-keep/"><u>[New] 2024 Approved Hangout History Capture & Keep</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-exhilarating-escapades-a-guide-to-the-greatest-action-adventure-games-top-10/"><u>[New] In 2024, Exhilarating Escapades A Guide to the Greatest Action-Adventure Games (Top 10)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-strategies-for-syncing-zoom-meetings-across-devices/"><u>[New] In 2024, Strategies for Syncing Zoom Meetings Across Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-multitask-media-consumption-harnessing-pip-feature-in-netflix/"><u>[New] Mastering Multitask Media Consumption Harnessing PIP Feature in Netflix</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-easy-process-invert-video-order-using-vlc-application/"><u>[Updated] 2024 Approved Easy Process Invert Video Order Using VLC Application</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quick-and-budget-mp3-conversion-from-skype-talks/"><u>[Updated] 2024 Approved Quick & Budget MP3 Conversion From Skype Talks</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/comment-graver-sans-pertes-de-qualite-un-cddvd-sur-mac/"><u>Comment Graver Sans Pertes De Qualité Un CD/DVD Sur Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-online-presence-discover-the-power-of-manycam-for-seamless-virtual-broadcasts-and-remote-cam-functionality/"><u>Enhance Online Presence: Discover the Power of ManyCam for Seamless Virtual Broadcasts and Remote Cam Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-c51-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme C51</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-lightroom-for-android-unveiled-detailed-assessment/"><u>In 2024, Lightroom for Android Unveiled Detailed Assessment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-new-picsart-app-review-and-tutorial/"><u>Navigating the New PicsArt App – Review & Tutorial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)"
-date: 2024-12-21T04:41:46.611Z
-updated: 2024-12-23T12:39:14.919Z
+date: 2024-12-24T18:07:26.830Z
+updated: 2024-12-28T16:42:34.749Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidail
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -51,7 +51,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
@@ -59,11 +59,7 @@ In case you were looking for a way to record a screen on a Huawei Smartphone, yo
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
@@ -92,17 +88,21 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -125,20 +125,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-prime-zero-price-point-video-capturer/"><u>[New] 2024 Approved Prime Zero-Price Point Video Capturer</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevate-your-farming-adventures-with-stardews-top-7-mods/"><u>[New] In 2024, Elevate Your Farming Adventures with Stardew's Top 7 Mods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-securing-premium-image-on-zoom-via-strategic-filters-for-2024/"><u>[New] Securing Premium Image on Zoom via Strategic Filters for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-comprehensive-guide-to-capturing-lol-games/"><u>[Updated] 2024 Approved Comprehensive Guide to Capturing LOL Games</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length-for-2024/"><u>[Updated] Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length) for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-harvest-hacks-ginger-valley-edition/"><u>[Updated] Harvest Hacks Ginger Valley Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-exploring-self-through-instagram-a-diverse-set-of-100-captions/"><u>[Updated] In 2024, Exploring Self Through #Instagram - A Diverse Set of 100 Captions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-formulating-attractive-instagram-story-captions/"><u>[Updated] In 2024, Formulating Attractive Instagram Story Captions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-innovative-imaging-identifying-the-top-10-smartphone-cameras-in-4k/"><u>[Updated] In 2024, Innovative Imaging Identifying the Top 10 Smartphone Cameras in 4K</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unleash-creativity-with-ezvides-tool-for-capturing-your-desktop-for-2024/"><u>[Updated] Unleash Creativity with EZvide's Tool for Capturing Your Desktop for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-exclusive-list-top-5-affordable-screen-recorders-for-windows/"><u>2024 Approved Exclusive List Top 5 Affordable Screen Recorders for Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-s24-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy S24 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mastering-iphone-screen-recording-with-minimal-fuss/"><u>Mastering iPhone Screen Recording with Minimal Fuss</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96489602-9781578594047-real-nightmares-book-2/"><u>Real Nightmares (Book 2) | Free Book</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ling-content-wizards-streamlined-steps-to-launch-channels-via-mobile-apps-for-2024/"><u>Unveiling Content Wizards Streamlined Steps to Launch Channels via Mobile Apps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pinnacle-nintendo-switch-fighting-game-index-max-156/"><u>[New] 2024 Approved Pinnacle Nintendo Switch Fighting Game Index (Max 156)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-your-gaming-adventures-with-steam-for-2024/"><u>[New] Capture Your Gaming Adventures with Steam for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-enhancing-facebook-viewership-with-obs-broadcasts/"><u>[New] Enhancing Facebook Viewership with OBS Broadcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-proven-methods-to-perfectly-capture-iptv-broadcasts/"><u>[New] In 2024, Proven Methods to Perfectly Capture IPTV Broadcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-universal-strategies-for-screen-capturing-on-diverse-devices/"><u>[New] Universal Strategies for Screen Capturing on Diverse Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-optimal-videography-minimizing-sound-interference-effectively/"><u>[Updated] 2024 Approved Optimal Videography Minimizing Sound Interference Effectively</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-direct-youtube-share-on-snapchat-tips/"><u>[Updated] In 2024, Direct YouTube, Share on Snapchat Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-satirize-a-guide-to-parody-production/"><u>How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-5-affordable-gaming-mice-and-keyboards-99plus/"><u>In 2024, Top 5 Affordable Gaming Mice & Keyboards $99+</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-heres-how-to-fix-microphone-problems-and-get-it-picking-up-again/"><u>No Sound? Here's How to Fix Microphone Problems and Get It Picking Up Again</u></a></li>
+<li><a href="https://win-lab.techidaily.com/quick-and-simple-guide-adding-captions-to-your-reels-videos/"><u>Quick and Simple Guide: Adding Captions to Your Reels Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-not-delivered-errors-in-ios-messaging-a-guide/"><u>Resolving 'Not Delivered' Errors in iOS Messaging - A Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-scoop-twitters-trending-talks/"><u>Social Scoop Twitter’s Trending Talks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-10-free-recorders-enhancing-virtual-meetings/"><u>Top 10 Free Recorders Enhancing Virtual Meetings</u></a></li>
 </ul></div>
 

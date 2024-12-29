@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Stealth and Honor  Find Your Favorite Games Like Tsushi\""
-date: 2024-12-19T12:23:20.702Z
-updated: 2024-12-22T21:03:25.394Z
+date: 2024-12-22T19:01:58.618Z
+updated: 2024-12-28T19:21:10.542Z
 tags: 
   - screen-recording
   - ai video
@@ -136,7 +136,7 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +146,13 @@ These games like Ghost of Tsushima are unique and different in their own way but
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -170,16 +170,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-harmony-hub-tech-evolution/"><u>[New] 2024 Approved Harmony Hub Tech Evolution</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-transformative-strategies-for-podcast-rankings-and-visibility/"><u>[New] In 2024, Transformative Strategies for Podcast Rankings and Visibility</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-complete-guide-to-using-google-docs-for-speech-recognition/"><u>[Updated] Complete Guide to Using Google Docs for Speech Recognition</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-best-aviation-start-syma-x5c-reviewed-for-droning-beginners/"><u>[Updated] In 2024, The Best Aviation Start Syma X5C Reviewed for Droning Beginners</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-affordable-hardware-excellent-obs-setup/"><u>2024 Approved Affordable Hardware Excellent OBS Setup</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-tricks-to-document-league-of-legends-games-efficiently/"><u>2024 Approved Top Tricks to Document League of Legends Games Efficiently</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-vision-quest-movies-in-augmented-reality/"><u>2024 Approved Vision Quest Movies in Augmented Reality</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/exploring-sparrows-and-cryonics-in-the-context-of-progressive-rock-an-insightful-guide-on-email-newsletter-creation-with-massmail-solutions/"><u>Exploring Sparrows & Cryonics in the Context of Progressive Rock – An Insightful Guide on Email Newsletter Creation with MassMail Solutions</u></a></li>
-<li><a href="https://win-best.techidaily.com/free-storage-duplication-on-ssdhdd-with-easy-setup-for-windows-7/"><u>Free Storage Duplication on SSD/HDD with Easy Setup for Windows 7</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-experts-guide-to-xbox-one-screen-captures/"><u>The Expert's Guide to Xbox One Screen Captures</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tune-the-frame-diy-music-video-production-with-iphone/"><u>Tune the Frame DIY Music Video Production with iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-visual-preservation-tool-chromebook/"><u>[New] 2024 Approved Ultimate Visual Preservation Tool Chromebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-action-captured-top-choice-in-recorders-explored-for-2024/"><u>[New] Action Captured Top Choice in Recorders Explored for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-windows-best-calling-solutions-7-1-ranked/"><u>[New] In 2024, Windows' Best Calling Solutions, #7-#1 Ranked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-onboard-recorder-use-in-huawei-mate-and-p-series-mate-10-mate-20-p20-p10-for-2024/"><u>[Updated] Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10) for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998337825-cure-for-the-nier-gestalt-games-unexpected-closures-now-fixed/"><u>Cure for the NieR Gestalt Game's Unexpected Closures - Now Fixed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-when-your-device-wont-start-dealing-with-code-10/"><u>Effective Solutions for When Your Device Won't Start (Dealing with Code 10)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-iphone-images-problem-in-windows-environments/"><u>How to Rectify iPhone Images Problem in Windows Environments</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-decoding-youtubes-intricate-view-count-mechanics/"><u>In 2024, Decoding YouTube's Intricate View Count Mechanics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-expertly-curated-list-of-10-best-windows-cameras/"><u>In 2024, Expertly Curated List of 10 Best Windows Cameras</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-walking-deadlines-the-ultimate-selection-of-excellent-zombie-games/"><u>In 2024, Walking Deadlines The Ultimate Selection of Excellent Zombie Games</u></a></li>
 </ul></div>
 
