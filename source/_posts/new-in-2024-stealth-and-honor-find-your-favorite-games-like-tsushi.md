@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Stealth and Honor  Find Your Favorite Games Like Tsushi\""
-date: 2024-12-22T19:01:58.618Z
-updated: 2024-12-28T19:21:10.542Z
+date: 2025-01-02T20:34:17.816Z
+updated: 2025-01-07T16:12:20.261Z
 tags: 
   - screen-recording
   - ai video
@@ -136,7 +136,7 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +146,13 @@ These games like Ghost of Tsushima are unique and different in their own way but
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -170,16 +170,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-visual-preservation-tool-chromebook/"><u>[New] 2024 Approved Ultimate Visual Preservation Tool Chromebook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-action-captured-top-choice-in-recorders-explored-for-2024/"><u>[New] Action Captured Top Choice in Recorders Explored for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-windows-best-calling-solutions-7-1-ranked/"><u>[New] In 2024, Windows' Best Calling Solutions, #7-#1 Ranked</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-onboard-recorder-use-in-huawei-mate-and-p-series-mate-10-mate-20-p20-p10-for-2024/"><u>[Updated] Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10) for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722998337825-cure-for-the-nier-gestalt-games-unexpected-closures-now-fixed/"><u>Cure for the NieR Gestalt Game's Unexpected Closures - Now Fixed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-when-your-device-wont-start-dealing-with-code-10/"><u>Effective Solutions for When Your Device Won't Start (Dealing with Code 10)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-iphone-images-problem-in-windows-environments/"><u>How to Rectify iPhone Images Problem in Windows Environments</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-decoding-youtubes-intricate-view-count-mechanics/"><u>In 2024, Decoding YouTube's Intricate View Count Mechanics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-expertly-curated-list-of-10-best-windows-cameras/"><u>In 2024, Expertly Curated List of 10 Best Windows Cameras</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-walking-deadlines-the-ultimate-selection-of-excellent-zombie-games/"><u>In 2024, Walking Deadlines The Ultimate Selection of Excellent Zombie Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-ultimate-war-strategists-guide-selecting-top-7-total-war-challenges/"><u>[New] 2024 Approved The Ultimate War Strategists' Guide Selecting Top 7 Total War Challenges</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-ideas-to-boost-the-impact-of-fb-video-campaigns-for-2024/"><u>[New] Ideas to Boost the Impact of FB Video Campaigns for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-critical-take-on-sharex-expert-evaluations-and-alternates/"><u>[New] In 2024, The Critical Take on ShareX Expert Evaluations & Alternates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-ai-infused-gaming-broadcasts/"><u>[New] In 2024, The Ultimate Guide to AI-Infused Gaming Broadcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-remote-collaboration-with-ease-mastering-skype-screen-share-capabilities/"><u>[Updated] Enhancing Remote Collaboration with Ease Mastering Skype Screen-Share Capabilities</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-tips-for-perfect-control-how-to-use-your-switch-pro-on-steam/"><u>2024 Approved Tips for Perfect Control How to Use Your Switch Pro on Steam</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-transform-your-videography-effortless-recording-and-editing-via-adobe-connect/"><u>2024 Approved Transform Your Videography Effortless Recording and Editing via Adobe Connect</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/accurate-speech-to-text-googles-breakthrough-approach/"><u>Accurate Speech-to-Text Google's Breakthrough Approach</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y78plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y78+ Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-13-ultra-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi 13 Ultra Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-recmaster-pro-in-depth-analysis-of-the-latest-release/"><u>In 2024, Recmaster Pro In-Depth Analysis of the Latest Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-launcher-upgrade-problems-solved-a-comprehensive-fix-for-outdated-versions/"><u>Minecraft Launcher Upgrade Problems Solved: A Comprehensive Fix for Outdated Versions</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-syncing-your-spotify-library-with-mediamonkey/"><u>Step-by-Step Guide: Syncing Your Spotify Library with MediaMonkey</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/tests-complets-sur-la-recuperation-de-fichiers-avec-windows-performe-t-il-reellement/"><u>Tests Complets Sur La Récupération De Fichiers Avec Windows - Performe-T-Il Réellement?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-3-nintendo-switch-emulators-free-to-download/"><u>Top 3 Nintendo Switch Emulators Free to Download</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"RPG Origins Vs. Hybrid Designs  Evolution\""
-date: 2024-12-27T19:02:16.068Z
-updated: 2024-12-28T22:39:46.047Z
+date: 2025-01-05T16:57:40.701Z
+updated: 2025-01-07T18:47:49.063Z
 tags: 
   - screen-recording
   - ai video
@@ -52,7 +52,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -60,10 +64,6 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -107,11 +107,11 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -124,7 +124,7 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Slay the Spire
@@ -132,6 +132,10 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Hades
 
@@ -142,10 +146,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -164,16 +164,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-pro-tips-for-productive-dialogues-on-google-meet/"><u>[New] Pro Tips for Productive Dialogues on Google Meet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-pro-rated-apple-compreran-of-the-best-screen-recorders-for-2024/"><u>[New] Pro-Rated Apple Compreran of the Best Screen Recorders for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-tier-eyeball-enticer-author/"><u>[New] Top-Tier Eyeball Enticer Author</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-battle-for-yggdrasil-ragnarok-begins/"><u>[Updated] Battle for Yggdrasil Ragnarok Begins</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-best-screen-recorders-for-pc-mac-top-10-list/"><u>[Updated] In 2024, Best Screen Recorders for PC, Mac - Top 10 List</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unlock-zooms-full-power-with-share-screen-expertise/"><u>[Updated] Unlock Zoom’s Full Power with Share Screen Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-mechanics-of-windows-shutdown-practices/"><u>Decoding the Mechanics of Windows Shutdown Practices</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortnite-on-a-mac-have-fun-acknowledge-the-limits/"><u>Fortnite on a Mac? Have Fun, Acknowledge the Limits</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-itel-p55-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Itel P55 FRP Locks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/investigating-screenshots-best-tools-fraps-vs-obs-studio/"><u>Investigating Screenshots’ Best Tools Fraps Vs OBS Studio</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-your-windows-experience-the-power-of-winstall-for-app-groups/"><u>Optimizing Your Windows Experience: The Power of Winstall for App Groups</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-inexpensive-pc-capture-programs-reviewed/"><u>[New] 2024 Approved Inexpensive PC Capture Programs Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-zooms-video-enhancements-filter-techniques/"><u>[New] 2024 Approved Mastering Zoom's Video Enhancements Filter Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-a-comprehensive-look-at-vlc-recorder/"><u>[New] A Comprehensive Look at VLC Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-fade-in-and-fade-out-video-clips/"><u>[Updated] How to Fade-In and Fade-Out Video Clips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-screencast-technology-with-itop-review-for-2024/"><u>[Updated] Mastering Screencast Technology with ITop Review for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-secure-your-device-footage-with-mi-11-techniques-for-2024/"><u>[Updated] Secure Your Device Footage with Mi 11 Techniques for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/5-proven-methods-to-enhance-your-instagram-tv-experience-for-2024/"><u>5 Proven Methods to Enhance Your Instagram TV Experience for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/dual-output-synchronization-for-2024/"><u>Dual Output Synchronization for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 12 mini</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-creativity-with-minimal-spending-a-detailed-review-of-the-monoprice-graphic-tablet/"><u>Maximizing Creativity with Minimal Spending: A Detailed Review of the Monoprice Graphic Tablet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps-for-2024/"><u>Updated How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-event-tracing-identifying-and-solving-critical-failures-successfully/"><u>Windows 10 Event Tracing: Identifying & Solving Critical Failures Successfully</u></a></li>
 </ul></div>
 

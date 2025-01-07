@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete Guide to Downloading, Setting up and Using OBS on macOS"
-date: 2024-12-27T16:42:27.435Z
-updated: 2024-12-29T02:18:15.498Z
+date: 2025-01-06T19:03:47.471Z
+updated: 2025-01-07T20:28:45.638Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 OBS Studio has evolved into one of the most powerful audio recording software on the market today. Using OBS game capture, you may record screen games for YouTube videos or share snippets of gameplay with your friends for free. With this article, we'll cover how to record in OBS and how much storage space you'll need for your recordings. With OBS, it's easy to keep track of high scores, great in-game performances, and even tips on how to play like a pro quickly and effectively. Since gamers may use several third-party screen-recording techniques when recording their games, learning how to record gameplay using OBS is an ideal solution. An open-source tool called OBS (Open Broadcaster Software) will be utilized in this lesson.
 
 It is widely utilized by both large and small broadcasters throughout the world because of its reliability as a streaming solution. Despite this, it's an effective tool for capturing images. OBS Studio enables you to record video directly to your device instead of broadcasting your screen. The days of framed screenshots and complex settings are over. Video game streamers and teachers with a lot of video presentations are likely to be acquainted with the OBS Studio. However, due to the complex user interface, it's a little tough for beginners to utilize. The good news is that there are a variety of OBS options to pick from. When it comes to performance, it's on par with other, more costly options. For the most part, the program allows for live streaming to several sites, such as Facebook Live and Hitbox.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Download and Install OBS on Mac
 
@@ -66,15 +62,15 @@ In OBS for Mac, this setting will deliver the sound of the source to the Desktop
 
 ![customize record](https://images.wondershare.com/filmora/article-images/customize-record.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Set the Screen and Output Mode**
 
 In OBS Studio for Mac, this setting will broadcast the sound of the source to the stream and Desktop sound separately. This takes into mind individual sound control. To do so, go to the bottom right corner of your screen and pick "settings." Then, under "recording path," select the "output" option to specify the spot on your computer where you desire to keep the recordings. Right after that, press the Record button to start recording your Game Audio in parallel.
 
 ![output mode](https://images.wondershare.com/filmora/article-images/output-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Record Screen with OBS on Mac
 
@@ -86,25 +82,21 @@ To purchase OBS Studio, go to the OBS Project's official website and join up for
 
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Add Scenes for Recording**
 
 OBS Studio will be available on their PC when the installation is complete, and players may use it to record their Valorous games. The software, on the other hand, does not come pre-configured for recording and must be set up manually. Scenes should be added. Open OBS and go to the bottom left of the screen to the "+" icon below "scenes." Add a "recording" scenario to the mix.
 
 ![add scenes](https://images.wondershare.com/filmora/article-images/add-scenes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Customize the Recording**
 
 Users should go to the Output tab and set the Video Bitrate to 6000 Kbps, Encoder to Hardware, and Audio Bitrate to 256 after entering the settings. Users may also adjust the location of their recording by choosing the save path location in the same settings tab., in the "recording" scene, click the "+" sign below "sources" on the bottom left of the screen, and add a "display capture." If you have more than one monitor, specify which one you wish to record.
 
 ![output tab](https://images.wondershare.com/filmora/article-images/output-tab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You may add a "Video Capture Device" to capture your webcam and an "Audio Input Capture" to gather the sounds from your microphone if you wish to. The next step is for users to go to the Audio tab and deactivate Desktop Audio. Users may add an audio input device, such as a microphone, by setting the Mic/Auxiliary device under the same tab.
 
@@ -130,10 +122,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Record Streaming with Wondershare Filmora
 
 **Step 1: Download and Install Filmora**
@@ -143,7 +131,7 @@ To begin with the Wondershare Filmora video recorder, you need to download the s
 ![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Set Up Your Screen**
@@ -151,6 +139,10 @@ To begin with the Wondershare Filmora video recorder, you need to download the s
 After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
 
 ![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
 Step 3: Start Capturing
@@ -162,7 +154,7 @@ After you are done with the settings, launch the game which you want to incorpor
 ![start capturing](https://images.wondershare.com/filmora/article-images/start-capturing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Just press the red-dotted Filmora button as soon as you get to a place where you wish to record your game playthrough. Now that you've completed this step, you may begin capturing your screen.
@@ -220,6 +212,10 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Record Streaming with Wondershare Filmora
 
 **Step 1: Download and Install Filmora**
@@ -228,11 +224,19 @@ To begin with the Wondershare Filmora video recorder, you need to download the s
 
 ![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Set Up Your Screen**
 
 After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
 
 ![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
 Step 3: Start Capturing
@@ -242,10 +246,6 @@ Step 3: Start Capturing
 After you are done with the settings, launch the game which you want to incorporate in your game video production. As soon as you arrive at the game, go with the game interface until you want it to include.
 
 ![start capturing](https://images.wondershare.com/filmora/article-images/start-capturing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Just press the red-dotted Filmora button as soon as you get to a place where you wish to record your game playthrough. Now that you've completed this step, you may begin capturing your screen.
 
@@ -271,15 +271,15 @@ To begin with the Wondershare Filmora video recorder, you need to download the s
 
 ![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Set Up Your Screen**
 
 After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
 
 ![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
 Step 3: Start Capturing
@@ -299,7 +299,7 @@ The post-production editing capability may also be used to improve the recording
 ![directly share to youtube](https://images.wondershare.com/filmora/article-images/directly-share-to-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -330,24 +330,21 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-optimize-your-posting-select-from-this-roundup-of-top-8-planners/"><u>[New] 2024 Approved Optimize Your Posting Select From This Roundup of Top 8 Planners</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-addressing-disrupted-video-in-obs-studio-for-2024/"><u>[New] Addressing Disrupted Video in OBS Studio for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-green-thumbs-up-the-best-farming-titles-for-group-playtime/"><u>[New] Green Thumbs Up The Best Farming Titles for Group Playtime</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revolutionizing-audio-documentation-the-art-of-call-recording/"><u>[New] In 2024, Revolutionizing Audio Documentation The Art of Call Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-flickerframe-repository-review/"><u>[Updated] 2024 Approved FlickerFrame Repository Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-introductory-walkthrough-how-to-employ-mobizen-screensaver-tools/"><u>[Updated] 2024 Approved Introductory Walkthrough How to Employ Mobizen Screensaver Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-step-by-step-approach-to-mastering-the-steam-pro-controller-on-switch/"><u>[Updated] 2024 Approved Step-by-Step Approach to Mastering the Steam Pro Controller on Switch</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-tunefab-screen-recording-tips-and-tricks/"><u>[Updated] 2024 Approved Top 5 Tunefab Screen Recording Tips & Tricks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-7-best-online-voice-recorders-2023-for-2024/"><u>[Updated] 7 Best Online Voice Recorders 2023 for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-recording-gear-for-environmentalists-for-2024/"><u>[Updated] Essential Recording Gear for Environmentalists for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-kinemasters-ultimate-green-screen-implementation-techniques/"><u>[Updated] In 2024, Kinemaster's Ultimate Green Screen Implementation Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-prime-action-cameras-with-superior-mics/"><u>[Updated] In 2024, Prime Action Cameras with Superior Mics</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-strategies-for-compelling-video-instruction-content/"><u>[Updated] In 2024, Ultimate Strategies for Compelling Video Instruction Content</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-amplifying-audio-and-visual-quality-in-your-youtube-videos/"><u>2024 Approved Amplifying Audio and Visual Quality in Your YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-enhance-content-discovery-with-instagrams-changes/"><u>How to Enhance Content Discovery with Instagram's Changes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-screenshotting-your-android-device/"><u>In 2024, Unlocking the Potential of Screenshotting Your Android Device</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/quick-steps-to-screen-recording-via-ezvid-video-creator-for-2024/"><u>Quick Steps to Screen Recording via Ezvid Video Creator for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-nubia-red-magic-9-pro-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Nubia Red Magic 9 Pro unlock screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-smoothing-out-lag-issues-on-your-gaming-rig-insights/"><u>Ultimate Fix Guide: Smoothing Out Lag Issues on Your Gaming Rig - Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-2023-browser-snapshot-winners-announced/"><u>[New] 2024 Approved 2023 Browser Snapshot Winners Announced</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-comparative-study-vidma-vs-standard-screen-recording/"><u>[New] Comparative Study Vidma vs Standard Screen Recording</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-expert-insights-on-top-hdr-cameras/"><u>[New] In 2024, Expert Insights on Top HDR Cameras</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premium-best-ten-spotifys-superior-recording-tools/"><u>[New] In 2024, Premium Best Ten Spotify's Superior Recording Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-speech-capture-device-scrutiny/"><u>[New] In 2024, Speech Capture Device Scrutiny</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-innovative-approaches-to-elevate-your-obs-studio-workflow-for-2024/"><u>[New] Innovative Approaches to Elevate Your OBS Studio Workflow for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimal-practices-for-archiving-interactive-online-workshops-for-2024/"><u>[New] Optimal Practices for Archiving Interactive Online Workshops for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-discover-the-safest-video-call-options-for-your-smartphone-or-tablet/"><u>[Updated] 2024 Approved Discover the Safest Video Call Options for Your Smartphone or Tablet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-enchanting-eloquence-exploring-the-top-8-storytelling-haunts/"><u>[Updated] Enchanting Eloquence Exploring the Top 8 Storytelling Haunts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-revolutionize-online-transmission-essential-browsers-screen-capture-vendors/"><u>[Updated] Revolutionize Online Transmission Essential Browsers' Screen Capture Vendors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-getting-the-newest-drivers-for-razer-gear-on-all-windows-oss/"><u>Comprehensive Guide to Getting the Newest Drivers for Razer Gear on All Windows OSs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-video-and-music-companion-apps-roundup/"><u>Essential Video & Music Companion Apps Roundup</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-nokia-c110-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Nokia C110 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-effortlesswebcamcapturewithyoucam/"><u>In 2024, EffortlessWebcamCaptureWithYouCam</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-intensive-analysis-sonys-high-def-action-cam/"><u>In 2024, Intensive Analysis Sony's High-Def Action Cam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-ai-into-development-cycles/"><u>Integrating AI Into Development Cycles</u></a></li>
 </ul></div>
 
