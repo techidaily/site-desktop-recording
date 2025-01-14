@@ -1,7 +1,7 @@
 ---
 title: "[New] Implementing the Virtual Screen Grid in Google Meet for 2024"
-date: 2025-01-02T16:09:08.784Z
-updated: 2025-01-07T18:03:54.441Z
+date: 2025-01-09T23:05:04.250Z
+updated: 2025-01-14T03:08:05.746Z
 tags: 
   - screen-recording
   - ai video
@@ -56,7 +56,7 @@ Use a slider to increase or decrease the number of participants you want to see.
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
@@ -71,10 +71,6 @@ Click on the **three dots** and enable the **desktop site** option from the menu
 
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
 
 Click on the **three dots** at the bottom right corner and select **change layout.**
@@ -82,7 +78,11 @@ Click on the **three dots** at the bottom right corner and select **change layou
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Ask someone else to share the screen
@@ -104,7 +104,7 @@ Tap **add an extension** in the pop-up confirmation message. The installed exten
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2 : Create or join a meeting room in a Google Meet**
@@ -118,6 +118,10 @@ Click on the **extension** at the top right of the screen corner and tick the **
 **Note:** You can configure the grid view setting and choose to tick any option you prefer. Options include only show participants with video, highlight speakers, etc.
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
@@ -142,7 +146,7 @@ Click **new meeting** in the Google Meet. **Tap enable grid view** when you want
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Frequently Asked Questions About See Everyone on Google Meet
@@ -165,10 +169,6 @@ Sometimes, it becomes essential to make all participants visible in the grid. Fo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -184,20 +184,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-theory-to-practice-mastering-instagram-livestreams-through-obs/"><u>[New] 2024 Approved From Theory to Practice Mastering Instagram Livestreams Through OBS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-transform-your-farm-with-stardews-most-innovative-mods-7-best/"><u>[New] 2024 Approved Transform Your Farm with Stardew's Most Innovative Mods (7 Best)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-game-changer-review-dji-mavic-air-takes-on-spark/"><u>[New] Game Changer Review DJI Mavic Air Takes on Spark</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-innovative-approaches-to-capturing-rl-experiences-for-2024/"><u>[New] Innovative Approaches to Capturing RL Experiences for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-smooth-visual-journeys-master-fades-in-a-flash/"><u>[New] Smooth Visual Journeys Master Fades in a Flash</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-androids-path-to-virtual-reality-tips-and-tricks/"><u>[Updated] 2024 Approved Android's Path to Virtual Reality Tips and Tricks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-crafting-cinematic-slow-mo-videos-for-instagram-success/"><u>[Updated] Crafting Cinematic Slow-Mo Videos for Instagram Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-from-raw-recordings-to-professional-vids-webcam-edition/"><u>[Updated] In 2024, From Raw Recordings to Professional Vids - Webcam Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-step-into-retro-gaming-with-top-5-ps1-emulators-for-pc/"><u>2024 Approved Step Into Retro Gaming with Top 5 PS1 Emulators for PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-rectifying-the-pink-screen-dilemma/"><u>Decoding and Rectifying the Pink Screen Dilemma</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-tricks-to-eliminate-lag-in-street-fighter-6-optimize-your-pc-gameplay/"><u>Essential Tricks to Eliminate Lag in Street Fighter 6: Optimize Your PC Gameplay</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-redmi-12-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Redmi 12 Phone?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-sites-that-link-you-to-youtube-promo-deals/"><u>In 2024, Unveiling Sites That Link You to YouTube Promo Deals</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/master-mac-screen-and-voice-logging-device-for-2024/"><u>Master Mac Screen and Voice Logging Device for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturing-your-screenplay-free-software-insights/"><u>[New] 2024 Approved Capturing Your Screenplay Free Software Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-sniping-software-for-mac-users-for-2024/"><u>[New] Best Sniping Software for Mac Users for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-free-online-toolkit-for-youtubefb-video-transformations-in-720p-1080p/"><u>[New] Free Online Toolkit for YouTube/FB Video Transformations in 720P, 1080P</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-optimizing-real-time-instagram-video-playback-mobileonline-for-2024/"><u>[New] Optimizing Real-Time Instagram Video Playback (Mobile/Online) for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-art-of-customizing-windows-photos-app-intertwining-visuals-and-audio-for-2024/"><u>[New] The Art of Customizing Windows Photos App Intertwining Visuals & Audio for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-8-best-video-grabbers-for-windows-10-for-2024/"><u>[New] Top 8 Best Video Grabbers for Windows 10 for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-game-on-camera-strategies-for-videographers-in-sports/"><u>[Updated] 2024 Approved Game On, Camera! Strategies for Videographers in Sports</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-eyefirefox-capture-extensions/"><u>2024 Approved EyeFirefox Capture Extensions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-level-hdr-mastery-your-compre-point-of-entry/"><u>2024 Approved Pro Level HDR Mastery Your Compre Point of Entry</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-drag-tabs-out-from-file-explorer-in-windows-11/"><u>How to Drag Tabs Out From File Explorer in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-15-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 15 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ion-air-pro-3-camera-analysis-gearing-up-for-great-shots/"><u>In 2024, ION Air Pro 3 Camera Analysis - Gearing Up for Great Shots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-mac-screenshots-and-screen-recording/"><u>In 2024, Mastering Mac Screenshots & Screen Recording</u></a></li>
+<li><a href="https://discover-help.techidaily.com/simple-guide-converting-mkv-audio-with-no-loss-of-quality/"><u>Simple Guide: Converting MKV Audio with No Loss of Quality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/storing-session-videos-in-gh-for-2024/"><u>Storing Session Videos in GH for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/undead-universe-discover-the-top-8-zombie-games-for-2024/"><u>Undead Universe Discover the Top 8 Zombie Games for 2024</u></a></li>
 </ul></div>
 
