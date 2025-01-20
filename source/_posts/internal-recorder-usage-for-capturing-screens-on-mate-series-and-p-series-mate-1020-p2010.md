@@ -1,7 +1,7 @@
 ---
 title: "Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)"
-date: 2025-01-11T22:27:47.859Z
-updated: 2025-01-13T20:44:06.704Z
+date: 2025-01-14T23:36:44.597Z
+updated: 2025-01-20T08:48:06.881Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidail
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -47,16 +51,12 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
 
@@ -67,6 +67,10 @@ With the built-in [screen record](https://tools.techidaily.com/wondershare/filmo
 Pull-down notification panel from the top, find the Screen Recorder shortcut icon, and tap it to enable the screen recording feature. A notification will appear on your screen asking you if you want to enable the phone's screencasting feature. Read the notification and instructions carefully and tap Agree to start the screen recording. To stop recording, just go to the notification panel again, and tap the screen recorder icon again and the screen recording will be stopped.
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2. Pressing Buttons to Record Huawei Screen
 
@@ -85,23 +89,19 @@ Before using the double knuckles to record the screen activities, you need to en
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -125,17 +125,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-video-file-management-movs-on-windows-10-for-2024/"><u>[New] Mastering Video File Management MOVs on Windows 10 for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfect-cone-capture-equipment/"><u>[New] Perfect Cone Capture Equipment</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-screensnap-win10-top-quality-recorder/"><u>[Updated] 2024 Approved ScreenSnap Win10 - Top Quality Recorder</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-comprehensive-guide-to-instagram-edits-for-professionals-for-2024/"><u>[Updated] A Comprehensive Guide to Instagram Edits for Professionals for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1716069389242-updated-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems-for-2024/"><u>[Updated] A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems. For 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-elevate-your-hp-experience-with-these-4-screen-record-methods/"><u>[Updated] Elevate Your HP Experience with These 4 Screen Record Methods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-iptv-transmission-across-devices/"><u>2024 Approved IPTV Transmission Across Devices</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/comment-resoudre-le-blocage-des-mises-a-jourtelechargements-pour-windows-11-guides-dinstallation-faciles/"><u>Comment Résoudre Le Blocage Des Mises À Jour/Téléchargements Pour Windows 11 : Guides D'Installation Faciles</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-switching-to-a-wi-fi-mesh-network-system-beneficial-for-your-home-or-office/"><u>Is Switching to a Wi-Fi Mesh Network System Beneficial for Your Home or Office?</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-notch-avchd-video-editing-software-our-2023-rankings/"><u>Updated 2024 Approved Top-Notch AVCHD Video Editing Software Our 2023 Rankings</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-sandx-repair-strategies-and-steps/"><u>Xbox S&X Repair Strategies & Steps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-swiftly-flip-your-movie-with-vlcs-rotation-feature/"><u>[New] In 2024, Swiftly Flip Your Movie with VLC's Rotation Feature</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-x-audio-studio-pro-for-computer-users/"><u>[Updated] In 2024, X-Audio Studio Pro for Computer Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mini-masterpieces-top-6-coolest-mini-houses-in-mc/"><u>[Updated] Mini Masterpieces Top 6 Coolest Mini-Houses in MC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-scrutinizing-free2x-tech-for-optimal-webcam-use/"><u>[Updated] Scrutinizing Free2X Tech for Optimal Webcam Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turn-back-the-tape-on-twitch-broadcasting/"><u>[Updated] Turn Back the Tape on Twitch Broadcasting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-ipads-full-potential-a-timelapse-journey-begins-here/"><u>2024 Approved Unveiling iPad's Full Potential A Timelapse Journey Begins Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-unregistered-class-errors-successful-strategies-for-windows-11-users/"><u>Fix Unregistered Class Errors: Successful Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-branding-excellence-integrating-watermarks-and-logos-into-video-media/"><u>In 2024, Branding Excellence Integrating Watermarks and Logos Into Video Media</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-humor-hubbub-top-7-cheeky-content-concepts-for-laughter-lovers/"><u>In 2024, Humor Hubbub Top 7 Cheeky Content Concepts for Laughter Lovers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-physical-presence-vs-virtual-validation/"><u>In 2024, Physical Presence vs Virtual Validation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-nospinlockavailable-error-a-guide-to-overcome-stop-code-0x0000001d/"><u>Resolving NO_SPIN_LOCK_AVAILABLE Error: A Guide to Overcome Stop Code 0X0000001D</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rtx-3090-supercharge-windows-compatible-driver/"><u>RTX 3090 Supercharge - Windows Compatible Driver</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/secrets-of-professionals-mastering-video-recordingediting-with-adobe-connect-for-2024/"><u>Secrets of Professionals Mastering Video Recording/Editing with Adobe Connect for 2024</u></a></li>
 </ul></div>
 

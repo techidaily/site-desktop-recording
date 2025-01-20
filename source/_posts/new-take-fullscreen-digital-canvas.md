@@ -1,7 +1,7 @@
 ---
 title: "[New] Take Fullscreen Digital Canvas"
-date: 2025-01-02T20:39:23.637Z
-updated: 2025-01-07T20:28:32.385Z
+date: 2025-01-19T05:20:56.025Z
+updated: 2025-01-20T01:32:22.200Z
 tags: 
   - screen-recording
   - ai video
@@ -60,10 +60,14 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
@@ -71,6 +75,10 @@ Once the printing dialogue box appears on the screen you'll be able to preview t
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
 
@@ -80,10 +88,6 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
 
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
@@ -91,7 +95,7 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
@@ -110,10 +114,6 @@ Install the extension in your browser and then click on its icon in the Extensio
 
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 4: Using Online Tools for Full Page Screenshots
 
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
@@ -121,7 +121,7 @@ If you don't want to go through the trouble of installing a screenshot extension
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
@@ -159,22 +159,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-framegauge-evaluator-suite/"><u>[New] 2024 Approved FrameGauge Evaluator Suite</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-growing-greatness-valheims-finest-sprouts-selection/"><u>[New] 2024 Approved Growing Greatness Valheim's Finest Sprouts Selection</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-techniques-for-accurate-ps3-playback-rendering/"><u>[New] 2024 Approved Techniques for Accurate PS3 Playback Rendering</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-discover-top-tier-clicker-games-for-a-fulfilling-pc-experience/"><u>[New] Discover Top-Tier Clicker Games for a Fulfilling PC Experience</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-iconic-building-blueprints-for-mc-players-for-2024/"><u>[New] Iconic Building Blueprints for MC Players for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-convenient-approach-to-downloading-the-funniest-tweets-gifs-on-pc/"><u>[Updated] 2024 Approved Convenient Approach to Downloading the Funniest Tweets (GIFs) on PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-eliminating-frame-drops-in-obs-broadcasts/"><u>[Updated] 2024 Approved Eliminating Frame Drops in OBS Broadcasts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc/"><u>[Updated] 2024 Approved Unveiling WinTV Magic Compre Written Guide to Capturing Live on Windows PC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-best-replacements-for-twitters-massive-network-for-2024/"><u>[Updated] Best Replacements for Twitter's Massive Network for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-humor-unleashed-designing-viral-video-memes-for-facebook-and-insta/"><u>[Updated] In 2024, Humor Unleashed Designing Viral Video Memes for Facebook and Insta</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-ios-psp-gamepads-emulation-2023s-best-list/"><u>[Updated] In 2024, Top iOS PSP Gamepads Emulation - 2023'S Best List</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-thrifty-audio-tools-youtubers-economical-options/"><u>2024 Approved Thrifty Audio Tools Youtubers’ Economical Options</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-navigating-facebook-live-your-2023-playbook/"><u>In 2024, Navigating Facebook Live Your 2023 Playbook</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-tiktok-age-update-made-simple-user-friendly-techniques/"><u>In 2024, TikTok Age Update Made Simple User-Friendly Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tier-virtual-reality-headsets-professionally-evaluated-by-tech-experts-a-comprehensive-guide-zdnet/"><u>Top-Tier Virtual Reality Headsets , Professionally Evaluated by Tech Experts - A Comprehensive Guide | ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-selection-of-magsafe-wallets-in-depth-analysis-and-professional-ratings/"><u>Ultimate Selection of MagSafe Wallets : In-Depth Analysis and Professional Ratings</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-saving-made-easy-a-step-by-step-final-cut-pro-guide-for-2024/"><u>Updated Saving Made Easy A Step-by-Step Final Cut Pro Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-essential-techniques-for-quiet-filming/"><u>[New] 2024 Approved Essential Techniques for Quiet Filming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlock-advanced-broadcast-techniques-with-obs-on-youtube-and-twitch/"><u>[New] In 2024, Unlock Advanced Broadcast Techniques with OBS on YouTube & Twitch</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-recording-techniques-for-stellar-voice-over-audio-for-2024/"><u>[New] Recording Techniques for Stellar Voice-Over Audio for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-resolving-fb-message-app-video-not-sending-error-on-mobile-devices/"><u>[New] Resolving FB Message App Video Not Sending Error on Mobile Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-practical-routines-for-streamlining-gotomeeting-session-logging/"><u>[Updated] In 2024, Practical Routines for Streamlining GoToMeeting Session Logging</u></a></li>
+<li><a href="https://win-net.techidaily.com/comprehensive-guide-to-rectify-error-80080005-during-windows-updates/"><u>Comprehensive Guide to Rectify Error 80080005 During Windows Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-brother-ql-7800nw-printer-driver-for-free-today/"><u>Download the Brother QL-7800NW Printer Driver for Free Today!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/limitless-video-snipping-program-for-2024/"><u>Limitless Video Snipping Program for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-editing-videos-like-a-pro-with-quicktime-on-mac/"><u>New 2024 Approved Editing Videos Like a Pro with QuickTime on Mac</u></a></li>
+<li><a href="https://discover-great.techidaily.com/transfer-contact-list-from-android-device-to-iphone-with-these-5-simple-methods/"><u>Transfer Contact List From Android Device to iPhone with These 5 Simple Methods</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/windowsmacrium-reflect/"><u>Windows系统中顶级的Macrium Reflect替代解决方案（免费试用）</u></a></li>
 </ul></div>
 

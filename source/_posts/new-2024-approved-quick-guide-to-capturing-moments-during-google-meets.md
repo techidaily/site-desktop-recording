@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Quick Guide to Capturing Moments During Google Meets\""
-date: 2025-01-07T17:22:09.429Z
-updated: 2025-01-14T04:29:40.903Z
+date: 2025-01-15T23:18:01.946Z
+updated: 2025-01-20T00:17:31.053Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,10 @@ Once downloaded, find the file on your desktop and double click to install. On t
 
 Open the snap camera and you’ll be able to see your face on the screen. That’s it, you’ve downloaded the Snap Camera. Select the preferred filters and lens from the below list and check the result in the video stream window. Now onto the next step, which is configuring the Snap Camera to work with Google Meet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Use Snap Camera on Google Meet?
 
 There are two different ways of using the snap camera on Google Meet - the first method is to log in via Gmail and the second is to access Google Meet directly from the website.
@@ -56,18 +60,26 @@ There are two different ways of using the snap camera on Google Meet - the first
 ![Google Meet  Options](https://images.wondershare.com/filmora/article-images/gmail-meet-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Select “New Meeting” and then choose to send an invitation link or start right now. Here, let’s click on Start now and a Google Meet pop-up will tell you what the default video source is.
 
 ![Google Meeting ](https://images.wondershare.com/filmora/article-images/google-meet-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Click on the three dots on the preview screen and click on settings.
 
 **Step 5:** Inside the settings option, switch to the Video option and then you will see the first option that you get is “Camera”.
 
 ![Set Snap Camera as Google Meet Camera ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6:** Click on the options under the camera selection and select the Snap Camera.
 
@@ -83,10 +95,6 @@ That’s it! Now you’ll be able to use Snap Camera for your Google Meet commun
 
 ![ Google Meet Website Options ](https://images.wondershare.com/filmora/article-images/google-meet-website-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** To set up your Snap Camera and use it as a part of your Google Meet session, follow the steps below.
 
 * _Float your mouse over the bottom of the window to make the menu appear (find the microphone, hang up, and camera button), then click the three dotes positioned on the far right of the screen._
@@ -96,10 +104,6 @@ That’s it! Now you’ll be able to use Snap Camera for your Google Meet commun
 
 ![ Google Meet  Camera Settings ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to Use Snap Cam with Google Meet using Third-Party Inputs
 
 It is also possible to use Google Meet and Snap Camera with third-party inputs such as the Canon EOS webcam utility or other applications such as IRUin camera of Epoc Cam. Here is how:
@@ -107,10 +111,6 @@ It is also possible to use Google Meet and Snap Camera with third-party inputs s
 **Step 1:** Open the Snap camera app and find the default camera input that it shows you.
 
 ![ Google Meet Camera Source Settings ](https://images.wondershare.com/filmora/article-images/select-third-party-camera-in-snap-camera.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** Find the Gear icon on the top right of the screen and click on it to open the Snap Camera settings.
 
@@ -121,7 +121,7 @@ It is also possible to use Google Meet and Snap Camera with third-party inputs s
 To use third-party inputs like Iruin webcam, Epic cam, or Canon Webcam Utility, you’ll need to select the Snap Cam as the input in the meet settings. Your input will be passed through Snap Cam via webcam utility or another application using your phone or your DSLR, then passed through to Google Meet. You’ll be able to use the filters with far better resolution on Google Meet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Add Filters to Google Meet Without Snap Camera on Mobile
@@ -173,18 +173,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-harvest-mastery-discovering-valheims-optimal-flora/"><u>[New] 2024 Approved Harvest Mastery Discovering Valheim's Optimal Flora</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-a-step-by-step-manual-for-capturing-vr-playthroughs/"><u>[New] In 2024, A Step-by-Step Manual for Capturing VR Playthroughs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-essential-tips-precise-video-trimming-on-vimeo-5-methods/"><u>[New] In 2024, Essential Tips Precise Video Trimming on Vimeo [5 Methods]</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-ultimate-manual-the-art-of-digital-sound-note-taking/"><u>[Updated] In 2024, Ultimate Manual The Art of Digital Sound Note-Taking</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlocking-video-potential-with-fraps-recorder/"><u>[Updated] In 2024, Unlocking Video Potential with Fraps Recorder</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-tips-to-get-your-video-staff-picked-on-vimeo-for-2024/"><u>[Updated] Tips to Get Your Video “Staff Picked” On Vimeo for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-top-tier-emulators-for-gba-games-on-android/"><u>In 2024, Top-Tier Emulators for GBA Games on Android</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1010635-9781780997865-palmistry-made-easy/"><u>Palmistry Made Easy | Free Book</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ppt-presentations-with-verbal-narration-guide/"><u>PPT Presentations with Verbal Narration Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-evaluation-how-does-recmeister-stack-up/"><u>The Ultimate Evaluation How Does Recmeister Stack Up?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-definitive-guide/"><u>Tom's Tech Reviews: The Definitive Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-13-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 13</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028106302-clipchamp/"><u>アスペクト比修正: Clipchampによる動画編集ガイド</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-deep-dive-into-sharex-feedback-and-substitutes/"><u>[New] 2024 Approved Deep Dive Into ShareX Feedback & Substitutes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-easy-to-follow-strategies-recording-hulu-across-windowsmacandroidios-for-2024/"><u>[New] Easy-to-Follow Strategies Recording Hulu Across Windows/Mac/Android/iOS for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-fbx-filming-made-simple-a-step-by-step-approach-for-2024/"><u>[New] FBX Filming Made Simple A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-tools-for-perfect-linux-screenshots/"><u>[New] In 2024, Essential Tools for Perfect Linux Screenshots</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-the-essence-of-sims-gaming/"><u>[Updated] In 2024, Capturing the Essence of Sims Gaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-13-simplified-pathways-to-cash-outdoors-reddit-community/"><u>2024 Approved 13 Simplified Pathways to Cash Outdoors Reddit Community</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/going-against-gravity-innovative-ways-to-rewind-youtube-content-for-2024/"><u>Going Against Gravity Innovative Ways to Rewind YouTube Content for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/master-your-screen-time-using-facetime-on-android/"><u>Master Your Screen Time Using FaceTime on Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-task-monitor-update-velocity-on-windows-11/"><u>Maximize Task Monitor Update Velocity on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-redmi-13c-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Redmi 13C</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-leading-lines-crafting-images-on-iphones/"><u>The Art of Leading Lines Crafting Images on iPhones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"RPG Origins Vs. Hybrid Designs  Evolution\""
-date: 2025-01-08T20:18:12.917Z
-updated: 2025-01-14T01:56:17.803Z
+date: 2025-01-14T21:27:59.824Z
+updated: 2025-01-19T22:41:26.020Z
 tags: 
   - screen-recording
   - ai video
@@ -45,19 +45,15 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -70,6 +66,10 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -90,7 +90,7 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelike Games
@@ -111,6 +111,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Roguelite Games
@@ -123,15 +127,15 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Hades
 
@@ -144,10 +148,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,15 +164,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-speedy-iphone-timelapses-made-simple/"><u>[Updated] 2024 Approved Speedy iPhone Timelapses Made Simple</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-convert-and-store-webcam-footage-in-vlc-media/"><u>[Updated] Convert & Store Webcam Footage in VLC Media</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-expertly-reviewed-7-top-voice-changer-applications/"><u>[Updated] Expertly Reviewed 7 Top Voice Changer Applications</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-art-of-capturing-sound-via-mac/"><u>[Updated] In 2024, The Art of Capturing Sound via Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-enhancing-business-communication-with-professional-skype-recordings/"><u>2024 Approved Enhancing Business Communication with Professional Skype Recordings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-chatbot-security-in-digital-age/"><u>Assessing Chatbot Security in Digital Age</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-unveiling-the-power-and-portability-of-the-lenovo-thinkpad-x1-nano/"><u>Expert Review: Unveiling the Power and Portability of the Lenovo ThinkPad X1 Nano</u></a></li>
-<li><a href="https://techidaily.com/exploring-the-world-of-nfts-a-beginners-guide-to-cryptocurrencys-unique-artifacts/"><u>Exploring the World of NFTs: A Beginner’s Guide to Cryptocurrency’s Unique Artifacts</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mastering-your-slide-show-webcam-screen-capture-methods-for-2024/"><u>Mastering Your Slide Show Webcam Screen Capture Methods for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-comparing-leading-free-and-paid-zoom-transcription-systems/"><u>[New] 2024 Approved Comparing Leading Free & Paid Zoom Transcription Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-recording-rapture-screensavers-review-march-2023/"><u>[New] 2024 Approved Recording Rapture ScreenSavers Review – March 2023</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/chieving-youtube-financial-goals-via-viewer-statistics/"><u>[New] Achieving Youtube Financial Goals via Viewer Statistics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-efficiently-coordinating-group-activities-via-zoom/"><u>[Updated] 2024 Approved Efficiently Coordinating Group Activities via Zoom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-artisanarray-pro-online-creation-powerhouse/"><u>[Updated] ArtisanArray Pro Online Creation Powerhouse</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-fixing-the-obs-fullscreen-hurdle/"><u>[Updated] Fixing the OBS Fullscreen Hurdle</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-remedies-for-disabling-obs-fullscreen/"><u>[Updated] In 2024, Remedies for Disabling OBS Fullscreen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unpacking-sharex-evaluation-and-replacements/"><u>[Updated] In 2024, Unpacking ShareX Evaluation & Replacements</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-a-beginner-friendly-introduction-to-io-screen-recorder/"><u>2024 Approved A Beginner-Friendly Introduction to IO Screen Recorder</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-laugh-out-loud-and-weepy-instagrams-best-meme-communities/"><u>2024 Approved Laugh Out Loud & Weepy Instagram's Best Meme Communities</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-guide-to-investing-in-quality-8-5k-panels/"><u>2024 Approved The Ultimate Guide to Investing in Quality #8 5K Panels</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782506-9781591432364-astronaut-gods-of-the-maya/"><u>Astronaut Gods of the Maya | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-motorola-razr-40-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Motorola Razr 40 Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-microsoft-edge-continuous-crashing-on-windows-11-platforms/"><u>Step-by-Step Solutions for Microsoft Edge Continuous Crashing on Windows 11 Platforms</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Stealth and Honor  Find Your Favorite Games Like Tsushi\""
-date: 2025-01-13T03:23:47.891Z
-updated: 2025-01-13T21:31:35.791Z
+date: 2025-01-17T18:18:49.952Z
+updated: 2025-01-19T21:37:22.968Z
 tags: 
   - screen-recording
   - ai video
@@ -136,7 +136,7 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +146,13 @@ These games like Ghost of Tsushima are unique and different in their own way but
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -170,21 +170,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-showmores-edge-a-closer-look-at-exceptional-screen-recording/"><u>[New] 2024 Approved ShowMore's Edge A Closer Look at Exceptional Screen Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unlock-your-full-potential-with-zd-softwares-advanced-screenshot-techniques/"><u>[New] 2024 Approved Unlock Your Full Potential with ZD Software's Advanced Screenshot Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-best-low-cost-smartwatches-with-gaming-features/"><u>[New] Best Low-Cost Smartwatches with Gaming Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-raw-to-refined-the-essential-guide-to-podcast-editing-with-garageband/"><u>[New] From Raw to Refined The Essential Guide to Podcast Editing with GarageBand</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-high-fidelity-streaming-archiving-a-practical-approach-for-2024/"><u>[New] High-Fidelity Streaming Archiving A Practical Approach for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-unknown-to-recognized-boosting-facebook-profile-visibility/"><u>[New] In 2024, From Unknown to Recognized Boosting Facebook Profile Visibility</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-maximize-engagement-with-these-instagram-story-tips/"><u>[New] In 2024, Maximize Engagement with These Instagram Story Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-learning-the-top-10-educational-historians-yt/"><u>[Updated] 2024 Approved Elevate Your Learning The Top 10 Educational Historians YT</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-fix-obs-high-encoding-problem/"><u>[Updated] 2024 Approved How To Fix OBS High Encoding Problem?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-accelerate-lost-snap-content-find-for-2024/"><u>[Updated] Accelerate Lost Snap Content Find for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-beyond-youtube-elite-video-sharing-hubs-revealed/"><u>[Updated] Beyond YouTube Elite Video Sharing Hubs Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-prime-techniques-for-silent-videography-for-2024/"><u>[Updated] Prime Techniques for Silent Videography for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/decoding-instagrams-reels-and-stories-evolution/"><u>Decoding Instagram's Reels and Stories Evolution</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-premier-e-learning-platforms-for-coding/"><u>Exploring the Premier E-Learning Platforms for Coding</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/guiding-principles-for-speech-conversion-in-google-translate/"><u>Guiding Principles for Speech Conversion in Google Translate</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-se-2022-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone SE (2022) i Do? Get Answers here</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-navigating-the-best-online-pixel-ringtones-hubs/"><u>[New] 2024 Approved Navigating the Best Online Pixel Ringtones Hubs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pro-level-mac-photo-tips-unveiling-five-expert-techniques/"><u>[New] 2024 Approved Pro-Level Mac Photo Tips Unveiling Five Expert Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-players-guide-to-unforgettable-virtual-realities/"><u>[New] Players' Guide to Unforgettable Virtual Realities</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-3-cloud-based-speech-tools/"><u>[New] Top 3 Cloud-Based Speech Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-14-effective-methods-zero-budget-webinar-recording-tips-for-2024/"><u>[Updated] 14 Effective Methods Zero Budget Webinar Recording Tips for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-elegant-architecture-top-6-sleek-mc-houses/"><u>[Updated] 2024 Approved Elegant Architecture Top 6 Sleek MC Houses</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-your-channels-top-5-youtube-tricks-for-increased-visibility-for-2024/"><u>[Updated] Boost Your Channels Top 5 YouTube Tricks for Increased Visibility for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-immediate-recording-of-facetime-conversations-made-simple-for-2024/"><u>[Updated] Immediate Recording of FaceTime Conversations Made Simple for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-real-world-application-perfecting-your-instagram-livestream-with-obs/"><u>2024 Approved Real-World Application Perfecting Your Instagram Livestream with OBS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unlocking-custom-tunes-for-your-pixel-phone/"><u>2024 Approved Unlocking Custom Tunes for Your Pixel Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-8-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 8 Plus In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>In 2024, Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-11x-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11X 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-5-time-lapse-screen-recorder/"><u>Top 5 Time-Lapse Screen Recorder</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719151235755-your-daily-soundtrack-via-spotifys-mini-player-facebook-style/"><u>Your Daily Soundtrack via Spotify's Mini Player, Facebook Style!</u></a></li>
 </ul></div>
 

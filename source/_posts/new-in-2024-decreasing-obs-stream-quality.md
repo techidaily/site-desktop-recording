@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Decreasing OBS Stream Quality"
-date: 2025-01-05T18:25:32.314Z
-updated: 2025-01-07T17:29:40.192Z
+date: 2025-01-19T04:16:30.356Z
+updated: 2025-01-20T04:03:40.762Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,11 @@ Step 4: Click on Apply and Ok buttons. Restart your computer and start streaming
 ![obs reduce the output resolution](https://images.wondershare.com/filmora/article-images/obs-reduce-the-output-resolution.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 2\. Lower Your Frame Rate
@@ -54,7 +58,7 @@ Step 4: Click on Apply and Ok button to save the new setting. Restart your compu
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 3\. Change Encoder Preset
@@ -72,10 +76,6 @@ Step 4: Change the Encoder Preset from Veryfast to Ultrafast.
 Step 5: Click on Apply and Ok button. Restart your computer and perform your action on OBS.
 
 ![obs change encoder preset](https://images.wondershare.com/filmora/article-images/obs-change-encoder-preset.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 4\. Try Hardware Encoding
 
@@ -111,10 +111,6 @@ Step 6: Click on Apply and Ok button to save the changes. Restart your computer 
 
 ![obs open and go to settings](https://images.wondershare.com/filmora/article-images/obs-open-and-go-to-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 6\. Use OBS Alternative
 
 If none of the above-mentioned ways can solve the constant encoding overloaded warning you are receiving while using OBS Studio for recording or streaming, you have to opt for an alternative. Wondershare Filmora is the best alternative to OBS for recording screen and webcam. Filmora does not affect the CPU performance as significantly as OBS Studio does. That is why the encoding overloaded issue is unlikely to occur in Filmora.
@@ -133,40 +129,6 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
-
-![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
-
-Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
-
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Conclusion
-
-OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
-
-![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -189,13 +151,13 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
@@ -204,7 +166,11 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -223,11 +189,45 @@ Step 2: Select the recording screen size and the audio sources. If you want to c
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+## Conclusion
+
+OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
+
+![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
+
+![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
+
+Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -257,21 +257,15 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-enhancing-visuals-a-stepwise-guide-to-sdr-transformation-into-hdri/"><u>[New] In 2024, Enhancing Visuals A Stepwise Guide to SDR Transformation Into HDRI</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-innovative-approaches-to-monitoring-and-snapping-digital-displays-for-2024/"><u>[New] Innovative Approaches to Monitoring and Snapping Digital Displays for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-to-eye-catching-after-effects-texture/"><u>[New] Ultimate Guide to Eye-Catching After Effects Texture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-analysis-highest-quality-video-snappers/"><u>[Updated] In 2024, Expert Analysis Highest Quality Video Snappers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-zoom-meetings-made-simple-with-camera-snaps/"><u>2024 Approved Zoom Meetings Made Simple with Camera Snaps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-new-era-for-ai-linguistics-with-googles-palm-2-model/"><u>A New Era for AI Linguistics with Google's PaLM 2 Model</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/androids-video-recording-techniques-explored/"><u>Android's Video Recording Techniques Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cutting-edge-gpt-technology-your-companion-in-language-mastery/"><u>Cutting-Edge GPT Technology: Your Companion in Language Mastery</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mastering-media-making-filmoras-edge-over-democreator-for-2024/"><u>Mastering Media Making Filmora's Edge Over Democreator for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mastering-the-mechanics-of-voice-over-production-in-videos-for-2024/"><u>Mastering the Mechanics of Voice Over Production in Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-content-sharing-how-apple-enhances-airplay-experience-in-your-living-space-hotel-stays-and-commutes-digital-innovations/"><u>Revolutionizing Content Sharing: How Apple Enhances AirPlay Experience in Your Living Space, Hotel Stays, and Commutes | Digital Innovations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989913932-stardew-valley-wont-start-follow-these-steps-to-get-it-running-again/"><u>Stardew Valley Won’t Start? Follow These Steps to Get It Running Again</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-ultimate-collection-of-wireless-charger-picks-for-2e24-professional-evaluation/"><u>Unveiling the Ultimate Collection of Wireless Charger Picks for 2E24: Professional Evaluation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-worlds-for-corporate-growth-and-innovation/"><u>Virtual Worlds for Corporate Growth and Innovation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/your-ultimate-companion-for-mastering-mov-recordings-on-windows-10-for-2024/"><u>Your Ultimate Companion for Mastering MOV Recordings on Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-revolutionize-your-tech-life-with-no-cost-mac-recording-tools/"><u>[New] 2024 Approved Revolutionize Your Tech Life with No-Cost Mac Recording Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-selection-of-budget-friendly-4k-projectors/"><u>[New] Premium Selection of Budget-Friendly 4K Projectors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-step-by-step-process-of-capturing-fb-messages/"><u>[New] Step-by-Step Process of Capturing FB Messages</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-boosting-your-content-a-guide-to-instagram-video-fame/"><u>[Updated] 2024 Approved Boosting Your Content A Guide to Instagram Video Fame</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-immortalizing-sportsmanship-techniques-for-gameplay-videos-for-2024/"><u>[Updated] Immortalizing Sportsmanship Techniques for Gameplay Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-best-practices-for-documenting-lol-playthroughs/"><u>[Updated] In 2024, Best Practices for Documenting LOL Playthroughs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cross-device-viewing-solutions-mastering-the-playback-of-wtv-media/"><u>Cross-Device Viewing Solutions: Mastering the Playback of WTV Media</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/extract-and-save-detective-trailers-as-mp4movaviflvwmvmkv-for-high-quality-viewing/"><u>Extract & Save Detective Trailers as MP4/MOV/AVI/FLV/WMV/MKV for High-Quality Viewing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-master-switch-pro-controller-gaming-in-steam/"><u>How to Master Switch Pro Controller Gaming in Steam</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/manuel-dinstallation-et-de-configuration-du-logiciel-winxdvd-une-reference-pour-les-utilisateurs/"><u>Manuel D’installation Et De Configuration Du Logiciel WinXDVD: Une Référence Pour Les Utilisateurs</u></a></li>
 </ul></div>
 

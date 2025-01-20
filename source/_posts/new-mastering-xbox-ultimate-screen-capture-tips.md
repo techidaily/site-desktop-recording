@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Xbox  Ultimate Screen Capture Tips\""
-date: 2024-09-17T22:14:45.945Z
-updated: 2024-09-18T18:08:07.737Z
+date: 2025-01-17T16:05:14.358Z
+updated: 2025-01-19T16:07:13.031Z
 tags: 
   - screen-recording
   - ai video
@@ -95,6 +95,10 @@ Step 2: Go to Widget Menu and click on Gallery option.
 
 ![xbox gallery option](https://images.wondershare.com/filmora/article-images/xbox-gallery-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: From Gallery, choose your recorded screenshots or videos.
 
 Step 4: Click on Share to Twitter button.
@@ -128,6 +132,10 @@ Step 3: Go to Record > Record PC Screen option.
 Step 4: Set the screen size as per requirements. Select the audio sources appropriately. For more settings and parameters, click on Gear icon at the bottom-right corner. Note the hotkeys as they will be handy to start and stop recording of full-screen gameplay.
 
 ![recorder options settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Click on the Record button to start recording the screen.
 
@@ -165,6 +173,10 @@ Edit video and audio with built-in tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How to Take Screenshots with Xbox Consoles?
 
 Xbox consoles have the controls to take screenshots while playing a game. Similarly, you can record your gameplay for 10 minutes (internal storage) or 60 minutes (external storage). As a matter of fact, you can record what just happened (past gameplay) up to 2 minutes. Here are the steps on how to use screen recorder Xbox gaming console.
@@ -188,6 +200,10 @@ Step 2: Start playing your game and press Xbox button on the console and this wi
 Step 3: Go to Capture & Share and select Start Recording option. This will start recording and the duration depends on the video resolution and storage space available.
 
 ![xbox start recording](https://images.wondershare.com/filmora/article-images/xbox-start-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: To stop recording, you have to open the guide by pressing Xbox button and press “X” button.
 
@@ -291,13 +307,6 @@ Edit video and audio with built-in tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. How to Take Screenshots with Xbox Consoles?
 
 Xbox consoles have the controls to take screenshots while playing a game. Similarly, you can record your gameplay for 10 minutes (internal storage) or 60 minutes (external storage). As a matter of fact, you can record what just happened (past gameplay) up to 2 minutes. Here are the steps on how to use screen recorder Xbox gaming console.
@@ -327,10 +336,7 @@ Step 4: To stop recording, you have to open the guide by pressing Xbox button an
 The recorded video will be saved and you can view the clips from Recent Captures.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Record Screen on Windows 10 and 11?
@@ -367,14 +373,11 @@ Step 4: Click on Share to Twitter button.
 
 ![share game recording xbox](https://images.wondershare.com/filmora/article-images/share-game-recording-twitter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5: Enter your text to tweet and click on Share button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Alternative Way to Record Screen on Windows 10
 
@@ -406,6 +409,10 @@ Step 5: Click on the Record button to start recording the screen.
 
 ![filmora start recording](https://images.wondershare.com/filmora/article-images/select-recording-area.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You will get a few seconds to open the game and start playing before recording starts. Press F9 to stop recording when your gameplay is over.
 
 ##### Filmora Game Recorder
@@ -417,6 +424,10 @@ Capture system amd micorphone audio simultaneously
 Edit video and audio with built-in tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -450,6 +461,10 @@ Step 3: You will see the guide on the screen and press “Y” button. Otherwise
 
 ![capture screenshot xbox](https://images.wondershare.com/filmora/article-images/capture-screenshots-xbox-consoles.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This will save a screenshot automatically and you can access the screenshots from Recent Captures option under Capture & Share.
 
 Here are the steps on how to record Xbox one gameplay.
@@ -465,13 +480,6 @@ Step 3: Go to Capture & Share and select Start Recording option. This will start
 Step 4: To stop recording, you have to open the guide by pressing Xbox button and press “X” button.
 
 The recorded video will be saved and you can view the clips from Recent Captures.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Record Screen on Windows 10 and 11?
 
@@ -490,6 +498,10 @@ Step 3: From the side bar, click on Record icon to start recording. Alternativel
 Step 4: To stop recording, click on Stop icon. Alternatively, you can press Windows + Alt + G keys together to stop recording.
 
 On the side bar, you can click on Camera icon to capture screenshots. There is another option to record the last 30 seconds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Share Xbox Recording?
 
@@ -538,13 +550,6 @@ Step 4: Set the screen size as per requirements. Select the audio sources approp
 Step 5: Click on the Record button to start recording the screen.
 
 ![filmora start recording](https://images.wondershare.com/filmora/article-images/select-recording-area.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You will get a few seconds to open the game and start playing before recording starts. Press F9 to stop recording when your gameplay is over.
 
@@ -584,5 +589,16 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-3-ways-to-record-whatsapp-call-for-2024/"><u>[New] 3 Ways to Record WhatsApp Call for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aster-your-content-a-complete-list-of-essential-audio-visual-tools-for-2024/"><u>[New] Master Your Content A Complete List of Essential Audio-Visual Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-6-minecraft-modern-house-ideas/"><u>[Updated] In 2024, Top 6 Minecraft Modern House Ideas</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-guide-to-best-android-video-capture-software-5/"><u>[Updated] In 2024, Ultimate Guide to Best Android Video Capture Software #5</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-quick-tunes-essential-insights-for-short-video-fans/"><u>[Updated] YouTube's Quick Tunes Essential Insights for Short Video Fans</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-gt-5-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme GT 5 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-discover-the-best-sound-alterers-7-high-quality-vocal-editing-apps/"><u>In 2024, Discover the Best Sound Alterers 7 High-Quality Vocal Editing Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformation-en-ligne-gratuite-des-fichiers-swf-avec-movavi/"><u>Transformation en Ligne Gratuite Des Fichiers SWF Avec Movavi</u></a></li>
+</ul></div>
 
