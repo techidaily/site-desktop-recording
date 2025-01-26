@@ -1,7 +1,7 @@
 ---
 title: "One Step Guide to Simultaneous Cam + Screen Recording"
-date: 2024-07-19T16:32:25.928Z
-updated: 2024-07-20T16:32:25.928Z
+date: 2025-01-22T02:05:05.204Z
+updated: 2025-01-25T16:39:25.006Z
 tags: 
   - screen-recording
   - ai video
@@ -29,30 +29,23 @@ We perform so many different tasks on our computers every day, but we rarely get
 
 You are at the right place if you would like to learn how to record computer screens and webcam videos simultaneously because in this article we are going to show you several different ways in which you can perform this task on Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Capture Screens and Webcam Videos with Filmora?
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 PC users have a variety of [screen recorders](https://tools.techidaily.com/wondershare/filmora/download/) at their disposal that can either be used free of charge or for a small fee. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that also offers screen capturing functionality, which enables you to record the webcam feed and computer screen at the same time.
 
 Once you’ve installed Fimora on your PC, you should launch the app and create a new project. After Filmora’s main window loads, you should head over to the Media tab, and click on the Record drop-down menu that is located next to the Import drop-down menu.
 
 ![Filmora9 Record PC Screen](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can then choose if you want to record videos using the built-in or external webcam, record a voiceover or capture your computer’s screen and webcam video at the same time. Select the Record PC Screen option and wait for the Wondershare Filmora Scrn window to pop up on the screen.
 
@@ -76,85 +69,6 @@ All you need to do in order to access the Game Bar on Windows 10 is to use the W
 
 Even though it is possible to record a webcam video and capture a screen simultaneously, you can only do so if you install additional encoders. It may take a while to figure out the exact steps of this highly technical process, and once you do, you still won’t be able to record the webcam video stream and capture a computer screen with the same app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
-## Part 3: Capturing Screens with Loom Extension for Google Chrome
-
-[Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US) extension for Google Chrome web browser offers a simple and easy solution to all PC users who would like to record screens and webcam videos at the same time. The extension can be downloaded for free, and the setup process won’t take much more than a few moments. Before you can start using Loom, you must first sign in using your Google account and then grant the extension access to your computer’s microphone and camera.
-
-This extension for Google Chrome lets you choose if you want to record only the computer’s screen, webcam or both at the same time. Furthermore, you can specify which microphone and camera you would like to use during a screen capturing session before you hit the record button. Loom will record all of your screen activities and you can use it to record your gaming experiences, create tutorials or any other type of video that includes the tasks you perform on your computer.
-
-However, you may meet some audio quality issues on some occasions, and once recorded, the editing options are limited (though I can add A CTA button and do some setting, I can't do other editing such as add title, adjust speed and mute audio in the video except trimming).
-
-So, if you want to record the webcam and screen at the same time, and edit the recorded footage further with effects, transitions, titles, we recommend you to try Filmora. Filmora is easy to use and powerful enough to record, and edit your video.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**Conclusion**
-
-Including the webcam footage in your screen recordings can make them more entertaining to watch, since viewers can actually see the person who is talking to them. Although Windows 10’s Game Bar features the tools you are going to need to record a computer screen, capturing the webcam video stream simultaneously is a highly technical and time-consuming task. That is why it is much better to use Filmora or the Loom extension for Google Chrome if you want to record your screen and use a webcam at the same time. Which method of capturing webcam video streams and computer screens do you like to use the most? Leave a comment and let us know.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-We perform so many different tasks on our computers every day, but we rarely get the opportunity to share them with anyone. However, Windows 10 offers a built-in tool that enables PC users to record all on-screen activities with a push of a button. Furthermore, this [screencasting](https://tools.techidaily.com/wondershare/filmora/download/)tool allows you to **capture screens and record webcam videos** at the same time so that you can record the gameplay of the video games you play or create tutorials.
-
-You are at the right place if you would like to learn how to record computer screens and webcam videos simultaneously because in this article we are going to show you several different ways in which you can perform this task on Windows 10.
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 1: How to Capture Screens and Webcam Videos with Filmora?
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-PC users have a variety of [screen recorders](https://tools.techidaily.com/wondershare/filmora/download/) at their disposal that can either be used free of charge or for a small fee. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that also offers screen capturing functionality, which enables you to record the webcam feed and computer screen at the same time.
-
-Once you’ve installed Fimora on your PC, you should launch the app and create a new project. After Filmora’s main window loads, you should head over to the Media tab, and click on the Record drop-down menu that is located next to the Import drop-down menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Filmora9 Record PC Screen](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen.jpg)
-
-You can then choose if you want to record videos using the built-in or external webcam, record a voiceover or capture your computer’s screen and webcam video at the same time. Select the Record PC Screen option and wait for the Wondershare Filmora Scrn window to pop up on the screen.
-
-![Filmora9 PC Screen Recording Settings](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen-3.jpg)
-
-Click on the Settings icon in the lower right corner of the window if you want to change the frame rate of the video you’re creating or adjust its quality. The screen recorder lets you capture an entire screen, a target window, and it offers the possibility to specify the portion of the screen you would like to capture.
-
-Connecting an [external microphone](https://tools.techidaily.com/wondershare/filmora/download/) is also an option if you don’t want to record the voiceover with your computer’s built-in microphone. Selecting the destination folder where your recordings are going to be saved, picking a preferred [frame rate](https://tools.techidaily.com/wondershare/filmora/download/)or choosing the quality of the video you’re capturing are also among the options you’ll have at your disposal.
-
-Make sure to tick the Show Mouse Clicks in Recording checkbox if you would like your video to include all mouse clicks you make during a screen capturing session. Filmora also offers the option to record all mouse click sounds, but most content creators disable this setting as mouse clicks can be very repetitive.
-
-Record the Camera Stream checkbox is located at the bottom of the Wondershare Filmora Scrn window, and you have to click on it if you want to record your computer screen and the webcam video simultaneously. By default, the computer’s built-in webcam is going to be selected, but you can also select an external webcam you connected to your computer, from the drop-down menu located directly below the Record the Camera Stream checkbox.
-
-Optionally, you can set the keyboard shortcuts that enable you to start, stop, pause and resume a screen recording session. Click on the Record button when ready and proceed to record your computer’s screen and the webcam stream simultaneously.
-
-After the screen capturing session, the video file you created will be located in the destination folder you specified and appeared in the media library automatically, so you just have to place it onto the timeline if you want to edit it.
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 2: How to Record a Computer Screen and Webcam Video at the same time on Windows 10?
-
-All you need to do in order to access the Game Bar on Windows 10 is to use the Win + G keyboard shortcut. The screen capturing options you will have at your disposal are underwhelming at best since you won’t be able to select the resolution or the frame rate of the video you’re recording. However, you just need to enable the microphone and click on the Record button to start capturing the gameplay of the video game you’re playing or any other activity on your computer.
-
-Even though it is possible to record a webcam video and capture a screen simultaneously, you can only do so if you install additional encoders. It may take a while to figure out the exact steps of this highly technical process, and once you do, you still won’t be able to record the webcam video stream and capture a computer screen with the same app.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Capturing Screens with Loom Extension for Google Chrome
 
 [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US) extension for Google Chrome web browser offers a simple and easy solution to all PC users who would like to record screens and webcam videos at the same time. The extension can be downloaded for free, and the setup process won’t take much more than a few moments. Before you can start using Loom, you must first sign in using your Google account and then grant the extension access to your computer’s microphone and camera.
@@ -191,18 +105,23 @@ You are at the right place if you would like to learn how to record computer scr
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 PC users have a variety of [screen recorders](https://tools.techidaily.com/wondershare/filmora/download/) at their disposal that can either be used free of charge or for a small fee. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that also offers screen capturing functionality, which enables you to record the webcam feed and computer screen at the same time.
 
 Once you’ve installed Fimora on your PC, you should launch the app and create a new project. After Filmora’s main window loads, you should head over to the Media tab, and click on the Record drop-down menu that is located next to the Import drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora9 Record PC Screen](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen.jpg)
 
 You can then choose if you want to record videos using the built-in or external webcam, record a voiceover or capture your computer’s screen and webcam video at the same time. Select the Record PC Screen option and wait for the Wondershare Filmora Scrn window to pop up on the screen.
 
 ![Filmora9 PC Screen Recording Settings](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click on the Settings icon in the lower right corner of the window if you want to change the frame rate of the video you’re creating or adjust its quality. The screen recorder lets you capture an entire screen, a target window, and it offers the possibility to specify the portion of the screen you would like to capture.
 
@@ -217,18 +136,15 @@ Optionally, you can set the keyboard shortcuts that enable you to start, stop, p
 After the screen capturing session, the video file you created will be located in the destination folder you specified and appeared in the media library automatically, so you just have to place it onto the timeline if you want to edit it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Record a Computer Screen and Webcam Video at the same time on Windows 10?
 
 All you need to do in order to access the Game Bar on Windows 10 is to use the Win + G keyboard shortcut. The screen capturing options you will have at your disposal are underwhelming at best since you won’t be able to select the resolution or the frame rate of the video you’re recording. However, you just need to enable the microphone and click on the Record button to start capturing the gameplay of the video game you’re playing or any other activity on your computer.
 
 Even though it is possible to record a webcam video and capture a screen simultaneously, you can only do so if you install additional encoders. It may take a while to figure out the exact steps of this highly technical process, and once you do, you still won’t be able to record the webcam video stream and capture a computer screen with the same app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Part 3: Capturing Screens with Loom Extension for Google Chrome
 
 [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US) extension for Google Chrome web browser offers a simple and easy solution to all PC users who would like to record screens and webcam videos at the same time. The extension can be downloaded for free, and the setup process won’t take much more than a few moments. Before you can start using Loom, you must first sign in using your Google account and then grant the extension access to your computer’s microphone and camera.
@@ -239,10 +155,6 @@ However, you may meet some audio quality issues on some occasions, and once reco
 
 So, if you want to record the webcam and screen at the same time, and edit the recorded footage further with effects, transitions, titles, we recommend you to try Filmora. Filmora is easy to use and powerful enough to record, and edit your video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Conclusion**
@@ -265,9 +177,6 @@ We perform so many different tasks on our computers every day, but we rarely get
 
 You are at the right place if you would like to learn how to record computer screens and webcam videos simultaneously because in this article we are going to show you several different ways in which you can perform this task on Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Capture Screens and Webcam Videos with Filmora?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -278,11 +187,88 @@ Once you’ve installed Fimora on your PC, you should launch the app and create 
 
 ![Filmora9 Record PC Screen](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can then choose if you want to record videos using the built-in or external webcam, record a voiceover or capture your computer’s screen and webcam video at the same time. Select the Record PC Screen option and wait for the Wondershare Filmora Scrn window to pop up on the screen.
 
+![Filmora9 PC Screen Recording Settings](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen-3.jpg)
+
+Click on the Settings icon in the lower right corner of the window if you want to change the frame rate of the video you’re creating or adjust its quality. The screen recorder lets you capture an entire screen, a target window, and it offers the possibility to specify the portion of the screen you would like to capture.
+
+Connecting an [external microphone](https://tools.techidaily.com/wondershare/filmora/download/) is also an option if you don’t want to record the voiceover with your computer’s built-in microphone. Selecting the destination folder where your recordings are going to be saved, picking a preferred [frame rate](https://tools.techidaily.com/wondershare/filmora/download/)or choosing the quality of the video you’re capturing are also among the options you’ll have at your disposal.
+
+Make sure to tick the Show Mouse Clicks in Recording checkbox if you would like your video to include all mouse clicks you make during a screen capturing session. Filmora also offers the option to record all mouse click sounds, but most content creators disable this setting as mouse clicks can be very repetitive.
+
+Record the Camera Stream checkbox is located at the bottom of the Wondershare Filmora Scrn window, and you have to click on it if you want to record your computer screen and the webcam video simultaneously. By default, the computer’s built-in webcam is going to be selected, but you can also select an external webcam you connected to your computer, from the drop-down menu located directly below the Record the Camera Stream checkbox.
+
+Optionally, you can set the keyboard shortcuts that enable you to start, stop, pause and resume a screen recording session. Click on the Record button when ready and proceed to record your computer’s screen and the webcam stream simultaneously.
+
+After the screen capturing session, the video file you created will be located in the destination folder you specified and appeared in the media library automatically, so you just have to place it onto the timeline if you want to edit it.
+
+## Part 2: How to Record a Computer Screen and Webcam Video at the same time on Windows 10?
+
+All you need to do in order to access the Game Bar on Windows 10 is to use the Win + G keyboard shortcut. The screen capturing options you will have at your disposal are underwhelming at best since you won’t be able to select the resolution or the frame rate of the video you’re recording. However, you just need to enable the microphone and click on the Record button to start capturing the gameplay of the video game you’re playing or any other activity on your computer.
+
+Even though it is possible to record a webcam video and capture a screen simultaneously, you can only do so if you install additional encoders. It may take a while to figure out the exact steps of this highly technical process, and once you do, you still won’t be able to record the webcam video stream and capture a computer screen with the same app.
+
+## Part 3: Capturing Screens with Loom Extension for Google Chrome
+
+[Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US) extension for Google Chrome web browser offers a simple and easy solution to all PC users who would like to record screens and webcam videos at the same time. The extension can be downloaded for free, and the setup process won’t take much more than a few moments. Before you can start using Loom, you must first sign in using your Google account and then grant the extension access to your computer’s microphone and camera.
+
+This extension for Google Chrome lets you choose if you want to record only the computer’s screen, webcam or both at the same time. Furthermore, you can specify which microphone and camera you would like to use during a screen capturing session before you hit the record button. Loom will record all of your screen activities and you can use it to record your gaming experiences, create tutorials or any other type of video that includes the tasks you perform on your computer.
+
+However, you may meet some audio quality issues on some occasions, and once recorded, the editing options are limited (though I can add A CTA button and do some setting, I can't do other editing such as add title, adjust speed and mute audio in the video except trimming).
+
+So, if you want to record the webcam and screen at the same time, and edit the recorded footage further with effects, transitions, titles, we recommend you to try Filmora. Filmora is easy to use and powerful enough to record, and edit your video.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Conclusion**
+
+Including the webcam footage in your screen recordings can make them more entertaining to watch, since viewers can actually see the person who is talking to them. Although Windows 10’s Game Bar features the tools you are going to need to record a computer screen, capturing the webcam video stream simultaneously is a highly technical and time-consuming task. That is why it is much better to use Filmora or the Loom extension for Google Chrome if you want to record your screen and use a webcam at the same time. Which method of capturing webcam video streams and computer screens do you like to use the most? Leave a comment and let us know.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+We perform so many different tasks on our computers every day, but we rarely get the opportunity to share them with anyone. However, Windows 10 offers a built-in tool that enables PC users to record all on-screen activities with a push of a button. Furthermore, this [screencasting](https://tools.techidaily.com/wondershare/filmora/download/)tool allows you to **capture screens and record webcam videos** at the same time so that you can record the gameplay of the video games you play or create tutorials.
+
+You are at the right place if you would like to learn how to record computer screens and webcam videos simultaneously because in this article we are going to show you several different ways in which you can perform this task on Windows 10.
+
+## Part 1: How to Capture Screens and Webcam Videos with Filmora?
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+PC users have a variety of [screen recorders](https://tools.techidaily.com/wondershare/filmora/download/) at their disposal that can either be used free of charge or for a small fee. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that also offers screen capturing functionality, which enables you to record the webcam feed and computer screen at the same time.
+
+Once you’ve installed Fimora on your PC, you should launch the app and create a new project. After Filmora’s main window loads, you should head over to the Media tab, and click on the Record drop-down menu that is located next to the Import drop-down menu.
+
+![Filmora9 Record PC Screen](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+You can then choose if you want to record videos using the built-in or external webcam, record a voiceover or capture your computer’s screen and webcam video at the same time. Select the Record PC Screen option and wait for the Wondershare Filmora Scrn window to pop up on the screen.
+
 ![Filmora9 PC Screen Recording Settings](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen-3.jpg)
 
 Click on the Settings icon in the lower right corner of the window if you want to change the frame rate of the video you’re creating or adjust its quality. The screen recorder lets you capture an entire screen, a target window, and it offers the possibility to specify the portion of the screen you would like to capture.
@@ -304,8 +290,9 @@ All you need to do in order to access the Game Bar on Windows 10 is to use the W
 Even though it is possible to record a webcam video and capture a screen simultaneously, you can only do so if you install additional encoders. It may take a while to figure out the exact steps of this highly technical process, and once you do, you still won’t be able to record the webcam video stream and capture a computer screen with the same app.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Capturing Screens with Loom Extension for Google Chrome
 
 [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US) extension for Google Chrome web browser offers a simple and easy solution to all PC users who would like to record screens and webcam videos at the same time. The extension can be downloaded for free, and the setup process won’t take much more than a few moments. Before you can start using Loom, you must first sign in using your Google account and then grant the extension access to your computer’s microphone and camera.
@@ -352,8 +339,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-farm-friendship-quest-the-ultimate-agritainment-guide/"><u>[New] 2024 Approved Farm Friendship Quest The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-most-reliable-speech-capture-for-ipads-3/"><u>[New] 2024 Approved Most Reliable Speech Capture for iPads #3</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-choosing-a-win10-video-grabber-tool/"><u>[New] 2024 Approved The Ultimate Guide to Choosing a Win10 Video Grabber Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-visual-polishing-in-meetings-blurring-backgrounds-on-teammeeting/"><u>[New] 2024 Approved Visual Polishing in Meetings Blurring Backgrounds on TeamMeeting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevate-conference-engagement-with-zoom/"><u>[New] In 2024, Elevate Conference Engagement with Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ten-essential-cam-covers-to-upgrade-your-security-for-2024/"><u>[New] Ten Essential Cam Covers to Upgrade Your Security for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-5-ios-downloader-tools-seamless-access-to-fb-videos-and-events-for-2024/"><u>[New] Top 5 iOS Downloader Tools Seamless Access to FB Videos & Events for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-a-practical-approach-to-scheduling-on-zoom-platforms/"><u>[Updated] 2024 Approved A Practical Approach to Scheduling on Zoom Platforms</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-turn-your-videos-into-money-with-vimeo-expertise-for-2024/"><u>[Updated] How to Turn Your Videos Into Money with Vimeo Expertise for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-recording-software-outshining-fbx-methods/"><u>[Updated] In 2024, Advanced Recording Software Outshining FBX Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-8-screen-capture-programs-for-linux-experts-for-2024/"><u>[Updated] Top 8 Screen Capture Programs for Linux Experts for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unlocking-the-potential-complete-review-of-sony-x1000v/"><u>2024 Approved Unlocking the Potential Complete Review of Sony X1000V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-guide-top-5-best-software-tools-for-seamless-avi-file-conversion-from-dav/"><u>Easy Guide: Top 5 Best Software Tools for Seamless AVI File Conversion From DAV</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-corsair-icue-failures-in-recent-windows-versions-tips-and-tricks-for-fixes/"><u>Overcoming Corsair iCUE Failures in Recent Windows Versions: Tips & Tricks for Fixes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-figmas-bg-elimination-mastery-for-2024/"><u>Unveiling Figma's BG Elimination Mastery for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/44kv44oq44ki44gq44ot44oh44kq44gn44kq44o844oq44o844km44kp44od44ob44ks6yyy55s744gz44kl44gf44kb44gu5a6m5ywo44gq5pa55rov/"><u>クリアなビデオでオーバーウォッチを録画するための完全な方法</u></a></li>
+</ul></div>
 

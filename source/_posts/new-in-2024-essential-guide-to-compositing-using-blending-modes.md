@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Essential Guide to Compositing Using Blending Modes"
-date: 2025-01-14T07:46:43.186Z
-updated: 2025-01-19T18:22:38.626Z
+date: 2025-01-20T02:03:07.316Z
+updated: 2025-01-25T16:33:48.250Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ It is a widely accepted opinion that Blend Modes can only be used in Adobe Premi
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -51,6 +47,10 @@ For Win 7 or later (64-bit)
 For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are Blending Modes in Filmora?
 
@@ -72,10 +72,6 @@ The **Multiply Mode** is also one of the frequently used blending modes that **m
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
 ## How to use Blending Modes?
@@ -89,7 +85,7 @@ In case you've used Filmora Scrn's screen recorder to capture your video, the vi
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
@@ -97,6 +93,10 @@ Click on the Add Files icon in the Media bin, and select the footage you want to
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2 - Select the Blending mode
 
@@ -107,7 +107,7 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
@@ -125,7 +125,7 @@ Overlaying two video clips and blending them to each other can be an effective w
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -143,24 +143,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-chronicles-merging-music-and-memories/"><u>[New] 2024 Approved FB Chronicles Merging Music and Memories</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-best-bike-racing-games-that-you-should-play/"><u>[New] Best Bike Racing Games That You Should Play</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-exploring-the-best-tools-for-video-recording-a-bandicam-vs-camtasia-review-for-2024/"><u>[New] Exploring the Best Tools for Video Recording A Bandicam Vs Camtasia Review for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-a-comprehensive-guide-to-incorporating-photo-capabilities-in-meet/"><u>[New] In 2024, A Comprehensive Guide to Incorporating Photo Capabilities in Meet</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/echno-gamers-income-revolution-for-2024/"><u>[New] Techno Gamers' Income Revolution for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-screenshots-a-guide-to-premium-recorders/"><u>[Updated] 2024 Approved Mastering Screenshots A Guide to Premium Recorders</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-peak-online-cam-dance-battles/"><u>[Updated] 2024 Approved Peak Online Cam Dance Battles</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-academic-avenue-leading-educators-on-youtube-for-2024/"><u>[Updated] Academic Avenue Leading Educators on YouTube for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-tecno-camon-20-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Tecno Camon 20 Pro 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/effortlessdataback-take/"><u>EffortlessDataback Take</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ending-automatic-video-captures-in-qt-player/"><u>Ending Automatic Video Captures in QT Player</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-chatgpt-the-new-ios-application-for-conversational-ai/"><u>Explore ChatGPT: The New iOS Application for Conversational AI</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-macs-best-in-show-top-10-screenshot-utilities-unveiled/"><u>In 2024, Mac's Best in Show Top 10 Screenshot Utilities Unveiled</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-streamlining-post-production-adding-annotations-to-videos/"><u>In 2024, Streamlining Post-Production Adding Annotations to Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-lenovo-thinkphone-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Lenovo ThinkPhone Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-your-creative-potential-with-these-top-explainer-video-tools/"><u>New 2024 Approved Unleash Your Creative Potential with These Top Explainer Video Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-from-avi-to-mkv-streaming-any-video-format-to-google-chromecast-for-2024/"><u>New From AVI to MKV Streaming Any Video Format to Google Chromecast for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-response-from-apple-tv-remote-on-macos-sierra-fix-ready/"><u>No Response From Apple TV Remote on MacOS Sierra (Fix Ready)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/sovershenstvujte-svoj-internet-trafik-luchshie-agentstva-po-seo-v-los-andzhelese-optimize-powerhouse/"><u>Совершенствуйте Свой Интернет-Трафик: Лучшие Агентства По SEO В Лос-Анджелесе | Optimize PowerHouse</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-full-disclosure-gecata-gameplay-tracker-reviewed/"><u>[New] 2024 Approved Full Disclosure Gecata Gameplay Tracker Reviewed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-best-online-vimeo-video-downloaders-for-2024/"><u>[New] Best Online Vimeo Video Downloaders for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-capturing-quality-logitech-webcam-recording-guide/"><u>[New] In 2024, Capturing Quality Logitech Webcam Recording Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revolutionizing-how-you-record-and-archive-ps3-gaming/"><u>[New] In 2024, Revolutionizing How You Record and Archive PS3 Gaming</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-modern-professionals-must-have-collect-these-8-innovations-now/"><u>[New] In 2024, The Modern Professional's Must-Have Collect These 8 Innovations Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>[New] Key Sites The 6 Most Vital Platforms for B2B Relationships</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-capturing-clarity-best-practices-for-iphone-photo-cropping/"><u>[Updated] Capturing Clarity Best Practices for iPhone Photo Cropping</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-elitescreensnap-for-windows-xxp/"><u>[Updated] EliteScreenSnap for Windows X/XP</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-first-look-at-organizing-zoom-session-rooms/"><u>[Updated] First Look at Organizing Zoom Session Rooms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-overwatch-video-capture-quick-simple-and-effective/"><u>[Updated] In 2024, Overwatch Video Capture – Quick, Simple, and Effective</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-attracting-more-youtube-admirers/"><u>[Updated] Mastering the Art of Attracting More YouTube Admirers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-in-class-fitness-tracking-technology-2024s-elite-picks/"><u>Best-in-Class Fitness Tracking Technology: 2024'S Elite Picks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-maximize-engagement-with-custom-youtube-thumbnails/"><u>In 2024, Maximize Engagement with Custom YouTube Thumbnails</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
 

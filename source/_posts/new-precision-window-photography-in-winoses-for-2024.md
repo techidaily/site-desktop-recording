@@ -1,7 +1,7 @@
 ---
 title: "[New] Precision Window Photography in WinOSes for 2024"
-date: 2025-01-12T22:34:13.082Z
-updated: 2025-01-20T06:19:25.853Z
+date: 2025-01-19T08:22:49.887Z
+updated: 2025-01-25T16:07:55.334Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ In this article, we are going to show you five different ways of creating screen
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -48,6 +52,10 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
 
 The latest Windows update brings the Screen Sketch app, that was previously available with the Windows Ink utility. PC owners that have the build 17661 of Windows 10 installed on their computers can use the app to create screenshots, draw on screen or crop the screenshots they produce with Screen Sketch. The app also lets you share the images from the clipboard and it replaces all other methods of making screenshots on Windows 10's 17661 build. Here's how you can create screenshots with this app.
@@ -57,6 +65,10 @@ The latest Windows update brings the Screen Sketch app, that was previously avai
 You can either double-click on the app's desktop icon or you can launch it from the Windows Start menu. When the app opens, you'll be able to see all of the software tools in its main window. Click on the New Snipping icon, in the Screen Sketch's ribbon, and proceed to designate the area of the screen you'd like to capture.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
 
@@ -70,23 +82,19 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3. Saving and Exporting Screenshots
 
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-saving.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
@@ -101,7 +109,7 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
@@ -109,6 +117,10 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
 
@@ -118,10 +130,6 @@ You can launch the app from the Start menu or by typing its name in the Search C
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
 #### Step 2: Annotating and Saving the Screenshots
@@ -129,10 +137,6 @@ Afterward, you can just hold the left mouse button and drag the mouse to select 
 Once you've taken the screenshot you can use the Pen and Highlighter features to add annotations, while the Eraser tool will enable you to easily correct all mistakes you make during this process.
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
@@ -184,10 +188,6 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -203,20 +203,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-newcomers-guide-profiting-from-live-streaming-on-periscope/"><u>[New] 2024 Approved Newcomer’s Guide Profiting From Live Streaming on Periscope</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-from-novice-to-pro-elevating-your-ps4-gameplay-screenshot-skills/"><u>[New] From Novice to Pro Elevating Your PS4 Gameplay Screenshot Skills</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-maximizing-learning-through-recording-classroom-discourse-on-mac/"><u>[New] In 2024, Maximizing Learning Through Recording Classroom Discourse on Mac</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-methods-for-efficiently-attaching-a-link-to-tiktok-bios/"><u>[New] In 2024, Ultimate Methods for Efficiently Attaching a Link to TikTok Bios</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-hacking-facebook-fast-profile-discovery-methods/"><u>[Updated] 2024 Approved Hacking Facebook Fast Profile Discovery Methods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-editors-toolkit-using-markers-in-professional-editing/"><u>[Updated] In 2024, The Editor's Toolkit Using Markers in Professional Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-genuine-appraisal-of-recordcast-features/"><u>[Updated] In 2024, The Genuine Appraisal of RecordCast Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-which-is-superior-obs-or-streamlabs-for-your-livestream-needs/"><u>[Updated] In 2024, Which Is Superior, OBS or Streamlabs for Your Livestream Needs?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-tips-and-tricks-for-recording-ps3-games-with-flawless-results/"><u>2024 Approved Tips and Tricks for Recording PS3 Games with Flawless Results</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/boosting-your-connectivity-game-an-expert-look-at-the-netgear-nighthawk-x10-ad7200-wi-fi-router/"><u>Boosting Your Connectivity Game: An Expert Look at the Netgear Nighthawk X10 AD7200 Wi-Fi Router</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-monitor-driver-troubles-a-step-by-step-guide-for-windows-11-8-and-7-users/"><u>HP Monitor Driver Troubles: A Step-by-Step Guide for Windows 11, 8 & 7 Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-must-have-offline-mobile-games-to-keep-you-entertained-on-android/"><u>In 2024, Must-Have Offline Mobile Games to Keep You Entertained on Android</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209850921-9780983696414-message-for-the-tribe-of-many-colors/"><u>Message for the Tribe of Many Colors | Free Book</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/icks-procuring-start-up-youtube-channel-monetization-platforms-for-2024/"><u>Top Picks Procuring Start-Up YouTube Channel Monetization Platforms for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-a-detailed-list-of-top-free-cross-platform-mobile-video-chats/"><u>[New] 2024 Approved A Detailed List of Top Free, Cross-Platform Mobile Video Chats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-guide-to-restoring-obss-audio-functionality/"><u>[New] 2024 Approved Guide to Restoring OBS's Audio Functionality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-iphoneipad-advanced-screen-recording-tips-new-methods-2023/"><u>[New] 2024 Approved IPhone/iPad Advanced Screen Recording Tips - New Methods 2023</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-integrity-at-stake-with-artificial-approvals/"><u>[New] In 2024, Instagram Integrity at Stake with Artificial Approvals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-aural-archive-discussion-and-judgment/"><u>[Updated] In 2024, Aural Archive Discussion & Judgment</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-dissecting-screenflows-impact-on-mac-creatives-and-developers/"><u>[Updated] In 2024, Dissecting ScreenFlow's Impact on Mac Creatives and Developers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g34-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G34 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029806342-mkv/"><u>最新テクニックを使ったMKVビデオのトリミング・カット作業ガイド</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparing-mobile-vr-gear-top-10-edition/"><u>In 2024, Comparing Mobile VR Gear - Top 10 Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy S23 Ultra Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-tips-for-smooth-and-efficient-photo-background-blurring/"><u>In 2024, Tips for Smooth and Efficient Photo Background Blurring</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/integrating-snaps-smoothly-into-your-zoom-schedule-for-2024/"><u>Integrating Snaps Smoothly Into Your Zoom Schedule for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-synthetic-prose-gptzero-as-a-guide/"><u>Navigating Through Synthetic Prose: GPTZero as a Guide</u></a></li>
 </ul></div>
 

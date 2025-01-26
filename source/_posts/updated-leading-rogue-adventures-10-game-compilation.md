@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Leading Rogue Adventures  #10 Game Compilation\""
-date: 2025-01-14T04:14:28.688Z
-updated: 2025-01-20T01:31:49.073Z
+date: 2025-01-24T19:45:18.912Z
+updated: 2025-01-26T03:50:28.820Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 
 Although roguelikes aren't very gameplay intense or the prettiest games, this genre has never faded away since it was invented, and we have seen a lot of titles that became fan favorites in no time. It is true that these games are not very graphically intense and can't compete for the AAA titles, but it won't be fair to compare them with those heavy and graphics-intensive games. Played repeatedly, these games continue to keep players interested even after they are released for years. But who cares that much if you're just looking for some good rogue game to play.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a roguelike game? What is a roguelite game?
 
 Gamers have been debating whether roguelikes are different from roguelites for years. If you study them in general, you will find that both roguelikes and roguelites are the RPGs subgenres. In general, roguelikes and roguelites place more emphasis on death than other kinds of video games do.
@@ -46,7 +42,7 @@ In roguelikes, players' progress is usually lost if they die, while in roguelite
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Roguelike or Roguelite Games in 2021**
@@ -82,6 +78,10 @@ It's one thing to defeat each dungeon's horrifying inhabitants in turn-based com
 
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **2.[Downwell](https://store.steampowered.com/app/360740/Downwell/)**
 
 **_Platforms:_** _PS4, Switch, PC, iOS, Android_
@@ -92,10 +92,14 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 
 ![downwell](https://images.wondershare.com/filmora/article-images/downwell.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3\. [Dungeon Crawl Stone Soup](https://crawl.develz.org/)**
@@ -120,10 +124,6 @@ Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Yo
 
 ![hades](https://images.wondershare.com/filmora/article-images/hades.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
 
 ## **5\. [Into the Breach](https://store.steampowered.com/app/590380/Into%5Fthe%5FBreach/)**
@@ -135,10 +135,6 @@ Many blessings have been given to you by the gods of Olympus, but your quest is 
 This is the second title developed and published by Subset Games. Their first title was FTL: **_Faster Than Light_** in 2012\. FTL could have taken this spot, but Into the Breach's design and hidden depth make it stand out among the competition. It's a game of turn-based tactics where your team is faced with an army of monsters known as the Vek.
 
 ![into-the-breach](https://images.wondershare.com/filmora/article-images/into-the-breach.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 There's only one way to hold off their attack, and that is to enlist some giant mechs. But you'll have to agonize over every decision if you intend to keep your team intact. The more you progress through the game's islands, the more advanced equipment you'll find, so you can turn the tide of war and save humankind.
 
@@ -153,10 +149,6 @@ This is one of the most accessible strategy games out there, and its straightfor
 It foregoes combat mechanics solely in favor of strategy and premonition in a deck-building roguelike. You have no choice but to battle your way up the tower, which is also home to many monsters. This is an ideal entry point to the single-player card battler genre as it does away with the pre-battle faff. It's also a surprising roguelike that blends options from your adventures to create an instantaneous action experience.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
 
@@ -181,7 +173,7 @@ Dead Cells is a 2D and Souls-inspired roguelike game. You revolve around procedu
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Various upgrades can be carried over between runs, generating a constant sense of progression. Because of this, starting a new run after a particularly messy boss fight doesn't sting quite as much as many other roguelike games might be. There are many different weapon types and perks to unlock in Dead Cells, making it more replayable and keeps it from being monotonous.
@@ -199,7 +191,7 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
@@ -212,6 +204,10 @@ Otherworld Legends is a mystery roguelite where you explore a mysterious and dan
 
 ![the-other-world-legends](https://images.wondershare.com/filmora/article-images/the-other-world-legends.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As you journey through various dungeon rooms in this game, you defeat all enemies you encounter. This is similar to the binding of Isaac series of games and Elemental Dungeon. Some relics are also found or bought from time to time. These items give you powerful advantages in combat, which can be the difference between victory and defeat.
 
 The main character of this game is Quan Huying, but there are several other characters you can choose from. You need to buy additional characters, though. They differ in cost, and some are $1.99 while others can be upwards of $2.99\. It's not expensive for me, but that doesn't mean it's necessarily ideal.
@@ -223,6 +219,10 @@ The Otherworld Legends game is incredibly entertaining to play with beautiful gr
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -239,20 +239,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ps1-reimagined-the-best-emulators-for-game-revival-on-pc/"><u>[New] 2024 Approved PS1 Reimagined The Best Emulators for Game Revival on PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-guide-mastering-ez-grabber/"><u>[New] In 2024, Step-by-Step Guide Mastering EZ Grabber</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-time-lapse-cinema-on-the-go-a-tutorial-for-ipad-users/"><u>[Updated] In 2024, Time-Lapse Cinema on the Go A Tutorial for iPad Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-supercharge-your-channels-a-guide-to-the-best-keyword-research-software/"><u>[Updated] Supercharge Your Channels A Guide to the Best Keyword Research Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-clearscreenstreamer-seamless-easy-w11-screenshots/"><u>2024 Approved ClearScreenStreamer Seamless, Easy W11 Screenshots</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-most-accessible-high-quality-video-modification-sites/"><u>2024 Approved Unveiling the Most Accessible, High-Quality Video Modification Sites</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fingerprint-sensor-no-reading-on-pc/"><u>Fingerprint Sensor: No Reading on PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-hot-30i-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Hot 30i? Try These Fixes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-5-premium-ps1-game-simulators-for-pc-gamers/"><u>In 2024, 5 Premium PS1 Game Simulators for PC Gamers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-elevating-gameplay-tips-for-using-the-steam-switch-controller/"><u>In 2024, Elevating Gameplay Tips for Using the Steam Switch Controller</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>New In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-prime-collection-of-pc-screen-capture-tools-win11-for-2024/"><u>The Prime Collection of PC Screen Capture Tools (Win11) for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-audisynchx-enhancing-audio-cohesion-for-multimedia-projects-using-adobe-premiere-pro/"><u>Updated AudiSynchX Enhancing Audio Cohesion for Multimedia Projects Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009424928-windows-11-taskbar-trouble-heres-how-to-make-it-work-again/"><u>Windows 11 Taskbar Trouble? Here's How to Make It Work Again</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-framemaster-top-screen-recorder-reviews-of-the-year/"><u>[New] 2024 Approved FrameMaster Top Screen Recorder Reviews of the Year</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-storing-session-videos-in-gh/"><u>[Updated] 2024 Approved Storing Session Videos in GH</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-guide-to-your-profit-share-in-youtube-shorts-for-2024/"><u>[Updated] A Step-by-Step Guide to Your Profit Share in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-advanced-techniques-in-zooming-achieving-perfect-audio-quality-for-your-podcast/"><u>[Updated] Advanced Techniques in Zooming Achieving Perfect Audio Quality for Your Podcast</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-master-switch-pro-controller-gaming-in-steam/"><u>[Updated] How to Master Switch Pro Controller Gaming in Steam</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-manual-for-creating-an-inclusive-and-productive-skype-chat-room-accessible-by-both-windows-and-mac-users-for-2024/"><u>[Updated] How-To Manual for Creating an Inclusive and Productive Skype Chat Room Accessible by Both Windows & Mac Users for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-innovating-engagement-integrate-thoughtful-chapters-into-your-youtube-videos/"><u>[Updated] In 2024, Innovating Engagement Integrate Thoughtful Chapters Into Your YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlocking-the-secrets-of-successful-google-meet-engagement/"><u>[Updated] In 2024, Unlocking the Secrets of Successful Google Meet Engagement</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-clips-to-tunes-explained-in-detail/"><u>[Updated] Instagram Clips to Tunes Explained in Detail</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-cryptographers-guide-to-masked-recordings/"><u>[Updated] The Cryptographer's Guide to Masked Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-obsession-with-top-10-tiktok-videos/"><u>[Updated] Twitter's Obsession with Top 10 TikTok Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/exclusive-offer-high-performance-aurora-r16-with-34-alienware-oled-monitor-at-a-huge-discount-shave-70700-off/"><u>Exclusive Offer: High-Performance Aurora R16 with 34” Alienware OLED Monitor at a Huge Discount - Shave $70([[700] Off!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-acer-wireless-adapter-instantly-with-these-free-drivers/"><u>Get Your Acer Wireless Adapter Instantly with These Free Drivers!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-evolutionary-path-of-roguelike-games/"><u>In 2024, The Evolutionary Path of Roguelike Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-display-driver-download-for-windows-1078/"><u>Nvidia Display Driver Download for Windows 10/7/8</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionize-video-production-via-xp-installation/"><u>Revolutionize Video Production via XP Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-medicine-with-technology-the-rise-of-digital-driven-intelligent-hospital-design-focused-on-the-patient-experience-zdnet/"><u>Revolutionizing Medicine with Technology: The Rise of Digital-Driven, Intelligent Hospital Design Focused on the Patient Experience | ZDNET</u></a></li>
 </ul></div>
 

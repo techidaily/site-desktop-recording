@@ -1,7 +1,7 @@
 ---
 title: "\"RPG Origins Vs. Hybrid Designs  Evolution\""
-date: 2025-01-14T21:27:59.824Z
-updated: 2025-01-19T22:41:26.020Z
+date: 2025-01-24T02:02:15.981Z
+updated: 2025-01-25T22:26:17.224Z
 tags: 
   - screen-recording
   - ai video
@@ -45,15 +45,15 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -66,10 +66,6 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -90,7 +86,7 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelike Games
@@ -112,7 +108,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -127,21 +123,25 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
@@ -164,19 +164,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-comparing-leading-free-and-paid-zoom-transcription-systems/"><u>[New] 2024 Approved Comparing Leading Free & Paid Zoom Transcription Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-recording-rapture-screensavers-review-march-2023/"><u>[New] 2024 Approved Recording Rapture ScreenSavers Review – March 2023</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/chieving-youtube-financial-goals-via-viewer-statistics/"><u>[New] Achieving Youtube Financial Goals via Viewer Statistics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-efficiently-coordinating-group-activities-via-zoom/"><u>[Updated] 2024 Approved Efficiently Coordinating Group Activities via Zoom</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-artisanarray-pro-online-creation-powerhouse/"><u>[Updated] ArtisanArray Pro Online Creation Powerhouse</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-fixing-the-obs-fullscreen-hurdle/"><u>[Updated] Fixing the OBS Fullscreen Hurdle</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-remedies-for-disabling-obs-fullscreen/"><u>[Updated] In 2024, Remedies for Disabling OBS Fullscreen</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unpacking-sharex-evaluation-and-replacements/"><u>[Updated] In 2024, Unpacking ShareX Evaluation & Replacements</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-a-beginner-friendly-introduction-to-io-screen-recorder/"><u>2024 Approved A Beginner-Friendly Introduction to IO Screen Recorder</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-laugh-out-loud-and-weepy-instagrams-best-meme-communities/"><u>2024 Approved Laugh Out Loud & Weepy Instagram's Best Meme Communities</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-guide-to-investing-in-quality-8-5k-panels/"><u>2024 Approved The Ultimate Guide to Investing in Quality #8 5K Panels</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782506-9781591432364-astronaut-gods-of-the-maya/"><u>Astronaut Gods of the Maya | Free Book</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-motorola-razr-40-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Motorola Razr 40 Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-microsoft-edge-continuous-crashing-on-windows-11-platforms/"><u>Step-by-Step Solutions for Microsoft Edge Continuous Crashing on Windows 11 Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premium-hd-screensnap-tools/"><u>[New] In 2024, Premium HD Screensnap Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-step-by-step-guide-pcmobile-save-meetings/"><u>[New] Step-by-Step Guide PC/Mobile Save Meetings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-thriving-in-a-world-of-negative-video-reviews/"><u>[New] Thriving in a World of Negative Video Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-focus-on-the-main-sound-in-video-capturing-free-advice/"><u>[Updated] Focus on the Main Sound in Video Capturing (Free Advice)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-undead-uncovered-ranking-the-best-zombie-game-clusters/"><u>[Updated] In 2024, Undead Uncovered Ranking the Best Zombie Game Clusters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-verdict-on-the-m1-powered-macbook-for-editors/"><u>[Updated] The Verdict on the M1-Powered MacBook for Editors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-optimize-your-video-watching-enabledisable-pip-in-youtube-ios/"><u>2024 Approved How to Optimize Your Video Watching Enable/Disable PIP in Youtube iOS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-inf-without-digital-signs-from-3rd-party/"><u>Resolved Inf Without Digital Signs From 3Rd Party</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-microphone-setup-in-audacity-for-mac/"><u>The Ultimate Guide to Microphone Setup in Audacity for Mac</u></a></li>
 </ul></div>
 
