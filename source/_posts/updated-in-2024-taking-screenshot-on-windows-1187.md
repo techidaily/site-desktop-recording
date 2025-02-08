@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Taking Screenshot on Windows 11/8/7"
-date: 2025-01-01T19:18:16.640Z
-updated: 2025-01-07T16:02:10.152Z
+date: 2025-02-04T22:33:42.073Z
+updated: 2025-02-08T02:42:43.228Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ In this article, we are going to show you five different ways of creating screen
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -62,13 +62,13 @@ You can either double-click on the app's desktop icon or you can launch it from 
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Free Form option lets you create a screenshot in any shape you want, while the Full-Screen feature automatically captures the entire screen. The image you create will be saved on your hard-drive, and if you want to edit it, you'll have to import the file into Screen Sketch.
 
@@ -90,6 +90,10 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
@@ -97,7 +101,7 @@ All versions of Windows 10 feature the Xbox app that offers the DVR support and 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
@@ -110,6 +114,10 @@ This popular app for taking screenshots has been bundled with all versions of th
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
 
 #### Step 1: Snapping a Screenshot with Snipping Tool
@@ -118,10 +126,6 @@ You can launch the app from the Start menu or by typing its name in the Search C
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
 #### Step 2: Annotating and Saving the Screenshots
@@ -129,6 +133,10 @@ Afterward, you can just hold the left mouse button and drag the mouse to select 
 Once you've taken the screenshot you can use the Pen and Highlighter features to add annotations, while the Eraser tool will enable you to easily correct all mistakes you make during this process.
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
@@ -141,10 +149,6 @@ The Share Charm on Windows 8.1 enables you to share links, music, videos, photos
 Hold the Window + C keys or use the mouse to access the Charms Bar and then click on the Share option. The feature lets you share files through email, and you can also use it to take screenshots within the apps you downloaded from the Windows Store. For the purpose of this article, we chose to show you how you can take screenshots from the Video app.
 
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
@@ -184,10 +188,6 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -203,18 +203,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-essential-methods-6-steps-for-recording-minecraft-play-for-2024/"><u>[New] Essential Methods 6 Steps for Recording Minecraft Play for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-macs-as-music-makers-a-look-inside/"><u>[Updated] 2024 Approved Macs as Music Makers A Look Inside</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-warmth-amidst-cold-selecting-perfect-winter-backdrops/"><u>[Updated] 2024 Approved Warmth Amidst Cold Selecting Perfect Winter Backdrops</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-guide-to-premium-free-mobile-video-calls-ios-and-android-edition/"><u>[Updated] Guide to Premium-Free Mobile Video Calls - iOS & Android Edition</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apple-tv-4k-versus-roku-ultra-a-comprehensive-showdown/"><u>Apple TV 4K Versus Roku Ultra: A Comprehensive Showdown</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-your-digital-sidekick-alexa-vs-google-assistant/"><u>Choosing Your Digital Sidekick: Alexa Vs. Google Assistant</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-intricacies-of-windows-automated-repair/"><u>Decoding the Intricacies of Windows’ Automated Repair</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-to-resolving-persistent-crashes-for-age-of-empires-iv-gamers-on-windowsmac-systems/"><u>Guide to Resolving Persistent Crashes for Age of Empires IV Gamers on Windows/Mac Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-se-2022-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone SE (2022) With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/how-to-find-your-own-tiktok-stream-key/"><u>How to Find Your Own TikTok Stream Key</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-thriving-in-stardew-insiders-guide-to-ginger-island/"><u>In 2024, Thriving in Stardew Insider's Guide to Ginger Island</u></a></li>
-<li><a href="https://review-topics.techidaily.com/new-iphone-13-mini-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 13 mini Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/record-and-relive-iphoneandroid-google-meet-sessions/"><u>Record and Relive IPhone/Android Google Meet Sessions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-novice-to-influencer-a-step-by-step-fb-live-blueprint/"><u>[New] 2024 Approved From Novice to Influencer A Step-by-Step FB Live Blueprint</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-game-capture-without-xboxs-intrusive-game-bar/"><u>[New] 2024 Approved Game Capture without Xbox’s Intrusive Game Bar</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716069010887-new-2024-approved-top-sandbox-adventures-not-to-skip/"><u>[New] 2024 Approved Top Sandbox Adventures Not To Skip!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-achieving-professional-streams-with-obs-android-style-for-2024/"><u>[New] Achieving Professional Streams with OBS, Android Style for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-expertise-for-changing-meet-usernames-laptopmobile/"><u>[New] Expertise for Changing Meet Usernames (Laptop/Mobile)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-crafting-the-perfect-minecraft-archive-6-key-strategies/"><u>[New] In 2024, Crafting the Perfect Minecraft Archive 6 Key Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-cultivating-a-commercial-community-earnings-through-fb-engagement-for-2024/"><u>[Updated] Cultivating a Commercial Community Earnings Through FB Engagement for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tips-to-rank-facebook-page-better-for-2024/"><u>[Updated] Tips to Rank Facebook Page Better for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-guide-to-top-unboxing-videos-2024-edition/"><u>[Updated] Ultimate Guide to Top Unboxing Videos - 2024 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-modifying-user-numbers-on-tiktok/"><u>2024 Approved Step-by-Step Guide Modifying User Numbers on TikTok</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/create-your-own-custom-german-translation-with-flipbuilder-start-now/"><u>Create Your Own Custom German Translation with FlipBuilder – Start Now!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/frontline-contenders-top-7-action-fps-games-for-2024/"><u>Frontline Contenders Top 7 Action FPS Games for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-13-pro-max-5-ways-to-get-into-a-locked-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Locked Out of iPhone 13 Pro Max? 5 Ways to get into a Locked iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-computer-unable-to-power-off-in-windows-10-solution/"><u>Troubleshooting: Fixing Computer Unable to Power Off in Windows 10 - SOLUTION</u></a></li>
 </ul></div>
 

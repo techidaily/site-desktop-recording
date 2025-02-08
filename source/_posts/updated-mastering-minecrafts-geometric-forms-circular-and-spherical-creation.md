@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Minecraft's Geometric Forms  Circular & Spherical Creation\""
-date: 2024-12-20T02:36:22.410Z
-updated: 2024-12-23T11:43:47.211Z
+date: 2025-02-03T16:15:19.946Z
+updated: 2025-02-07T20:39:48.667Z
 tags: 
   - screen-recording
   - ai video
@@ -37,33 +37,29 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 ![minecraft-make-circle1](https://images.wondershare.com/filmora/article-images/minecraft-make-circle1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Now add 7 blocks on each side of the line to make a plus '+' sign. It will create a circumference of the circle by both the x-axis and y-axis.
 
 ![minecraft-make-circle2](https://images.wondershare.com/filmora/article-images/minecraft-make-circle2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** At the edges of each line create a perpendicular line of 5 blocks each. This will create an outer boundary of the circle.
 
 ![minecraft-make-circle3](https://images.wondershare.com/filmora/article-images/minecraft-make-circle3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Now to complete the outer boundary of the circle, you have to add two blocks in the same direction of the outer line of the circle. But this time come a little bit closer to the center of the circle.
 
 ![minecraft-make-circle4](https://images.wondershare.com/filmora/article-images/minecraft-make-circle4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Complete the outer by adding an 'L' shaped structure created with 3 blocks on each of the four sides of the circle to complete the outer boundary.
 
 ![minecraft-make-circle5](https://images.wondershare.com/filmora/article-images/minecraft-make-circle5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6:** Since the outer of the circle is complete, now you can either remove the center lines of the circle to make it hollow or fill it with the blocks to make it a complete filled circle and make it a place where you can stand.
 
@@ -80,7 +76,7 @@ The only difference between making a circle and a sphere is the difference in di
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
@@ -106,10 +102,14 @@ Creating such amazing things and sharing them on your social media and video sha
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -126,22 +126,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-harmony-hub-innovations-showcased-for-2024/"><u>[New] Harmony Hub Innovations Showcased for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-a-private-story-on-snapchat-a-complete-guide-for-2024/"><u>[New] How to Make a Private Story on Snapchat A Complete Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-recording-victory-techniques-to-transform-live-games-into-video-gold-for-2024/"><u>[New] Recording Victory Techniques to Transform Live Games Into Video Gold for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-choosing-a-professional-video-editor-filmora-or-democracy-creator-for-2024/"><u>[New] The Ultimate Guide to Choosing a Professional Video Editor (Filmora or Democracy Creator) for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-picks-the-most-advanced-online-mic-recorders-of-23-for-2024/"><u>[New] Top Picks The Most Advanced Online Mic Recorders of '23 for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nveiling-tseries-income-stream-from-youtube-content-consumption/"><u>[New] Unveiling TSeries’ Income Stream From Youtube Content Consumption</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-elite-10-virtual-clashes-for-2024/"><u>[Updated] Elite 10 Virtual Clashes for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-harness-the-potential-of-instagram-videos-for-brand-growth-for-2024/"><u>[Updated] Harness the Potential of Instagram Videos for Brand Growth for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-audiograbbers-free-toolkit-and-evaluation/"><u>[Updated] In 2024, AudioGrabbers Free Toolkit & Evaluation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-ranked-visual-saver-for-chromebook-users/"><u>2024 Approved Top-Ranked Visual Saver For Chromebook Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-ios-texting-tools-available-at-no-cost/"><u>Discover the Best iOS Texting Tools Available at No Cost</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/heimdalls-eye-the-watchers-of-ragnarok/"><u>Heimdall's Eye The Watchers of Ragnarok</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-xcover-7-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy XCover 7 Face Lock?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-sidestep-the-norm-alternatives-to-vidma-screen-record/"><u>In 2024, Sidestep the Norm Alternatives to Vidma Screen Record</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-directory-not-empty-issue-a-guide-to-error-code-x80070091/"><u>Overcoming Directory Not Empty Issue: A Guide to Error Code X80070091</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-fresh-amd-graphics-card-drivers-installation-across-various-windows-editions/"><u>The Ultimate Walkthrough: Fresh AMD Graphics Card Drivers Installation Across Various Windows Editions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/no-pierdas-tus-datos-como-recuperar-archivos-desaparecidos-de-una-unidad-flash-usb-con-estos-5-pasos-sencillos/"><u>¡No Pierdas Tus Datos! Cómo Recuperar Archivos Desaparecidos De Una Unidad Flash USB Con Estos 5 Pasos Sencillos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-detailed-walkthrough-to-flawless-youtube-videos-using-imovie-software/"><u>[New] 2024 Approved Detailed Walkthrough to Flawless YouTube Videos Using iMovie Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-enlightening-path-to-capturing-your-mac-screens-for-2024/"><u>[New] Enlightening Path to Capturing Your Mac Screens for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-best-free-youtube-video-editing-apps-for-iphone-and-ipad-and-how-tos-for-2024/"><u>[Updated] Best Free YouTube Video Editing Apps for iPhone & iPad & How-Tos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-game-editor-tools-for-novices/"><u>[Updated] Essential Game Editor Tools for Novices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-multitasking-mac-tech-screensound-recorder-for-2024/"><u>[Updated] Multitasking Mac Tech Screen/Sound Recorder for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-obs-dominion-vs-streamlabs-kingdom-for-2024/"><u>[Updated] OBS Dominion Vs. Streamlabs Kingdom for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-download-juice-wrlds-latest-tracks-a-step-by-step-guide/"><u>1. 'Download Juice Wrld's Latest Tracks: A Step-by-Step Guide'</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevate-your-voice-discovering-the-leading-vocal-changer-applications-for-android/"><u>2024 Approved Elevate Your Voice Discovering the Leading Vocal Changer Applications for Android</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-hot-30i-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Hot 30i Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/electoral-enthusiasm-top-5-political-game-experiences-for-2024/"><u>Electoral Enthusiasm Top 5 Political Game Experiences for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 15 Pro Max</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-master-your-screen-time-using-facetime-on-android/"><u>In 2024, Master Your Screen Time Using FaceTime on Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/professional-growth-with-efficient-google-meet-design-tweaks-for-2024/"><u>Professional Growth with Efficient Google Meet Design Tweaks for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-9-best-photography-management-tools-of-2024-complete-guide/"><u>Top 9 Best Photography Management Tools of 2024: Complete Guide</u></a></li>
 </ul></div>
 

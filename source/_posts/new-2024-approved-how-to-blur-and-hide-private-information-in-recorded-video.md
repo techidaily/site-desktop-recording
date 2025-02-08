@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Blur and Hide Private Information in Recorded Video\""
-date: 2025-01-25T05:53:16.299Z
-updated: 2025-01-26T06:54:46.951Z
+date: 2025-02-03T01:05:05.456Z
+updated: 2025-02-07T23:46:12.422Z
 tags: 
   - screen-recording
   - ai video
@@ -30,10 +30,6 @@ Filmora Scrn is a screen recording software that is very easy to master. Still, 
 This article will take you through all the steps you need to take to hide private and sensitive info from the videos you captured using Filmora Scrn. If you are wondering why you should choose Filmora Scrn to protect your personal and sensitive information, below are the answers.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
 
@@ -78,26 +74,30 @@ The Annotations tab lets you add captions, overlays, speech bubbles, and, most i
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
 
 The original frame is shown below, and I want to blur and hide these two sensitive pictures (in red mark).
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-examples.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
@@ -107,6 +107,10 @@ Hiding the identity of the people in your videos and concealing private informat
 #### Step 1. Record a video or import a video file into the editor
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -123,7 +127,7 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
@@ -137,10 +141,6 @@ Finally, you can go ahead and click on the Export button if you're happy with th
 Ok, that's it. Hope you have hidden and blurred the private info in your recorded video. Leave a comment below and let us know if it works for you perfectly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -157,18 +157,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-score-high-in-video-conferencing-top-screen-recorders-reviewed/"><u>[New] 2024 Approved Score High in Video Conferencing Top Screen Recorders Reviewed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-your-daily-dose-of-delightful-and-distressing-memes-from-ig/"><u>[New] 2024 Approved Your Daily Dose of Delightful & Distressing Memes From IG</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-achieving-excellence-in-android-video-production-using-obs/"><u>[New] Achieving Excellence in Android Video Production Using OBS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-navigating-instagram-for-podcast-promotion/"><u>[New] In 2024, Navigating Instagram for Podcast Promotion</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/pgrading-your-spotify-library-to-youtube-music-access-for-2024/"><u>[New] Upgrading Your Spotify Library to YouTube Music Access for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>[Updated] 2024 Approved Breaking the Monotony Innovative YT Playlist Shuffling</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-compreenas-a-step-by-step-process-to-apply-luts-in-photoshop-cc/"><u>[Updated] Compreenas a Step-by-Step Process to Apply LUTs in Photoshop CC</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-top-tagging-techniques-for-high-view-counts-on-tiktok/"><u>[Updated] Top Tagging Techniques for High View Counts on TikTok</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-guide-to-choosing-video-fps-30fps-vs-60fps-for-2024/"><u>[Updated] Ultimate Guide to Choosing Video FPS 30Fps Vs. 60Fps for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/sive-access-prime-video-downloader-picks/"><u>Exclusive Access Prime Video Downloader Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-access-microsoft-word-at-no-cost-a-comprehensive-guide/"><u>How to Access Microsoft Word at No Cost: A Comprehensive Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/pro-grade-mac-video-plus-audiophile-recorder/"><u>Pro-Grade Mac Video + Audiophile Recorder</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-when-ac1st16dll-is-not-available-on-your-pc/"><u>Solving The Issue When ac1st16.dll Is Not Available on Your PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlock-window-history-with-spring-screenrecorder/"><u>[New] In 2024, Unlock Window History with Spring ScreenRecorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unplugged-gaming-world-the-ultimate-list-of-best-free-mobile-apps/"><u>[New] Unplugged Gaming World - The Ultimate List of Best Free Mobile Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-decoding-the-new-apeaksoft-screenscape-expert-analysis/"><u>[Updated] In 2024, Decoding the New Apeaksoft Screenscape Expert Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-seamless-integration-of-switch-pro-into-steam-games/"><u>[Updated] In 2024, Seamless Integration of Switch Pro Into Steam Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-securely-documenting-your-google-voice-talks/"><u>[Updated] In 2024, Securely Documenting Your Google Voice Talks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovations-in-portraying-chrono-displacement-on-screen/"><u>2024 Approved Innovations in Portraying Chrono-Displacement on Screen</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discover-the-leading-optical-character-recognition-ocr-apps-for-windows-11-comparison-of-free-and-paid-solutions/"><u>Discover the Leading Optical Character Recognition (OCR) Apps for Windows 11 - Comparison of FREE and PAID Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/discover-the-personal-name-of-leader-mao-zedong-insights-from-yl-computing/"><u>Discover the Personal Name of Leader Mao Zedong - Insights From YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-tips-for-combining-srt-with-mp4-video-content/"><u>Essential Tips for Combining SRT with MP4 Video Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-utilizing-snapchat-highlights-effectively-for-2024/"><u>Expert Tips for Utilizing Snapchat Highlights Effectively for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-the-read-only-attribute-for-files-on-windows/"><u>How to Change the Read-Only Attribute for Files on Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/leading-chrome-voice-modifiers-select-top-5-extensions-for-2024/"><u>Leading Chrome Voice Modifiers Select Top 5 Extensions for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-a23-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy A23 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

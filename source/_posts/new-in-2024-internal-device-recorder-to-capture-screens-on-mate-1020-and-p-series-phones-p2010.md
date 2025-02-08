@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10)"
-date: 2025-01-01T19:42:41.782Z
-updated: 2025-01-07T19:35:37.882Z
+date: 2025-02-04T02:30:28.194Z
+updated: 2025-02-08T02:53:04.475Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidail
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -51,12 +51,16 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
 
@@ -84,21 +88,17 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -107,7 +107,7 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -125,17 +125,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/eizing-video-popularity-key-seo-tools-revealed/"><u>[New] Seizing Video Popularity – Key SEO Tools Revealed</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/hy-are-your-video-shorts-thumbnails-not-showing-for-2024/"><u>[New] Why Are Your Video Shorts' Thumbnails Not Showing for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-7-epic-strategy-battles-unveiling-ultimate-total-wars/"><u>[Updated] In 2024, Top 7 Epic Strategy Battles Unveiling Ultimate Total Wars</u></a></li>
-<li><a href="https://app-tips.techidaily.com/act-fast-upgrade-or-transition-from-your-windows-11-pc-top-5-strategies-as-support-concludes-in-a-year/"><u>Act Fast: Upgrade or Transition From Your Windows 11 PC - Top 5 Strategies as Support Concludes in a Year!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-perfection-reviewing-the-best-5-hd-webcams-with-audio-for-2024/"><u>Capture Perfection Reviewing The Best 5 HD Webcams with Audio for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/first-steps-in-virtual-conferencing-with-zoom/"><u>First Steps in Virtual Conferencing with Zoom</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gli-ottimi-7-metodi-online-e-gratuiti-per-ridimensionare-i-video-mov-guida-completa/"><u>Gli Ottimi 7 Metodi Online E Gratuiti per Ridimensionare I Video MOV: Guida Completa</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-13-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 13 mini | Stellar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-m506-printer-driver-update-and-download-guide-enhance-printing/"><u>HP LaserJet M506 Printer Driver Update & Download Guide | Enhance Printing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-advanced-settings-for-uniform-stream-lighting/"><u>In 2024, Advanced Settings for Uniform Stream Lighting</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-secure-pathway-making-steam-play-kid-friendly/"><u>The Secure Pathway: Making Steam Play Kid-Friendly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-bluetooth-issues-in-windows-11-computers/"><u>Troubleshooting Guide: Fixing Bluetooth Issues in Windows 11 Computers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-screencast-lifeline-crucial-knowledge-for-success/"><u>[New] 2024 Approved The Screencast Lifeline Crucial Knowledge for Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-advanced-guide-to-documenting-online-sport-spectacles/"><u>[New] Advanced Guide to Documenting Online Sport Spectacles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-audacity-techniques-for-mac-audio-recording/"><u>[New] In 2024, Essential Audacity Techniques for Mac Audio Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastery-of-mobile-and-desktop-calendar-integration-with-zoom/"><u>[New] In 2024, Mastery of Mobile and Desktop Calendar Integration with Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-next-gen-recording-iphoneipad-screens/"><u>[New] Next-Gen Recording IPhone/iPad Screens</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-smooth-streaming-fix-facebooks-playback-problems-for-2024/"><u>[New] Smooth Streaming – Fix Facebook's Playback Problems for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-live-video-quest-evaluating-the-strengths-of-obs-and-twitch-studio/"><u>[Updated] In 2024, Live Video Quest Evaluating the Strengths of OBS and Twitch Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-free-ticking-counters/"><u>[Updated] Premium Free Ticking Counters</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-embarking-on-a-listening-odyssey-adding-podcasts-to-itunes-via-ios/"><u>2024 Approved Embarking on a Listening Odyssey Adding Podcasts to iTunes via iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/as-melhores-ferramentas-reprodutoras-de-dvd-livres-e-compativeis-com-windows-1110-explicadas-teste-ja/"><u>As Melhores Ferramentas Reprodutoras De DVD Livres E Compatíveis Com Windows 11/10 Explicadas | Teste Já!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/basic-screenshot-toolkit-for-windows-10-for-2024/"><u>Basic Screenshot Toolkit for Windows 10 for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/freedom-in-fun-10-excellent-offline-gaming-on-android-devices-for-2024/"><u>Freedom in Fun 10 Excellent Offline Gaming on Android Devices for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/is-your-pc-at-risk-with-ccleaner-comprehensive-guide-to-detecting-malware-and-protective-measures/"><u>Is Your PC at Risk with CCleaner? Comprehensive Guide to Detecting Malware & Protective Measures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-dell-laptops-dead-keys-expert-fixes-for-non-responsive-buttons/"><u>Revive Your Dell Laptop's Dead Keys: Expert Fixes for Non-Responsive Buttons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-iphone-irritations-head-on-essential-changes-for-a-seamless-apple-experience/"><u>Tackling iPhone Irritations Head-On: Essential Changes for a Seamless Apple Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-reviewhub-the-ultimate-guide-to-electronics-and-peripherals/"><u>Tom's Computing ReviewHub: The Ultimate Guide to Electronics & Peripherals</u></a></li>
 </ul></div>
 

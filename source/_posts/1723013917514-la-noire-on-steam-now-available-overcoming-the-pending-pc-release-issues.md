@@ -1,7 +1,7 @@
 ---
 title: L.A. Noire on Steam Now Available – Overcoming the Pending PC Release Issues!
-date: 2025-01-25T05:42:58.226Z
-updated: 2025-01-25T18:32:10.802Z
+date: 2025-02-03T00:31:08.187Z
+updated: 2025-02-07T19:00:39.906Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 Playing L.A. Noire is great fun except when the game fails to launch and confusing error message pops up. If you’re also stuck in this annoying L.A. Noire not launching issue, don’t worry. Here are 6 fixes that will help you start the game smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Just work from the top down until you find the one that does the trick.
@@ -29,6 +33,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 6. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
  Before carrying out the fixes below, please make sure your PC specs meet the **[minimum system requirements](https://support.rockstargames.com/articles/200149466/L-A-Noire-PC-System-Requirements)**  to play L.A. Noire.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Run Steam as an administrator
 
@@ -54,12 +62,16 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**L.A. Noire** from the game list. Then, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Local Files** tab, and click**Verify Integrity of Game Files** .
@@ -67,7 +79,7 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the repair process completes, then you can launch L.A. Noire to see if the problem disappears. If not, head towards the next fix below.
@@ -82,13 +94,13 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select the**Local Files** tab, and click**Browse Local Files** .
 
@@ -103,7 +115,7 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Opt out of all beta programs
@@ -122,10 +134,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can relaunch L.A. Noire to test this method. If it doesn’t help, please proceed to Fix 5 below.
 
 ---
@@ -138,13 +146,13 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Untick**Use Desktop Game Theatre while SteamVR is active** . Then, click**Close** .
 
@@ -170,19 +178,11 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -213,22 +213,18 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-beginners-guide-start-filming-with-ease-using-logitech-camera/"><u>[New] 2024 Approved Beginner's Guide Start Filming with Ease Using Logitech Camera</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-enhanced-video-calls-innovative-approaches-4/"><u>[New] 2024 Approved Enhanced Video Calls Innovative Approaches #4</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-transforming-fb-videos-into-mp3-files/"><u>[New] 2024 Approved Transforming Fb Videos Into MP3 Files</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-guide-to-recording-films-on-windowsmac-and-phones/"><u>[New] In 2024, Essential Guide to Recording Films on Windows/Mac & Phones</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-handbook-windows-pc-for-capturing-live-tv/"><u>[New] In 2024, Essential Handbook Windows PC for Capturing Live TV</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastery-in-voice-change-with-morphvox-for-2024/"><u>[New] Mastery in Voice Change with MorphVOX for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-steps-to-record-voice-memo-on-iphone-for-2024/"><u>[New] Steps to Record Voice Memo on iPhone for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-checklist-streamlining-and-maximizing-screencast-quality-with-mobizen-for-2024/"><u>[New] Ultimate Checklist Streamlining and Maximizing Screencast Quality with Mobizen for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-advanced-screen-recording-of-facetime-dialogues/"><u>[Updated] 2024 Approved Advanced Screen Recording of FaceTime Dialogues</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-enhancing-call-clarity-silencing-distractions/"><u>[Updated] In 2024, Enhancing Call Clarity Silencing Distractions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-resurrecting-windows-photo-viewer-a-compreehr-guide-for-win10-users/"><u>[Updated] Resurrecting Windows Photo Viewer - A Compreehr Guide for Win10 Users</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/captivating-wilderness-vistas-high-quality-backgrounds-and-pics-from-yl-software-solutions/"><u>Captivating Wilderness Vistas - High-Quality Backgrounds & Pics From YL Software Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comprehensive-guide-to-linux-file-timestamps-decoding-atime-mtime-and-ctime-explained/"><u>Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-glowing-complexions-without-plugins-fcpx-video-editing-tips-for-2024/"><u>New Glowing Complexions without Plugins FCPX Video Editing Tips for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>New In 2024, Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/tips-for-a-seamless-phone-screen-record-for-2024/"><u>Tips for a Seamless Phone Screen Record for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oneplus-nord-n30-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For OnePlus Nord N30 5G Phones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capturing-your-screen-apowersoft-and-others-for-2024/"><u>[New] Capturing Your Screen Apowersoft and Others for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-apeaksofts-screen-tech-revolution-2023-review/"><u>[Updated] In 2024, Apeaksoft's Screen Tech Revolution 2023 Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-peaceful-playtime-smartphones-slow-puzzles/"><u>[Updated] Peaceful Playtime Smartphone's Slow Puzzles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-precision-window-photography-in-winoses/"><u>[Updated] Precision Window Photography in WinOSes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-transforming-mac-screenshot-file-extensions/"><u>[Updated] Transforming Mac Screenshot File Extensions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-deciphering-the-art-of-voice-documentation/"><u>2024 Approved Deciphering the Art of Voice Documentation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-streaming-success-maximizing-video-impact-with-desktop-integration-on-facebook/"><u>2024 Approved Social Streaming Success Maximizing Video Impact with Desktop Integration on Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-endless-load-on-minecraft-solutions-and-guide/"><u>Bypassing the Endless Load on Minecraft: Solutions and Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-the-m3-and-m1-macbook-pro-models-is-it-time-to-switch-to-apples-newest-laptop-innovation-tech-insights/"><u>Comparing the M3 and M1 MacBook Pro Models: Is It Time to Switch to Apple's Newest Laptop Innovation? | Tech Insights</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lenovo-thinkphone-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-flawless-visual-shifts-for-filmmakers/"><u>In 2024, Flawless Visual Shifts for Filmmakers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-art-of-accompanying-imagery-with-audio/"><u>The Art of Accompanying Imagery With Audio</u></a></li>
 </ul></div>
 

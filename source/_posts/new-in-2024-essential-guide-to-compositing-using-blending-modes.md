@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Essential Guide to Compositing Using Blending Modes"
-date: 2025-01-20T02:03:07.316Z
-updated: 2025-01-25T16:33:48.250Z
+date: 2025-02-03T18:17:08.093Z
+updated: 2025-02-07T17:08:26.731Z
 tags: 
   - screen-recording
   - ai video
@@ -49,7 +49,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are Blending Modes in Filmora?
@@ -66,13 +66,25 @@ The **Screen Mode** is best used when you are working with dark monochrome backg
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Utilizing this mode successfully requires previous preparation because the effects you'll get if you use the Screen mode with a footage that is not best suited for this mode are far from impressive. Therefore, the video clips you want to overlay and blend with each other must be recorded perfectly in order to get the best results.
 
 The **Multiply Mode** is also one of the frequently used blending modes that **multiplies the numbers for each pixel of the overlaying video clip** with a matching pixel from the background video.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use Blending Modes?
 
@@ -84,19 +96,11 @@ In case you've used Filmora Scrn's screen recorder to capture your video, the vi
 
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 2 - Select the Blending mode
 
@@ -106,10 +110,6 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
 #### Step 3 - Export the video
@@ -118,15 +118,15 @@ Click on the Export button if you like the results and choose whether you want t
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Overlaying two video clips and blending them to each other can be an effective way to make your videos look more creative or more professional by adding logos and all other information you'd like the potential viewers of your videos to see. The blending modes Filmora Scrn offers can help you achieve the visual style you want to get in your videos, but it may take you some time to learn when is the best time to use a certain mode.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -143,20 +143,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-full-disclosure-gecata-gameplay-tracker-reviewed/"><u>[New] 2024 Approved Full Disclosure Gecata Gameplay Tracker Reviewed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-best-online-vimeo-video-downloaders-for-2024/"><u>[New] Best Online Vimeo Video Downloaders for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-capturing-quality-logitech-webcam-recording-guide/"><u>[New] In 2024, Capturing Quality Logitech Webcam Recording Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revolutionizing-how-you-record-and-archive-ps3-gaming/"><u>[New] In 2024, Revolutionizing How You Record and Archive PS3 Gaming</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-modern-professionals-must-have-collect-these-8-innovations-now/"><u>[New] In 2024, The Modern Professional's Must-Have Collect These 8 Innovations Now</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>[New] Key Sites The 6 Most Vital Platforms for B2B Relationships</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-capturing-clarity-best-practices-for-iphone-photo-cropping/"><u>[Updated] Capturing Clarity Best Practices for iPhone Photo Cropping</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-elitescreensnap-for-windows-xxp/"><u>[Updated] EliteScreenSnap for Windows X/XP</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-first-look-at-organizing-zoom-session-rooms/"><u>[Updated] First Look at Organizing Zoom Session Rooms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-overwatch-video-capture-quick-simple-and-effective/"><u>[Updated] In 2024, Overwatch Video Capture – Quick, Simple, and Effective</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-attracting-more-youtube-admirers/"><u>[Updated] Mastering the Art of Attracting More YouTube Admirers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-in-class-fitness-tracking-technology-2024s-elite-picks/"><u>Best-in-Class Fitness Tracking Technology: 2024'S Elite Picks</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 14 Plus?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-maximize-engagement-with-custom-youtube-thumbnails/"><u>In 2024, Maximize Engagement with Custom YouTube Thumbnails</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comprehensive-breakdown-understanding-and-using-mobizen-recorders/"><u>[New] 2024 Approved Comprehensive Breakdown Understanding and Using Mobizen Recorders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-master-the-art-of-video-crafting-integrating-storyremix-with-windows-11-photos/"><u>[New] 2024 Approved Master the Art of Video Crafting Integrating StoryRemix with Windows 11 Photos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-a-beginners-guide-to-gameye-win10/"><u>[New] In 2024, A Beginner's Guide to GamEye Win10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-creating-metaverse-laughter/"><u>2024 Approved From Novice to Pro Creating Metaverse Laughter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/enshrine-your-elite-playthroughs-in-galaxy-cases/"><u>Enshrine Your Elite Playthroughs in Galaxy Cases</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-the-ultimate-business-vault/"><u>In 2024, Selecting the Ultimate Business Vault</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pursuing-perfection-on-track-compiling-top-5-simulators/"><u>Pursuing Perfection on Track Compiling Top 5 Simulators</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/transforma-tus-audios-wav-en-videos-mkv-sin-coste-alguno-en-linea-soluciones-movavi/"><u>Transforma Tus Audios WAV en Videos MKV Sin Coste Alguno en Línea - Soluciones Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-future-with-q500-typhoon-for-2024/"><u>Unveiling the Future with Q500 Typhoon for 2024</u></a></li>
 </ul></div>
 
