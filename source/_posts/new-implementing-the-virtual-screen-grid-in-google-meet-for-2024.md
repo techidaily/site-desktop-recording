@@ -1,7 +1,7 @@
 ---
 title: "[New] Implementing the Virtual Screen Grid in Google Meet for 2024"
-date: 2025-02-04T23:11:15.723Z
-updated: 2025-02-08T00:09:43.782Z
+date: 2025-02-13T19:34:34.721Z
+updated: 2025-02-17T18:59:39.908Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,6 @@ Click on the **three dots** at the bottom of the screen. Select **change layout*
 
 ![Google Meet change layout](https://images.wondershare.com/filmora/article-images/google-meet-change-layout.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Expand View**
 
 Use a slider to increase or decrease the number of participants you want to see.
@@ -60,7 +56,11 @@ Use a slider to increase or decrease the number of participants you want to see.
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
@@ -81,15 +81,15 @@ Click on the **three dots** at the bottom right corner and select **change layou
 
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
 
 **Note**: Make sure the participant you request to share the screen uses Google Meet on desktop with a tiled layout. Plus, if the participant sharing screen is on mobile, request the participant join the meeting from a mobile browser rather than the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Use Grid View Extension to View All Participants on Google Meet?
 
@@ -103,6 +103,10 @@ Tap **add an extension** in the pop-up confirmation message. The installed exten
 
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2 : Create or join a meeting room in a Google Meet**
 
 Open Google Meet and click **new meeting** or enter the invitation code. Wait for all participants to join the meeting.
@@ -114,10 +118,6 @@ Click on the **extension** at the top right of the screen corner and tick the **
 **Note:** You can configure the grid view setting and choose to tick any option you prefer. Options include only show participants with video, highlight speakers, etc.
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
@@ -135,10 +135,6 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3 : Check the working in Google Meet**
 
 Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
@@ -146,7 +142,7 @@ Click **new meeting** in the Google Meet. **Tap enable grid view** when you want
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Frequently Asked Questions About See Everyone on Google Meet
@@ -169,6 +165,10 @@ Sometimes, it becomes essential to make all participants visible in the grid. Fo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -184,24 +184,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-next-level-techniques-outperforming-fbx-recording/"><u>[New] In 2024, Next-Level Techniques Outperforming FBX Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-optimal-screen-capture-chromeos-enhanced-for-2024/"><u>[New] Optimal Screen Capture ChromeOS Enhanced for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-7-enhancements-for-an-optimal-stardew-farming-experience-for-2024/"><u>[New] Top 7 Enhancements for an Optimal Stardew Farming Experience for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-apex-list-of-10-unmatched-recorders-for-spotify-playbacks/"><u>[Updated] 2024 Approved Apex List of 10 Unmatched Recorders for Spotify Playbacks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-enhance-pc-listening-experience-install-x-recorder/"><u>[Updated] 2024 Approved Enhance PC Listening Experience - Install X-Recorder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-apeak-recorder-reviewed-speed-quality-and-ease-of-use-scored/"><u>[Updated] Apeak Recorder Reviewed Speed, Quality, and Ease of Use Scored</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-fives-finest-time-lapse-capture-apps-reviewed/"><u>[Updated] In 2024, Five's Finest Time-Lapse Capture Apps Reviewed</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-uncovering-the-mysteries-of-photo-editing-in-canva/"><u>[Updated] In 2024, Uncovering the Mysteries of Photo Editing in Canva</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-podcast-vs-youtube-determining-your-digital-destination/"><u>[Updated] Podcast Vs. YouTube Determining Your Digital Destination</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essentials-of-dynamic-visual-communication/"><u>[Updated] The Essentials of Dynamic Visual Communication</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-enhancing-professionalism-with-zooms-snappy-functionality/"><u>2024 Approved Enhancing Professionalism with Zoom’s Snappy Functionality</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-f5-pro-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Poco F5 Pro 5G Unlock Without Password</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-90-gt-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor 90 GT to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-free-capture-precision-best-apps-for-windows-desktop-recording/"><u>In 2024, Free Capture Precision Best Apps for Windows Desktop Recording</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-phantom-v-fold-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Tecno Phantom V Fold Bootloader Easily</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-your-hp-wi-fi-drivers-on-windows-latest-version-available-here/"><u>Install Your HP Wi-Fi Drivers on Windows – Latest Version Available Here</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mitigating-high-bitrate-in-obs-outputs/"><u>Mitigating High-Bitrate in OBS Outputs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-cybernetic-video-capture-tools/"><u>Top Cybernetic Video Capture Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/window-into-the-world-a-complete-guide-to-live-tv-recording-on-your-pc-for-2024/"><u>Window Into the World A Complete Guide to Live TV Recording on Your PC for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-best-free-photo-collage-apps-for-iphone/"><u>2024 Approved 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-quick-start-guide-to-arranging-engaging-google-sessions/"><u>2024 Approved Quick Start Guide to Arranging Engaging Google Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-new-tech-horizon-with-microsofts-hololens-review/"><u>2024 Approved The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/blueprint-for-broadcasting-logging-roblox-games-via-your-mac-hardware/"><u>Blueprint for Broadcasting Logging Roblox Games via Your Mac Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comparing-winx-dvd-ripper-and-handbrake-the-ultimate-free-dvd-ripping-software-review/"><u>Comparing WinX DVD Ripper and Handbrake: The Ultimate Free DVD Ripping Software Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elite-web-recording-gadgets-ranked-for-2024/"><u>Elite Web Recording Gadgets Ranked for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-laughing-alongside-the-metaverse-diy-humor-tips-and-tricks/"><u>In 2024, Laughing Alongside the Metaverse DIY Humor Tips & Tricks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-streamlining-video-conferences-background-shifts-in-google-meet/"><u>In 2024, Streamlining Video Conferences Background Shifts in Google Meet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unblock-your-youtube-experience-easy-solutions-for-chromefirefox/"><u>In 2024, Unblock Your YouTube Experience Easy Solutions for Chrome/Firefox</u></a></li>
 </ul></div>
 

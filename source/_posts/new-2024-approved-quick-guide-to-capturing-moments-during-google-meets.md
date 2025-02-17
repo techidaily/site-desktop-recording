@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Quick Guide to Capturing Moments During Google Meets\""
-date: 2025-02-02T03:46:52.277Z
-updated: 2025-02-07T19:55:18.895Z
+date: 2025-02-13T19:31:00.169Z
+updated: 2025-02-17T16:09:28.074Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ _If you’re using the Zoom app to have a video conference, you can also use Sna
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Download and Set up Snap Camera with Google Meet?
 
 The first thing you’ll need to do is download and install the Snap Camera. It’s a very easy process. Visit the [Snap Camera website](https://snapcamera.snapchat.com/) and click the Download button to start. Please note you’ll need a Windows 10 (64 bit) or newer; or a macOS 10.13 or newer to be able to download and install the Snap Camera.
@@ -50,7 +46,7 @@ Once downloaded, find the file on your desktop and double click to install. On t
 Open the snap camera and you’ll be able to see your face on the screen. That’s it, you’ve downloaded the Snap Camera. Select the preferred filters and lens from the below list and check the result in the video stream window. Now onto the next step, which is configuring the Snap Camera to work with Google Meet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Use Snap Camera on Google Meet?
@@ -73,10 +69,6 @@ There are two different ways of using the snap camera on Google Meet - the first
 
 ![Set Snap Camera as Google Meet Camera ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6:** Click on the options under the camera selection and select the Snap Camera.
 
 **Step 7:** Set the resolution to 720p or whatever the highest option is for the sending resolution and the receiving resolution accordingly.
@@ -91,10 +83,6 @@ That’s it! Now you’ll be able to use Snap Camera for your Google Meet commun
 
 ![ Google Meet Website Options ](https://images.wondershare.com/filmora/article-images/google-meet-website-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** To set up your Snap Camera and use it as a part of your Google Meet session, follow the steps below.
 
 * _Float your mouse over the bottom of the window to make the menu appear (find the microphone, hang up, and camera button), then click the three dotes positioned on the far right of the screen._
@@ -103,6 +91,10 @@ That’s it! Now you’ll be able to use Snap Camera for your Google Meet commun
 * _Set the resolution to 720p or whatever the highest option is._
 
 ![ Google Meet  Camera Settings ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Use Snap Cam with Google Meet using Third-Party Inputs
 
@@ -120,6 +112,10 @@ It is also possible to use Google Meet and Snap Camera with third-party inputs s
 
 To use third-party inputs like Iruin webcam, Epic cam, or Canon Webcam Utility, you’ll need to select the Snap Cam as the input in the meet settings. Your input will be passed through Snap Cam via webcam utility or another application using your phone or your DSLR, then passed through to Google Meet. You’ll be able to use the filters with far better resolution on Google Meet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Add Filters to Google Meet Without Snap Camera on Mobile
 
 Currently, Snap Camera is available for Windows and Mac computers, which means you can’t install it on your iPhone or Android phone. If you want to add filters to Google Meet on mobile, you can follow the steps below to use the on-platform integrated filters:
@@ -134,6 +130,10 @@ Currently, Snap Camera is available for Windows and Mac computers, which means y
 
 **Step 5:** Tap on the filters option and see all the filters available. Choose any filter you want, and it will be automatically added to your video input.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Google Meet Adds Video Filters and AR Stickers for Personal Call
 
 Google Meet recently added new filters, effects, and AR (augmented reality) masks for calls on iOS and Android. On July 7th, Google tweeted that the new features would be available: “cats, astronauts, jellyfish and more”... Sounds exciting! Here’s how to add them to your Google Meet calls.
@@ -141,7 +141,7 @@ Google Meet recently added new filters, effects, and AR (augmented reality) mask
 ![ Google Meet AR Stickers](https://images.wondershare.com/filmora/article-images/google-new-ar-stickers-news-on-twitter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 1:** If you haven’t yet, download Google Meet for Android or iOS and then open it.
@@ -173,18 +173,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-adjusting-youtube-video-scale-effectively/"><u>[New] Adjusting YouTube Video Scale Effectively</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-simplified-obs-settings-for-economical-systems/"><u>[New] Simplified OBS Settings for Economical Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-techniques-for-saving-discord-chats-in-real-time/"><u>[New] The Ultimate Techniques for Saving Discord Chats in Real-Time</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-compare-and-contrast-best-software-for-screen-grabs-obsfraps/"><u>[Updated] 2024 Approved Compare and Contrast Best Software for Screen Grabs (OBS/Fraps)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-overwatch-playback-techniques-explained/"><u>[Updated] In 2024, Overwatch Playback Techniques Explained</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-modify-mac-snapshot-savings-spot-for-2024/"><u>[Updated] Modify Mac Snapshot Savings Spot for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-tunepiercer-screen-capture-app-review/"><u>[Updated] TunePiercer Screen Capture App Review</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-leading-platforms-for-seamless-mp3-refinement-and-cutting/"><u>2024 Approved Leading Platforms for Seamless MP3 Refinement and Cutting</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/eenhensive-guide-for-youtube-short-video-creators/"><u>Compreenhensive Guide for YouTube Short Video Creators</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-to-fix-errors-when-launchdll-is-not-found/"><u>Effective Solutions to Fix Errors When Launch.dll Is Not Found</u></a></li>
-<li><a href="https://article-tips.techidaily.com/fusing-frequencies-smoothly-with-logic-pro-x-methods/"><u>Fusing Frequencies Smoothly with Logic Pro X Methods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/mastering-video-creation-filmoras-key-edits-for-lovers-for-2024/"><u>Mastering Video Creation Filmora’s Key Edits for Lovers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-discover-the-perfect-tunefab-recorder-for-your-needs/"><u>[New] In 2024, Discover the Perfect Tunefab Recorder for Your Needs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-budget-headphones-to-enhance-game-sounds/"><u>[New] In 2024, Ultimate Budget Headphones to Enhance Game Sounds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlock-advanced-techniques-to-record-and-edit-videos-on-adobe-connect-for-2024/"><u>[New] Unlock Advanced Techniques to Record & Edit Videos on Adobe Connect for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-a-comprehensive-review-of-next-gen-camera-systems/"><u>[Updated] 2024 Approved A Comprehensive Review of Next-Gen Camera Systems</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-b-roll-builder-kit/"><u>[Updated] 2024 Approved B-Roll Builder Kit</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-affordable-mac-tools-editing-video-creations-on-tiktok-for-2024/"><u>[Updated] Affordable Mac Tools Editing Video Creations on TikTok for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expert-configuration-clock-integration-for-streaming-software-for-2024/"><u>[Updated] Expert Configuration Clock Integration for Streaming Software for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-master-screen-capture-detailed-tutorial-walkthrough/"><u>[Updated] Master Screen Capture Detailed Tutorial Walkthrough</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-ls-0013-troubleshooting-a-step-by-step-solution/"><u>Fortnite LS-0013 Troubleshooting: A Step by Step Solution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-m14-4g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy M14 4G Phone?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/obs-studio-streamlining-your-professional-skype-broadcasts-for-2024/"><u>OBS Studio Streamlining Your Professional Skype Broadcasts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-hidden-or-gone-mouse-icons-in-windows-10-effective-fixes-and-advice/"><u>Overcoming Hidden or Gone Mouse Icons in Windows 10: Effective Fixes and Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961553338-win-7-network-adapter-challenges-heres-how-you-can-resolve-them-easily/"><u>Win 7 Network Adapter Challenges? Here's How You Can Resolve Them Easily</u></a></li>
 </ul></div>
 
