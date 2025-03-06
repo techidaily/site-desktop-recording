@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Record Panel-Wide Digital View\""
-date: 2025-02-16T18:58:11.442Z
-updated: 2025-02-17T16:10:04.240Z
+date: 2025-03-02T18:39:41.707Z
+updated: 2025-03-06T09:01:25.580Z
 tags: 
   - screen-recording
   - ai video
@@ -54,19 +54,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
@@ -75,10 +67,6 @@ Once the printing dialogue box appears on the screen you'll be able to preview t
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
 
@@ -93,10 +81,6 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -119,10 +103,6 @@ Install the extension in your browser and then click on its icon in the Extensio
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
@@ -159,15 +139,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-enjoy-high-quality-pc-audio-recording-install-x-recorder/"><u>[New] 2024 Approved Enjoy High-Quality PC Audio Recording - Install X-Recorder</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-odyssey-of-gaming-the-ultimate-list-of-freeware-mmorpgs/"><u>[New] Odyssey of Gaming The Ultimate List of Freeware MMORPGs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-20-essentials-every-new-creator-should-own/"><u>[Updated] In 2024, 20 Essentials Every New Creator Should Own</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unlock-the-art-of-recording-all-your-hulu-content/"><u>[Updated] Unlock the Art of Recording All Your Hulu Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-crafting-professional-grade-steam-gameplay-videos/"><u>2024 Approved Crafting Professional-Grade Steam Gameplay Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nubia-red-magic-9-proplus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://techtrends.techidaily.com/driving-conversions-through-smart-lead-generation-the-cookiebot-difference/"><u>Driving Conversions Through Smart Lead Generation - The Cookiebot Difference</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-explore-the-richest-historical-content-with-these-top-10-yt-groups/"><u>In 2024, Explore the Richest Historical Content with These Top 10 YT Groups</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-one-to-many-how-to-split-a-single-video-into-multiple-clips-in-windows-live-movie-maker/"><u>In 2024, From One to Many How to Split a Single Video Into Multiple Clips in Windows Live Movie Maker</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-stuck-on-startup-screen-follow-these-7-solutions/"><u>IPhone Stuck on Startup Screen? Follow These 7 Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-spotlight-on-highly-praised-instagram-after-effects-plugins/"><u>[New] In 2024, Spotlight on Highly Praised Instagram After Effects Plugins</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/teps-for-confirming-youtube-identity/"><u>[New] Steps for Confirming YouTube Identity</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-channeling-changes-transition-to-youtubes-updated-membership-model/"><u>[Updated] In 2024, Channeling Changes Transition to YouTube's Updated Membership Model</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-intrigue-and-ingenuity-in-leading-escapade-centres/"><u>2024 Approved Intrigue and Ingenuity in Leading Escapade Centres</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-video-call-applications-for-conference-success/"><u>2024 Approved Leading Video Call Applications for Conference Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-low-cost-recorders-guide-to-webcasting-wisdom/"><u>2024 Approved Low-Cost Recorder's Guide to Webcasting Wisdom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-the-art-of-speech-to-text-with-google-ai/"><u>2024 Approved Mastering the Art of Speech-to-Text with Google AI</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-asus-rog-phone-7-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Asus ROG Phone 7 to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fabulous-critique-and-diverse-suggestions-for-2024/"><u>Fabulous Critique & Diverse Suggestions for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ensuring-seamless-gotomeeting-experience-with-device-recording/"><u>In 2024, Ensuring Seamless GoToMeeting Experience with Device Recording</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unhappy-with-final-cut-pro-x-try-one-of-these-10-alternatives/"><u>In 2024, Unhappy with Final Cut Pro X? Try One of These 10 Alternatives</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-updates-fixing-apple-mail-sync-errors-on-iphones/"><u>Unsticking Updates: Fixing Apple Mail Sync Errors on iPhones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
 

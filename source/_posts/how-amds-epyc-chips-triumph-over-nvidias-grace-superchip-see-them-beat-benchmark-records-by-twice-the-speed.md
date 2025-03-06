@@ -1,7 +1,7 @@
 ---
 title: "How AMD's EPYC Chips Triumph Over Nvidia's Grace Superchip: See Them Beat Benchmark Records by Twice the Speed"
-date: 2025-02-13T17:35:23.326Z
-updated: 2025-02-17T16:48:41.963Z
+date: 2025-03-03T21:43:25.108Z
+updated: 2025-03-06T09:38:32.982Z
 tags:
   - desktop
 categories:
@@ -30,10 +30,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -64,16 +60,22 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-best-techniques-for-capturing-youtube-live-video-for-2024/"><u>[New] Best Techniques for Capturing YouTube Live Video for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-guide-to-cost-free-camera-screen-recorder-software/"><u>[Updated] Essential Guide to Cost-Free Camera Screen Recorder Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-power-of-pausing-incorporating-effective-chapters-in-your-youtube-series-for-2024/"><u>[Updated] The Power of Pausing Incorporating Effective Chapters in Your YouTube Series for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-windows-video-calls-the-top-8-list/"><u>Best Windows Video Calls The Top 8 List</u></a></li>
-<li><a href="https://article-posts.techidaily.com/crafting-the-ultimate-list-15-premier-mounts-for-gopro/"><u>Crafting the Ultimate List 15 Premier Mounts for GoPro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-for-when-valve-anti-cheat-fails-to-authenticate-game-play-session/"><u>Fixes for When Valve Anti-Cheat Fails to Authenticate Game Play Session</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/grids-for-greatness-photographs-next-step-up-for-2024/"><u>Grids for Greatness Photographs' Next Step Up for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-final-verdict-dji-action-vs-gopro-360-and-insta360-x3/"><u>In 2024, Final Verdict DJi Action Vs. GoPro 360 & Insta360 X3</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/lightweightscreencapture-no-fuss-just-fun/"><u>LightweightScreenCapture - No Fuss, Just Fun</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximize-productivity-connect-dual-displays-to-your-m3-macbook-pro-similar-features-as-m3-macbook-air-zdnet/"><u>Maximize Productivity: Connect Dual Displays to Your M3 MacBook Pro - Similar Features as M3 MacBook Air (ZDNet)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-youtube-intro-for-2024/"><u>New How To Create A YouTube Intro for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-enhance-photos-add-dynamic-shake-with-ps/"><u>[New] 2024 Approved Enhance Photos Add Dynamic Shake with PS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capturing-the-thrill-pro-gamers-guide-to-recordings-for-2024/"><u>[New] Capturing the Thrill Pro Gamer's Guide to Recordings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-speed-kings-guide-to-fast-frame-gathering/"><u>[New] In 2024, Speed King's Guide to Fast Frame Gathering</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-uniting-zoom-timings-with-phone-and-pc-schedules-effortlessly/"><u>[New] In 2024, Uniting Zoom Timings with Phone & PC Schedules Effortlessly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-leveraging-tech-for-better-facebook-live-records-for-2024/"><u>[New] Leveraging Tech for Better Facebook Live Records for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simple-window-recording-on-windows-10/"><u>[New] Simple Window Recording on Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tunefab-vs-competitors-screen-recorder-showdown/"><u>[New] Tunefab vs Competitors Screen Recorder Showdown</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-superior-console-emulation-best-ps1-games-for-your-pc/"><u>[Updated] 2024 Approved Superior Console Emulation Best PS1 Games for Your PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-thors-fury-legends-of-the-ragnarok/"><u>[Updated] Thor's Fury Legends of the Ragnarök</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-tricks-to-simulate-historical-alterations/"><u>[Updated] Tricks to Simulate Historical Alterations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlimited-potential-with-best-in-class-pp-templates/"><u>[Updated] Unlimited Potential with Best-in-Class PP Templates</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 13 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breaking-down-why-syma-x5c-is-top-notch-for-new-dronists-for-2024/"><u>Breaking Down Why Syma X5C Is Top-Notch for New Dronists for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-x-flip-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-top-7-pro-dslrs-enhancing-live-stream-quality/"><u>In 2024, Top 7 Pro-DSLRs Enhancing Live Stream Quality</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-accessing-windows-1/"><u>Step-by-Step Guide: Accessing Windows 1</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-silent-departure-4-compelling-reasons-for-less-visitors-on-fb/"><u>The Silent Departure: 4 Compelling Reasons for Less Visitors on FB</u></a></li>
 </ul></div>
 

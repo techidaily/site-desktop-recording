@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Effortlessly Create a Cross-Platform Conversation Space on Skype  A Detailed Manual for Users of All OS Platforms\""
-date: 2025-02-12T18:08:25.300Z
-updated: 2025-02-17T18:02:48.197Z
+date: 2025-02-28T08:24:30.423Z
+updated: 2025-03-06T01:57:48.119Z
 tags: 
   - screen-recording
   - ai video
@@ -43,10 +43,6 @@ To make a group chat on Skype using a Windows operating system you can get conne
 
 ![new group chat](https://images.wondershare.com/filmora/article-images/new-group-chat1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * A new window will appear in the Skype main screen. Here you’ll have to write the name of the group and select a picture for the group chat. The name should represent the purpose of the chat group to make sense to its participants, I’ve selected a figurative name for the sake of an example. After you’re done with the name and picture, press the ahead arrow.
 
 ![create group name](https://images.wondershare.com/filmora/article-images/create-group-name2.jpg)
@@ -58,10 +54,6 @@ To make a group chat on Skype using a Windows operating system you can get conne
 * You’ll be taken directly to the new group chat you just created. Here you can chat with all the group members at the same time without any delay. Send pictures, videos, schedule a group call, add more people to the group, and many more features.
 
 ![start group chat](https://images.wondershare.com/filmora/article-images/start-group-chat4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Start a Skype Group Chat on Mac
 
@@ -79,10 +71,6 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 * You’ll be taken to your “Contact List” to choose the contacts you want to add to the group. After selecting all the contacts press the “Done” button and Skype will make a group chat and notify all the members of their joining the group.
 
 ![contact list](https://images.wondershare.com/filmora/article-images/contact-list3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * You will directly be taken to the newly created Skype group chat. where you can start chit chat with the group members.
 
@@ -116,10 +104,6 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 
 ![group gallery](https://images.wondershare.com/filmora/article-images/group-gallery10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Q&A about Skype Group Chat
 
 Have some questions about skype group video chat? Keep the following!
@@ -140,27 +124,15 @@ You can in effect block a contact in Skype
 
 ![block contact](https://images.wondershare.com/filmora/article-images/block-contact4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * 4\. Skype will ask you to confirm if you want to block this particular contact and also if you want to report the abuse from this person by pressing the toggle button.
 
 ![confirm block](https://images.wondershare.com/filmora/article-images/confirm-block5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * 5\. Press the “Block” button and the contact will effectively be blocked from your Skype account and removed from your contact list and chats.
 
 Tips:
 
 In case you receive an unwanted call from an unknown number, you have the privilege to block the number right ways from the chat. Just press the “Block + the number” link to block a particular number.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q3: How do I delete all contacts on a Skype list with one click?
 
@@ -171,10 +143,6 @@ To delete all your Skype contacts at once follow the steps:
 * 1\. Open Skype app and press the menu bar right next to your name. Select “Settings” to open the settings of Skype.
 
 ![skype settings](https://images.wondershare.com/filmora/article-images/skype-settings6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * 2\. In the settings go to the “Contacts” tab on the left sidebar. This will show all the settings for contacts, go to “Privacy” settings.
 
@@ -196,10 +164,6 @@ If you feel the same about the need for group chats like the one Skype offers, t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -215,22 +179,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-simplified-recording-of-your-skype-chats-with-pc-and-mac-for-2024/"><u>[New] Simplified Recording of Your Skype Chats with PC & Mac for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-most-affordable-cloud-vendors-listed/"><u>[New] Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweettwirling-the-ultimate-guide-to-fun-and-friendly-gifs-2-written-by-authors-name/"><u>[New] TweetTwirling The Ultimate Guide to Fun and Friendly Gifs, 2 Written by [Author's Name]</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-crafting-your-sound-story-utilizing-auditions-fade-in/"><u>[Updated] 2024 Approved Crafting Your Sound Story Utilizing Audition's Fade In</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-excellent-ios-options-for-emulating-top-notch-psp-games/"><u>[Updated] 2024 Approved Excellent iOS Options for Emulating Top-Notch PSP Games</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-tips-for-maximizing-visual-impact-via-google-meet-filters-and-masks/"><u>[Updated] In 2024, Expert Tips for Maximizing Visual Impact via Google Meet Filters & Masks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-secrets-of-effortless-screen-sharing-in-meet/"><u>2024 Approved Unveiling Secrets of Effortless Screen Sharing in Meet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/crimson-update-kit/"><u>Crimson Update Kit</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-on-activating-and-running-sfc-on-pc/"><u>Guide on Activating and Running SFC on PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-xiaomi-13t-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi 13T Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-innovating-your-teaching-with-interactive-screencasts/"><u>In 2024, Innovating Your Teaching with Interactive Screencasts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-navigate-hdri-windows-powered-editing-wonders/"><u>In 2024, Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-premium-serene-pc-games-catalog/"><u>In 2024, Premium Serene PC Games Catalog</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-streamlining-google-meets-with-efficient-snap-photography-tips/"><u>In 2024, Streamlining Google Meets with Efficient Snap Photography Tips</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-the-power-of-reverse-a-tiktok-video-editing-tutorial/"><u>New 2024 Approved Unleash the Power of Reverse A TikTok Video Editing Tutorial</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-basics-a-comprehensive-guide-to-the-m4v-video-file-format/"><u>Understanding the Basics: A Comprehensive Guide to the M4V Video File Format</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-gaming-on-a-budget-top-10-free-game-download-platforms-for-pc-and-android-for-2024/"><u>Updated Gaming on a Budget Top 10 Free Game Download Platforms for PC and Android for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-reviving-memories-with-instagram-reposts/"><u>[New] In 2024, Reviving Memories with Instagram Reposts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-best-available-avi-player-with-cross-platform-support/"><u>[Updated] Best Available Avi Player with Cross-Platform Support</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-essential-finds-critical-6-fb-lite-downloads/"><u>[Updated] Essential Finds Critical 6 FB Lite Downloads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-cutting-edge-photography-apps-on-iphones-vs-androids/"><u>[Updated] In 2024, Cutting-Edge Photography Apps on iPhones vs Androids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-groundbreaking-filmmakers-first-work-insight-and-alternate-films/"><u>2024 Approved Groundbreaking Filmmaker's First Work Insight & Alternate Films</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-definitive-guide-to-perfecting-vimeo-recordings/"><u>2024 Approved The Definitive Guide to Perfecting Vimeo Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-escapades-our-selection-of-best-action-adventures/"><u>2024 Approved Ultimate Escapades Our Selection of Best Action-Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcasting-showdown-deciding-between-obs-and-twitch-studio-for-2024/"><u>Broadcasting Showdown Deciding Between OBS and Twitch Studio for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/perfect-ru-alphabets-phonetics-recognition/"><u>Perfect RU Alphabets' Phonetics Recognition</u></a></li>
 </ul></div>
 
